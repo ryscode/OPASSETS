@@ -1,49 +1,30 @@
+
 import requests
-import pandas as pd
 import json
+from datetime import datetime
+
+SETS = ["OP01", "OP02", "OP03", "OP04", "OP05"]  # beliebig erweiterbar
+
+def download_prices(set_code):
+    url = f"https://tcgcsv.com/api/onepiece/{set_code}.json"
+    response = requests.get(url)
+    
+    if response.status_code == 200:
+        try:
+            prices = response.json()
+            filename = f"prices_{set_code.lower()}.json"
+            with open(filename, "w", encoding="utf-8") as f:
+                json.dump(prices, f, indent=2, ensure_ascii=False)
+            print(f"✅ Gespeichert: {filename}")
+        except Exception as e:
+            print(f"❌ JSON Parse Error: {e}")
+    else:
+        print(f"❌ HTTP Error {response.status_code} for {set_code}")
 
 def main():
-    # Lade Kategorien
-    categories_url = "https://tcgcsv.com/tcgplayer/categories.json"
-    categories = requests.get(categories_url).json()
-
-    # Finde "One Piece Card Game"
-    one_piece = next((c for c in categories if "one piece" in c["name"].lower()), None)
-    if not one_piece:
-        print("One Piece Card Game Kategorie nicht gefunden.")
-        return
-
-    category_id = one_piece["groupId"]
-    print(f"Gefundene Kategorie: {one_piece['name']} (ID: {category_id})")
-
-    # Hole CSV-Link für aktuelle Preise
-    csv_url = f"https://tcgcsv.com/tcgplayer/{category_id}/prices.csv"
-    response = requests.get(csv_url)
-    response.raise_for_status()
-
-    # CSV in DataFrame laden
-    df = pd.read_csv(pd.compat.StringIO(response.text))
-
-    # Reduziere auf wichtige Spalten
-    columns = ["productId", "name", "setName", "marketPrice"]
-    df = df[columns].dropna(subset=["marketPrice"])
-
-    # Preis-Mapping nach Card-ID oder Name
-    price_data = {}
-    for _, row in df.iterrows():
-        card_id = str(row["productId"])
-        price_data[card_id] = {
-            "name": row["name"],
-            "set": row["setName"],
-            "price": round(row["marketPrice"], 2)
-        }
-
-    # Speichern in JSON-Datei
-    with open("prices.json", "w", encoding="utf-8") as f:
-        json.dump(price_data, f, indent=2, ensure_ascii=False)
-
-    print(f"{len(price_data)} Kartenpreise gespeichert in prices.json")
+    print(f"🔁 Starte Preis-Update {datetime.utcnow().isoformat()} UTC")
+    for code in SETS:
+        download_prices(code)
 
 if __name__ == "__main__":
     main()
-

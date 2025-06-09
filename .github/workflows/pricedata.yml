@@ -25,7 +25,8 @@ jobs:
         run: pip install requests pandas
 
       - name: Run Scraper
-        run: python scraper.py
+        run: python .github/workflows/scraper.py
+
 
       - name: Commit and Push changes
         run: |

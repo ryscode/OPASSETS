@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '0 4 * * *'  # täglich um 4:00 UTC (6:00 deutscher Zeit)
   workflow_dispatch:
+  
+permissions:
+  contents: write
 
 jobs:
   scrape:

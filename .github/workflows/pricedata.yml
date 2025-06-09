@@ -4,9 +4,9 @@ on:
   schedule:
     - cron: '0 4 * * *'  # täglich um 4:00 UTC (6:00 deutscher Zeit)
   workflow_dispatch:
-  
+
 permissions:
-  contents: write
+  contents: write  # 👈 GIBT PUSH-RECHTE
 
 jobs:
   scrape:
@@ -23,10 +23,10 @@ jobs:
       - name: Run Scraper
         run: python .github/workflows/scraper.py
 
-
       - name: Commit and Push
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add prices.json
-          git diff --cached --quiet || git commit -m "Auto-update prices" && git push
+          git diff --cached --quiet || git commit -m "Auto-update prices"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/ryscode/OPASSETS.git HEAD:main

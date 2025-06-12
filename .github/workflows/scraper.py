@@ -13,7 +13,7 @@ def download_prices(set_code):
         try:
             prices = response.json()
             filename = f"prices_{set_code.lower()}.json"
-            with open(filename, "w", encoding="utf-8") as f:
+            with open(f"{os.getenv('GITHUB_WORKSPACE')}/{filename}", "w", encoding="utf-8") as f:
                 json.dump(prices, f, indent=2, ensure_ascii=False)
             print(f"✅ Gespeichert: {filename}")
         except Exception as e:

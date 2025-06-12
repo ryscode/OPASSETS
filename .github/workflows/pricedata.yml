@@ -33,6 +33,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add prices_*.json || echo "Keine Dateien zum Hinzufügen"
+          git add prices_*.json
           git commit -m "Auto-update prices" || echo "Nichts zu committen"
           git push

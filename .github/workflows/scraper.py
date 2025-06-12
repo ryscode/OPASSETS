@@ -13,18 +13,22 @@ def download_prices(set_code, group_id):
         try:
             prices = response.json()
             filename = f"prices_{set_code.lower()}.json"
-            path = os.path.join(os.getenv("GITHUB_WORKSPACE", "."), filename)
+            output_dir = os.path.join(os.getenv("GITHUB_WORKSPACE", "."), "prices")
+            os.makedirs(output_dir, exist_ok=True)
+            path = os.path.join(output_dir, filename)
             with open(path, "w", encoding="utf-8") as f:
                 json.dump(prices, f, indent=2, ensure_ascii=False)
             print(f"✅ {set_code} gespeichert: {path}")
         except Exception as e:
-            print(f"❌ JSON Parse Error: {set_code}: {e}")
+            print(f"❌ JSON Parse Error bei {set_code}: {e}")
     else:
         print(f"❌ HTTP Error {response.status_code} für {set_code}")
 
 def main():
     print(f"🔁 Starte Preis-Update {datetime.utcnow().isoformat()} UTC")
-    with open("set_groups.json", encoding="utf-8") as f:
+
+    json_path = os.path.join(os.getenv("GITHUB_WORKSPACE", "."), "set_groups.json")
+    with open(json_path, encoding="utf-8") as f:
         sets = json.load(f)
 
     for code, group_id in sets.items():

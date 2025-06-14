@@ -1,9 +1,11 @@
+import csv
 import json
 import os
 import requests
+from io import StringIO
 
 BASE_URL = "https://tcgcsv.com/tcgplayer/68/{group_id}/products"
-SET_GROUPS_FILE = "set_groups.json"  # Stelle sicher, dass diese im selben Ordner liegt
+SET_GROUPS_FILE = "set_groups.json"
 OUTPUT_DIR = "prices"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -16,13 +18,13 @@ def load_set_groups():
         print(f"❌ Fehler beim Lesen von {SET_GROUPS_FILE}: {e}")
         return {}
 
-def fetch_products(group_id):
+def fetch_csv_products(group_id):
     url = BASE_URL.format(group_id=group_id)
     headers = {"User-Agent": "Mozilla/5.0"}
     try:
         response = requests.get(url, headers=headers)
         response.raise_for_status()
-        return response.json()
+        return list(csv.DictReader(StringIO(response.text)))
     except Exception as e:
         print(f"❌ Fehler beim Abrufen von {url}: {e}")
         return []
@@ -30,27 +32,31 @@ def fetch_products(group_id):
 def build_price_dict(products):
     result = {}
     for item in products:
-        number = item.get("number")
+        number = item.get("number", "").strip()
         subtype = item.get("subTypeName", "").strip()
-
-        key = number if subtype in ("", "Normal") else f"{number} {subtype}"
+        key = number if not subtype or subtype.lower() == "normal" else f"{number} {subtype}"
 
         result[key] = {
             "productId": item.get("productId"),
-            "lowPrice": item.get("lowPrice"),
-            "marketPrice": item.get("marketPrice"),
-            "midPrice": item.get("midPrice"),
-            "highPrice": item.get("highPrice"),
-            "directLowPrice": item.get("directLowPrice"),
+            "lowPrice": try_float(item.get("lowPrice")),
+            "marketPrice": try_float(item.get("marketPrice")),
+            "midPrice": try_float(item.get("midPrice")),
+            "highPrice": try_float(item.get("highPrice")),
+            "directLowPrice": try_float(item.get("directLowPrice")),
         }
     return result
 
+def try_float(value):
+    try:
+        return float(value)
+    except:
+        return None
+
 def main():
     set_groups = load_set_groups()
-
     for set_code, group_id in set_groups.items():
         print(f"🔄 Verarbeite {set_code} ({group_id})")
-        products = fetch_products(group_id)
+        products = fetch_csv_products(group_id)
         prices = build_price_dict(products)
         out_path = os.path.join(OUTPUT_DIR, f"prices_{set_code}.json")
         with open(out_path, "w", encoding="utf-8") as f:

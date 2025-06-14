@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 
 BASE_URL = "https://tcgcsv.com/tcgplayer/68/{group_id}/products"
-SET_GROUPS_PATH = ".github/workflows/set_groups.json"
+SET_GROUPS_PATH = "prices/set_groups.json"
 OUTPUT_DIR = "prices"
 
 def fetch_products(group_id):

@@ -29,29 +29,24 @@ def fetch_csv_products(group_id: str):
         return []
 
 
-def build_price_dict(products):
+def build_price_dict(products: dict) -> dict:
     result = {}
-    for item in products:
+    for _, item in products.items():  # <-- Fix: Verwende .items() statt einfach zu iterieren
         number = item.get("number")
         if not number:
-            print(f"⚠️ Kein 'number' bei: {item}")
             continue
 
-        subtype = item.get("subTypeName") or ""
-        key = f"{number} {subtype}".strip()
+        subtype = item.get("subTypeName", "").strip()
+        if subtype.lower() != "normal":
+            number += f" p{subtype}"
 
-        try:
-            result[key] = {
-                "productId": int(item.get("productId", 0)),
-                "lowPrice": try_float(item.get("lowPrice")),
-                "midPrice": try_float(item.get("midPrice")),
-                "highPrice": try_float(item.get("highPrice")),
-                "marketPrice": try_float(item.get("marketPrice")),
-                "directLowPrice": try_float(item.get("directLowPrice")),
-                "subTypeName": subtype
-            }
-        except Exception as e:
-            print(f"⚠️ Fehler beim Parsen von {key}: {e}")
+        key = number.strip()
+        result[key] = {
+            "lowPrice": item.get("lowPrice"),
+            "marketPrice": item.get("marketPrice"),
+            "midPrice": item.get("midPrice"),
+            "highPrice": item.get("highPrice")
+        }
     return result
 
 

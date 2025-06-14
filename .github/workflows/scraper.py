@@ -6,7 +6,7 @@ from io import StringIO
 from datetime import datetime
 
 # Aus set_groups.json die aktuelle Zuordnung Set-Name zu Group-ID
-with open(".github/workflows/set_groups.json", encoding="utf-8") as f:
+with open("prices/set_groups.json", encoding="utf-8") as f:
     SET_GROUPS = json.load(f)
 
 BASE_URL = "https://tcgcsv.com/tcgplayer/68/{group_id}/products"

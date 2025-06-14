@@ -1,83 +1,134 @@
-import requests
 import json
 import os
-from datetime import datetime
+import requests
+from requests.adapters import HTTPAdapter, Retry
 
-SET_GROUPS_PATH = "prices/set_groups.json"
-OUTPUT_DIR = "prices"
-BASE_URL = "https://tcgcsv.com/tcgplayer/68"
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; GitHubActionsBot/1.0)"}
+# 1. Set-Liste (Mapping Set-Code -> Group-ID) einlesen
+try:
+    with open("set_groups.json", "r") as f:
+        set_groups = json.load(f)
+except Exception as e:
+    print(f"Fehler: konnte 'set_groups.json' nicht laden ({e})")
+    set_groups = {}
 
-def load_set_groups():
-    with open(SET_GROUPS_PATH, encoding="utf-8") as f:
-        return json.load(f)
+# Verzeichnis für Preisdateien anlegen, falls nicht vorhanden
+output_dir = "prices"
+os.makedirs(output_dir, exist_ok=True)
 
-def fetch_json(url):
-    response = requests.get(url, headers=HEADERS)
-    response.raise_for_status()
-    return response.json()
+# Sinnvollen User-Agent definieren, um als legitimer Client zu erscheinen
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                  "AppleWebKit/537.36 (KHTML, like Gecko) "
+                  "Chrome/110.0.5481.178 Safari/537.36"
+}
 
-def sanitize_number(number, subtype):
-    if subtype and subtype.lower() != "normal":
-        return f"{number} {subtype}"
-    return number
+# Requests-Session einrichten mit Retry-Logik für Robustheit
+session = requests.Session()
+retries = Retry(total=3, backoff_factor=1, status_forcelist=[403, 500, 502, 503, 504])
+session.mount("https://", HTTPAdapter(max_retries=retries))
 
-def build_price_dict(products, prices):
-    combined = {}
-    for product in products:
-        # Sicherstellen, dass es ein Dictionary ist
-        if not isinstance(product, dict):
+for set_code, group_id in set_groups.items():
+    # URLs für Produkte und Preise dieses Sets
+    prod_url = f"https://tcgcsv.com/tcgplayer/68/{group_id}/products"
+    price_url = f"https://tcgcsv.com/tcgplayer/68/{group_id}/prices"
+    print(f"Verarbeite Set {set_code} (Gruppe {group_id})...")
+    try:
+        # 2. API-Abfragen für Produkte und Preise
+        prod_resp = session.get(prod_url, headers=headers, timeout=10)
+        prod_resp.raise_for_status()    # HTTP-Fehler auslösen, falls Statuscode != 200
+        price_resp = session.get(price_url, headers=headers, timeout=10)
+        price_resp.raise_for_status()
+    except Exception as e:
+        print(f" -> Fehler beim Abruf von Gruppe {group_id}: {e}")
+        continue  # Zum nächsten Set überspringen
+
+    try:
+        products_data = prod_resp.json().get("results", [])
+    except Exception as e:
+        print(f" -> Ungültige JSON-Antwort für Produkte {set_code}: {e}")
+        continue
+    try:
+        prices_data = price_resp.json().get("results", [])
+    except Exception as e:
+        print(f" -> Ungültige JSON-Antwort für Preise {set_code}: {e}")
+        continue
+
+    # 3. Produkte nach Karten filtern (nur Einzelnkarten mit Nummer)
+    product_map = {}
+    for prod in products_data:
+        # Kartennummer aus extendedData extrahieren (falls vorhanden)
+        card_number = None
+        for ext in prod.get("extendedData", []):
+            if ext.get("name") == "Number":
+                card_number = ext.get("value")
+                break
+        if not card_number:
+            # überspringen, falls keine Nummer (vermutlich kein Einzelkarten-Produkt)
             continue
-
-        pid = str(product.get("productId"))
-        price_data = prices.get(pid)
-        if not price_data or not isinstance(price_data, dict):
-            continue
-
-        number = product.get("cleanName") or product.get("number")
-        if not number:
-            continue
-
-        subtype = product.get("subTypeName", "")
-        key = sanitize_number(number, subtype)
-
-        combined[key] = {
-            "productId": pid,
-            "lowPrice": price_data.get("lowPrice"),
-            "marketPrice": price_data.get("marketPrice")
+        product_map[prod["productId"]] = {
+            "name": prod.get("name", ""),           # Kartenname (optional)
+            "number": card_number
         }
 
-    return combined
+    if not product_map:
+        print(f" -> Keine Karten in Set {set_code} gefunden (ggf. Gruppe überspringen).")
+        continue
 
+    # 4. Preise mit Produkten zusammenführen
+    # Dictionary zur Speicherung der Preise pro Karten-ID
+    prices_by_id = {}
 
-def save_prices(set_code, price_dict):
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
-    path = os.path.join(OUTPUT_DIR, f"prices_{set_code.lower()}.json")
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(price_dict, f, indent=2, ensure_ascii=False)
-    print(f"💾 Gespeichert: {path} ({len(price_dict)} Einträge)")
+    for price in prices_data:
+        pid = price.get("productId")
+        if pid not in product_map:
+            # Preiseintrag gehört zu keinem Karten-Produkt (ggf. zu einem geskippten Produkt)
+            continue
+        # Hole Kartennummer und Name aus dem Produkt-Mapping
+        card_num = product_map[pid]["number"]
+        card_name = product_map[pid]["name"]
+        subtype = price.get("subTypeName", "") or ""  # z.B. "Normal", "Parallel", etc.
 
-def main():
-    print(f"🔁 Starte Preis-Update {datetime.utcnow().isoformat()} UTC\n")
-    sets = load_set_groups()
+        # 5. Eindeutige ID bilden (SetCode-Nummer + evtl. p-Index)
+        # Gruppiere zunächst nach Kartennummer, um parallele Versionen zu nummerieren
+        if card_num not in prices_by_id:
+            prices_by_id[card_num] = []
+        # Sammle Einträge mit allen Preisfeldern und Subtyp
+        prices_by_id[card_num].append({
+            "subType": subtype,
+            "prices": {
+                "lowPrice": price.get("lowPrice"),
+                "midPrice": price.get("midPrice"),
+                "highPrice": price.get("highPrice"),
+                "marketPrice": price.get("marketPrice"),
+                "directLowPrice": price.get("directLowPrice")
+            }
+        })
 
-    for set_code, group_id in sets.items():
-        print(f"🔄 Verarbeite {set_code} (Group-ID {group_id})")
-        try:
-            products = fetch_json(f"{BASE_URL}/{group_id}/products")
-            print(f"✅ {len(products)} Produkte geladen für Gruppe {group_id}")
-
-            prices = fetch_json(f"{BASE_URL}/{group_id}/prices")
-            result = build_price_dict(products, prices)
-
-            if result:
-                save_prices(set_code, result)
+    # 6. Für jede Kartennummer Varianten sortieren und IDs zuweisen
+    final_prices = {}
+    for card_num, entries in prices_by_id.items():
+        # Sortiere Einträge: Basis-Version ("Normal") zuerst, danach nach SubType-Name/Produkt
+        entries.sort(key=lambda x: (x["subType"] != "Normal", str(x["subType"])))
+        base_seen = False
+        variant_count = 0
+        for entry in entries:
+            sub = entry["subType"]
+            prices_dict = entry["prices"]
+            if not base_seen and sub.lower() == "normal":
+                # Basis-Karte (keine p-Kennzeichnung)
+                card_id = f"{set_code}-{card_num}"
+                base_seen = True
             else:
-                print(f"⚠️ Keine Preise extrahiert für {set_code}\n")
-        except Exception as e:
-            print(f"❌ Fehler bei Set {set_code}: {e}\n")
+                # Alternative Variante (mit fortlaufender p-Nummer)
+                variant_count += 1
+                card_id = f"{set_code}-{card_num} p{variant_count}"
+            final_prices[card_id] = prices_dict
 
-    print("✅ Fertig!")
-
-if __name__ == "__main__":
-    main()
+    # 7. JSON-Datei für das Set speichern
+    outfile = os.path.join(output_dir, f"prices_{set_code.lower()}.json")
+    try:
+        with open(outfile, "w", encoding="utf-8") as f:
+            json.dump(final_prices, f, ensure_ascii=False, indent=2)
+        print(f" -> Preise für {set_code} gespeichert ({len(final_prices)} Einträge).")
+    except Exception as e:
+        print(f" -> Fehler beim Schreiben der Datei {outfile}: {e}")

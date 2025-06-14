@@ -25,9 +25,13 @@ def sanitize_number(number, subtype):
 def build_price_dict(products, prices):
     combined = {}
     for product in products:
+        # Sicherstellen, dass es ein Dictionary ist
+        if not isinstance(product, dict):
+            continue
+
         pid = str(product.get("productId"))
         price_data = prices.get(pid)
-        if not price_data:
+        if not price_data or not isinstance(price_data, dict):
             continue
 
         number = product.get("cleanName") or product.get("number")
@@ -36,12 +40,15 @@ def build_price_dict(products, prices):
 
         subtype = product.get("subTypeName", "")
         key = sanitize_number(number, subtype)
+
         combined[key] = {
             "productId": pid,
             "lowPrice": price_data.get("lowPrice"),
             "marketPrice": price_data.get("marketPrice")
         }
+
     return combined
+
 
 def save_prices(set_code, price_dict):
     os.makedirs(OUTPUT_DIR, exist_ok=True)

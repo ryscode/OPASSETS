@@ -36,4 +36,3 @@ jobs:
           git add prices/prices_*.json
           git commit -m "Auto-update prices" || echo "Nichts zu committen"
           git push
-

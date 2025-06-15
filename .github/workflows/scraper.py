@@ -45,7 +45,7 @@ def build_price_data(group_id):
             "imageUrl": prod.get("imageUrl")
         }
 
-        # ➤ Hole Kartennummer aus extendedData
+        # Kartennummer aus extendedData extrahieren
         number = None
         for ext in prod.get("extendedData", []):
             if ext.get("name") == "Number":
@@ -91,3 +91,25 @@ def build_price_data(group_id):
             break
 
     return combined
+
+def main():
+    print("🔁 Starte Scrape")
+    sets = fetch_json(SET_GROUPS_URL)
+    output_dir = Path("prices")
+    output_dir.mkdir(exist_ok=True)
+
+    for set_code, group_id in sets.items():
+        print(f"➞️  Verarbeite {set_code} ({group_id})")
+        try:
+            data = build_price_data(group_id)
+            output_path = output_dir / f"prices_{set_code.lower()}.json"
+            with open(output_path, "w", encoding="utf-8") as f:
+                json.dump(data, f, indent=2, ensure_ascii=False)
+            print(f"✅ {len(data)} Preise gespeichert unter {output_path}")
+        except Exception as e:
+            print(f"❌ Fehler bei {set_code}: {e}")
+
+    print("✅ Fertig!")
+
+if __name__ == "__main__":
+    main()

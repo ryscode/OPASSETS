@@ -1,1 +1,37 @@
-{}
+{
+  "ST09-ST11-001 p1": {
+    "lowPrice": 0.7,
+    "midPrice": 0.99,
+    "highPrice": 4.99,
+    "marketPrice": 0.89,
+    "directLowPrice": null
+  },
+  "ST09-ST11-002 p1": {
+    "lowPrice": 2.5,
+    "midPrice": 3.78,
+    "highPrice": 9.99,
+    "marketPrice": 2.98,
+    "directLowPrice": null
+  },
+  "ST09-ST11-003": {
+    "lowPrice": 0.01,
+    "midPrice": 0.29,
+    "highPrice": 1.5,
+    "marketPrice": 0.18,
+    "directLowPrice": null
+  },
+  "ST09-ST11-004 p1": {
+    "lowPrice": 0.18,
+    "midPrice": 0.5,
+    "highPrice": 6.5,
+    "marketPrice": 0.29,
+    "directLowPrice": null
+  },
+  "ST09-ST11-005": {
+    "lowPrice": 0.01,
+    "midPrice": 0.2,
+    "highPrice": 1.36,
+    "marketPrice": 0.14,
+    "directLowPrice": null
+  }
+}

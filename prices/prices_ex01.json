@@ -1,1 +1,562 @@
-{}
+{
+  "EX01-EB01-001": {
+    "lowPrice": 0.08,
+    "midPrice": 0.2,
+    "highPrice": 4.95,
+    "marketPrice": 0.16,
+    "directLowPrice": null
+  },
+  "EX01-EB01-001 p1": {
+    "lowPrice": 25.5,
+    "midPrice": 35.07,
+    "highPrice": 69.95,
+    "marketPrice": 31.41,
+    "directLowPrice": null
+  },
+  "EX01-EB01-002 p1": {
+    "lowPrice": 0.01,
+    "midPrice": 0.53,
+    "highPrice": 2.0,
+    "marketPrice": 0.51,
+    "directLowPrice": null
+  },
+  "EX01-EB01-003 p1": {
+    "lowPrice": 3.98,
+    "midPrice": 5.49,
+    "highPrice": 14.95,
+    "marketPrice": 5.05,
+    "directLowPrice": null
+  },
+  "EX01-EB01-003 p2": {
+    "lowPrice": 18.99,
+    "midPrice": 27.0,
+    "highPrice": 50.98,
+    "marketPrice": 22.65,
+    "directLowPrice": null
+  },
+  "EX01-EB01-004": {
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
+    "highPrice": 4.95,
+    "marketPrice": 0.04,
+    "directLowPrice": null
+  },
+  "EX01-EB01-005": {
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
+    "highPrice": 4.95,
+    "marketPrice": 0.04,
+    "directLowPrice": null
+  },
+  "EX01-EB01-006 p1": {
+    "lowPrice": 17.99,
+    "midPrice": 22.99,
+    "highPrice": 49.99,
+    "marketPrice": 18.69,
+    "directLowPrice": null
+  },
+  "EX01-EB01-006 p2": {
+    "lowPrice": 40.0,
+    "midPrice": 52.98,
+    "highPrice": 80.0,
+    "marketPrice": 42.19,
+    "directLowPrice": null
+  },
+  "EX01-EB01-006 p3": {
+    "lowPrice": 850.98,
+    "midPrice": 875.5,
+    "highPrice": 934.95,
+    "marketPrice": 781.87,
+    "directLowPrice": null
+  },
+  "EX01-EB01-007": {
+    "lowPrice": 0.05,
+    "midPrice": 0.15,
+    "highPrice": 4.95,
+    "marketPrice": 0.14,
+    "directLowPrice": null
+  },
+  "EX01-EB01-008 p1": {
+    "lowPrice": 0.01,
+    "midPrice": 0.2,
+    "highPrice": 4.95,
+    "marketPrice": 0.14,
+    "directLowPrice": null
+  },
+  "EX01-EB01-009": {
+    "lowPrice": 0.01,
+    "midPrice": 0.25,
+    "highPrice": 4.95,
+    "marketPrice": 0.21,
+    "directLowPrice": null
+  },
+  "EX01-EB01-010 p1": {
+    "lowPrice": 0.1,
+    "midPrice": 0.25,
+    "highPrice": 4.95,
+    "marketPrice": 0.21,
+    "directLowPrice": null
+  },
+  "EX01-EB01-011": {
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
+    "highPrice": 4.95,
+    "marketPrice": 0.07,
+    "directLowPrice": null
+  },
+  "EX01-EB01-012 p1": {
+    "lowPrice": 44.25,
+    "midPrice": 48.0,
+    "highPrice": 99.95,
+    "marketPrice": 47.57,
+    "directLowPrice": null
+  },
+  "EX01-EB01-012 p2": {
+    "lowPrice": 73.5,
+    "midPrice": 82.48,
+    "highPrice": 149.95,
+    "marketPrice": 72.32,
+    "directLowPrice": null
+  },
+  "EX01-EB01-013 p1": {
+    "lowPrice": 1.0,
+    "midPrice": 3.22,
+    "highPrice": 9.99,
+    "marketPrice": 3.02,
+    "directLowPrice": null
+  },
+  "EX01-EB01-013 p2": {
+    "lowPrice": 20.94,
+    "midPrice": 29.99,
+    "highPrice": 50.0,
+    "marketPrice": 24.85,
+    "directLowPrice": null
+  },
+  "EX01-EB01-014 p1": {
+    "lowPrice": 0.55,
+    "midPrice": 1.0,
+    "highPrice": 5.09,
+    "marketPrice": 0.72,
+    "directLowPrice": null
+  },
+  "EX01-EB01-015 p1": {
+    "lowPrice": 1.0,
+    "midPrice": 2.25,
+    "highPrice": 10.0,
+    "marketPrice": 2.07,
+    "directLowPrice": null
+  },
+  "EX01-EB01-016": {
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
+    "highPrice": 4.95,
+    "marketPrice": 0.06,
+    "directLowPrice": null
+  },
+  "EX01-EB01-017": {
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
+    "highPrice": 4.95,
+    "marketPrice": 0.08,
+    "directLowPrice": null
+  },
+  "EX01-EB01-018": {
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
+    "highPrice": 4.95,
+    "marketPrice": 0.08,
+    "directLowPrice": null
+  },
+  "EX01-EB01-019 p1": {
+    "lowPrice": 0.01,
+    "midPrice": 0.62,
+    "highPrice": 41.0,
+    "marketPrice": 0.48,
+    "directLowPrice": null
+  },
+  "EX01-EB01-020": {
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
+    "highPrice": 4.95,
+    "marketPrice": 0.07,
+    "directLowPrice": null
+  },
+  "EX01-EB01-021": {
+    "lowPrice": 0.01,
+    "midPrice": 0.15,
+    "highPrice": 4.95,
+    "marketPrice": 0.12,
+    "directLowPrice": null
+  },
+  "EX01-EB01-021 p1": {
+    "lowPrice": 9.88,
+    "midPrice": 18.0,
+    "highPrice": 75.0,
+    "marketPrice": 10.77,
+    "directLowPrice": null
+  },
+  "EX01-EB01-022 p1": {
+    "lowPrice": 0.2,
+    "midPrice": 1.0,
+    "highPrice": 9.0,
+    "marketPrice": 0.73,
+    "directLowPrice": null
+  },
+  "EX01-EB01-022 p2": {
+    "lowPrice": 4.99,
+    "midPrice": 7.5,
+    "highPrice": 27.5,
+    "marketPrice": 5.33,
+    "directLowPrice": null
+  },
+  "EX01-EB01-023 p1": {
+    "lowPrice": 1.75,
+    "midPrice": 2.56,
+    "highPrice": 9.95,
+    "marketPrice": 2.09,
+    "directLowPrice": null
+  },
+  "EX01-EB01-024": {
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
+    "highPrice": 4.95,
+    "marketPrice": 0.04,
+    "directLowPrice": null
+  },
+  "EX01-EB01-025": {
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
+    "highPrice": 4.95,
+    "marketPrice": 0.04,
+    "directLowPrice": null
+  },
+  "EX01-EB01-026": {
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
+    "highPrice": 4.95,
+    "marketPrice": 0.07,
+    "directLowPrice": null
+  },
+  "EX01-EB01-027 p1": {
+    "lowPrice": 1.5,
+    "midPrice": 2.76,
+    "highPrice": 9.95,
+    "marketPrice": 2.38,
+    "directLowPrice": null
+  },
+  "EX01-EB01-027 p2": {
+    "lowPrice": 16.0,
+    "midPrice": 19.99,
+    "highPrice": 50.0,
+    "marketPrice": 17.33,
+    "directLowPrice": null
+  },
+  "EX01-EB01-028 p1": {
+    "lowPrice": 0.08,
+    "midPrice": 0.2,
+    "highPrice": 4.95,
+    "marketPrice": 0.16,
+    "directLowPrice": null
+  },
+  "EX01-EB01-029": {
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
+    "highPrice": 4.95,
+    "marketPrice": 0.07,
+    "directLowPrice": null
+  },
+  "EX01-EB01-030": {
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
+    "highPrice": 4.95,
+    "marketPrice": 0.09,
+    "directLowPrice": null
+  },
+  "EX01-EB01-031 p1": {
+    "lowPrice": 0.01,
+    "midPrice": 0.25,
+    "highPrice": 2.0,
+    "marketPrice": 0.15,
+    "directLowPrice": null
+  },
+  "EX01-EB01-031 p2": {
+    "lowPrice": 2.97,
+    "midPrice": 5.0,
+    "highPrice": 28.0,
+    "marketPrice": 3.07,
+    "directLowPrice": null
+  },
+  "EX01-EB01-032": {
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
+    "highPrice": 4.95,
+    "marketPrice": 0.04,
+    "directLowPrice": null
+  },
+  "EX01-EB01-033 p1": {
+    "lowPrice": 0.01,
+    "midPrice": 0.25,
+    "highPrice": 4.95,
+    "marketPrice": 0.17,
+    "directLowPrice": null
+  },
+  "EX01-EB01-034 p1": {
+    "lowPrice": 0.88,
+    "midPrice": 1.61,
+    "highPrice": 7.95,
+    "marketPrice": 1.33,
+    "directLowPrice": null
+  },
+  "EX01-EB01-034 p2": {
+    "lowPrice": 6.65,
+    "midPrice": 9.88,
+    "highPrice": 29.95,
+    "marketPrice": 7.68,
+    "directLowPrice": null
+  },
+  "EX01-EB01-035": {
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
+    "highPrice": 4.95,
+    "marketPrice": 0.05,
+    "directLowPrice": null
+  },
+  "EX01-EB01-036": {
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
+    "highPrice": 4.95,
+    "marketPrice": 0.1,
+    "directLowPrice": null
+  },
+  "EX01-EB01-037": {
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
+    "highPrice": 4.95,
+    "marketPrice": 0.05,
+    "directLowPrice": null
+  },
+  "EX01-EB01-038": {
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
+    "highPrice": 4.95,
+    "marketPrice": 0.07,
+    "directLowPrice": null
+  },
+  "EX01-EB01-039 p1": {
+    "lowPrice": 0.01,
+    "midPrice": 1.0,
+    "highPrice": 4.99,
+    "marketPrice": 0.94,
+    "directLowPrice": null
+  },
+  "EX01-EB01-040": {
+    "lowPrice": 0.01,
+    "midPrice": 0.16,
+    "highPrice": 4.95,
+    "marketPrice": 0.13,
+    "directLowPrice": null
+  },
+  "EX01-EB01-040 p1": {
+    "lowPrice": 14.99,
+    "midPrice": 18.65,
+    "highPrice": 48.0,
+    "marketPrice": 16.28,
+    "directLowPrice": null
+  },
+  "EX01-EB01-041": {
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
+    "highPrice": 4.95,
+    "marketPrice": 0.05,
+    "directLowPrice": null
+  },
+  "EX01-EB01-042 p1": {
+    "lowPrice": 0.01,
+    "midPrice": 0.25,
+    "highPrice": 5.0,
+    "marketPrice": 0.21,
+    "directLowPrice": null
+  },
+  "EX01-EB01-043 p1": {
+    "lowPrice": 0.2,
+    "midPrice": 0.52,
+    "highPrice": 4.95,
+    "marketPrice": 0.39,
+    "directLowPrice": null
+  },
+  "EX01-EB01-044": {
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
+    "highPrice": 4.95,
+    "marketPrice": 0.05,
+    "directLowPrice": null
+  },
+  "EX01-EB01-045": {
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
+    "highPrice": 4.95,
+    "marketPrice": 0.06,
+    "directLowPrice": null
+  },
+  "EX01-EB01-046 p1": {
+    "lowPrice": 17.25,
+    "midPrice": 23.5,
+    "highPrice": 59.95,
+    "marketPrice": 17.88,
+    "directLowPrice": null
+  },
+  "EX01-EB01-046 p2": {
+    "lowPrice": 37.68,
+    "midPrice": 50.0,
+    "highPrice": 114.95,
+    "marketPrice": 50.44,
+    "directLowPrice": null
+  },
+  "EX01-EB01-047": {
+    "lowPrice": 0.01,
+    "midPrice": 0.11,
+    "highPrice": 4.95,
+    "marketPrice": 0.09,
+    "directLowPrice": null
+  },
+  "EX01-EB01-048 p1": {
+    "lowPrice": 14.01,
+    "midPrice": 22.37,
+    "highPrice": 888.0,
+    "marketPrice": 19.35,
+    "directLowPrice": null
+  },
+  "EX01-EB01-048 p2": {
+    "lowPrice": 51.74,
+    "midPrice": 57.22,
+    "highPrice": 124.95,
+    "marketPrice": 56.9,
+    "directLowPrice": null
+  },
+  "EX01-EB01-049 p1": {
+    "lowPrice": 0.75,
+    "midPrice": 1.07,
+    "highPrice": 7.95,
+    "marketPrice": 0.85,
+    "directLowPrice": null
+  },
+  "EX01-EB01-049 p2": {
+    "lowPrice": 9.68,
+    "midPrice": 13.5,
+    "highPrice": 50.0,
+    "marketPrice": 10.47,
+    "directLowPrice": null
+  },
+  "EX01-EB01-050": {
+    "lowPrice": 0.01,
+    "midPrice": 0.13,
+    "highPrice": 4.95,
+    "marketPrice": 0.09,
+    "directLowPrice": null
+  },
+  "EX01-EB01-051 p1": {
+    "lowPrice": 7.98,
+    "midPrice": 10.0,
+    "highPrice": 29.95,
+    "marketPrice": 8.39,
+    "directLowPrice": null
+  },
+  "EX01-EB01-052 p1": {
+    "lowPrice": 8.5,
+    "midPrice": 11.4,
+    "highPrice": 30.0,
+    "marketPrice": 9.79,
+    "directLowPrice": null
+  },
+  "EX01-EB01-052 p2": {
+    "lowPrice": 18.16,
+    "midPrice": 24.89,
+    "highPrice": 49.95,
+    "marketPrice": 20.0,
+    "directLowPrice": null
+  },
+  "EX01-EB01-053": {
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
+    "highPrice": 4.95,
+    "marketPrice": 0.06,
+    "directLowPrice": null
+  },
+  "EX01-EB01-054 p1": {
+    "lowPrice": 0.03,
+    "midPrice": 0.2,
+    "highPrice": 4.95,
+    "marketPrice": 0.15,
+    "directLowPrice": null
+  },
+  "EX01-EB01-055": {
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
+    "highPrice": 4.95,
+    "marketPrice": 0.06,
+    "directLowPrice": null
+  },
+  "EX01-EB01-056 p1": {
+    "lowPrice": 2.0,
+    "midPrice": 3.53,
+    "highPrice": 10.5,
+    "marketPrice": 2.67,
+    "directLowPrice": null
+  },
+  "EX01-EB01-056 p2": {
+    "lowPrice": 19.29,
+    "midPrice": 23.85,
+    "highPrice": 79.99,
+    "marketPrice": 19.66,
+    "directLowPrice": null
+  },
+  "EX01-EB01-057 p1": {
+    "lowPrice": 18.86,
+    "midPrice": 23.41,
+    "highPrice": 49.95,
+    "marketPrice": 21.65,
+    "directLowPrice": null
+  },
+  "EX01-EB01-057 p2": {
+    "lowPrice": 28.21,
+    "midPrice": 36.8,
+    "highPrice": 100.0,
+    "marketPrice": 31.76,
+    "directLowPrice": null
+  },
+  "EX01-EB01-058": {
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
+    "highPrice": 4.95,
+    "marketPrice": 0.05,
+    "directLowPrice": null
+  },
+  "EX01-EB01-059 p1": {
+    "lowPrice": 0.1,
+    "midPrice": 0.95,
+    "highPrice": 10.0,
+    "marketPrice": 0.4,
+    "directLowPrice": null
+  },
+  "EX01-EB01-060": {
+    "lowPrice": 0.01,
+    "midPrice": 0.15,
+    "highPrice": 4.95,
+    "marketPrice": 0.15,
+    "directLowPrice": null
+  },
+  "EX01-EB01-061 p1": {
+    "lowPrice": 61.69,
+    "midPrice": 68.92,
+    "highPrice": 999.0,
+    "marketPrice": 63.59,
+    "directLowPrice": null
+  },
+  "EX01-EB01-061 p2": {
+    "lowPrice": 143.19,
+    "midPrice": 167.5,
+    "highPrice": 349.95,
+    "marketPrice": 173.63,
+    "directLowPrice": null
+  }
+}

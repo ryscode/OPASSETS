@@ -1,128 +1,124 @@
 import json
-import os
 import requests
-from requests.adapters import HTTPAdapter, Retry
+from pathlib import Path
 
-# 1. Set-Liste (Mapping Set-Code -> Group-ID) einlesen
-try:
-    with open("set_groups.json", "r") as f:
-        set_groups = json.load(f)
-except Exception as e:
-    print(f"Fehler: konnte 'set_groups.json' nicht laden ({e})")
-    set_groups = {}
+SET_GROUPS_URL = "https://raw.githubusercontent.com/ryscode/OPASSETS/main/prices/set_groups.json"
+BASE_PRODUCTS_URL = "https://tcgcsv.com/tcgplayer/68/{group_id}/products"
+BASE_PRICES_URL = "https://tcgcsv.com/tcgplayer/68/{group_id}/prices"
 
-# Verzeichnis für Preisdateien anlegen, falls nicht vorhanden
-output_dir = "prices"
-os.makedirs(output_dir, exist_ok=True)
 
-# Sinnvollen User-Agent definieren, um als legitimer Client zu erscheinen
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                  "AppleWebKit/537.36 (KHTML, like Gecko) "
-                  "Chrome/110.0.5481.178 Safari/537.36"
-}
+def fetch_json(url):
+    resp = requests.get(url)
+    resp.raise_for_status()
+    return resp.json()
 
-# Requests-Session einrichten mit Retry-Logik für Robustheit
-session = requests.Session()
-retries = Retry(total=3, backoff_factor=1, status_forcelist=[403, 500, 502, 503, 504])
-session.mount("https://", HTTPAdapter(max_retries=retries))
 
-for set_code, group_id in set_groups.items():
-    # URLs für Produkte und Preise dieses Sets
-    prod_url = f"https://tcgcsv.com/tcgplayer/68/{group_id}/products"
-    price_url = f"https://tcgcsv.com/tcgplayer/68/{group_id}/prices"
-    print(f"Verarbeite Set {set_code} (Gruppe {group_id})...")
-    try:
-        # 2. API-Abfragen für Produkte und Preise
-        prod_resp = session.get(prod_url, headers=headers, timeout=10)
-        prod_resp.raise_for_status()    # HTTP-Fehler auslösen, falls Statuscode != 200
-        price_resp = session.get(price_url, headers=headers, timeout=10)
-        price_resp.raise_for_status()
-    except Exception as e:
-        print(f" -> Fehler beim Abruf von Gruppe {group_id}: {e}")
-        continue  # Zum nächsten Set überspringen
+def normalize_id(raw_id):
+    base = raw_id.replace("_", " ")
+    parts = base.split("-")
+    return f"{parts[0]}-{base}"
 
-    try:
-        products_data = prod_resp.json().get("results", [])
-    except Exception as e:
-        print(f" -> Ungültige JSON-Antwort für Produkte {set_code}: {e}")
-        continue
-    try:
-        prices_data = price_resp.json().get("results", [])
-    except Exception as e:
-        print(f" -> Ungültige JSON-Antwort für Preise {set_code}: {e}")
-        continue
 
-    # 3. Produkte nach Karten filtern (nur Einzelnkarten mit Nummer)
-    product_map = {}
-    for prod in products_data:
-        # Kartennummer aus extendedData extrahieren (falls vorhanden)
-        card_number = None
-        for ext in prod.get("extendedData", []):
-            if ext.get("name") == "Number":
-                card_number = ext.get("value")
-                break
-        if not card_number:
+def extract_extended_fields(ext_data):
+    result = {
+        "colors": [],
+        "attributes": [],
+        "types": [],
+        "effect": None,
+        "trigger": None,
+        "counter": None
+    }
+    for item in ext_data:
+        name = item.get("name")
+        value = item.get("value")
+        if name == "Color":
+            result["colors"].append(value)
+        elif name == "Attribute":
+            result["attributes"].append(value)
+        elif name == "Type":
+            result["types"].append(value)
+        elif name == "Effect":
+            result["effect"] = value
+        elif name == "Trigger":
+            result["trigger"] = value
+        elif name == "Counter":
+            try:
+                result["counter"] = int(value)
+            except:
+                result["counter"] = None
+    return result
+
+
+def build_price_data(group_id):
+    products_url = BASE_PRODUCTS_URL.format(group_id=group_id)
+    prices_url = BASE_PRICES_URL.format(group_id=group_id)
+
+    products = fetch_json(products_url)
+    prices = fetch_json(prices_url)
+
+    price_lookup = {str(p["productId"]): p for p in prices.get("results", [])}
+
+    combined = {}
+
+    for prod in products.get("results", []):
+        prod_id = str(prod.get("productId"))
+        number = prod.get("number")
+        subtype = prod.get("subTypeName")
+
+        if not number:
             continue
-        product_map[prod["productId"]] = {
-            "name": prod.get("name", ""),
-            "number": card_number,
+
+        card_id = number
+        if subtype and subtype.lower() != "normal":
+            card_id += f"_{subtype.replace(' ', '').lower()}"
+
+        norm_id = normalize_id(card_id)
+        price_data = price_lookup.get(prod_id, {})
+
+        ext_data = extract_extended_fields(prod.get("extendedData", []))
+
+        combined[norm_id] = {
+            "name": prod.get("name"),
             "rarity": prod.get("rarity"),
             "cost": prod.get("convertedCost"),
             "power": prod.get("power"),
-            "subType": prod.get("subTypeName")
+            "category": prod.get("subTypeName"),
+            "colors": ext_data["colors"],
+            "attributes": ext_data["attributes"],
+            "types": ext_data["types"],
+            "effect": ext_data["effect"],
+            "trigger": ext_data["trigger"],
+            "counter": ext_data["counter"],
+            "imageUrl": prod.get("imageUrl"),
+            "lowPrice": price_data.get("lowPrice"),
+            "midPrice": price_data.get("midPrice"),
+            "highPrice": price_data.get("highPrice"),
+            "marketPrice": price_data.get("marketPrice"),
+            "directLowPrice": price_data.get("directLowPrice")
         }
 
-    if not product_map:
-        print(f" -> Keine Karten in Set {set_code} gefunden (ggf. Gruppe überspringen).")
-        continue
+    return combined
 
-    # 4. Preise mit Produkten zusammenführen
-    prices_by_id = {}
 
-    for price in prices_data:
-        pid = price.get("productId")
-        if pid not in product_map:
-            continue
-        info = product_map[pid]
-        card_num = info["number"]
-        subtype = price.get("subTypeName") or info.get("subType") or ""
+def main():
+    print("🔁 Starte Scrape")
+    sets = fetch_json(SET_GROUPS_URL)
+    output_dir = Path("prices")
+    output_dir.mkdir(exist_ok=True)
 
-        if card_num not in prices_by_id:
-            prices_by_id[card_num] = []
-        prices_by_id[card_num].append({
-            "subType": subtype,
-            "prices": {
-                "lowPrice": price.get("lowPrice"),
-                "midPrice": price.get("midPrice"),
-                "highPrice": price.get("highPrice"),
-                "marketPrice": price.get("marketPrice"),
-                "directLowPrice": price.get("directLowPrice")
-            }
-        })
+    for set_code, group_id in sets.items():
+        print(f"➡️  Verarbeite {set_code} ({group_id})")
+        try:
+            data = build_price_data(group_id)
+            output_path = output_dir / f"prices_{set_code.lower()}.json"
+            with open(output_path, "w", encoding="utf-8") as f:
+                json.dump(data, f, indent=2, ensure_ascii=False)
+            print(f"✅ {len(data)} Preise gespeichert unter {output_path}")
+        except Exception as e:
+            print(f"❌ Fehler bei {set_code}: {e}")
 
-    # 5. Varianten sortieren und ID zuweisen
-    final_prices = {}
-    for card_num, entries in prices_by_id.items():
-        entries.sort(key=lambda x: (x["subType"].lower() != "normal", str(x["subType"])) )
-        base_seen = False
-        variant_count = 0
-        for entry in entries:
-            sub = entry["subType"]
-            prices_dict = entry["prices"]
-            if not base_seen and sub.lower() == "normal":
-                card_id = f"{set_code}-{card_num}"
-                base_seen = True
-            else:
-                variant_count += 1
-                card_id = f"{set_code}-{card_num} p{variant_count}"
-            final_prices[card_id] = prices_dict
+    print("✅ Fertig!")
 
-    # 6. Datei schreiben
-    outfile = os.path.join(output_dir, f"prices_{set_code.lower()}.json")
-    try:
-        with open(outfile, "w", encoding="utf-8") as f:
-            json.dump(final_prices, f, ensure_ascii=False, indent=2)
-        print(f" -> Preise für {set_code} gespeichert ({len(final_prices)} Einträge).")
-    except Exception as e:
-        print(f" -> Fehler beim Schreiben der Datei {outfile}: {e}")
+
+if __name__ == "__main__":
+    main()

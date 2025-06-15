@@ -26,6 +26,8 @@ def build_price_data(group_id):
     prices = fetch_json(prices_url).get("results", [])
 
     product_info_map = {}
+    product_number_map = {}
+
     for prod in products:
         pid = str(prod.get("productId"))
         product_info_map[pid] = {
@@ -43,10 +45,19 @@ def build_price_data(group_id):
             "imageUrl": prod.get("imageUrl")
         }
 
+        # ➤ Hole Kartennummer aus extendedData
+        number = None
+        for ext in prod.get("extendedData", []):
+            if ext.get("name") == "Number":
+                number = ext.get("value")
+                break
+        if number:
+            product_number_map[pid] = number
+
     card_variants = defaultdict(list)
     for price in prices:
         pid = str(price.get("productId"))
-        number = price.get("number")
+        number = product_number_map.get(pid)
         subtype = price.get("subTypeName") or ""
         if not number:
             continue
@@ -77,28 +88,6 @@ def build_price_data(group_id):
                 **info,
                 "groupId": group_id
             }
-            break  # wir nehmen nur das erste Matching für Metadaten
+            break
 
     return combined
-
-def main():
-    print("🔁 Starte Scrape")
-    sets = fetch_json(SET_GROUPS_URL)
-    output_dir = Path("prices")
-    output_dir.mkdir(exist_ok=True)
-
-    for set_code, group_id in sets.items():
-        print(f"➡️  Verarbeite {set_code} ({group_id})")
-        try:
-            data = build_price_data(group_id)
-            output_path = output_dir / f"prices_{set_code.lower()}.json"
-            with open(output_path, "w", encoding="utf-8") as f:
-                json.dump(data, f, indent=2, ensure_ascii=False)
-            print(f"✅ {len(data)} Preise gespeichert unter {output_path}")
-        except Exception as e:
-            print(f"❌ Fehler bei {set_code}: {e}")
-
-    print("✅ Fertig!")
-
-if __name__ == "__main__":
-    main()

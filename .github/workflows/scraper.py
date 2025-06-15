@@ -27,20 +27,23 @@ session = requests.Session()
 retries = Retry(total=3, backoff_factor=1, status_forcelist=[403, 500, 502, 503, 504])
 session.mount("https://", HTTPAdapter(max_retries=retries))
 
+def normalize_id(raw_id):
+    base = raw_id.replace("_", " ")
+    parts = base.split("-")
+    return f"{parts[0]}-{base}"
+
 for set_code, group_id in set_groups.items():
-    # URLs für Produkte und Preise dieses Sets
     prod_url = f"https://tcgcsv.com/tcgplayer/68/{group_id}/products"
     price_url = f"https://tcgcsv.com/tcgplayer/68/{group_id}/prices"
     print(f"Verarbeite Set {set_code} (Gruppe {group_id})...")
     try:
-        # 2. API-Abfragen für Produkte und Preise
         prod_resp = session.get(prod_url, headers=headers, timeout=10)
-        prod_resp.raise_for_status()    # HTTP-Fehler auslösen, falls Statuscode != 200
+        prod_resp.raise_for_status()
         price_resp = session.get(price_url, headers=headers, timeout=10)
         price_resp.raise_for_status()
     except Exception as e:
         print(f" -> Fehler beim Abruf von Gruppe {group_id}: {e}")
-        continue  # Zum nächsten Set überspringen
+        continue
 
     try:
         products_data = prod_resp.json().get("results", [])
@@ -53,78 +56,38 @@ for set_code, group_id in set_groups.items():
         print(f" -> Ungültige JSON-Antwort für Preise {set_code}: {e}")
         continue
 
-    # 3. Produkte nach Karten filtern (nur Einzelnkarten mit Nummer)
-    product_map = {}
+    price_lookup = {str(p["productId"]): p for p in prices_data}
+    final_prices = {}
+
     for prod in products_data:
-        # Kartennummer aus extendedData extrahieren (falls vorhanden)
-        card_number = None
-        for ext in prod.get("extendedData", []):
-            if ext.get("name") == "Number":
-                card_number = ext.get("value")
-                break
-        if not card_number:
-            # überspringen, falls keine Nummer (vermutlich kein Einzelkarten-Produkt)
+        prod_id = str(prod.get("productId"))
+        number = prod.get("number")
+        subtype = prod.get("subTypeName", "")
+
+        if not number:
             continue
-        product_map[prod["productId"]] = {
-            "name": prod.get("name", ""),           # Kartenname (optional)
-            "number": card_number
+
+        card_id = number
+        if subtype and subtype.lower() != "normal":
+            card_id += f"_{subtype.replace(' ', '').lower()}"
+
+        norm_id = normalize_id(card_id)
+        price_data = price_lookup.get(prod_id, {})
+
+        final_prices[norm_id] = {
+            "lowPrice": price_data.get("lowPrice"),
+            "midPrice": price_data.get("midPrice"),
+            "highPrice": price_data.get("highPrice"),
+            "marketPrice": price_data.get("marketPrice"),
+            "directLowPrice": price_data.get("directLowPrice"),
+            "name": prod.get("name"),
+            "rarity": prod.get("rarity"),
+            "power": prod.get("power"),
+            "cost": prod.get("convertedCost"),
+            "category": prod.get("subTypeName"),
+            "groupId": group_id
         }
 
-    if not product_map:
-        print(f" -> Keine Karten in Set {set_code} gefunden (ggf. Gruppe überspringen).")
-        continue
-
-    # 4. Preise mit Produkten zusammenführen
-    # Dictionary zur Speicherung der Preise pro Karten-ID
-    prices_by_id = {}
-
-    for price in prices_data:
-        pid = price.get("productId")
-        if pid not in product_map:
-            # Preiseintrag gehört zu keinem Karten-Produkt (ggf. zu einem geskippten Produkt)
-            continue
-        # Hole Kartennummer und Name aus dem Produkt-Mapping
-        card_num = product_map[pid]["number"]
-        card_name = product_map[pid]["name"]
-        subtype = price.get("subTypeName", "") or ""  # z.B. "Normal", "Parallel", etc.
-
-        # 5. Eindeutige ID bilden (SetCode-Nummer + evtl. p-Index)
-        # Gruppiere zunächst nach Kartennummer, um parallele Versionen zu nummerieren
-        if card_num not in prices_by_id:
-            prices_by_id[card_num] = []
-        # Sammle Einträge mit allen Preisfeldern und Subtyp
-        prices_by_id[card_num].append({
-            "subType": subtype,
-            "prices": {
-                "lowPrice": price.get("lowPrice"),
-                "midPrice": price.get("midPrice"),
-                "highPrice": price.get("highPrice"),
-                "marketPrice": price.get("marketPrice"),
-                "directLowPrice": price.get("directLowPrice")
-            }
-        })
-
-    # 6. Für jede Kartennummer Varianten sortieren und IDs zuweisen
-    final_prices = {}
-    for card_num, entries in prices_by_id.items():
-        # Sortiere Einträge: Basis-Version ("Normal") zuerst, danach nach SubType-Name/Produkt
-        entries.sort(key=lambda x: (x["subType"] != "Normal", str(x["subType"])))
-        base_seen = False
-        variant_count = 0
-        for entry in entries:
-            sub = entry["subType"]
-            prices_dict = entry["prices"]
-            if not base_seen and sub.lower() == "normal":
-                # Basis-Karte (keine p-Kennzeichnung)
-                card_id = f"{set_code}-{card_num}"
-                base_seen = True
-            else:
-                # Alternative Variante (mit fortlaufender p-Nummer)
-                variant_count += 1
-                card_id = f"{set_code}-{card_num} p{variant_count}"
-            final_prices[card_id] = prices_dict
-
-    # 7. JSON-Datei für das Set speichern
     outfile = os.path.join(output_dir, f"prices_{set_code.lower()}.json")
     try:
         with open(outfile, "w", encoding="utf-8") as f:

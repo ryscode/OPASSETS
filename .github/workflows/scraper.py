@@ -38,26 +38,27 @@ def build_price_data(group_id):
 
 
         product_info_map[pid] = {
-            "name": prod.get("name"),
-            "rarity": prod.get("rarity"),
-            "power": prod.get("power"),
-            "cost": prod.get("convertedCost"),
-            "category": prod.get("subTypeName"),
-            "colors": prod.get("color"),
-            "attributes": prod.get("attribute"),
-            "types": prod.get("types"),
-            "effect": prod.get("effect"),
-            "trigger": prod.get("trigger"),
-            "counter": prod.get("counter"),
-            "imageUrl": prod.get("imageUrl"),
-
-            # neue Felder aus extendedData
+            "name": prod.get("name") or extended.get("Name"),
+            "rarity": prod.get("rarity") or extended.get("Rarity"),
+            "power": prod.get("power") or extended.get("Power"),
+            "cost": prod.get("convertedCost") or extended.get("Cost"),
+            "category": prod.get("subTypeName") or extended.get("Subtype"),
+            "colors": prod.get("color") or extended.get("Color"),
+            "attributes": prod.get("attribute") or extended.get("Attribute"),
+            "types": prod.get("types") or extended.get("Types"),
+            "effect": prod.get("effect") or extended.get("Effect"),
+            "trigger": prod.get("trigger") or extended.get("Trigger"),
+            "counter": prod.get("counter") or extended.get("Counter"),
+            "imageUrl": prod.get("imageUrl") or extended.get("Image URL"),
+        
+            # Zusätzliche Felder nur in extendedData
             "frameType": extended.get("Frame Type"),
             "variant": extended.get("Variant"),
             "finish": extended.get("Finish"),
             "cardType": extended.get("Card Type"),
             "description": extended.get("Description")
         }
+
 
         number = extended.get("Number")
         if number:

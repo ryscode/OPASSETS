@@ -38,26 +38,28 @@ def build_price_data(group_id):
 
 
         product_info_map[pid] = {
-            "name": prod.get("name") or extended.get("Name"),
-            "rarity": prod.get("rarity") or extended.get("Rarity"),
-            "power": prod.get("power") or extended.get("Power"),
-            "cost": prod.get("convertedCost") or extended.get("Cost"),
-            "category": prod.get("subTypeName") or extended.get("Subtype"),
-            "colors": prod.get("color") or extended.get("Color"),
-            "attributes": prod.get("attribute") or extended.get("Attribute"),
-            "types": prod.get("types") or extended.get("Types"),
-            "effect": prod.get("effect") or extended.get("Effect"),
-            "trigger": prod.get("trigger") or extended.get("Trigger"),
-            "counter": prod.get("counter") or extended.get("Counter"),
-            "imageUrl": prod.get("imageUrl") or extended.get("Image URL"),
+            "name": prod.get("name"),
+            "rarity": extended.get("Rarity"),
+            "power": extended.get("Power"),
+            "cost": extended.get("Cost"),
+            "life": extended.get("Life"),  # z. B. für Leader
+            "category": extended.get("Card Type"),  # Leader, Character, Event
+            "colors": extended.get("Color"),
+            "attributes": extended.get("Attribute"),
+            "types": extended.get("Subtype(s)"),  # Achtung, Plural!
+            "effect": None,  # extrahierbar aus Description (siehe unten)
+            "trigger": None,  # ggf. extrahierbar aus Description
+            "counter": extended.get("Counter") or extended.get("Counter+"),  # beide möglich!
+            "imageUrl": prod.get("imageUrl"),
         
-            # Zusätzliche Felder nur in extendedData
+            # weitere Infos direkt aus extended
             "frameType": extended.get("Frame Type"),
             "variant": extended.get("Variant"),
             "finish": extended.get("Finish"),
             "cardType": extended.get("Card Type"),
             "description": extended.get("Description")
         }
+
 
 
         number = extended.get("Number")

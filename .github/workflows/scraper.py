@@ -3,21 +3,6 @@ import requests
 from pathlib import Path
 from collections import defaultdict
 
-SET_GROUPS_URL = "https://raw.githubusercontent.com/ryscode/OPASSETS/main/prices/set_groups.json"
-BASE_PRODUCTS_URL = "https://tcgcsv.com/tcgplayer/68/{group_id}/products"
-BASE_PRICES_URL = "https://tcgcsv.com/tcgplayer/68/{group_id}/prices"
-
-def fetch_json(url):
-    resp = requests.get(url)
-    resp.raise_for_status()
-    return resp.json()
-
-def normalize_id(raw_id):
-    # z. B. "OP01-001_p1" → "OP01-OP01-001 p1"
-    base = raw_id.replace("_", " ")
-    parts = base.split("-")
-    return f"{parts[0]}-{base}"
-
 def build_price_data(group_id):
     products_url = BASE_PRODUCTS_URL.format(group_id=group_id)
     prices_url = BASE_PRICES_URL.format(group_id=group_id)
@@ -30,13 +15,15 @@ def build_price_data(group_id):
 
     for prod in products:
         pid = str(prod.get("productId"))
+
+        # Normalisiertes extendedData-Mapping über displayName
         extended = {
-            ext["displayName"].strip(): ext["value"]
+            ext.get("displayName", "").strip(): ext.get("value")
             for ext in prod.get("extendedData", [])
-            if "displayName" in ext and "value" in ext
-}
+            if ext.get("displayName") and ext.get("value") is not None
+        }
 
-
+        desc = extended.get("Description", "")
 
         product_info_map[pid] = {
             "name": prod.get("name"),
@@ -48,25 +35,24 @@ def build_price_data(group_id):
             "colors": extended.get("Color"),
             "attributes": extended.get("Attribute"),
             "types": extended.get("Subtype(s)"),
-            "effect": None,  # siehe unten
-            "trigger": None,
+            "effect": "yes" if any(t in desc for t in ["[Activate:", "[On Play]", "[When Attacking]"]) else None,
+            "trigger": "yes" if "[Trigger]" in desc else None,
             "counter": extended.get("Counter") or extended.get("Counter+"),
             "imageUrl": prod.get("imageUrl"),
-        
+
+            # Weitere optionale Felder
             "frameType": extended.get("Frame Type"),
             "variant": extended.get("Variant"),
             "finish": extended.get("Finish"),
             "cardType": extended.get("Card Type"),
-            "description": extended.get("Description")
+            "description": desc
         }
-
-
-
 
         number = extended.get("Number")
         if number:
             product_number_map[pid] = number
 
+    # Preisdaten mit Varianten gruppieren
     card_variants = defaultdict(list)
     for price in prices:
         pid = str(price.get("productId"))
@@ -101,7 +87,7 @@ def build_price_data(group_id):
                 **info,
                 "groupId": group_id
             }
-            break
+            break  # nur erste Variante verwenden
 
     return combined
 

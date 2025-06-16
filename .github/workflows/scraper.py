@@ -57,10 +57,13 @@ def build_price_data(group_id):
     card_variants = defaultdict(list)
     for price in prices:
         pid = str(price.get("productId"))
-        number = product_number_map.get(pid)
+        number = price.get("number") or product_number_map.get(pid)
         subtype = price.get("subTypeName") or ""
+
         if not number:
+            print(f"⚠️ Preis ohne Kartennummer übersprungen – PID: {pid}, Name: {product_info_map.get(pid, {}).get('name')}")
             continue
+
 
         base_id = number
         if subtype.lower() != "normal" and subtype:

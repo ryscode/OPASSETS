@@ -1,82 +1,73 @@
 import json
-import re
 import requests
 from pathlib import Path
 from collections import defaultdict
 
-SET_GROUPS_URL   = "https://raw.githubusercontent.com/ryscode/OPASSETS/main/prices/set_groups.json"
+SET_GROUPS_URL = "https://raw.githubusercontent.com/ryscode/OPASSETS/main/prices/set_groups.json"
 BASE_PRODUCTS_URL = "https://tcgcsv.com/tcgplayer/68/{group_id}/products"
-BASE_PRICES_URL   = "https://tcgcsv.com/tcgplayer/68/{group_id}/prices"
-OUT_DIR           = Path("prices")
-OUT_DIR.mkdir(exist_ok=True)
+BASE_PRICES_URL = "https://tcgcsv.com/tcgplayer/68/{group_id}/prices"
 
-def fetch_json(url: str) -> dict:
+def fetch_json(url):
     resp = requests.get(url)
     resp.raise_for_status()
     return resp.json()
 
-def normalize_id(raw_id: str) -> str:
-    base  = raw_id.replace("_", " ")
+def normalize_id(raw_id):
+    # z. B. "OP01-001_p1" → "OP01-OP01-001 p1"
+    base = raw_id.replace("_", " ")
     parts = base.split("-")
     return f"{parts[0]}-{base}"
 
-def extract_extended_data(prod: dict) -> dict:
-    ext = {}
-    for item in prod.get("extendedData", []):
-        k, v = item.get("name"), item.get("value")
-        if k and v:
-            ext[k.strip()] = v.strip()
-    return ext
+def build_price_data(group_id):
+    products_url = BASE_PRODUCTS_URL.format(group_id=group_id)
+    prices_url = BASE_PRICES_URL.format(group_id=group_id)
 
-def build_price_data(group_id: int) -> dict:
-    products = fetch_json(BASE_PRODUCTS_URL.format(group_id=group_id)).get("results", [])
-    prices   = fetch_json(BASE_PRICES_URL.format(group_id=group_id)).get("results", [])
+    products = fetch_json(products_url).get("results", [])
+    prices = fetch_json(prices_url).get("results", [])
 
-    product_info_map   = {}
+    product_info_map = {}
     product_number_map = {}
 
     for prod in products:
-        pid       = str(prod.get("productId"))
-        ext_data  = extract_extended_data(prod)
+        pid = str(prod.get("productId"))
+        extended = {
+            ext.get("displayName"): ext.get("value")
+            for ext in prod.get("extendedData", [])
+            if ext.get("displayName") and ext.get("value") is not None
+}
+
 
         product_info_map[pid] = {
-            "name"      : prod.get("name"),
-            "rarity"    : prod.get("rarity") or ext_data.get("Rarity"),
-            "power"     : prod.get("power")  or ext_data.get("Power"),
-            "cost"      : prod.get("convertedCost") or ext_data.get("Cost"),
-            "category"  : prod.get("subTypeName"),
-            "colors"    : prod.get("color"),
+            "name": prod.get("name"),
+            "rarity": prod.get("rarity"),
+            "power": prod.get("power"),
+            "cost": prod.get("convertedCost"),
+            "category": prod.get("subTypeName"),
+            "colors": prod.get("color"),
             "attributes": prod.get("attribute"),
-            "types"     : prod.get("types"),
-            "effect"    : prod.get("effect"),
-            "trigger"   : prod.get("trigger"),
-            "counter"   : prod.get("counter") or ext_data.get("Counter"),
-            "imageUrl"  : prod.get("imageUrl")
+            "types": prod.get("types"),
+            "effect": prod.get("effect"),
+            "trigger": prod.get("trigger"),
+            "counter": prod.get("counter"),
+            "imageUrl": prod.get("imageUrl"),
+
+            # neue Felder aus extendedData
+            "frameType": extended.get("Frame Type"),
+            "variant": extended.get("Variant"),
+            "finish": extended.get("Finish"),
+            "cardType": extended.get("Card Type"),
+            "description": extended.get("Description")
         }
 
-        number = None
-        for ext in prod.get("extendedData", []):
-            if ext.get("name") == "Number":
-                number = ext.get("value")
-                break
-
-        if not number:
-            m = re.search(r"\\[(OP\\d{2}-\\d{3})]", prod.get("name", ""))
-            if m:
-                number = m.group(1)
-
+        number = extended.get("Number")
         if number:
             product_number_map[pid] = number
-        else:
-            print(f"⚠️ Kein 'Number' für PID {pid}: {prod.get('name')!r}")
 
     card_variants = defaultdict(list)
-
     for price in prices:
-        pid     = str(price.get("productId"))
-        number  = product_number_map.get(pid)
+        pid = str(price.get("productId"))
+        number = product_number_map.get(pid)
         subtype = price.get("subTypeName") or ""
-
         if not number:
             continue
 
@@ -88,10 +79,10 @@ def build_price_data(group_id: int) -> dict:
         card_variants[norm_id].append({
             "productId": pid,
             "price": {
-                "lowPrice"      : price.get("lowPrice"),
-                "midPrice"      : price.get("midPrice"),
-                "highPrice"     : price.get("highPrice"),
-                "marketPrice"   : price.get("marketPrice"),
+                "lowPrice": price.get("lowPrice"),
+                "midPrice": price.get("midPrice"),
+                "highPrice": price.get("highPrice"),
+                "marketPrice": price.get("marketPrice"),
                 "directLowPrice": price.get("directLowPrice")
             }
         })
@@ -100,24 +91,28 @@ def build_price_data(group_id: int) -> dict:
     for card_id, entries in card_variants.items():
         for entry in entries:
             pid = entry["productId"]
+            info = product_info_map.get(pid, {})
             combined[card_id] = {
                 **entry["price"],
-                **product_info_map.get(pid, {}),
+                **info,
                 "groupId": group_id
             }
             break
 
     return combined
 
+
 def main():
     print("🔁 Starte Scrape")
     sets = fetch_json(SET_GROUPS_URL)
+    output_dir = Path("prices")
+    output_dir.mkdir(exist_ok=True)
 
     for set_code, group_id in sets.items():
         print(f"➞️  Verarbeite {set_code} ({group_id})")
         try:
             data = build_price_data(group_id)
-            output_path = OUT_DIR / f"prices_{set_code.lower()}.json"
+            output_path = output_dir / f"prices_{set_code.lower()}.json"
             with open(output_path, "w", encoding="utf-8") as f:
                 json.dump(data, f, indent=2, ensure_ascii=False)
             print(f"✅ {len(data)} Preise gespeichert unter {output_path}")

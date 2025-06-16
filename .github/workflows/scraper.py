@@ -13,7 +13,6 @@ def fetch_json(url):
     return resp.json()
 
 def normalize_id(raw_id):
-    # z. B. "OP01-001_p1" → "OP01-OP01-001 p1"
     base = raw_id.replace("_", " ")
     parts = base.split("-")
     return f"{parts[0]}-{base}"
@@ -28,21 +27,20 @@ def build_price_data(group_id):
     product_info_map = {}
     product_number_map = {}
 
-    # ➤ Produkte nach productId gruppieren
     product_groups = defaultdict(list)
     for prod in products:
         pid = str(prod.get("productId"))
         product_groups[pid].append(prod)
 
-    # ➤ Duplikate prüfen (optional debug)
+    # Debug: Mehrfacheinträge anzeigen
     for pid, variants in product_groups.items():
         if len(variants) > 1:
-            print(f"👀 Mehrfacheintrag für productId: {pid} ({len(variants)} Varianten)")
+            print(f"\U0001f440 Mehrfacheintrag für productId: {pid} ({len(variants)} Varianten)")
             for i, v in enumerate(variants):
                 edata = v.get("extendedData")
                 print(f"  Variante {i+1}: extendedData {'leer' if not edata else 'OK'}, name: {v.get('name')}")
 
-    # ➤ Nur erste Variante mit extendedData verwenden
+    # Nur erste Variante mit gültiger extendedData übernehmen
     products_deduped = []
     seen = set()
     for pid, variants in product_groups.items():
@@ -53,10 +51,9 @@ def build_price_data(group_id):
                 seen.add(pid)
                 break
 
-    # ➤ Daten extrahieren
+    # Produktinfos extrahieren
     for prod in products_deduped:
         pid = str(prod.get("productId"))
-
         extended = {
             ext.get("displayName", "").strip(): ext.get("value")
             for ext in prod.get("extendedData", [])
@@ -78,8 +75,7 @@ def build_price_data(group_id):
             "effect": "yes" if any(t in desc for t in ["[Activate:", "[On Play]", "[When Attacking]"]) else None,
             "trigger": "yes" if "[Trigger]" in desc else None,
             "counter": str(
-                extended.get("Counter") or extended.get("Counter+")
-            ) if (extended.get("Counter") or extended.get("Counter+")) is not None else None,
+                extended.get("Counter") or extended.get("Counter+")) if (extended.get("Counter") or extended.get("Counter+")) is not None else None,
             "imageUrl": prod.get("imageUrl"),
             "frameType": extended.get("Frame Type"),
             "variant": extended.get("Variant"),
@@ -92,7 +88,6 @@ def build_price_data(group_id):
         if number:
             product_number_map[pid] = number
 
-    # ➤ Preisdaten zu Karten zuordnen
     card_variants = defaultdict(list)
     for price in prices:
         pid = str(price.get("productId"))
@@ -117,35 +112,33 @@ def build_price_data(group_id):
             }
         })
 
-    # ➤ Final kombinieren
     combined = {}
     for card_id, entries in card_variants.items():
         for entry in entries:
             pid = entry["productId"]
             info = product_info_map.get(pid, {})
-    
-            # ID absichern: falls mehrere Produkte denselben card_id erzeugen (z. B. Nami Normal + Foil)
+
             if card_id in combined:
                 unique_id = f"{card_id}__{pid}"
             else:
                 unique_id = card_id
-    
+
             combined[unique_id] = {
                 **entry["price"],
                 **info,
                 "groupId": group_id
             }
 
-
+    return combined
 
 def main():
-    print("🔁 Starte Scrape")
+    print("\U0001f501 Starte Scrape")
     sets = fetch_json(SET_GROUPS_URL)
     output_dir = Path("prices")
     output_dir.mkdir(exist_ok=True)
 
     for set_code, group_id in sets.items():
-        print(f"➞️  Verarbeite {set_code} ({group_id})")
+        print(f"\u279e\ufe0f  Verarbeite {set_code} ({group_id})")
         try:
             data = build_price_data(group_id)
             output_path = output_dir / f"prices_{set_code.lower()}.json"

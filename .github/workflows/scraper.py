@@ -30,6 +30,8 @@ def build_price_data(group_id):
 
     for prod in products:
         pid = str(prod.get("productId"))
+        extended = {ext["name"]: ext["value"] for ext in prod.get("extendedData", []) if ext.get("name")}
+
         product_info_map[pid] = {
             "name": prod.get("name"),
             "rarity": prod.get("rarity"),
@@ -42,28 +44,27 @@ def build_price_data(group_id):
             "effect": prod.get("effect"),
             "trigger": prod.get("trigger"),
             "counter": prod.get("counter"),
-            "imageUrl": prod.get("imageUrl")
+            "imageUrl": prod.get("imageUrl"),
+
+            # neue Felder aus extendedData
+            "frameType": extended.get("Frame Type"),
+            "variant": extended.get("Variant"),
+            "finish": extended.get("Finish"),
+            "cardType": extended.get("Card Type"),
+            "description": extended.get("Description")
         }
 
-        # Kartennummer aus extendedData extrahieren
-        number = None
-        for ext in prod.get("extendedData", []):
-            if ext.get("name") == "Number":
-                number = ext.get("value")
-                break
+        number = extended.get("Number")
         if number:
             product_number_map[pid] = number
 
     card_variants = defaultdict(list)
     for price in prices:
         pid = str(price.get("productId"))
-        number = price.get("number") or product_number_map.get(pid)
+        number = product_number_map.get(pid)
         subtype = price.get("subTypeName") or ""
-
         if not number:
-            print(f"⚠️ Preis ohne Kartennummer übersprungen – PID: {pid}, Name: {product_info_map.get(pid, {}).get('name')}")
             continue
-
 
         base_id = number
         if subtype.lower() != "normal" and subtype:

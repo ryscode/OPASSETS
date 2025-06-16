@@ -38,29 +38,34 @@ def build_price_data(group_id):
             if ext.get("displayName") and ext.get("value") is not None
         }
 
+
         desc = extended.get("Description", "")
 
         product_info_map[pid] = {
             "name": prod.get("name"),
             "rarity": extended.get("Rarity"),
-            "power": extended.get("Power"),
-            "cost": extended.get("Cost"),
-            "life": extended.get("Life"),
+            "power": str(extended.get("Power")) if extended.get("Power") is not None else None,
+            "cost": str(extended.get("Cost")) if extended.get("Cost") is not None else None,
+            "life": str(extended.get("Life")) if extended.get("Life") is not None else None,
             "category": extended.get("Card Type"),
             "colors": extended.get("Color"),
             "attributes": extended.get("Attribute"),
             "types": extended.get("Subtype(s)"),
-            "effect": "yes" if any(t in desc for t in ["[Activate:", "[On Play]", "[When Attacking]"]) else None,
-            "trigger": "yes" if "[Trigger]" in desc else None,
-            "counter": extended.get("Counter") or extended.get("Counter+"),
+            "effect": "yes" if any(t in extended.get("Description", "") for t in ["[Activate:", "[On Play]", "[When Attacking]"]) else None,
+            "trigger": "yes" if "[Trigger]" in extended.get("Description", "") else None,
+            "counter": str(
+                extended.get("Counter") or extended.get("Counter+")
+            ) if (extended.get("Counter") or extended.get("Counter+")) is not None else None,
             "imageUrl": prod.get("imageUrl"),
-
+        
+            # Weitere optionale extended-Felder
             "frameType": extended.get("Frame Type"),
             "variant": extended.get("Variant"),
             "finish": extended.get("Finish"),
             "cardType": extended.get("Card Type"),
-            "description": desc
+            "description": extended.get("Description")
         }
+
 
         number = extended.get("Number")
         if number:

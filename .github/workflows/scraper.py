@@ -7,28 +7,25 @@ SET_GROUPS_URL = "https://raw.githubusercontent.com/ryscode/OPASSETS/main/prices
 BASE_PRODUCTS_URL = "https://tcgcsv.com/tcgplayer/68/{group_id}/products"
 BASE_PRICES_URL = "https://tcgcsv.com/tcgplayer/68/{group_id}/prices"
 
-EXTENDED_KEY_MAP = {
-    "Number": "number",
-    "Rarity": "rarity",
-    "Cost": "cost",
-    "Power": "power",
-    "Color": "colors",
-    "Attribute": "attributes",
-    "Counter": "counter",
-    "Type": "types",
-    "Effect": "effect",
-    "Trigger": "trigger"
-}
-
 def fetch_json(url):
     resp = requests.get(url)
     resp.raise_for_status()
     return resp.json()
 
 def normalize_id(raw_id):
+    # z. B. "OP01-001_p1" → "OP01-OP01-001 p1"
     base = raw_id.replace("_", " ")
     parts = base.split("-")
     return f"{parts[0]}-{base}"
+
+def extract_extended_data(prod):
+    data = {}
+    for ext in prod.get("extendedData", []):
+        key = ext.get("name")
+        value = ext.get("value")
+        if key and value:
+            data[key.lower()] = value
+    return data
 
 def build_price_data(group_id):
     products_url = BASE_PRODUCTS_URL.format(group_id=group_id)
@@ -42,28 +39,30 @@ def build_price_data(group_id):
 
     for prod in products:
         pid = str(prod.get("productId"))
-
-        # Extract extendedData fields
-        extended = {}
-        for ext in prod.get("extendedData", []):
-            key = EXTENDED_KEY_MAP.get(ext.get("displayName"), ext.get("displayName"))
-            value = ext.get("value")
-            if key and value is not None:
-                if key in ["cost", "power", "counter"]:
-                    try:
-                        value = int(value)
-                    except:
-                        pass
-                extended[key] = value
-
-            if ext.get("displayName") == "Number":
-                product_number_map[pid] = ext.get("value")
+        ext_data = extract_extended_data(prod)
 
         product_info_map[pid] = {
             "name": prod.get("name"),
-            "imageUrl": prod.get("imageUrl"),
-            **extended
+            "rarity": prod.get("rarity") or ext_data.get("rarity"),
+            "power": prod.get("power") or ext_data.get("power"),
+            "cost": prod.get("convertedCost") or ext_data.get("cost"),
+            "category": prod.get("subTypeName"),
+            "colors": prod.get("color"),
+            "attributes": prod.get("attribute"),
+            "types": prod.get("types"),
+            "effect": prod.get("effect"),
+            "trigger": prod.get("trigger"),
+            "counter": prod.get("counter"),
+            "imageUrl": prod.get("imageUrl")
         }
+
+        number = None
+        for ext in prod.get("extendedData", []):
+            if ext.get("name") == "Number":
+                number = ext.get("value")
+                break
+        if number:
+            product_number_map[pid] = number
 
     card_variants = defaultdict(list)
     for price in prices:
@@ -71,7 +70,6 @@ def build_price_data(group_id):
         number = product_number_map.get(pid)
         subtype = price.get("subTypeName") or ""
         if not number:
-            print(f"⚠️ Preis ohne Kartennummer übersprungen – PID: {pid}, Name: {product_info_map.get(pid, {}).get('name')}")
             continue
 
         base_id = number

@@ -28,34 +28,40 @@ def build_price_data(group_id):
     product_info_map = {}
     product_number_map = {}
 
-    from collections import defaultdict
-    
-    # Schritt 1: alle Produkte nach productId gruppieren
+    # ➤ Produkte nach productId gruppieren
     product_groups = defaultdict(list)
     for prod in products:
         pid = str(prod.get("productId"))
         product_groups[pid].append(prod)
-    
-    # Schritt 2: prüfe Mehrfacheinträge und gib ggf. extendedData-Vergleich aus
+
+    # ➤ Duplikate prüfen (optional debug)
     for pid, variants in product_groups.items():
         if len(variants) > 1:
             print(f"👀 Mehrfacheintrag für productId: {pid} ({len(variants)} Varianten)")
             for i, v in enumerate(variants):
                 edata = v.get("extendedData")
                 print(f"  Variante {i+1}: extendedData {'leer' if not edata else 'OK'}, name: {v.get('name')}")
-    
 
-    
-    for prod in products:
+    # ➤ Nur erste Variante mit extendedData verwenden
+    products_deduped = []
+    seen = set()
+    for pid, variants in product_groups.items():
+        for prod in variants:
+            edata = prod.get("extendedData")
+            if edata and pid not in seen:
+                products_deduped.append(prod)
+                seen.add(pid)
+                break
+
+    # ➤ Daten extrahieren
+    for prod in products_deduped:
         pid = str(prod.get("productId"))
 
-        # Normale Extraktion von extendedData
         extended = {
             ext.get("displayName", "").strip(): ext.get("value")
             for ext in prod.get("extendedData", [])
             if ext.get("displayName") and ext.get("value") is not None
         }
-
 
         desc = extended.get("Description", "")
 
@@ -69,27 +75,24 @@ def build_price_data(group_id):
             "colors": extended.get("Color"),
             "attributes": extended.get("Attribute"),
             "types": extended.get("Subtype(s)"),
-            "effect": "yes" if any(t in extended.get("Description", "") for t in ["[Activate:", "[On Play]", "[When Attacking]"]) else None,
-            "trigger": "yes" if "[Trigger]" in extended.get("Description", "") else None,
+            "effect": "yes" if any(t in desc for t in ["[Activate:", "[On Play]", "[When Attacking]"]) else None,
+            "trigger": "yes" if "[Trigger]" in desc else None,
             "counter": str(
                 extended.get("Counter") or extended.get("Counter+")
             ) if (extended.get("Counter") or extended.get("Counter+")) is not None else None,
             "imageUrl": prod.get("imageUrl"),
-        
-            # Weitere optionale extended-Felder
             "frameType": extended.get("Frame Type"),
             "variant": extended.get("Variant"),
             "finish": extended.get("Finish"),
             "cardType": extended.get("Card Type"),
-            "description": extended.get("Description")
+            "description": desc
         }
-
 
         number = extended.get("Number")
         if number:
             product_number_map[pid] = number
 
-    # Preisdaten verknüpfen
+    # ➤ Preisdaten zu Karten zuordnen
     card_variants = defaultdict(list)
     for price in prices:
         pid = str(price.get("productId"))
@@ -114,6 +117,7 @@ def build_price_data(group_id):
             }
         })
 
+    # ➤ Final kombinieren
     combined = {}
     for card_id, entries in card_variants.items():
         for entry in entries:
@@ -124,9 +128,10 @@ def build_price_data(group_id):
                 **info,
                 "groupId": group_id
             }
-            break  # nur die erste Variante verwenden
+            break  # nur erste Variante pro card_id
 
     return combined
+
 
 def main():
     print("🔁 Starte Scrape")

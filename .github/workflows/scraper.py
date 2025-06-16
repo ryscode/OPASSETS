@@ -123,14 +123,19 @@ def build_price_data(group_id):
         for entry in entries:
             pid = entry["productId"]
             info = product_info_map.get(pid, {})
-            combined[card_id] = {
+    
+            # ID absichern: falls mehrere Produkte denselben card_id erzeugen (z. B. Nami Normal + Foil)
+            if card_id in combined:
+                unique_id = f"{card_id}__{pid}"
+            else:
+                unique_id = card_id
+    
+            combined[unique_id] = {
                 **entry["price"],
                 **info,
                 "groupId": group_id
             }
-            break  # nur erste Variante pro card_id
 
-    return combined
 
 
 def main():

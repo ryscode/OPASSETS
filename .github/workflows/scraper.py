@@ -61,9 +61,9 @@ def build_price_data(group_id: int) -> dict:
 
         number = ext_data.get("number")
         if not number:
-            m = re.search(r"\[(OP\d{2}-\d{3})]", prod.get("name", ""))
-            if m:
-                number = m.group(1)
+            match = re.search(r"\[(OP\d{2}-\d{3})\]", prod.get("name", ""))
+            if match:
+                number = match.group(1)
 
         if number:
             product_number_map[pid] = number

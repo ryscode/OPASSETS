@@ -25,7 +25,7 @@ def extract_extended_data(prod: dict) -> dict:
     for item in prod.get("extendedData", []):
         k, v = item.get("name"), item.get("value")
         if k and v:
-            ext[k.lower()] = v
+            ext[k.strip().lower()] = v.strip()
     return ext
 
 def build_price_data(group_id: int) -> dict:
@@ -39,9 +39,9 @@ def build_price_data(group_id: int) -> dict:
         pid       = str(prod.get("productId"))
         ext_data  = extract_extended_data(prod)
 
-        rarity = prod.get("rarity") or ext_data.get("rarity")
-        cost = prod.get("convertedCost") or ext_data.get("cost")
-        power = prod.get("power") or ext_data.get("power")
+        rarity  = prod.get("rarity") or ext_data.get("rarity")
+        cost    = prod.get("convertedCost") or ext_data.get("cost")
+        power   = prod.get("power") or ext_data.get("power")
         counter = prod.get("counter") or ext_data.get("counter")
 
         product_info_map[pid] = {
@@ -61,7 +61,7 @@ def build_price_data(group_id: int) -> dict:
 
         number = ext_data.get("number")
         if not number:
-            m = re.search(r"\\[(OP\\d{2}-\\d{3})]", prod.get("name", ""))
+            m = re.search(r"\[(OP\d{2}-\d{3})]", prod.get("name", ""))
             if m:
                 number = m.group(1)
 

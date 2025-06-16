@@ -3,6 +3,21 @@ import requests
 from pathlib import Path
 from collections import defaultdict
 
+SET_GROUPS_URL = "https://raw.githubusercontent.com/ryscode/OPASSETS/main/prices/set_groups.json"
+BASE_PRODUCTS_URL = "https://tcgcsv.com/tcgplayer/68/{group_id}/products"
+BASE_PRICES_URL = "https://tcgcsv.com/tcgplayer/68/{group_id}/prices"
+
+def fetch_json(url):
+    resp = requests.get(url)
+    resp.raise_for_status()
+    return resp.json()
+
+def normalize_id(raw_id):
+    # z. B. "OP01-001_p1" → "OP01-OP01-001 p1"
+    base = raw_id.replace("_", " ")
+    parts = base.split("-")
+    return f"{parts[0]}-{base}"
+
 def build_price_data(group_id):
     products_url = BASE_PRODUCTS_URL.format(group_id=group_id)
     prices_url = BASE_PRICES_URL.format(group_id=group_id)
@@ -16,7 +31,7 @@ def build_price_data(group_id):
     for prod in products:
         pid = str(prod.get("productId"))
 
-        # Normalisiertes extendedData-Mapping über displayName
+        # Normale Extraktion von extendedData
         extended = {
             ext.get("displayName", "").strip(): ext.get("value")
             for ext in prod.get("extendedData", [])
@@ -40,7 +55,6 @@ def build_price_data(group_id):
             "counter": extended.get("Counter") or extended.get("Counter+"),
             "imageUrl": prod.get("imageUrl"),
 
-            # Weitere optionale Felder
             "frameType": extended.get("Frame Type"),
             "variant": extended.get("Variant"),
             "finish": extended.get("Finish"),
@@ -52,7 +66,7 @@ def build_price_data(group_id):
         if number:
             product_number_map[pid] = number
 
-    # Preisdaten mit Varianten gruppieren
+    # Preisdaten verknüpfen
     card_variants = defaultdict(list)
     for price in prices:
         pid = str(price.get("productId"))
@@ -87,10 +101,9 @@ def build_price_data(group_id):
                 **info,
                 "groupId": group_id
             }
-            break  # nur erste Variante verwenden
+            break  # nur die erste Variante verwenden
 
     return combined
-
 
 def main():
     print("🔁 Starte Scrape")

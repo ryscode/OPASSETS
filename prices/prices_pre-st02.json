@@ -14,7 +14,7 @@
     "colors": "Green",
     "attributes": "Special",
     "types": "Kid Pirates;Supernovas",
-    "effect": null,
+    "effect": "yes",
     "trigger": null,
     "counter": null,
     "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/415183_200w.jpg",
@@ -48,7 +48,7 @@
     "variant": null,
     "finish": null,
     "cardType": "Character",
-    "description": null,
+    "description": "",
     "groupId": 17658
   },
   "ST02-ST02-009 foil": {
@@ -66,7 +66,7 @@
     "colors": "Green",
     "attributes": "Slash",
     "types": "Heart Pirates;Supernovas",
-    "effect": null,
+    "effect": "yes",
     "trigger": null,
     "counter": "1000",
     "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/415805_200w.jpg",
@@ -126,7 +126,7 @@
     "variant": null,
     "finish": null,
     "cardType": "Character",
-    "description": null,
+    "description": "",
     "groupId": 17658
   },
   "ST02-ST02-003": {
@@ -196,7 +196,7 @@
     "colors": "Green",
     "attributes": "Ranged",
     "types": "On-Air Pirates;Supernovas",
-    "effect": null,
+    "effect": "yes",
     "trigger": null,
     "counter": "2000",
     "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/417462_200w.jpg",
@@ -223,7 +223,7 @@
     "attributes": null,
     "types": "Heart Pirates;Supernovas",
     "effect": null,
-    "trigger": null,
+    "trigger": "yes",
     "counter": null,
     "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/418012_200w.jpg",
     "frameType": null,
@@ -282,7 +282,7 @@
     "variant": null,
     "finish": null,
     "cardType": "Character",
-    "description": null,
+    "description": "",
     "groupId": 17658
   },
   "ST02-ST02-005": {
@@ -300,8 +300,8 @@
     "colors": "Green",
     "attributes": "Slash",
     "types": "Kid Pirates;Supernovas",
-    "effect": null,
-    "trigger": null,
+    "effect": "yes",
+    "trigger": "yes",
     "counter": "1000",
     "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/418558_200w.jpg",
     "frameType": null,
@@ -326,7 +326,7 @@
     "colors": "Green",
     "attributes": "Special",
     "types": "Bonney Pirates;Supernovas",
-    "effect": null,
+    "effect": "yes",
     "trigger": null,
     "counter": "1000",
     "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/418677_200w.jpg",
@@ -360,7 +360,7 @@
     "variant": null,
     "finish": null,
     "cardType": "Character",
-    "description": null,
+    "description": "",
     "groupId": 17658
   },
   "ST02-ST02-004": {
@@ -412,7 +412,7 @@
     "variant": null,
     "finish": null,
     "cardType": "Character",
-    "description": null,
+    "description": "",
     "groupId": 17658
   },
   "ST02-ST02-010": {

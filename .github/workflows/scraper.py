@@ -28,6 +28,24 @@ def build_price_data(group_id):
     product_info_map = {}
     product_number_map = {}
 
+    from collections import defaultdict
+    
+    # Schritt 1: alle Produkte nach productId gruppieren
+    product_groups = defaultdict(list)
+    for prod in products:
+        pid = str(prod.get("productId"))
+        product_groups[pid].append(prod)
+    
+    # Schritt 2: prüfe Mehrfacheinträge und gib ggf. extendedData-Vergleich aus
+    for pid, variants in product_groups.items():
+        if len(variants) > 1:
+            print(f"👀 Mehrfacheintrag für productId: {pid} ({len(variants)} Varianten)")
+            for i, v in enumerate(variants):
+                edata = v.get("extendedData")
+                print(f"  Variante {i+1}: extendedData {'leer' if not edata else 'OK'}, name: {v.get('name')}")
+    
+
+    
     for prod in products:
         pid = str(prod.get("productId"))
 

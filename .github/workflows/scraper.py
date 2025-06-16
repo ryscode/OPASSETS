@@ -38,40 +38,43 @@ def build_price_data(group_id):
     product_number_map = {}
 
     for prod in products:
-        pid = str(prod.get("productId"))
-        ext_data = extract_extended_data(prod)
+    pid = str(prod.get("productId"))
+    ext_data = extract_extended_data(prod)
 
-        product_info_map[pid] = {
-            "name": prod.get("name"),
-            "rarity": prod.get("rarity") or ext_data.get("rarity"),
-            "power": prod.get("power") or ext_data.get("power"),
-            "cost": prod.get("convertedCost") or ext_data.get("cost"),
-            "category": prod.get("subTypeName"),
-            "colors": prod.get("color"),
-            "attributes": prod.get("attribute"),
-            "types": prod.get("types"),
-            "effect": prod.get("effect"),
-            "trigger": prod.get("trigger"),
-            "counter": prod.get("counter"),
-            "imageUrl": prod.get("imageUrl")
-        }
+    product_info_map[pid] = {
+        "name": prod.get("name"),
+        "rarity": prod.get("rarity") or ext_data.get("rarity"),
+        "power": prod.get("power") or ext_data.get("power"),
+        "cost": prod.get("convertedCost") or ext_data.get("cost"),
+        "category": prod.get("subTypeName"),
+        "colors": prod.get("color"),
+        "attributes": prod.get("attribute"),
+        "types": prod.get("types"),
+        "effect": prod.get("effect"),
+        "trigger": prod.get("trigger"),
+        "counter": prod.get("counter"),
+        "imageUrl": prod.get("imageUrl")
+    }
 
-            # Kartennummer zuerst aus extendedData, sonst aus dem Namen extrahieren
+    # ❗ WICHTIG: Dieser Block muss in der Schleife stehen!
     number = None
     for ext in prod.get("extendedData", []):
         if ext.get("name") == "Number":
             number = ext.get("value")
             break
-    
-    # ⛑️ Fallback: extrahiere aus dem Namen, z. B. "Nami (Parallel) [OP01-016]"
+
+    # Fallback: extrahiere Nummer aus dem Namen, falls nötig
     if not number:
         import re
         match = re.search(r"\[(OP\d{2}-\d{3})]", prod.get("name", ""))
         if match:
             number = match.group(1)
 
-        if number:
-            product_number_map[pid] = number
+    if number:
+        product_number_map[pid] = number
+    else:
+        print(f"⚠️ Kein 'Number' für PID {pid}: {prod.get('name')}")
+
 
     card_variants = defaultdict(list)
     for price in prices:

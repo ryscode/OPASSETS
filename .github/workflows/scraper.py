@@ -56,11 +56,20 @@ def build_price_data(group_id):
             "imageUrl": prod.get("imageUrl")
         }
 
-        number = None
-        for ext in prod.get("extendedData", []):
-            if ext.get("name") == "Number":
-                number = ext.get("value")
-                break
+            # Kartennummer zuerst aus extendedData, sonst aus dem Namen extrahieren
+    number = None
+    for ext in prod.get("extendedData", []):
+        if ext.get("name") == "Number":
+            number = ext.get("value")
+            break
+    
+    # ⛑️ Fallback: extrahiere aus dem Namen, z. B. "Nami (Parallel) [OP01-016]"
+    if not number:
+        import re
+        match = re.search(r"\[(OP\d{2}-\d{3})]", prod.get("name", ""))
+        if match:
+            number = match.group(1)
+
         if number:
             product_number_map[pid] = number
 

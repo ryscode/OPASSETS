@@ -31,10 +31,11 @@ def build_price_data(group_id):
     for prod in products:
         pid = str(prod.get("productId"))
         extended = {
-            ext.get("displayName"): ext.get("value")
+            ext["displayName"].strip(): ext["value"]
             for ext in prod.get("extendedData", [])
-            if ext.get("displayName") and ext.get("value") is not None
+            if "displayName" in ext and "value" in ext
 }
+
 
 
         product_info_map[pid] = {
@@ -42,23 +43,23 @@ def build_price_data(group_id):
             "rarity": extended.get("Rarity"),
             "power": extended.get("Power"),
             "cost": extended.get("Cost"),
-            "life": extended.get("Life"),  # z. B. für Leader
-            "category": extended.get("Card Type"),  # Leader, Character, Event
+            "life": extended.get("Life"),
+            "category": extended.get("Card Type"),
             "colors": extended.get("Color"),
             "attributes": extended.get("Attribute"),
-            "types": extended.get("Subtype(s)"),  # Achtung, Plural!
-            "effect": None,  # extrahierbar aus Description (siehe unten)
-            "trigger": None,  # ggf. extrahierbar aus Description
-            "counter": extended.get("Counter") or extended.get("Counter+"),  # beide möglich!
+            "types": extended.get("Subtype(s)"),
+            "effect": None,  # siehe unten
+            "trigger": None,
+            "counter": extended.get("Counter") or extended.get("Counter+"),
             "imageUrl": prod.get("imageUrl"),
         
-            # weitere Infos direkt aus extended
             "frameType": extended.get("Frame Type"),
             "variant": extended.get("Variant"),
             "finish": extended.get("Finish"),
             "cardType": extended.get("Card Type"),
             "description": extended.get("Description")
         }
+
 
 
 

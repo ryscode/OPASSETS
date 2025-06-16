@@ -25,7 +25,7 @@ def extract_extended_data(prod: dict) -> dict:
     for item in prod.get("extendedData", []):
         k, v = item.get("name"), item.get("value")
         if k and v:
-            ext[k.strip().lower()] = v.strip()
+            ext[k.strip()] = v.strip()
     return ext
 
 def build_price_data(group_id: int) -> dict:
@@ -39,49 +39,49 @@ def build_price_data(group_id: int) -> dict:
         pid       = str(prod.get("productId"))
         ext_data  = extract_extended_data(prod)
 
-        rarity  = prod.get("rarity") or ext_data.get("rarity")
-        cost    = prod.get("convertedCost") or ext_data.get("cost")
-        power   = prod.get("power") or ext_data.get("power")
-        counter = prod.get("counter") or ext_data.get("counter")
-
         product_info_map[pid] = {
             "name"      : prod.get("name"),
-            "rarity"    : rarity,
-            "power"     : power,
-            "cost"      : cost,
+            "rarity"    : prod.get("rarity") or ext_data.get("Rarity"),
+            "power"     : prod.get("power")  or ext_data.get("Power"),
+            "cost"      : prod.get("convertedCost") or ext_data.get("Cost"),
             "category"  : prod.get("subTypeName"),
             "colors"    : prod.get("color"),
             "attributes": prod.get("attribute"),
             "types"     : prod.get("types"),
             "effect"    : prod.get("effect"),
             "trigger"   : prod.get("trigger"),
-            "counter"   : counter,
+            "counter"   : prod.get("counter") or ext_data.get("Counter"),
             "imageUrl"  : prod.get("imageUrl")
         }
 
-        number = ext_data.get("number")
+        number = None
+        for ext in prod.get("extendedData", []):
+            if ext.get("name") == "Number":
+                number = ext.get("value")
+                break
+
         if not number:
-            match = re.search(r"\[(OP\d{2}-\d{3})\]", prod.get("name", ""))
-            if match:
-                number = match.group(1)
+            m = re.search(r"\\[(OP\\d{2}-\\d{3})]", prod.get("name", ""))
+            if m:
+                number = m.group(1)
 
         if number:
             product_number_map[pid] = number
         else:
-            print(f"⚠️  Kein 'Number' für PID {pid}: {prod.get('name')!r}")
+            print(f"⚠️ Kein 'Number' für PID {pid}: {prod.get('name')!r}")
 
     card_variants = defaultdict(list)
 
     for price in prices:
-        pid       = str(price.get("productId"))
-        number    = product_number_map.get(pid)
-        subtype   = (price.get("subTypeName") or "").strip()
+        pid     = str(price.get("productId"))
+        number  = product_number_map.get(pid)
+        subtype = price.get("subTypeName") or ""
 
         if not number:
             continue
 
         base_id = number
-        if subtype and subtype.lower() != "normal":
+        if subtype.lower() != "normal" and subtype:
             base_id += f"_{subtype.replace(' ', '').lower()}"
 
         norm_id = normalize_id(base_id)
@@ -98,32 +98,33 @@ def build_price_data(group_id: int) -> dict:
 
     combined = {}
     for card_id, entries in card_variants.items():
-        entry = entries[0]
-        pid   = entry["productId"]
-        combined[card_id] = {
-            **entry["price"],
-            **product_info_map.get(pid, {}),
-            "groupId": group_id
-        }
+        for entry in entries:
+            pid = entry["productId"]
+            combined[card_id] = {
+                **entry["price"],
+                **product_info_map.get(pid, {}),
+                "groupId": group_id
+            }
+            break
 
     return combined
 
 def main():
-    print("🔁  Starte Scrape")
+    print("🔁 Starte Scrape")
     sets = fetch_json(SET_GROUPS_URL)
 
     for set_code, group_id in sets.items():
-        print(f"➞  Verarbeite {set_code} (Group {group_id})")
+        print(f"➞️  Verarbeite {set_code} ({group_id})")
         try:
             data = build_price_data(group_id)
-            out  = OUT_DIR / f"prices_{set_code.lower()}.json"
-            with out.open("w", encoding="utf-8") as f:
+            output_path = OUT_DIR / f"prices_{set_code.lower()}.json"
+            with open(output_path, "w", encoding="utf-8") as f:
                 json.dump(data, f, indent=2, ensure_ascii=False)
-            print(f"✅  {len(data):>4} Einträge gespeichert → {out}")
+            print(f"✅ {len(data)} Preise gespeichert unter {output_path}")
         except Exception as e:
-            print(f"❌  Fehler bei {set_code}: {e}")
+            print(f"❌ Fehler bei {set_code}: {e}")
 
-    print("🏁  Fertig!")
+    print("✅ Fertig!")
 
 if __name__ == "__main__":
     main()

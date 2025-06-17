@@ -363,7 +363,7 @@
     "description": "[On Play] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
     "groupId": 17698
   },
-  "OP02-OP02-009 foil": {
+  "OP02-OP02-009 boxtopper": {
     "lowPrice": 0.25,
     "midPrice": 1.0,
     "highPrice": 29.99,
@@ -727,7 +727,7 @@
     "description": "[On Play] Give up to 2 of your opponent's Characters -3000 power during this turn. Then, if your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn. <em>(This card can attack on the turn in which it is played.)</em>",
     "groupId": 17698
   },
-  "OP02-OP02-031 foil": {
+  "OP02-OP02-031 boxtopper": {
     "lowPrice": 1.85,
     "midPrice": 3.0,
     "highPrice": 17.02,
@@ -753,7 +753,7 @@
     "description": "If you have a [Kouzuki Oden] Character, this Character gains [Blocker]. <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
     "groupId": 17698
   },
-  "OP02-OP02-059 foil": {
+  "OP02-OP02-059 boxtopper": {
     "lowPrice": 6.69,
     "midPrice": 10.1,
     "highPrice": 45.0,
@@ -831,7 +831,7 @@
     "description": "[When Attacking] DON!! -4 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: K.O. up to 1 of your opponent's Characters with a cost of 3 or less. Then, this Leader gains +1000 power during this turn.",
     "groupId": 17698
   },
-  "OP02-OP02-086 foil": {
+  "OP02-OP02-086 boxtopper": {
     "lowPrice": 0.99,
     "midPrice": 1.65,
     "highPrice": 12.0,
@@ -909,7 +909,7 @@
     "description": "[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters -3 cost during this turn.",
     "groupId": 17698
   },
-  "OP02-OP02-105 foil": {
+  "OP02-OP02-105 boxtopper": {
     "lowPrice": 0.96,
     "midPrice": 2.0,
     "highPrice": 9.3,
@@ -935,7 +935,7 @@
     "description": "[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters -3 cost during this turn.",
     "groupId": 17698
   },
-  "OP02-OP02-108 foil": {
+  "OP02-OP02-108 boxtopper": {
     "lowPrice": 2.45,
     "midPrice": 3.69,
     "highPrice": 14.98,
@@ -1089,6 +1089,32 @@
     "finish": null,
     "cardType": "Character",
     "description": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 blue [Impel Down] type card other than [Buggy] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "groupId": 17698
+  },
+  "OP02-OP02-013 parallelfoil": {
+    "lowPrice": 640.0,
+    "midPrice": 753.83,
+    "highPrice": 1200.0,
+    "marketPrice": 639.0,
+    "directLowPrice": null,
+    "name": "Portgas.D.Ace (Parallel) (Manga) (Alternate Art)",
+    "rarity": "SR",
+    "power": "7000",
+    "cost": "7",
+    "life": null,
+    "category": "Character",
+    "colors": "Red",
+    "attributes": "Special",
+    "types": "Whitebeard Pirates",
+    "effect": "yes",
+    "trigger": null,
+    "counter": null,
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/485862_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[On Play] Give up to 2 of your opponent's Characters -3000 power during this turn. Then, if your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn. <em>(This card can attack on the turn in which it is played.)</em>",
     "groupId": 17698
   },
   "OP02-OP02-018 foil": {

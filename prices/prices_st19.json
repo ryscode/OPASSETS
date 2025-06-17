@@ -25,7 +25,7 @@
     "description": "[DON!! x1] [Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters 1 cost during this turn. Then, if there is a Character with a cost of 0, this Leader gains +1000 power during this turn.",
     "groupId": 23494
   },
-  "OP02-OP02-098": {
+  "OP02-OP02-098 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.2,
     "highPrice": 1.5,
@@ -51,7 +51,7 @@
     "description": "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
     "groupId": 23494
   },
-  "OP02-OP02-106": {
+  "OP02-OP02-106 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.21,
     "highPrice": 1.4,
@@ -77,7 +77,7 @@
     "description": "[On Play] Give up to 1 of your opponent's Characters 2 cost during this turn.",
     "groupId": 23494
   },
-  "OP02-OP02-108": {
+  "OP02-OP02-108 normal": {
     "lowPrice": 0.03,
     "midPrice": 0.11,
     "highPrice": 0.95,
@@ -103,7 +103,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
     "groupId": 23494
   },
-  "OP02-OP02-109": {
+  "OP02-OP02-109 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.14,
     "highPrice": 1.0,
@@ -129,7 +129,7 @@
     "description": "",
     "groupId": 23494
   },
-  "OP02-OP02-113": {
+  "OP02-OP02-113 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.13,
     "highPrice": 1.0,
@@ -155,7 +155,7 @@
     "description": "[When Attacking] Give up to 1 of your opponent's Characters 2 cost during this turn. Then, if there is a Character with a cost of 0, this Character gains +2000 power during this battle.<br><br>\r\n[Trigger] Play this card.",
     "groupId": 23494
   },
-  "OP02-OP02-116": {
+  "OP02-OP02-116 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 1.0,
@@ -181,7 +181,7 @@
     "description": "",
     "groupId": 23494
   },
-  "OP03-OP03-079": {
+  "OP03-OP03-079 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 0.55,
@@ -207,7 +207,7 @@
     "description": "[DON!! x1] This Character cannot be K.O.'d in battle.",
     "groupId": 23494
   },
-  "OP03-OP03-089": {
+  "OP03-OP03-089 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.2,
     "highPrice": 1.0,
@@ -233,7 +233,7 @@
     "description": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 \"Navy\" type card other than [Brannew] and add it to your hand. Then, trash the rest.",
     "groupId": 23494
   },
-  "ST19-ST19-001": {
+  "ST19-ST19-001 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.22,
     "highPrice": 1.97,
@@ -259,7 +259,7 @@
     "description": "[On Play] You may trash 1 black \"Navy\" type card from your hand: Up to 2 of your opponent's Characters with a cost of 4 or less cannot attack until the end of your opponent's next turn.",
     "groupId": 23494
   },
-  "ST19-ST19-002": {
+  "ST19-ST19-002 normal": {
     "lowPrice": 3.27,
     "midPrice": 4.52,
     "highPrice": 7.49,
@@ -337,7 +337,7 @@
     "description": "[DON!! x1] [Opponent's Turn] This Character gains +4 cost.<br><br>\r\n[Activate: Main] [Once Per Turn] You may place 1 card from your trash at the bottom of your deck: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
     "groupId": 23494
   },
-  "ST19-ST19-005": {
+  "ST19-ST19-005 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 3.0,

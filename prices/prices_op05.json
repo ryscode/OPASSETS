@@ -1,5 +1,5 @@
 {
-  "OP04-OP04-001": {
+  "OP04-OP04-001 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.2,
     "highPrice": 4.95,
@@ -51,7 +51,7 @@
     "description": "This Leader cannot attack.\r\n<br>\r\n[Activate:Main] [Once Per Turn] (2) <em>(You may rest the specified number of DON!! cards in your cost area.)</em>: Draw 1 card and up to 1 of your Characters gains [Rush] during this turn. <em>(This card can attack on the turn in which it is played.)</em>",
     "groupId": 23024
   },
-  "OP04-OP04-019": {
+  "OP04-OP04-019 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.18,
     "highPrice": 4.95,
@@ -103,7 +103,7 @@
     "description": "[End of Your Turn] Set up to 2 of your DON!! cards as active.",
     "groupId": 23024
   },
-  "OP04-OP04-039": {
+  "OP04-OP04-039 normal": {
     "lowPrice": 0.04,
     "midPrice": 0.17,
     "highPrice": 4.95,
@@ -155,7 +155,7 @@
     "description": "This Leader cannot attack.\r\n<br>\r\n[Activate:Main] [Once Per Turn] (1) <em>(You may rest the specified number of DON!! cards in your cost area.)</em>: If you have 6 or less cards in your hand, look at 2 cards from the top of your deck; reveal up to 1 [Dressrosa] type card and add it to your hand. Then, trash the rest.",
     "groupId": 23024
   },
-  "OP04-OP04-020": {
+  "OP04-OP04-020 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.16,
     "highPrice": 4.95,
@@ -207,7 +207,7 @@
     "description": "[DON!! x1] [Your Turn] Give all of your opponent's Characters -1 cost.\r\n<br>\r\n[End of Your Turn] (1) <em>(You may rest the specified number of DON!! cards in your cost area.)</em>: Set up to 1 of your Characters with a cost of 5 or less as active.",
     "groupId": 23024
   },
-  "OP04-OP04-040": {
+  "OP04-OP04-040 normal": {
     "lowPrice": 0.02,
     "midPrice": 0.15,
     "highPrice": 4.95,
@@ -259,7 +259,7 @@
     "description": "[DON!! x1] [When Attacking] If you have a total of 4 or less cards in your Life area and hand, draw 1 card. If you have a Character with a cost of 8 or more, you may add up to 1 card from the top of your deck to the top of your Life cards instead of drawing 1 card.",
     "groupId": 23024
   },
-  "OP04-OP04-058": {
+  "OP04-OP04-058 normal": {
     "lowPrice": 0.03,
     "midPrice": 0.16,
     "highPrice": 6.0,
@@ -1429,7 +1429,7 @@
     "description": "[Activate:Main] <strong>You may rest this Character and give your 1 active Leader -5000 power during this turn</strong>: Look at 5 cards from the top of your deck; reveal up to 1 [Alabasta] type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "groupId": 23024
   },
-  "OP04-OP04-003": {
+  "OP04-OP04-003 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.95,
@@ -1455,7 +1455,7 @@
     "description": "[On K.O.] K.O. up to 1 of your opponent's Characters with 5000 base power or less.",
     "groupId": 23024
   },
-  "OP04-OP04-004": {
+  "OP04-OP04-004 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -1481,7 +1481,7 @@
     "description": "[Activate:Main] <strong>You may rest this Character</strong>: Give up to 1 rested DON!! card to each of your [Alabasta] type Characters.",
     "groupId": 23024
   },
-  "OP04-OP04-005": {
+  "OP04-OP04-005 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -1507,7 +1507,7 @@
     "description": "If you have a [Kung Fu Jugon] other than this Character, this Character gains [Blocker]. <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
     "groupId": 23024
   },
-  "OP04-OP04-006": {
+  "OP04-OP04-006 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -1533,7 +1533,7 @@
     "description": "[When Attacking] <strong>You may give your 1 active Leader -5000 power during this turn</strong>: This Character gains +2000 power until the start of your next turn.",
     "groupId": 23024
   },
-  "OP04-OP04-007": {
+  "OP04-OP04-007 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -1585,7 +1585,7 @@
     "description": "[DON!! x1] [When Attacking] If your Leader is [Nefeltari Vivi], give up to 1 of your opponent's Characters -3000 power during this turn. Then, K.O. up to 1 of your opponent's Characters with 0 power or less.",
     "groupId": 23024
   },
-  "OP04-OP04-009": {
+  "OP04-OP04-009 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 25.0,
@@ -1611,7 +1611,7 @@
     "description": "[When Attacking] <strong>You may give your 1 active Leader -5000 power during this turn</strong>: Return this Character to the owner's hand at the end of this turn.",
     "groupId": 23024
   },
-  "OP04-OP04-010": {
+  "OP04-OP04-010 normal": {
     "lowPrice": 0.02,
     "midPrice": 0.2,
     "highPrice": 4.95,
@@ -1637,7 +1637,7 @@
     "description": "[On Play] Play up to 1 [Animal] type Character card with 3000 power or less from your hand.",
     "groupId": 23024
   },
-  "OP04-OP04-011": {
+  "OP04-OP04-011 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.95,
@@ -1663,7 +1663,7 @@
     "description": "[When Attacking] Reveal 1 card from the top of your deck. If the revealed card is a Character card with 6000 power or more, this Character gains +3000 power during this turn. Then, place the revealed card at the bottom of your deck.",
     "groupId": 23024
   },
-  "OP04-OP04-012": {
+  "OP04-OP04-012 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -1689,7 +1689,7 @@
     "description": "[Your Turn] All of your [Alabasta] type Characters other than this Character gain +1000 power.",
     "groupId": 23024
   },
-  "OP04-OP04-014": {
+  "OP04-OP04-014 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.16,
     "highPrice": 4.95,
@@ -1767,7 +1767,7 @@
     "description": "[Counter] <strong>You may trash 1 card from your hand</strong>: Up to 1 of your Leader or Character cards gains +3000 power during this battle.\r\n<br>\r\n[Trigger] Give up to 1 of your opponent's Leader or Character cards -3000 power during this turn.",
     "groupId": 23024
   },
-  "OP04-OP04-017": {
+  "OP04-OP04-017 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -1793,7 +1793,7 @@
     "description": "[Counter] Give up to 1 of your opponent's Leader or Character cards -2000 power during this turn. Then, if your Leader is active, give up to 1 of your opponent's Leader or Character cards -1000 power during this turn.",
     "groupId": 23024
   },
-  "OP04-OP04-018": {
+  "OP04-OP04-018 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -1819,7 +1819,7 @@
     "description": "[Main] If your Leader has the [Alabasta] type, give up to 2 of your opponent's Characters -2000 power during this turn.\r\n<br>\r\n[Trigger] Activate this card's [Main] effect.",
     "groupId": 23024
   },
-  "OP04-OP04-021": {
+  "OP04-OP04-021 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 4.95,
@@ -1845,7 +1845,7 @@
     "description": "[On Your Opponent's Attack] (2) <em>(You may rest the specified number of DON!! cards in your cost area.)</em>: Rest up to 1 of your opponent's DON!! cards.",
     "groupId": 23024
   },
-  "OP04-OP04-022": {
+  "OP04-OP04-022 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -1871,7 +1871,7 @@
     "description": "[Activate:Main] <strong>You may rest this Character</strong>: Rest up to 1 of your opponent's Characters with a cost of 1 or less.",
     "groupId": 23024
   },
-  "OP04-OP04-023": {
+  "OP04-OP04-023 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -1897,7 +1897,7 @@
     "description": "",
     "groupId": 23024
   },
-  "OP04-OP04-025": {
+  "OP04-OP04-025 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -1949,7 +1949,7 @@
     "description": "[When Attacking] (1) <em>(You may rest the specified number of DON!! cards in your cost area.)</em>: If your Leader has the [Donquixote Pirates] type, rest up to 1 of your opponent's Characters with a cost of 4 or less. Then, set up to 1 of your DON!! cards as active at the end of this turn.",
     "groupId": 23024
   },
-  "OP04-OP04-027": {
+  "OP04-OP04-027 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -1975,7 +1975,7 @@
     "description": "[DON!! x1] [End of Your Turn] Set this Character as active.",
     "groupId": 23024
   },
-  "OP04-OP04-029": {
+  "OP04-OP04-029 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 10.0,
@@ -2001,7 +2001,7 @@
     "description": "[End of Your Turn] Set up to 1 of your DON!! cards as active.",
     "groupId": 23024
   },
-  "OP04-OP04-032": {
+  "OP04-OP04-032 normal": {
     "lowPrice": 0.06,
     "midPrice": 0.22,
     "highPrice": 4.95,
@@ -2027,7 +2027,7 @@
     "description": "[End of Your Turn] <strong>You may trash this Character</strong>: Set up to 2 of your DON!! cards as active.",
     "groupId": 23024
   },
-  "OP04-OP04-033": {
+  "OP04-OP04-033 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -2053,7 +2053,7 @@
     "description": "[On Play] If your Leader has the [Donquixote Pirates] type, rest up to 1 of your opponent's Characters with a cost of 5 or less. Then, set up to 1 of your DON!! cards as active at the end of this turn.",
     "groupId": 23024
   },
-  "OP04-OP04-034": {
+  "OP04-OP04-034 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -2105,7 +2105,7 @@
     "description": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, set up to 1 of your Characters as active.\r\n<br>\r\n[Trigger] Up to 1 of your Leader gains +2000 power during this turn.",
     "groupId": 23024
   },
-  "OP04-OP04-036": {
+  "OP04-OP04-036 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -2131,7 +2131,7 @@
     "description": "[Counter] Look at 5 cards from the top of your deck; reveal up to 1 [Donquixote Pirates] type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.\r\n<br>\r\n[Trigger] Activate this card's [Counter] effect.",
     "groupId": 23024
   },
-  "OP04-OP04-037": {
+  "OP04-OP04-037 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.95,
@@ -2157,7 +2157,7 @@
     "description": "[Counter] If your Leader has the [Donquixote Pirates] type, up to 1 of your Leader or Character cards gains +2000 power during this turn.\r\n<br>\r\n[Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
     "groupId": 23024
   },
-  "OP04-OP04-038": {
+  "OP04-OP04-038 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -2183,7 +2183,7 @@
     "description": "[Main] / [Counter] Rest up to 1 of your opponent's Leader or Character cards. Then, K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.\r\n<br>\r\n[Trigger] Set up to 5 of your DON!! cards as active.",
     "groupId": 23024
   },
-  "OP04-OP04-041": {
+  "OP04-OP04-041 normal": {
     "lowPrice": 0.04,
     "midPrice": 0.18,
     "highPrice": 4.95,
@@ -2209,7 +2209,7 @@
     "description": "[On Play] <strong>You may trash 2 cards from your hand</strong>: Look at 5 cards from the top of your deck; reveal up to 1 [East Blue] type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "groupId": 23024
   },
-  "OP04-OP04-042": {
+  "OP04-OP04-042 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -2287,7 +2287,7 @@
     "description": "[On Play] Draw 1 card.",
     "groupId": 23024
   },
-  "OP04-OP04-046": {
+  "OP04-OP04-046 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -2313,7 +2313,7 @@
     "description": "[On Play] If your Leader has the [Animal Kingdom Pirates] type, look at 7 cards from the top of your deck; reveal a total of 2 [Plague Rounds] or [Ice Oni] cards and add them to your hand. Then, place the rest at the bottom of your deck in any order.",
     "groupId": 23024
   },
-  "OP04-OP04-047": {
+  "OP04-OP04-047 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -2339,7 +2339,7 @@
     "description": "[Your Turn] At the end of a battle in which this Character battles your opponent's Character with a cost of 5 or less, place the opponent's Character you battled with at the bottom of the owner's deck.",
     "groupId": 23024
   },
-  "OP04-OP04-048": {
+  "OP04-OP04-048 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.95,
@@ -2365,7 +2365,7 @@
     "description": "[On Play] Return all cards in your hand to your deck and shuffle your deck. Then, draw cards equal to the number you returned to your deck.",
     "groupId": 23024
   },
-  "OP04-OP04-049": {
+  "OP04-OP04-049 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -2391,7 +2391,7 @@
     "description": "[On K.O.] Draw 1 card.",
     "groupId": 23024
   },
-  "OP04-OP04-050": {
+  "OP04-OP04-050 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -2417,7 +2417,7 @@
     "description": "[Activate:Main] <strong>You may trash 1 card from your hand and rest this Character</strong>: Draw 1 card.",
     "groupId": 23024
   },
-  "OP04-OP04-052": {
+  "OP04-OP04-052 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -2443,7 +2443,7 @@
     "description": "[Activate:Main] (2) <em>(You may rest the specified number of DON!! cards in your cost area.)</em> <strong>You may rest this Character</strong>: Draw 1 card.\r\n<br>\r\n[Trigger] Play this card.",
     "groupId": 23024
   },
-  "OP04-OP04-053": {
+  "OP04-OP04-053 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -2469,7 +2469,7 @@
     "description": "[DON!! x1] [Once Per Turn] When you activate an Event, draw 1 card. Then, place 1 card from your hand at the bottom of your deck.",
     "groupId": 23024
   },
-  "OP04-OP04-054": {
+  "OP04-OP04-054 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -2495,7 +2495,7 @@
     "description": "",
     "groupId": 23024
   },
-  "OP04-OP04-055": {
+  "OP04-OP04-055 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -2547,7 +2547,7 @@
     "description": "[Main] Place up to 1 Character at the bottom of the owner's deck.\r\n<br>\r\n[Trigger] Place up to 1 Character with a cost of 4 or less at the bottom of the owner's deck.",
     "groupId": 23024
   },
-  "OP04-OP04-057": {
+  "OP04-OP04-057 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.95,
@@ -2573,7 +2573,7 @@
     "description": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, place up to 1 Character with a cost of 1 or less at the bottom of the owner's deck.\r\n<br>\r\n[Trigger] Return up to 1 Character with a cost of 6 or less to the owner's hand.",
     "groupId": 23024
   },
-  "OP04-OP04-059": {
+  "OP04-OP04-059 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 20.0,
@@ -2599,7 +2599,7 @@
     "description": "[On Your Opponent's Attack] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: If your Leader has the [Water Seven] type, this Character gains [Blocker] during this turn. <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
     "groupId": 23024
   },
-  "OP04-OP04-061": {
+  "OP04-OP04-061 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -2625,7 +2625,7 @@
     "description": "[Activate:Main] <strong>You may trash this Character</strong>: If your Leader has the [Water Seven] type, add up to 1 DON!! card from your DON!! deck and rest it.",
     "groupId": 23024
   },
-  "OP04-OP04-062": {
+  "OP04-OP04-062 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -2677,7 +2677,7 @@
     "description": "[On Your Opponent's Attack] [Once Per Turn] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: If your Leader has the [Water Seven] type, up to 1 of your Leader or Character cards gains +1000 power during this battle.",
     "groupId": 23024
   },
-  "OP04-OP04-065": {
+  "OP04-OP04-065 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -2729,7 +2729,7 @@
     "description": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"Baroque Works\" and add it to your hand. Then, place the rest at the bottom of your deck in any order.\r\n<br>\r\n[Trigger] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: Play this card.",
     "groupId": 23024
   },
-  "OP04-OP04-067": {
+  "OP04-OP04-067 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -2755,7 +2755,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>\r\n<br>\r\n[Trigger] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: Play this card.",
     "groupId": 23024
   },
-  "OP04-OP04-068": {
+  "OP04-OP04-068 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -2781,7 +2781,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>\r\n<br>\r\n[On Your Opponent's Attack] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: Return up to 1 of your opponent's Characters with a cost of 2 or less to the owner's hand.",
     "groupId": 23024
   },
-  "OP04-OP04-069": {
+  "OP04-OP04-069 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.11,
     "highPrice": 4.95,
@@ -2807,7 +2807,7 @@
     "description": "[On Your Opponent's Attack] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: This Character's base power becomes the same as the power of your opponent's attacking Leader or Character during this turn.\r\n<br>\r\n[Trigger] <strong>DON!! -1</strong>: Play this card.",
     "groupId": 23024
   },
-  "OP04-OP04-070": {
+  "OP04-OP04-070 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -2833,7 +2833,7 @@
     "description": "[On Your Opponent's Attack] [Once Per Turn] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: Give up to 1 of your opponent's Characters -1000 power during this turn.",
     "groupId": 23024
   },
-  "OP04-OP04-071": {
+  "OP04-OP04-071 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -2859,7 +2859,7 @@
     "description": "[On Your Opponent's Attack] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: This Character gains [Blocker] and +1000 power during this battle. <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
     "groupId": 23024
   },
-  "OP04-OP04-073": {
+  "OP04-OP04-073 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -2911,7 +2911,7 @@
     "description": "[Counter] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: Up to 1 of your Leader or Character cards gains +1000 power during this battle. Then, rest up to 1 of your opponent's Characters with a cost of 4 or less.\r\n<br>\r\n[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
     "groupId": 23024
   },
-  "OP04-OP04-075": {
+  "OP04-OP04-075 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -2937,7 +2937,7 @@
     "description": "[Counter] Up to 1 of your Leader or Character cards gains +6000 power during this battle. Then, if you have 2 or less Life cards, add up to 1 DON!! card from your DON!! deck and rest it.\r\n<br>\r\n[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
     "groupId": 23024
   },
-  "OP04-OP04-076": {
+  "OP04-OP04-076 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -2963,7 +2963,7 @@
     "description": "[Counter] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: Up to 1 of your Leader or Character cards gains +1000 power during this turn.\r\n<br>\r\n[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
     "groupId": 23024
   },
-  "OP04-OP04-077": {
+  "OP04-OP04-077 normal": {
     "lowPrice": 0.09,
     "midPrice": 0.25,
     "highPrice": 4.95,
@@ -2989,7 +2989,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
     "groupId": 23024
   },
-  "OP04-OP04-078": {
+  "OP04-OP04-078 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -3015,7 +3015,7 @@
     "description": "",
     "groupId": 23024
   },
-  "OP04-OP04-079": {
+  "OP04-OP04-079 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.95,
@@ -3041,7 +3041,7 @@
     "description": "[Activate:Main] [Once Per Turn] Give up to 1 of your opponent's Characters -4 cost during this turn and trash 2 cards from the top of your deck. Then, K.O. 1 of your [Dressrosa] type Characters.",
     "groupId": 23024
   },
-  "OP04-OP04-080": {
+  "OP04-OP04-080 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.27,
     "highPrice": 4.95,
@@ -3093,7 +3093,7 @@
     "description": "[DON!! x1] This Character can also attack active Characters.\r\n<br>\r\n[When Attacking] <strong>You may rest your Leader</strong>: K.O. up to 1 of your opponent's Characters with a cost of 1 or less. Then, trash 2 cards from the top of your deck.",
     "groupId": 23024
   },
-  "OP04-OP04-084": {
+  "OP04-OP04-084 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.11,
     "highPrice": 4.95,
@@ -3119,7 +3119,7 @@
     "description": "[On Play] Look at 3 cards from the top of your deck and play up to 1 Character card with a type including \"CP\" other than [Stussy] and a cost of 2 or less. Then, trash the rest.",
     "groupId": 23024
   },
-  "OP04-OP04-085": {
+  "OP04-OP04-085 normal": {
     "lowPrice": 0.04,
     "midPrice": 0.17,
     "highPrice": 4.95,
@@ -3145,7 +3145,7 @@
     "description": "[On Play] [When Attacking] If your Leader has the [Dressrosa] type, give up to 1 of your opponent's Characters -2 cost during this turn. Then, trash 1 card from the top of your deck.",
     "groupId": 23024
   },
-  "OP04-OP04-086": {
+  "OP04-OP04-086 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -3171,7 +3171,7 @@
     "description": "[DON!! x1] When this Character battles and K.O.'s your opponent's Character, draw 2 cards and trash 2 cards from your hand.",
     "groupId": 23024
   },
-  "OP04-OP04-087": {
+  "OP04-OP04-087 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -3197,7 +3197,7 @@
     "description": "",
     "groupId": 23024
   },
-  "OP04-OP04-088": {
+  "OP04-OP04-088 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.95,
@@ -3249,7 +3249,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
     "groupId": 23024
   },
-  "OP04-OP04-091": {
+  "OP04-OP04-091 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.95,
@@ -3301,7 +3301,7 @@
     "description": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 [Dressrosa] type card other than [Rebecca] and add it to your hand. Then, trash the rest.",
     "groupId": 23024
   },
-  "OP04-OP04-093": {
+  "OP04-OP04-093 normal": {
     "lowPrice": 0.59,
     "midPrice": 0.96,
     "highPrice": 4.95,
@@ -3353,7 +3353,7 @@
     "description": "[Main] Choose up to 1 of your opponent's Characters with a cost of 4 or less and K.O. it. If you have 15 or more cards in your trash, choose up to 1 of your opponent's Characters with a cost of 6 or less instead of a Character with a cost of 4 or less.\r\n<br>\r\n[Trigger] <strong>You may rest your Leader</strong>: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
     "groupId": 23024
   },
-  "OP04-OP04-095": {
+  "OP04-OP04-095 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -3379,7 +3379,7 @@
     "description": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 15 or more cards in your trash, that card gains an additional +2000 power during this battle.\r\n<br>\r\n[Trigger] Draw 2 cards and trash 1 card from your hand.",
     "groupId": 23024
   },
-  "OP04-OP04-096": {
+  "OP04-OP04-096 normal": {
     "lowPrice": 0.12,
     "midPrice": 0.3,
     "highPrice": 20.0,
@@ -3405,7 +3405,7 @@
     "description": "If your Leader has the [Dressrosa] type, your [Dressrosa] type Characters can attack Characters on the turn in which they are played.",
     "groupId": 23024
   },
-  "OP04-OP04-097": {
+  "OP04-OP04-097 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -3431,7 +3431,7 @@
     "description": "[On Play] Add up to 1 of your opponent's [Animal] or [SMILE] type Characters with a cost of 3 or less to the top of your opponent's Life cards face-up.",
     "groupId": 23024
   },
-  "OP04-OP04-098": {
+  "OP04-OP04-098 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -3483,7 +3483,7 @@
     "description": "Also treat this card's name as [Charlotte Linlin] according to the rules.\r\n<br>\r\n[Trigger] If you have 1 or less Life cards, play this card.",
     "groupId": 23024
   },
-  "OP04-OP04-101": {
+  "OP04-OP04-101 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.95,
@@ -3535,7 +3535,7 @@
     "description": "[Activate:Main] [Once Per Turn] (1) <em>(You may rest the specified number of DON!! cards in your cost area.)</em> <strong>You may add 1 card from the top or bottom of your Life cards to your hand</strong>: Set this Character as active.",
     "groupId": 23024
   },
-  "OP04-OP04-103": {
+  "OP04-OP04-103 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.16,
     "highPrice": 10.0,
@@ -3587,7 +3587,7 @@
     "description": "[Activate:Main] [Once Per Turn] <strong>You may trash 1 card with a [Trigger] from your hand</strong>: Rest up to 1 of your opponent's Characters with a cost of 2 or less.",
     "groupId": 23024
   },
-  "OP04-OP04-106": {
+  "OP04-OP04-106 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -3613,7 +3613,7 @@
     "description": "[DON!! x1] If you have less Life cards than your opponent, this Character gains +1000 power.\r\n<br>\r\n[Trigger] <strong>You may trash 1 card from your hand</strong>: Play this card.",
     "groupId": 23024
   },
-  "OP04-OP04-107": {
+  "OP04-OP04-107 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 10.0,
@@ -3639,7 +3639,7 @@
     "description": "",
     "groupId": 23024
   },
-  "OP04-OP04-108": {
+  "OP04-OP04-108 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.14,
     "highPrice": 4.95,
@@ -3665,7 +3665,7 @@
     "description": "[DON!! x1] This Character gains [Banish]. <em>(When this card deals damage, the target card is trashed without activating its Trigger.)</em>\r\n<br>\r\n[Trigger] <strong>You may trash 1 card from your hand</strong>: Play this card.",
     "groupId": 23024
   },
-  "OP04-OP04-109": {
+  "OP04-OP04-109 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -3691,7 +3691,7 @@
     "description": "[Activate:Main] <strong>You may trash this Character</strong>: Up to 1 of your [Land of Wano] type Leader or Character cards gains +3000 power during this turn.",
     "groupId": 23024
   },
-  "OP04-OP04-110": {
+  "OP04-OP04-110 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -3717,7 +3717,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>\r\n<br>\r\n[On K.O.] Add up to 1 of your opponent's Characters with a cost of 3 or less to the top or bottom of your opponent's Life cards face-up.",
     "groupId": 23024
   },
-  "OP04-OP04-111": {
+  "OP04-OP04-111 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -3743,7 +3743,7 @@
     "description": "[Activate:Main] <strong>You may trash 1 of your [Homies] type Characters other than this Character and rest this Character</strong>: Set up to 1 of your [Charlotte Linlin] Characters as active.\r\n<br>\r\n[Trigger] Play this card.",
     "groupId": 23024
   },
-  "OP04-OP04-113": {
+  "OP04-OP04-113 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -3769,7 +3769,7 @@
     "description": "[Trigger] Play this card.",
     "groupId": 23024
   },
-  "OP04-OP04-114": {
+  "OP04-OP04-114 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -3795,7 +3795,7 @@
     "description": "",
     "groupId": 23024
   },
-  "OP04-OP04-115": {
+  "OP04-OP04-115 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -3821,7 +3821,7 @@
     "description": "[Main] <strong>You may add 1 card from the top or bottom of your Life cards to your hand</strong>: Up to 1 of your [Land of Wano] type Characters gains [Double Attack] during this turn. <em>(This card deals 2 damage.)</em>\r\n<br>\r\n[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
     "groupId": 23024
   },
-  "OP04-OP04-116": {
+  "OP04-OP04-116 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,

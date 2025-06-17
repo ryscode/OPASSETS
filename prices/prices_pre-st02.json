@@ -77,7 +77,7 @@
     "description": "[On Play] Set up to 1 of your \"Supernovas\" or \"Heart Pirates\" type rested Characters with a cost of 5 or less as active.",
     "groupId": 17658
   },
-  "ST02-ST02-014": {
+  "ST02-ST02-014 normal": {
     "lowPrice": 0.2,
     "midPrice": 1.02,
     "highPrice": 14.95,
@@ -103,7 +103,7 @@
     "description": "[DON!! x1] [Your Turn] If this Character is rested, your \"Supernovas\" or \"Navy\" type Leaders and Characters gain +1000 power.",
     "groupId": 17658
   },
-  "ST02-ST02-002": {
+  "ST02-ST02-002 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 2.95,
@@ -129,7 +129,7 @@
     "description": "",
     "groupId": 17658
   },
-  "ST02-ST02-003": {
+  "ST02-ST02-003 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.53,
     "highPrice": 9.95,
@@ -155,7 +155,7 @@
     "description": "[DON!! x1] If you have 3 or more Characters, this card gains +2000 power.",
     "groupId": 17658
   },
-  "ST02-ST02-017": {
+  "ST02-ST02-017 normal": {
     "lowPrice": 3.75,
     "midPrice": 6.07,
     "highPrice": 15.6,
@@ -181,7 +181,7 @@
     "description": "[Main] Rest up to 1 of your opponent's Characters.",
     "groupId": 17658
   },
-  "ST02-ST02-008": {
+  "ST02-ST02-008 normal": {
     "lowPrice": 3.96,
     "midPrice": 4.84,
     "highPrice": 9.95,
@@ -207,7 +207,7 @@
     "description": "[DON!! x1] [When Attacking] Rest up to 1 of your opponent's DON!! cards.",
     "groupId": 17658
   },
-  "ST02-ST02-015": {
+  "ST02-ST02-015 normal": {
     "lowPrice": 0.42,
     "midPrice": 0.84,
     "highPrice": 10.95,
@@ -233,7 +233,7 @@
     "description": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, set up to 1 of your DON!! cards as active.\r\n<br>\r\n[Trigger] Set up to 2 of your DON!! cards as active.",
     "groupId": 17658
   },
-  "ST02-ST02-016": {
+  "ST02-ST02-016 normal": {
     "lowPrice": 0.14,
     "midPrice": 0.5,
     "highPrice": 2.95,
@@ -259,7 +259,7 @@
     "description": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, set up to 1 of your DON!! cards as active.",
     "groupId": 17658
   },
-  "ST02-ST02-006": {
+  "ST02-ST02-006 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.4,
     "highPrice": 2.95,
@@ -285,7 +285,7 @@
     "description": "",
     "groupId": 17658
   },
-  "ST02-ST02-005": {
+  "ST02-ST02-005 normal": {
     "lowPrice": 0.44,
     "midPrice": 0.63,
     "highPrice": 14.99,
@@ -311,7 +311,7 @@
     "description": "[On Play] K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.\r\n<br>\r\n[Trigger] Play this card.",
     "groupId": 17658
   },
-  "ST02-ST02-007": {
+  "ST02-ST02-007 normal": {
     "lowPrice": 3.73,
     "midPrice": 5.17,
     "highPrice": 8.95,
@@ -337,7 +337,7 @@
     "description": "[Activate: Main] (1) <em>(You may rest the specified number of DON!! cards in your cost area.)</em> You may rest this card: Look at 5 cards from the top of your deck; reveal up to 1 \"Supernovas\" type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "groupId": 17658
   },
-  "ST02-ST02-011": {
+  "ST02-ST02-011 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 2.95,
@@ -363,7 +363,7 @@
     "description": "",
     "groupId": 17658
   },
-  "ST02-ST02-004": {
+  "ST02-ST02-004 normal": {
     "lowPrice": 0.29,
     "midPrice": 0.97,
     "highPrice": 12.99,
@@ -389,7 +389,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
     "groupId": 17658
   },
-  "ST02-ST02-012": {
+  "ST02-ST02-012 normal": {
     "lowPrice": 0.18,
     "midPrice": 0.3,
     "highPrice": 2.99,
@@ -415,7 +415,7 @@
     "description": "",
     "groupId": 17658
   },
-  "ST02-ST02-010": {
+  "ST02-ST02-010 normal": {
     "lowPrice": 1.7,
     "midPrice": 3.99,
     "highPrice": 14.99,

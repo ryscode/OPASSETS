@@ -25,7 +25,7 @@
     "description": "[DON!! x2] [When Attacking] [1] <em>(You may rest the specified number of DON!! cards in your cost area.)</em>: Reveal 1 card from the top of your deck. If that card is a \"The Seven Warlords of the Sea\" type Character card with a cost of 4 or less, you may play that card rested.",
     "groupId": 23492
   },
-  "OP01-OP01-073": {
+  "OP01-OP01-073 normal": {
     "lowPrice": 0.08,
     "midPrice": 0.25,
     "highPrice": 7.99,
@@ -51,7 +51,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em><br><br>\r\n[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
     "groupId": 23492
   },
-  "OP02-OP02-054": {
+  "OP02-OP02-054 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.14,
     "highPrice": 3.99,
@@ -77,7 +77,7 @@
     "description": "",
     "groupId": 23492
   },
-  "OP02-OP02-057": {
+  "OP02-OP02-057 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.99,
@@ -103,7 +103,7 @@
     "description": "[On Play] Look at 2 cards from the top of your deck; reveal up to 1 \"The Seven Warlords of the Sea\" type card and add it to your hand. Then, place the rest at the top or bottom of the deck in any order.",
     "groupId": 23492
   },
-  "P-P-030": {
+  "P-P-030 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.21,
     "highPrice": 9.99,
@@ -129,7 +129,7 @@
     "description": "[On K.O.] Place up to 1 Character with a cost of 3 or less at the bottom of the owner's deck.",
     "groupId": 23492
   },
-  "ST17-ST17-001": {
+  "ST17-ST17-001 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 3.99,
@@ -181,7 +181,7 @@
     "description": "[On Play] You may return 1 of your Characters to the owner's hand: If your Leader has the \"The Seven Warlords of the Sea\" type, return up to 1 Character with a cost of 4 or less to the owner's hand.",
     "groupId": 23492
   },
-  "ST17-ST17-003": {
+  "ST17-ST17-003 normal": {
     "lowPrice": 2.21,
     "midPrice": 3.38,
     "highPrice": 9.99,
@@ -233,7 +233,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em><br><br>\r\n[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of your deck in any order. Then, give up to 1 rested DON!! card to 1 of your \"The Seven Warlords of the Sea\" type Leader or Character cards.",
     "groupId": 23492
   },
-  "ST17-ST17-005": {
+  "ST17-ST17-005 normal": {
     "lowPrice": 1.16,
     "midPrice": 1.75,
     "highPrice": 4.93,

@@ -25,7 +25,7 @@
     "description": "[Activate: Main] [Once Per Turn] DON!! -7 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: Trash <span style=\"color:red\">up to</span> 1 of your opponent's Life cards.\r\n<br><strong><span style=\"color:red\">Disclaimer: This card has been re-printed with new errata'd text as part of the Revision Pack cards series. This product page is for the original, pre-errata print of this card.</span></strong>",
     "groupId": 3190
   },
-  "ST04-ST04-002": {
+  "ST04-ST04-002 normal": {
     "lowPrice": 0.15,
     "midPrice": 0.3,
     "highPrice": 3.94,
@@ -77,7 +77,7 @@
     "description": "[On Play] DON!! -5 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: K.O. <span style=\"color:red\">up to</span> 1 of your opponent's Characters with a cost of 6 or less. \r\n<br>This Character gains [Rush] during this turn. \r\n<br>(This card can attack on the turn in which it is played.)\r\n<br><strong><span style=\"color:red\">Disclaimer: This card has been re-printed with new errata'd text as part of the Revision Pack cards series. This product page is for the original, pre-errata print of this card.</span></strong>",
     "groupId": 3190
   },
-  "ST04-ST04-003": {
+  "ST04-ST04-003 normal": {
     "lowPrice": 0.07,
     "midPrice": 0.25,
     "highPrice": 2.0,
@@ -129,7 +129,7 @@
     "description": "[On Play] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: K.O. <span style=\"color:red\">up to</span> 1 of your opponent's Characters with a cost of 4 or less.\r\n<br><strong><span style=\"color:red\">Disclaimer: This card has been re-printed with new errata'd text as part of the Revision Pack cards series. This product page is for the original, pre-errata print of this card.</span></strong>",
     "groupId": 3190
   },
-  "ST04-ST04-005": {
+  "ST04-ST04-005 normal": {
     "lowPrice": 0.14,
     "midPrice": 0.5,
     "highPrice": 40.0,
@@ -155,7 +155,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em> \r\n<br>[On Play] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: Draw 2 cards and trash 1 card from your hand.",
     "groupId": 3190
   },
-  "ST04-ST04-006": {
+  "ST04-ST04-006 normal": {
     "lowPrice": 0.04,
     "midPrice": 0.19,
     "highPrice": 1.34,
@@ -181,7 +181,7 @@
     "description": "[On Play] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: Draw 1 card.",
     "groupId": 3190
   },
-  "ST04-ST04-007": {
+  "ST04-ST04-007 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 1.31,
@@ -207,7 +207,7 @@
     "description": "",
     "groupId": 3190
   },
-  "ST04-ST04-008": {
+  "ST04-ST04-008 normal": {
     "lowPrice": 0.08,
     "midPrice": 0.24,
     "highPrice": 2.0,
@@ -233,7 +233,7 @@
     "description": "[On Play] You may trash 1 card from your hand: Add <span style=\"color:red\">up to</span> 1 <span style=\"color:red\">DON!!</span> card from your DON!! deck and set it as active.\r\n<br><strong><span style=\"color:red\">Disclaimer: This card has been re-printed with new errata'd text as part of the Revision Pack cards series. This product page is for the original, pre-errata print of this card.</span></strong>",
     "groupId": 3190
   },
-  "ST04-ST04-009": {
+  "ST04-ST04-009 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 1.31,
@@ -259,7 +259,7 @@
     "description": "",
     "groupId": 3190
   },
-  "ST04-ST04-010": {
+  "ST04-ST04-010 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 1.99,
@@ -285,7 +285,7 @@
     "description": "[On Play] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: K.O. <span style=\"color:red\">up to</span> 1 of your opponent's Characters with a cost of 3 or less. \r\n<br>[Trigger] Play this card.\r\n<br><strong><span style=\"color:red\">Disclaimer: This card has been re-printed with new errata'd text as part of the Revision Pack cards series. This product page is for the original, pre-errata print of this card.</span></strong>",
     "groupId": 3190
   },
-  "ST04-ST04-011": {
+  "ST04-ST04-011 normal": {
     "lowPrice": 0.03,
     "midPrice": 0.2,
     "highPrice": 15.0,
@@ -311,7 +311,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
     "groupId": 3190
   },
-  "ST04-ST04-012": {
+  "ST04-ST04-012 normal": {
     "lowPrice": 0.19,
     "midPrice": 0.27,
     "highPrice": 3.5,
@@ -337,7 +337,7 @@
     "description": "",
     "groupId": 3190
   },
-  "ST04-ST04-013": {
+  "ST04-ST04-013 normal": {
     "lowPrice": 0.03,
     "midPrice": 0.19,
     "highPrice": 1.33,
@@ -363,7 +363,7 @@
     "description": "",
     "groupId": 3190
   },
-  "ST04-ST04-014": {
+  "ST04-ST04-014 normal": {
     "lowPrice": 1.4,
     "midPrice": 3.53,
     "highPrice": 9.99,
@@ -389,7 +389,7 @@
     "description": "[Main] Draw 1 card, then add <span style=\"color:red\">up to</span> 1 <span style=\"color:red\">DON!!</span> card from your DON!! deck and set it as active. [Trigger] <br>Activate this card's [Main] effect.\r\n<br><strong><span style=\"color:red\">Disclaimer: This card has been re-printed with new errata'd text as part of the Revision Pack cards series. This product page is for the original, pre-errata print of this card.</span></strong>",
     "groupId": 3190
   },
-  "ST04-ST04-015": {
+  "ST04-ST04-015 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 1.35,
@@ -415,7 +415,7 @@
     "description": "[Main] K.O. <span style=\"color:red\">up to</span> 1 of your opponent's Characters with a cost <span style=\"color:red\">of</span> 6 or less, then add <span style=\"color:red\">up to</span> 1 DON!! card from your DON!! <span style=\"color:red\">deck</span> and set it as active. \r\n<br>[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.\r\n<br><strong><span style=\"color:red\">Disclaimer: This card has been re-printed with new errata'd text as part of the Revision Pack cards series. This product page is for the original, pre-errata print of this card.</span></strong>",
     "groupId": 3190
   },
-  "ST04-ST04-016": {
+  "ST04-ST04-016 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 8.4,
@@ -441,7 +441,7 @@
     "description": "[Counter] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: <span style=\"color:red\">Up to 1 of your</span> Leader or <span style=\"color:red\">Character cards</span> gains +4000 power during this battle.\r\n<br><strong><span style=\"color:red\">Disclaimer: This card has been re-printed with new errata'd text as part of the Revision Pack cards series. This product page is for the original, pre-errata print of this card.</span></strong>",
     "groupId": 3190
   },
-  "ST04-ST04-017": {
+  "ST04-ST04-017 normal": {
     "lowPrice": 0.24,
     "midPrice": 0.41,
     "highPrice": 2.0,

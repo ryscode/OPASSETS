@@ -25,7 +25,7 @@
     "description": "[Activate: Main] [Once Per Turn] DON!! -7 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: Trash up to 1 of your opponent's Life cards.",
     "groupId": 17661
   },
-  "ST04-ST04-002": {
+  "ST04-ST04-002 normal": {
     "lowPrice": 1.3,
     "midPrice": 2.18,
     "highPrice": 6.5,
@@ -103,7 +103,7 @@
     "description": "[On Play] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
     "groupId": 17661
   },
-  "ST04-ST04-005": {
+  "ST04-ST04-005 normal": {
     "lowPrice": 1.75,
     "midPrice": 3.79,
     "highPrice": 503.29,
@@ -129,7 +129,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em> \r\n<br>[On Play] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: Draw 2 cards and trash 1 card from your hand.",
     "groupId": 17661
   },
-  "ST04-ST04-006": {
+  "ST04-ST04-006 normal": {
     "lowPrice": 0.15,
     "midPrice": 0.47,
     "highPrice": 2.99,
@@ -155,7 +155,7 @@
     "description": "[On Play] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: Draw 1 card.",
     "groupId": 17661
   },
-  "ST04-ST04-007": {
+  "ST04-ST04-007 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 2.0,
@@ -181,7 +181,7 @@
     "description": "",
     "groupId": 17661
   },
-  "ST04-ST04-008": {
+  "ST04-ST04-008 normal": {
     "lowPrice": 0.34,
     "midPrice": 0.5,
     "highPrice": 4.99,
@@ -207,7 +207,7 @@
     "description": "[On Play] You may trash 1 card from your hand: Add up to 1 DON!! card from your DON!! deck and set it as active.",
     "groupId": 17661
   },
-  "ST04-ST04-009": {
+  "ST04-ST04-009 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 2.0,
@@ -233,7 +233,7 @@
     "description": "",
     "groupId": 17661
   },
-  "ST04-ST04-010": {
+  "ST04-ST04-010 normal": {
     "lowPrice": 0.14,
     "midPrice": 0.29,
     "highPrice": 6.35,
@@ -259,7 +259,7 @@
     "description": "[On Play] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: K.O. up to 1 of your opponent's Characters with a cost of 3 or less. \r\n<br>[Trigger] Play this card.",
     "groupId": 17661
   },
-  "ST04-ST04-011": {
+  "ST04-ST04-011 normal": {
     "lowPrice": 0.15,
     "midPrice": 0.35,
     "highPrice": 5.8,
@@ -285,7 +285,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
     "groupId": 17661
   },
-  "ST04-ST04-012": {
+  "ST04-ST04-012 normal": {
     "lowPrice": 0.45,
     "midPrice": 1.0,
     "highPrice": 4.95,
@@ -311,7 +311,7 @@
     "description": "",
     "groupId": 17661
   },
-  "ST04-ST04-013": {
+  "ST04-ST04-013 normal": {
     "lowPrice": 0.2,
     "midPrice": 0.49,
     "highPrice": 5.95,
@@ -337,7 +337,7 @@
     "description": "",
     "groupId": 17661
   },
-  "ST04-ST04-014": {
+  "ST04-ST04-014 normal": {
     "lowPrice": 3.55,
     "midPrice": 6.69,
     "highPrice": 14.99,
@@ -363,7 +363,7 @@
     "description": "[Main] Draw 1 card, then add up to 1 DON!! card from your DON!! deck and set it as active. [Trigger] <br>Activate this card's [Main] effect.",
     "groupId": 17661
   },
-  "ST04-ST04-015": {
+  "ST04-ST04-015 normal": {
     "lowPrice": 2.09,
     "midPrice": 2.47,
     "highPrice": 19.9,
@@ -389,7 +389,7 @@
     "description": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 6 or less, then add up to 1 DON!! card from your DON!! deck and set it as active. \r\n<br>[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
     "groupId": 17661
   },
-  "ST04-ST04-016": {
+  "ST04-ST04-016 normal": {
     "lowPrice": 0.29,
     "midPrice": 0.5,
     "highPrice": 13.98,
@@ -415,7 +415,7 @@
     "description": "[Counter] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: Up to 1 of your Leader or Character cards gains +4000 power during this battle.",
     "groupId": 17661
   },
-  "ST04-ST04-017": {
+  "ST04-ST04-017 normal": {
     "lowPrice": 1.18,
     "midPrice": 1.43,
     "highPrice": 13.0,

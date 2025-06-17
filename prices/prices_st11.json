@@ -25,7 +25,7 @@
     "description": "[DON!! x1][When Attacking][Once Per Turn] <strong>You may return 1 of your Characters with a cost of 2 or more to the owner's hand</strong>: Set up to 1 of your Characters with 7000 power or less as active.",
     "groupId": 23348
   },
-  "ST12-ST12-008": {
+  "ST12-ST12-008 normal": {
     "lowPrice": 0.23,
     "midPrice": 0.31,
     "highPrice": 1.0,
@@ -51,7 +51,7 @@
     "description": "[DON!! x1][When Attacking] Rest up to 1 of your opponent's Characters with a cost of 6 or less.",
     "groupId": 23348
   },
-  "ST12-ST12-011": {
+  "ST12-ST12-011 normal": {
     "lowPrice": 0.15,
     "midPrice": 0.25,
     "highPrice": 4.99,
@@ -77,7 +77,7 @@
     "description": "[DON!! x1][When Attacking] If you have 5 or less cards in your hand, this Character gains +2000 power until the start of your next turn.",
     "groupId": 23348
   },
-  "ST12-ST12-016": {
+  "ST12-ST12-016 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 1.0,
@@ -103,7 +103,7 @@
     "description": "[Main] / [Counter] Rest up to 1 of your opponent's Leader or Character cards with a cost of 4 or less.\r\n<br>\r\n[Trigger] Activate this card's [Main] effect.",
     "groupId": 23348
   },
-  "ST12-ST12-017": {
+  "ST12-ST12-017 normal": {
     "lowPrice": 0.09,
     "midPrice": 0.17,
     "highPrice": 2.99,
@@ -129,7 +129,7 @@
     "description": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, reveal 1 card from the top of your deck, play up to 1 Character card with a cost of 2, and place the rest at the top or bottom of your deck.",
     "groupId": 23348
   },
-  "ST12-ST12-002": {
+  "ST12-ST12-002 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 1.0,
@@ -181,7 +181,7 @@
     "description": "[On Play] If you have 2 or less Characters, play up to 1 [Muggy Kingdom] type or \"Slash\" attribute Character card with a cost of 4 or less other than [Dracule Mihawk] from your hand rested.",
     "groupId": 23348
   },
-  "ST12-ST12-004": {
+  "ST12-ST12-004 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 1.0,
@@ -207,7 +207,7 @@
     "description": "",
     "groupId": 23348
   },
-  "ST12-ST12-005": {
+  "ST12-ST12-005 normal": {
     "lowPrice": 0.09,
     "midPrice": 0.15,
     "highPrice": 1.0,
@@ -233,7 +233,7 @@
     "description": "",
     "groupId": 23348
   },
-  "ST12-ST12-006": {
+  "ST12-ST12-006 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 1.0,
@@ -259,7 +259,7 @@
     "description": "[DON!! x1][When Attacking] Choose one:\r\n<br>\r\n• Rest up to 1 of your opponent's Characters with a cost of 2 or less.\r\n<br>\r\n• K.O. up to 1 of your opponent's rested Characters with a cost of 2 or less.",
     "groupId": 23348
   },
-  "ST12-ST12-007": {
+  "ST12-ST12-007 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.11,
     "highPrice": 1.0,
@@ -285,7 +285,7 @@
     "description": "[On Play] (2) <em>(You may rest the specified number of DON!! cards in your cost area.)</em>: If your opponent has 3 or more Life cards, set up to 1 of your \"Slash\" attribute Characters with a cost of 4 or less as active.",
     "groupId": 23348
   },
-  "ST12-ST12-009": {
+  "ST12-ST12-009 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 1.0,
@@ -337,7 +337,7 @@
     "description": "[On Play] Reveal 1 card from the top of your deck and play up to 1 Character card with a cost of 2. Then, place the rest at the top or bottom of your deck.\r\n<br>\r\n[When Attacking][Once Per Turn] Draw 1 card if you have 6 or less cards in your hand.",
     "groupId": 23348
   },
-  "ST12-ST12-012": {
+  "ST12-ST12-012 normal": {
     "lowPrice": 0.25,
     "midPrice": 0.35,
     "highPrice": 3.45,
@@ -363,7 +363,7 @@
     "description": "[Activate:Main] Return this Character to the owner's hand.",
     "groupId": 23348
   },
-  "ST12-ST12-013": {
+  "ST12-ST12-013 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 1.0,
@@ -389,7 +389,7 @@
     "description": "[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.\r\n<br>\r\n[When Attacking] Reveal 1 card from the top of your deck and play up to 1 Character card with a cost of 2 rested. Then, place the rest at the top or bottom of your deck.",
     "groupId": 23348
   },
-  "ST12-ST12-014": {
+  "ST12-ST12-014 normal": {
     "lowPrice": 0.02,
     "midPrice": 0.2,
     "highPrice": 5.5,
@@ -415,7 +415,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>\r\n<br>\r\n[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
     "groupId": 23348
   },
-  "ST12-ST12-015": {
+  "ST12-ST12-015 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 1.0,

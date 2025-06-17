@@ -25,7 +25,7 @@
     "description": "[On Play] <strong>You may trash 1 card from your hand</strong>: K.O. all Characters with a cost of 1 or less.",
     "groupId": 22956
   },
-  "ST08-ST08-008": {
+  "ST08-ST08-008 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 1.0,
@@ -51,7 +51,7 @@
     "description": "[On Play] Give up to 1 of your opponent's Characters -2 cost during this turn.",
     "groupId": 22956
   },
-  "ST08-ST08-004": {
+  "ST08-ST08-004 normal": {
     "lowPrice": 0.09,
     "midPrice": 0.25,
     "highPrice": 59.0,
@@ -103,7 +103,7 @@
     "description": "This Character cannot be K.O.'d in battle by Leaders.\r\n<br>\r\n[Activate:Main] <strong>You may rest this Character</strong>: Give up to 1 of your opponent's Characters -2 cost during this turn.",
     "groupId": 22956
   },
-  "ST08-ST08-014": {
+  "ST08-ST08-014 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.3,
     "highPrice": 3.0,
@@ -129,7 +129,7 @@
     "description": "[Main] <strong>You may add 1 card from the top of your Life cards to your hand</strong>: Give up to 1 of your opponent's Characters -7 cost during this turn.\r\n<br>\r\n[Trigger] Add up to 1 black Character card with a cost of 2 or less from your trash to your hand.",
     "groupId": 22956
   },
-  "ST08-ST08-007": {
+  "ST08-ST08-007 normal": {
     "lowPrice": 0.08,
     "midPrice": 0.35,
     "highPrice": 3.5,
@@ -181,7 +181,7 @@
     "description": "[Your Turn] When a Character is K.O.'d, give up to 1 rested DON!! card to this Leader.",
     "groupId": 22956
   },
-  "ST08-ST08-006": {
+  "ST08-ST08-006 normal": {
     "lowPrice": 1.95,
     "midPrice": 2.94,
     "highPrice": 4.95,
@@ -207,7 +207,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>\r\n<br>\r\n[On Play] Give up to 1 of your opponent's Characters -4 cost during this turn.",
     "groupId": 22956
   },
-  "ST08-ST08-015": {
+  "ST08-ST08-015 normal": {
     "lowPrice": 0.13,
     "midPrice": 0.3,
     "highPrice": 1.43,
@@ -233,7 +233,7 @@
     "description": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 2 or less.\r\n<br>\r\n[Trigger] Draw 1 card.",
     "groupId": 22956
   },
-  "ST08-ST08-011": {
+  "ST08-ST08-011 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.17,
     "highPrice": 1.52,
@@ -259,7 +259,7 @@
     "description": "",
     "groupId": 22956
   },
-  "ST08-ST08-009": {
+  "ST08-ST08-009 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 1.07,
@@ -285,7 +285,7 @@
     "description": "[On Play] If there is a Character with a cost of 0, draw 1 card.",
     "groupId": 22956
   },
-  "ST08-ST08-013": {
+  "ST08-ST08-013 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.17,
     "highPrice": 1.0,
@@ -311,7 +311,7 @@
     "description": "[DON!! x1] At the end of a battle in which this Character battles your opponent's Character, you may K.O. the opponent's Character you battled with. If you do, K.O. this Character.",
     "groupId": 22956
   },
-  "ST08-ST08-012": {
+  "ST08-ST08-012 normal": {
     "lowPrice": 0.03,
     "midPrice": 0.2,
     "highPrice": 1.99,
@@ -337,7 +337,7 @@
     "description": "",
     "groupId": 22956
   },
-  "ST08-ST08-003": {
+  "ST08-ST08-003 normal": {
     "lowPrice": 0.03,
     "midPrice": 0.15,
     "highPrice": 1.0,
@@ -363,7 +363,7 @@
     "description": "",
     "groupId": 22956
   },
-  "ST08-ST08-010": {
+  "ST08-ST08-010 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 1.0,

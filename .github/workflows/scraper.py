@@ -96,9 +96,9 @@ def build_price_data(group_id):
         if not number:
             continue
 
-        variant = product_info_map.get(pid, {}).get("variant", "")
-        suffix = variant.replace(" ", "").lower() or subtype.replace(" ", "").lower()
-        base_id = f"{number}_{suffix}" if suffix else number
+        variant = product_info_map.get(pid, {}).get("variant")
+        suffix = (variant or subtype or "").replace(" ", "").lower() if (variant or subtype) else ""
+
 
 
         norm_id = normalize_id(base_id)

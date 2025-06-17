@@ -83,9 +83,25 @@ def build_price_data(group_id):
         if not number:
             continue
 
-        variant = product_info_map.get(pid, {}).get("variant")
-        suffix = (variant or subtype or "").replace(" ", "").lower() if (variant or subtype) else ""
-        full_id = f"{number}_{suffix}" if suffix else number
+        info = product_info_map.get(pid, {})
+        variant = (info.get("variant") or "").lower()
+        name = (info.get("name") or "").lower()
+        
+        # 🧠 Eigene Logik für Suffix-Zuweisung
+        if "parallel" in name:
+            suffix = "parallelfoil"
+        elif "box topper" in name:
+            suffix = "boxtopper"
+        elif "alt art" in name:
+            suffix = "altart"
+        elif "promo" in name:
+            suffix = "promo"
+        elif (variant or subtype).lower() == "foil":
+            suffix = "foil"
+        else:
+            suffix = "normal"
+        
+        full_id = f"{number}_{suffix}"
 
         norm_id = normalize_id(full_id)
         card_variants[norm_id].append({

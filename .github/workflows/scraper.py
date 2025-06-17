@@ -96,9 +96,8 @@ def build_price_data(group_id):
         if not number:
             continue
 
-        base_id = number
-        if subtype.lower() != "normal" and subtype:
-            base_id += f"_{subtype.replace(' ', '').lower()}"
+        suffix = subtype.replace(" ", "").lower()
+        base_id = f"{number}_{suffix}" if suffix else number
 
         norm_id = normalize_id(base_id)
         card_variants[norm_id].append({

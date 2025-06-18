@@ -1,5 +1,5 @@
 {
-  "OP02-OP02-001 foil": {
+  "OP02-OP02-001 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.37,
     "highPrice": 4.99,
@@ -233,7 +233,7 @@
     "description": "[When Attacking] If your Leader is [Edward.Newgate], you cannot add Life cards to your hand using your own effects during this turn.",
     "groupId": 23490
   },
-  "ST15-ST15-002 foil": {
+  "ST15-ST15-002 normal": {
     "lowPrice": 2.93,
     "midPrice": 3.99,
     "highPrice": 9.99,
@@ -311,7 +311,7 @@
     "description": "[On Play] If your Leader's type includes \"Whitebeard Pirates\", give up to 1 of your opponent's Characters 2000 power during this turn. Then, add 1 card from the top of your Life cards to your hand.",
     "groupId": 23490
   },
-  "ST15-ST15-005 foil": {
+  "ST15-ST15-005 normal": {
     "lowPrice": 0.25,
     "midPrice": 1.75,
     "highPrice": 9.99,

@@ -25,7 +25,7 @@
     "description": "[Activate:Main] [Once Per Turn] (2) <em>(You may rest the specified number of DON!! cards in your cost area.)</em>: If you have 5 Characters, return 1 of your Characters to your hand. Then, play up to 1 Character with a cost of 5 or less from your hand that is a different color than the returned Character.<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-1\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-003 parallelfoil": {
+  "OP01-OP01-003 normal": {
     "lowPrice": 180.0,
     "midPrice": 214.19,
     "highPrice": 499.99,
@@ -51,7 +51,7 @@
     "description": "[Activate:Main] [Once Per Turn] (4) <em>(You may rest the specified number of DON!! cards in your cost area)</em>: Set up to 1 of your \"Supernova\" or \"Straw Hat Crew\" type Character cards with a cost of 5 or less as active. It gains +1000 power during this turn.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-4\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-008 boxtopper": {
+  "OP01-OP01-008 normal": {
     "lowPrice": 0.45,
     "midPrice": 1.71,
     "highPrice": 15.5,
@@ -77,7 +77,7 @@
     "description": "[On Play] <strong>You may add 1 card from your Life area to your hand:</strong> This Character gains [Rush] during this turn. <em>(This card can attack on the turn in which it is played.)</em>",
     "groupId": 3188
   },
-  "OP01-OP01-024 foil": {
+  "OP01-OP01-024 normal": {
     "lowPrice": 0.08,
     "midPrice": 0.5,
     "highPrice": 10.0,
@@ -103,7 +103,7 @@
     "description": "[DON!! x2] This Character cannot be K.O.'d in battle by \"Strike\" attribute Characters.\r\n<br>\r\n[Activate:Main] [Once Per Turn] Give this Character up to 2 rested DON!! cards.",
     "groupId": 3188
   },
-  "OP01-OP01-024 parallelfoil": {
+  "OP01-OP01-024 parallel": {
     "lowPrice": 19.82,
     "midPrice": 26.87,
     "highPrice": 199.99,
@@ -129,7 +129,7 @@
     "description": "[DON!! x2] This Character cannot be K.O.'d in battle by \"Strike\" attribute Characters.\r\n<br>\r\n[Activate:Main] [Once Per Turn] Give this Character up to 2 rested DON!! cards.",
     "groupId": 3188
   },
-  "OP01-OP01-025 foil": {
+  "OP01-OP01-025 normal": {
     "lowPrice": 3.5,
     "midPrice": 5.75,
     "highPrice": 39.99,
@@ -155,7 +155,7 @@
     "description": "[Rush] <em>(This card can attack on the turn in which it is played.)</em>",
     "groupId": 3188
   },
-  "OP01-OP01-025 parallelfoil": {
+  "OP01-OP01-025 parallel": {
     "lowPrice": 42.0,
     "midPrice": 73.4,
     "highPrice": 249.99,
@@ -207,7 +207,7 @@
     "description": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 \"Straw Hat Crew\" type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order.\r\n<br>\r\n[Trigger] Activate this card's [Main] effect.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-18\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-034 boxtopper": {
+  "OP01-OP01-034 normal": {
     "lowPrice": 1.2,
     "midPrice": 2.38,
     "highPrice": 20.9,
@@ -233,7 +233,7 @@
     "description": "[DON!! x2] [When Attacking] Set up to 1 of your DON!! cards as active.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-21\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-040 foil": {
+  "OP01-OP01-040 normal": {
     "lowPrice": 0.46,
     "midPrice": 1.0,
     "highPrice": 14.5,
@@ -259,7 +259,7 @@
     "description": "[On Play] If your Leader is [Kouzuki Oden], play up to 1 \"The Akazaya Nine\" type Character card with a cost of 3 or less from your hand.\r\n<br>\r\n[DON!! x1] [When Attacking] [Once Per Turn] Set up to 1 of your \"The Akazaya Nine\" type Character cards with a cost of 3 or less as active.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-24\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-047 parallelfoil": {
+  "OP01-OP01-047 normal": {
     "lowPrice": 34.54,
     "midPrice": 39.47,
     "highPrice": 99.99,
@@ -285,7 +285,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>\r\n<br>\r\n[On Play] <strong>You may return 1 Character to your hand:</strong> Play up to 1 Character card with a cost of 3 or less from your hand.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-30\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-048 boxtopper": {
+  "OP01-OP01-048 normal": {
     "lowPrice": 0.96,
     "midPrice": 2.35,
     "highPrice": 25.0,
@@ -337,7 +337,7 @@
     "description": "[DON!! x1] [Your Turn] [Once Per Turn] When your opponent's Character is K.O.'d, add up to 1 DON!! card from your DON!! deck and set it as active.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-42\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-064 boxtopper": {
+  "OP01-OP01-064 normal": {
     "lowPrice": 1.87,
     "midPrice": 3.58,
     "highPrice": 19.99,
@@ -363,7 +363,7 @@
     "description": "[DON!! x1] [When Attacking] <strong>You may trash 1 card from your hand:</strong> Return up to 1 of your opponent's Characters with a cost of 3 or less to the owner's hand.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-46\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-067 foil": {
+  "OP01-OP01-067 normal": {
     "lowPrice": 0.25,
     "midPrice": 0.99,
     "highPrice": 20.0,
@@ -389,7 +389,7 @@
     "description": "[Banish] <em>(When this card deals damage, the target card is trashed without activating its Trigger.)</em>\r\n<br>\r\n[DON!! x1] Give blue Events in your hand -1 cost.",
     "groupId": 3188
   },
-  "OP01-OP01-077 boxtopper": {
+  "OP01-OP01-077 normal": {
     "lowPrice": 12.87,
     "midPrice": 14.42,
     "highPrice": 75.98,
@@ -415,7 +415,7 @@
     "description": "[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
     "groupId": 3188
   },
-  "OP01-OP01-094 foil": {
+  "OP01-OP01-094 normal": {
     "lowPrice": 0.4,
     "midPrice": 1.18,
     "highPrice": 12.99,
@@ -441,7 +441,7 @@
     "description": "[On Play] DON!! -6 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: If your Leader has the \"Animal Kingdom Pirates\" type, K.O. all Characters other than this Character.",
     "groupId": 3188
   },
-  "OP01-OP01-109 boxtopper": {
+  "OP01-OP01-109 normal": {
     "lowPrice": 0.49,
     "midPrice": 1.39,
     "highPrice": 19.98,
@@ -493,7 +493,7 @@
     "description": "[DON!! x1] [Your Turn] All of your Characters gain +1000 power.",
     "groupId": 3188
   },
-  "OP01-OP01-001 parallelfoil": {
+  "OP01-OP01-001 parallel": {
     "lowPrice": 335.0,
     "midPrice": 345.0,
     "highPrice": 699.95,
@@ -519,7 +519,7 @@
     "description": "[DON!! x1] [Your Turn] All of your Characters gain +1000 power.",
     "groupId": 3188
   },
-  "OP01-OP01-002 parallelfoil": {
+  "OP01-OP01-002 parallel": {
     "lowPrice": 219.99,
     "midPrice": 243.99,
     "highPrice": 499.95,
@@ -545,7 +545,7 @@
     "description": "[Activate:Main] [Once Per Turn] (2) <em>(You may rest the specified number of DON!! cards in your cost area)</em>: If you have 5 Characters, return 1 of your Characters to your hand. Then, play up to 1 Character with a cost of 5 or less from your hand that is a different color than the returned character.<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-2\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-003 normal": {
+  "OP01-OP01-003 parallel": {
     "lowPrice": 0.15,
     "midPrice": 0.29,
     "highPrice": 20.0,
@@ -571,7 +571,7 @@
     "description": "[Activate:Main] [Once Per Turn] (4) <em>(You may rest the specified number of DON!! cards in your cost area)</em>: Set up to 1 of your \"Supernova\" or \"Straw Hat Crew\" type Character cards with a cost of 5 or less as active. It gains +1000 power during this turn.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-3\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-004 foil": {
+  "OP01-OP01-004 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.25,
     "highPrice": 4.99,
@@ -597,7 +597,7 @@
     "description": "[DON!! x1] [Your Turn] [Once Per Turn] Draw 1 card when your opponent activates an Event.",
     "groupId": 3188
   },
-  "OP01-OP01-005 foil": {
+  "OP01-OP01-005 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.25,
     "highPrice": 9.99,
@@ -675,7 +675,7 @@
     "description": "[On K.O.] K.O. up to 1 of your opponent's Characters with 4000 power or less.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-7\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-008 normal": {
+  "OP01-OP01-008 parallel": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.95,
@@ -805,7 +805,7 @@
     "description": null,
     "groupId": 3188
   },
-  "OP01-OP01-013 foil": {
+  "OP01-OP01-013 normal": {
     "lowPrice": 1.35,
     "midPrice": 3.0,
     "highPrice": 7.95,
@@ -831,7 +831,7 @@
     "description": "[Activate:Main] [Once Per Turn] <strong>You may add 1 card from your Life area to your hand:</strong> This Character gains +2000 power during this turn. Then, give this Character up to 2 rested DON!! cards.",
     "groupId": 3188
   },
-  "OP01-OP01-013 parallelfoil": {
+  "OP01-OP01-013 parallel": {
     "lowPrice": 21.68,
     "midPrice": 33.01,
     "highPrice": 88.88,
@@ -909,7 +909,7 @@
     "description": "[DON!! x1] [When Attacking] <strong>You may trash 1 card from your hand:</strong> Add up to 1 \"Straw Hat Crew\" type Character card other than [Tony Tony.Chopper] with a cost of 4 or less from your trash to your hand.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-9\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-016 foil": {
+  "OP01-OP01-016 normal": {
     "lowPrice": 2.21,
     "midPrice": 3.18,
     "highPrice": 12.95,
@@ -935,7 +935,7 @@
     "description": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 \"Straw Hat Crew\" type Character card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-10\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-016 parallelfoil": {
+  "OP01-OP01-016 parallel": {
     "lowPrice": 203.47,
     "midPrice": 213.95,
     "highPrice": 500.0,
@@ -961,7 +961,7 @@
     "description": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 \"Straw Hat Crew\" type Character card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-11\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-017 foil": {
+  "OP01-OP01-017 normal": {
     "lowPrice": 0.08,
     "midPrice": 0.41,
     "highPrice": 10.0,
@@ -1143,7 +1143,7 @@
     "description": null,
     "groupId": 3188
   },
-  "OP01-OP01-026 foil": {
+  "OP01-OP01-026 normal": {
     "lowPrice": 1.95,
     "midPrice": 3.99,
     "highPrice": 14.95,
@@ -1273,7 +1273,7 @@
     "description": "[Activate:Main] [Once Per Turn] <strong>You can trash 1 \"Land of Wano\" type card from your hand:</strong> Set up to 2 of your DON!! cards as active.",
     "groupId": 3188
   },
-  "OP01-OP01-031 parallelfoil": {
+  "OP01-OP01-031 parallel": {
     "lowPrice": 64.45,
     "midPrice": 68.7,
     "highPrice": 199.98,
@@ -1351,7 +1351,7 @@
     "description": "[On Play] Rest up to 1 of your opponent's Characters with a cost of 4 or less.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-19\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-034 normal": {
+  "OP01-OP01-034 parallel": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.95,
@@ -1377,7 +1377,7 @@
     "description": "[DON!! x2] [When Attacking] Set up to 1 of your DON!! cards as active.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-20\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-035 foil": {
+  "OP01-OP01-035 normal": {
     "lowPrice": 0.08,
     "midPrice": 0.29,
     "highPrice": 10.0,
@@ -1507,7 +1507,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>\r\n<br>\r\n[DON!! x1] [On Block] If you have 3 or more Characters, draw 1 card.",
     "groupId": 3188
   },
-  "OP01-OP01-040 parallelfoil": {
+  "OP01-OP01-040 parallel": {
     "lowPrice": 5.94,
     "midPrice": 9.0,
     "highPrice": 64.49,
@@ -1533,7 +1533,7 @@
     "description": "[On Play] If your Leader is [Kouzuki Oden], play up to 1 \"The Akazaya Nine\" type Character card with a cost of 3 or less from your hand.\r\n<br>\r\n[DON!! x1] [When Attacking] [Once Per Turn] Set up to 1 of your \"The Akazaya Nine\" type Character cards with a cost of 3 or less as active.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-25\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-041 foil": {
+  "OP01-OP01-041 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.25,
     "highPrice": 5.0,
@@ -1663,7 +1663,7 @@
     "description": null,
     "groupId": 3188
   },
-  "OP01-OP01-046 foil": {
+  "OP01-OP01-046 normal": {
     "lowPrice": 0.15,
     "midPrice": 0.57,
     "highPrice": 4.99,
@@ -1689,7 +1689,7 @@
     "description": "[DON!! x1] [When Attacking] If your Leader is [Kouzuki Oden], set up to 2 of your DON!! cards as active.",
     "groupId": 3188
   },
-  "OP01-OP01-047 foil": {
+  "OP01-OP01-047 parallel": {
     "lowPrice": 0.1,
     "midPrice": 1.08,
     "highPrice": 38.94,
@@ -1715,7 +1715,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>\r\n<br>\r\n[On Play] <strong>You may return 1 Character to your hand:</strong> Play up to 1 Character card with a cost of 3 or less from your hand.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-29\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-048 normal": {
+  "OP01-OP01-048 parallel": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.95,
@@ -1741,7 +1741,7 @@
     "description": "[On Play] Rest up to 1 of your opponent's Characters with a cost of 3 or less.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-31\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-049 foil": {
+  "OP01-OP01-049 normal": {
     "lowPrice": 0.07,
     "midPrice": 0.25,
     "highPrice": 4.95,
@@ -1793,7 +1793,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>\r\n<br>\r\n[On Play] If you don't have [Shachi], play up to 1 [Shachi] from your hand.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-34\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-051 foil": {
+  "OP01-OP01-051 normal": {
     "lowPrice": 2.92,
     "midPrice": 4.0,
     "highPrice": 25.0,
@@ -1819,7 +1819,7 @@
     "description": "[DON!! x1] [Opponent's Turn] If this Character is rested, your opponent cannot attack any card other than the Character [Eustass\"Captain\"Kid].\r\n<br>\r\n[Activate:Main] [Once Per Turn] <strong>You may rest this Character:</strong> Play up to 1 Character card with a cost of 3 or less from your hand.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-35\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-051 parallelfoil": {
+  "OP01-OP01-051 parallel": {
     "lowPrice": 48.29,
     "midPrice": 54.29,
     "highPrice": 145.0,
@@ -1897,7 +1897,7 @@
     "description": null,
     "groupId": 3188
   },
-  "OP01-OP01-054 foil": {
+  "OP01-OP01-054 normal": {
     "lowPrice": 0.21,
     "midPrice": 0.5,
     "highPrice": 6.99,
@@ -2001,7 +2001,7 @@
     "description": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, set up to 1 of your Characters as active.\r\n<br>\r\n[Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-39\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-058 foil": {
+  "OP01-OP01-058 normal": {
     "lowPrice": 0.39,
     "midPrice": 0.8,
     "highPrice": 6.0,
@@ -2079,7 +2079,7 @@
     "description": "[DON!! x2] [When Attacking] (1) <em>(You may rest the specified number of DON!! cards in your cost area.)</em>: Reveal 1 card from the top of your deck. If that card is a \"The Seven Warlords of the Sea\" type Character card with a cost of 4 or less, you may play that card rested.",
     "groupId": 3188
   },
-  "OP01-OP01-060 parallelfoil": {
+  "OP01-OP01-060 parallel": {
     "lowPrice": 157.0,
     "midPrice": 165.44,
     "highPrice": 349.95,
@@ -2105,7 +2105,7 @@
     "description": "[DON!! x2] [When Attacking] (1) <em>(You may rest the specified number of DON!! cards in your cost area.)</em>: Reveal 1 card from the top of your deck. If that card is a \"The Seven Warlords of the Sea\" type Character card with a cost of 4 or less, you may play that card rested.",
     "groupId": 3188
   },
-  "OP01-OP01-061 parallelfoil": {
+  "OP01-OP01-061 parallel": {
     "lowPrice": 51.25,
     "midPrice": 60.0,
     "highPrice": 200.0,
@@ -2157,7 +2157,7 @@
     "description": "[DON!! x1] When you activate an Event, you may draw 1 card if you have 4 or less cards in your hand and haven't drawn a card using this Leader's effect during this turn.",
     "groupId": 3188
   },
-  "OP01-OP01-062 parallelfoil": {
+  "OP01-OP01-062 parallel": {
     "lowPrice": 59.99,
     "midPrice": 70.7,
     "highPrice": 198.98,
@@ -2209,7 +2209,7 @@
     "description": "[DON!! x1] [Activate:Main] <strong>You may rest this Character:</strong> Choose 1 card from your opponent's hand; your opponent reveals that card. If the revealed card is an Event, place up to 1 card from your opponent's Life area at the bottom of the owner's deck.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-44\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-064 normal": {
+  "OP01-OP01-064 parallel": {
     "lowPrice": 0.03,
     "midPrice": 0.17,
     "highPrice": 4.95,
@@ -2287,7 +2287,7 @@
     "description": null,
     "groupId": 3188
   },
-  "OP01-OP01-067 parallelfoil": {
+  "OP01-OP01-067 parallel": {
     "lowPrice": 7.62,
     "midPrice": 14.99,
     "highPrice": 110.0,
@@ -2313,7 +2313,7 @@
     "description": "[Banish] <em>(When this card deals damage, the target card is trashed without activating its Trigger.)</em>\r\n<br>\r\n[DON!! x1] Give blue Events in your hand -1 cost.",
     "groupId": 3188
   },
-  "OP01-OP01-068 foil": {
+  "OP01-OP01-068 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.31,
     "highPrice": 4.95,
@@ -2339,33 +2339,7 @@
     "description": "[Your Turn] This Character gains [Double Attack] if you have 5 or more cards in your hand. <em>(This card deals 2 damage.)</em>",
     "groupId": 3188
   },
-  "OP01-OP01-068 normal": {
-    "lowPrice": 0.1,
-    "midPrice": 0.25,
-    "highPrice": 4.95,
-    "marketPrice": 0.24,
-    "directLowPrice": null,
-    "name": "Gecko Moria",
-    "rarity": "R",
-    "power": "5000",
-    "cost": "4",
-    "life": null,
-    "category": "Character",
-    "colors": "Blue",
-    "attributes": "Special",
-    "types": "The Seven Warlords of the Sea;Thriller Bark Pirates",
-    "effect": null,
-    "trigger": null,
-    "counter": "1000",
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/454596_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Character",
-    "description": "[Your Turn] This Character gains [Double Attack] if you have 5 or more cards in your hand. <em>(This card deals 2 damage.)</em>",
-    "groupId": 3188
-  },
-  "OP01-OP01-069 foil": {
+  "OP01-OP01-069 normal": {
     "lowPrice": 0.08,
     "midPrice": 0.25,
     "highPrice": 4.99,
@@ -2391,7 +2365,7 @@
     "description": "[On K.O.] Play up to 1 [Smiley] from your deck, then shuffle your deck.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-47\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-070 foil": {
+  "OP01-OP01-070 normal": {
     "lowPrice": 0.36,
     "midPrice": 1.0,
     "highPrice": 30.0,
@@ -2417,7 +2391,7 @@
     "description": "[On Play] Place up to 1 Character with a cost of 7 or less at the bottom of the owner's deck.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-48\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-070 parallelfoil": {
+  "OP01-OP01-070 parallel": {
     "lowPrice": 18.45,
     "midPrice": 24.2,
     "highPrice": 113.5,
@@ -2443,7 +2417,7 @@
     "description": "[On Play] Place up to 1 Character with a cost of 7 or less at the bottom of the owner's deck.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-49\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-071 foil": {
+  "OP01-OP01-071 normal": {
     "lowPrice": 0.03,
     "midPrice": 0.25,
     "highPrice": 4.99,
@@ -2495,7 +2469,7 @@
     "description": "[DON!! x1] [Your Turn] This Character gains +1000 power for every card in your hand.",
     "groupId": 3188
   },
-  "OP01-OP01-073 foil": {
+  "OP01-OP01-073 normal": {
     "lowPrice": 0.04,
     "midPrice": 0.61,
     "highPrice": 7.5,
@@ -2521,7 +2495,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>\r\n<br>\r\n[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
     "groupId": 3188
   },
-  "OP01-OP01-073 parallelfoil": {
+  "OP01-OP01-073 parallel": {
     "lowPrice": 20.88,
     "midPrice": 25.0,
     "highPrice": 55.0,
@@ -2547,7 +2521,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>\r\n<br>\r\n[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
     "groupId": 3188
   },
-  "OP01-OP01-074 foil": {
+  "OP01-OP01-074 normal": {
     "lowPrice": 0.04,
     "midPrice": 0.25,
     "highPrice": 4.99,
@@ -2625,7 +2599,7 @@
     "description": null,
     "groupId": 3188
   },
-  "OP01-OP01-077 normal": {
+  "OP01-OP01-077 parallel": {
     "lowPrice": 1.85,
     "midPrice": 4.41,
     "highPrice": 504.48,
@@ -2651,7 +2625,7 @@
     "description": "[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
     "groupId": 3188
   },
-  "OP01-OP01-078 foil": {
+  "OP01-OP01-078 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.94,
     "highPrice": 70.0,
@@ -2677,7 +2651,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>\r\n<br>\r\n[DON!! x1] [When Attacking]/[On Block] Draw 1 card if you have 5 or less cards in your hand.",
     "groupId": 3188
   },
-  "OP01-OP01-078 parallelfoil": {
+  "OP01-OP01-078 parallel": {
     "lowPrice": 40.98,
     "midPrice": 47.5,
     "highPrice": 164.99,
@@ -2703,7 +2677,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>\r\n<br>\r\n[DON!! x1] [When Attacking]/[On Block] Draw 1 card if you have 5 or less cards in your hand.",
     "groupId": 3188
   },
-  "OP01-OP01-079 foil": {
+  "OP01-OP01-079 normal": {
     "lowPrice": 0.17,
     "midPrice": 0.5,
     "highPrice": 10.0,
@@ -2911,32 +2885,6 @@
     "description": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, return up to 1 active Character with a cost of 3 or less to the owner's hand.\r\n<br>\r\n[Trigger] Return up to 1 card with a cost of 4 or less to the owner's hand.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-55\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-086 foil": {
-    "lowPrice": 0.1,
-    "midPrice": 0.29,
-    "highPrice": 4.99,
-    "marketPrice": 0.27,
-    "directLowPrice": null,
-    "name": "Overheat",
-    "rarity": "R",
-    "power": null,
-    "cost": "2",
-    "life": null,
-    "category": "Event",
-    "colors": "Blue",
-    "attributes": null,
-    "types": "Donquixote Pirates;The Seven Warlords of the Sea",
-    "effect": null,
-    "trigger": "yes",
-    "counter": null,
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/454617_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Event",
-    "description": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, return up to 1 active Character with a cost of 3 or less to the owner's hand.\r\n<br>\r\n[Trigger] Return up to 1 card with a cost of 4 or less to the owner's hand.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-55\">This card has been officially errata'd.</a>",
-    "groupId": 3188
-  },
   "OP01-OP01-087 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
@@ -3067,7 +3015,7 @@
     "description": "[Your Turn] If you have 10 DON!! cards on your field, give all of your opponent's Characters -1000 power.",
     "groupId": 3188
   },
-  "OP01-OP01-091 parallelfoil": {
+  "OP01-OP01-091 parallel": {
     "lowPrice": 41.56,
     "midPrice": 46.65,
     "highPrice": 197.98,
@@ -3119,7 +3067,7 @@
     "description": null,
     "groupId": 3188
   },
-  "OP01-OP01-093 foil": {
+  "OP01-OP01-093 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.27,
     "highPrice": 4.99,
@@ -3145,7 +3093,7 @@
     "description": "[On Play] (1) <em>(You may rest the specified number of DON!! cards in your cost area.)</em>: Add up to 1 DON!! card from your DON!! deck and rest it.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-60\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-093 parallelfoil": {
+  "OP01-OP01-093 parallel": {
     "lowPrice": 6.17,
     "midPrice": 10.52,
     "highPrice": 25.0,
@@ -3171,7 +3119,7 @@
     "description": "[On Play] (1) <em>(You may rest the specified number of DON!! cards in your cost area.)</em>: Add up to 1 DON!! card from your DON!! deck and rest it.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-61\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-094 parallelfoil": {
+  "OP01-OP01-094 parallel": {
     "lowPrice": 12.12,
     "midPrice": 15.53,
     "highPrice": 69.99,
@@ -3223,7 +3171,7 @@
     "description": "[On Play] Draw 1 card if you have 8 or more DON!! cards on your field.",
     "groupId": 3188
   },
-  "OP01-OP01-096 foil": {
+  "OP01-OP01-096 normal": {
     "lowPrice": 0.43,
     "midPrice": 0.95,
     "highPrice": 25.0,
@@ -3249,7 +3197,7 @@
     "description": "[On Play] DON!! -2 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: K.O. up to 1 of your opponent's Characters with a cost of 3 or less and up to 1 of your opponent's Characters with a cost of 2 or less.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-62\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-096 parallelfoil": {
+  "OP01-OP01-096 parallel": {
     "lowPrice": 4.0,
     "midPrice": 6.99,
     "highPrice": 149.99,
@@ -3275,7 +3223,7 @@
     "description": "[On Play] DON!! -2 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: K.O. up to 1 of your opponent's Characters with a cost of 3 or less and up to 1 of your opponent's Characters with a cost of 2 or less.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-63\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-097 foil": {
+  "OP01-OP01-097 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 4.99,
@@ -3301,7 +3249,7 @@
     "description": "[On Play] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: This Character gains [Rush] during this turn. Then, give up to 1 of your opponent's Characters -2000 power during this turn. <em>(This card can attack on the turn in which it is played.)</em>\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-64\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-097 parallelfoil": {
+  "OP01-OP01-097 parallel": {
     "lowPrice": 2.42,
     "midPrice": 4.37,
     "highPrice": 80.0,
@@ -3431,7 +3379,7 @@
     "description": "[DON!! x1] [When Attacking] <strong>You may trash 1 card from your hand:</strong> Add up to 1 DON!! card from your DON!! deck and rest it.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-67\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-102 foil": {
+  "OP01-OP01-102 normal": {
     "lowPrice": 0.08,
     "midPrice": 0.25,
     "highPrice": 4.99,
@@ -3457,7 +3405,7 @@
     "description": "[When Attacking] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: Your opponent trashes 1 card from their hand.",
     "groupId": 3188
   },
-  "OP01-OP01-102 parallelfoil": {
+  "OP01-OP01-102 parallel": {
     "lowPrice": 3.4,
     "midPrice": 5.5,
     "highPrice": 85.0,
@@ -3613,7 +3561,7 @@
     "description": null,
     "groupId": 3188
   },
-  "OP01-OP01-109 normal": {
+  "OP01-OP01-109 parallel": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.95,
@@ -3665,7 +3613,7 @@
     "description": null,
     "groupId": 3188
   },
-  "OP01-OP01-111 foil": {
+  "OP01-OP01-111 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 6.67,
@@ -3691,7 +3639,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>\r\n<br>\r\n[On Block] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: This Character gains +1000 power during this turn.",
     "groupId": 3188
   },
-  "OP01-OP01-112 foil": {
+  "OP01-OP01-112 normal": {
     "lowPrice": 0.08,
     "midPrice": 0.25,
     "highPrice": 4.99,
@@ -3743,7 +3691,7 @@
     "description": "[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-70\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-114 foil": {
+  "OP01-OP01-114 normal": {
     "lowPrice": 0.15,
     "midPrice": 0.49,
     "highPrice": 6.5,
@@ -3873,7 +3821,7 @@
     "description": "[Counter] DON!! -2 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, draw 1 card.\r\n<br>\r\n[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-74\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-119 foil": {
+  "OP01-OP01-119 normal": {
     "lowPrice": 2.5,
     "midPrice": 4.97,
     "highPrice": 505.07,
@@ -3899,7 +3847,7 @@
     "description": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, if you have 2 or less Life cards, add up to 1 DON!! card from your DON!! deck and rest it.\r\n<br>\r\n[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/#group_20221111-75\">This card has been officially errata'd.</a>",
     "groupId": 3188
   },
-  "OP01-OP01-120 foil": {
+  "OP01-OP01-120 normal": {
     "lowPrice": 1.65,
     "midPrice": 3.22,
     "highPrice": 100.0,
@@ -3925,7 +3873,7 @@
     "description": "[Rush] <em>(This card can attack on the turn in which it is played.)</em>\r\n<br>\r\n[When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
     "groupId": 3188
   },
-  "OP01-OP01-120 parallelfoil": {
+  "OP01-OP01-120 parallel": {
     "lowPrice": 13.0,
     "midPrice": 14.73,
     "highPrice": 333.0,
@@ -3951,7 +3899,33 @@
     "description": "[Rush] <em>(This card can attack on the turn in which it is played.)</em>\r\n<br>\r\n[When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
     "groupId": 3188
   },
-  "OP01-OP01-121 foil": {
+  "OP01-OP01-120 alt2": {
+    "lowPrice": 750.0,
+    "midPrice": 850.0,
+    "highPrice": 3999.99,
+    "marketPrice": 821.89,
+    "directLowPrice": null,
+    "name": "Shanks (Parallel) (Manga) (Alternate Art)",
+    "rarity": "SEC",
+    "power": "10000",
+    "cost": "9",
+    "life": null,
+    "category": "Character",
+    "colors": "Red",
+    "attributes": "Slash",
+    "types": "The Four Emperors;Red-Haired Pirates",
+    "effect": "yes",
+    "trigger": null,
+    "counter": null,
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/454666_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[Rush] <em>(This card can attack on the turn in which it is played.)</em>\r\n<br>\r\n[When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
+    "groupId": 3188
+  },
+  "OP01-OP01-121 normal": {
     "lowPrice": 4.33,
     "midPrice": 12.0,
     "highPrice": 70.0,
@@ -3977,7 +3951,7 @@
     "description": "Also treat this card's name as [Kouzuki Oden] according to the rules.\r\n<br>\r\n[Double Attack] <em>(This card deals 2 damage.)</em>\r\n<br>\r\n[Banish] <em>(When this card deals damage, the target card is trashed without activating its Trigger.)</em>",
     "groupId": 3188
   },
-  "OP01-OP01-121 parallelfoil": {
+  "OP01-OP01-121 parallel": {
     "lowPrice": 45.0,
     "midPrice": 52.9,
     "highPrice": 399.99,

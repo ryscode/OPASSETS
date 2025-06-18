@@ -1,5 +1,5 @@
 {
-  "ST06-ST06-001 foil": {
+  "ST06-ST06-001 normal": {
     "lowPrice": 0.61,
     "midPrice": 0.97,
     "highPrice": 50.0,
@@ -51,7 +51,7 @@
     "description": "[On Play] <strong>You may trash 1 card from your hand</strong>: K.O. up to 1 of your opponent's Characters with a cost of 0.",
     "groupId": 17699
   },
-  "ST06-ST06-004 foil": {
+  "ST06-ST06-004 normal": {
     "lowPrice": 0.7,
     "midPrice": 1.5,
     "highPrice": 503.88,
@@ -129,7 +129,7 @@
     "description": "[Activate:Main] <strong>You may rest this Character</strong>: Give up to 1 of your opponent's Characters -2 cost during this turn.",
     "groupId": 17699
   },
-  "ST06-ST06-012 foil": {
+  "ST06-ST06-012 normal": {
     "lowPrice": 2.0,
     "midPrice": 3.36,
     "highPrice": 9.45,

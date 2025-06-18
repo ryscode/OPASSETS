@@ -1,5 +1,5 @@
 {
-  "OP02-OP02-013 foil": {
+  "OP02-OP02-013 normal": {
     "lowPrice": 66.68,
     "midPrice": 72.98,
     "highPrice": 149.99,
@@ -25,7 +25,7 @@
     "description": "[On Play] Give up to 2 of your opponent's Characters 3000 power during this turn. Then, if your Leader's type includes \"Whitebeard Piratess\", this Character gains [Rush] during this turn.<br>\r\n(This card can attack on the turn in which it is played.)",
     "groupId": 23462
   },
-  "OP03-OP03-112 foil": {
+  "OP03-OP03-112 normal": {
     "lowPrice": 50.0,
     "midPrice": 56.25,
     "highPrice": 149.99,
@@ -77,7 +77,7 @@
     "description": "[Activate:Main] [Once Per Turn] Give up to 3 of your [Animal] or [Drum Kingdom] type Characters up to 1 rested DON!! card each.",
     "groupId": 23462
   },
-  "OP08-OP08-001 parallelfoil": {
+  "OP08-OP08-001 parallel": {
     "lowPrice": 36.31,
     "midPrice": 50.0,
     "highPrice": 89.95,
@@ -129,7 +129,7 @@
     "description": "[DON!! x1] [Activate: Main] [Once Per Turn] Draw 1 card and place 1 card from your hand at the top or bottom of your deck. Then, give up to 1 of your opponent's Characters -2000 power during this turn.",
     "groupId": 23462
   },
-  "OP08-OP08-002 parallelfoil": {
+  "OP08-OP08-002 parallel": {
     "lowPrice": 18.91,
     "midPrice": 23.8,
     "highPrice": 75.0,
@@ -259,7 +259,7 @@
     "description": "[Your Turn] If you have [Kuromarimo] and [Chess] in your trash, this Character gains +2000 power.",
     "groupId": 23462
   },
-  "OP08-OP08-007 foil": {
+  "OP08-OP08-007 normal": {
     "lowPrice": 0.25,
     "midPrice": 0.99,
     "highPrice": 7.68,
@@ -285,7 +285,7 @@
     "description": "[Your Turn] [On Play]/[When Attacking] Look at 5 cards from the top of your deck and play up to 1 [Animal] type Character card with 4000 power or less rested. Then, place the rest at the bottom of your deck in any order.",
     "groupId": 23462
   },
-  "OP08-OP08-007 parallelfoil": {
+  "OP08-OP08-007 parallel": {
     "lowPrice": 18.25,
     "midPrice": 30.0,
     "highPrice": 55.93,
@@ -311,7 +311,7 @@
     "description": "[Your Turn] [On Play]/[When Attacking] Look at 5 cards from the top of your deck and play up to 1 [Animal] type Character card with 4000 power or less rested. Then, place the rest at the bottom of your deck in any order.",
     "groupId": 23462
   },
-  "OP08-OP08-008 foil": {
+  "OP08-OP08-008 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -467,7 +467,7 @@
     "description": "[DON!! x2] This Character gains [Rush].<br>\r\n(This card can attack on the turn in which it is played.)",
     "groupId": 23462
   },
-  "OP08-OP08-014 foil": {
+  "OP08-OP08-014 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.95,
@@ -493,7 +493,7 @@
     "description": "[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters 2000 power during this turn. Then, this Character gains +2000 power until the end of your opponent's next turn.",
     "groupId": 23462
   },
-  "OP08-OP08-015 foil": {
+  "OP08-OP08-015 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.24,
     "highPrice": 10.0,
@@ -519,7 +519,7 @@
     "description": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 [Tony Tony.Chopper] or [Drum Kingdom] type card other than [Dr.Kureha] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "groupId": 23462
   },
-  "OP08-OP08-015 parallelfoil": {
+  "OP08-OP08-015 parallel": {
     "lowPrice": 2.97,
     "midPrice": 5.0,
     "highPrice": 10000.0,
@@ -545,7 +545,7 @@
     "description": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 [Tony Tony.Chopper] or [Drum Kingdom] type card other than [Dr.Kureha] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "groupId": 23462
   },
-  "OP08-OP08-016 foil": {
+  "OP08-OP08-016 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.95,
@@ -597,7 +597,7 @@
     "description": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, give up to 1 of your opponent's Leader or Character cards 1000 power during this turn.<br>\r\n[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
     "groupId": 23462
   },
-  "OP08-OP08-018 foil": {
+  "OP08-OP08-018 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 10.0,
@@ -701,7 +701,7 @@
     "description": "[Activate:Main] [Once Per Turn] If you have a [Minks] type Character, rest up to 1 of your opponent's Characters with a cost of 5 or less.",
     "groupId": 23462
   },
-  "OP08-OP08-021 parallelfoil": {
+  "OP08-OP08-021 parallel": {
     "lowPrice": 17.99,
     "midPrice": 25.0,
     "highPrice": 1000.0,
@@ -753,7 +753,7 @@
     "description": "[On Play] If your Leader has the {Minks} type, up to 2 of your opponent's rested Characters with a cost of 5 or less will not become active in your opponent's next Refresh Phase.",
     "groupId": 23462
   },
-  "OP08-OP08-023 foil": {
+  "OP08-OP08-023 normal": {
     "lowPrice": 1.75,
     "midPrice": 2.85,
     "highPrice": 32.0,
@@ -779,7 +779,7 @@
     "description": "[On Play]/[When Attacking] Up to 1 of your opponent's rested Characters with a cost of 7 or less will not become active in your opponent's next Refresh Phase.",
     "groupId": 23462
   },
-  "OP08-OP08-023 parallelfoil": {
+  "OP08-OP08-023 parallel": {
     "lowPrice": 20.99,
     "midPrice": 26.08,
     "highPrice": 80.0,
@@ -961,7 +961,7 @@
     "description": "If this Character is active, your {Minks} type Characters with a cost of 3 or less other than [Pekoms] cannot be K.O.'d by effects.",
     "groupId": 23462
   },
-  "OP08-OP08-030 foil": {
+  "OP08-OP08-030 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.25,
     "highPrice": 4.95,
@@ -987,7 +987,7 @@
     "description": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>\r\n[On K.O.] Choose one:<br>\r\n• Rest up to 1 of your opponent's DON!! cards.<br>\r\n• K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.",
     "groupId": 23462
   },
-  "OP08-OP08-030 parallelfoil": {
+  "OP08-OP08-030 parallel": {
     "lowPrice": 6.0,
     "midPrice": 10.49,
     "highPrice": 29.95,
@@ -1091,7 +1091,7 @@
     "description": "[On Play] If your Leader has the [Minks] type and your opponent has 7 or more rested cards, K.O. up to 1 of your opponent's rested Characters with a cost of 2 or less.",
     "groupId": 23462
   },
-  "OP08-OP08-034 foil": {
+  "OP08-OP08-034 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.95,
@@ -1143,7 +1143,7 @@
     "description": null,
     "groupId": 23462
   },
-  "OP08-OP08-036 foil": {
+  "OP08-OP08-036 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.99,
     "highPrice": 5.0,
@@ -1221,7 +1221,7 @@
     "description": "[Main] You may rest 2 of your Characters: None of your Characters can be K.O.'d by your opponent's effects until the end of your opponent's next turn.<br>\r\n[Trigger] Rest up to 1 of your opponent's Characters with a cost of 3 or less.",
     "groupId": 23462
   },
-  "OP08-OP08-039 foil": {
+  "OP08-OP08-039 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.95,
@@ -1325,7 +1325,7 @@
     "description": "[DON!! x1] [When Attacking] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
     "groupId": 23462
   },
-  "OP08-OP08-043 foil": {
+  "OP08-OP08-043 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.41,
     "highPrice": 10.0,
@@ -1351,7 +1351,7 @@
     "description": "[On Play] If your Leader's type includes \"Whitebeard Piratess\" and you have 2 or less Life cards, select all of your opponent's Characters on their field. Until the end of your opponent's next turn, none of the selected Characters can attack unless your opponent trashes 2 cards from their hand whenever they attack.",
     "groupId": 23462
   },
-  "OP08-OP08-043 parallelfoil": {
+  "OP08-OP08-043 parallel": {
     "lowPrice": 3.89,
     "midPrice": 7.62,
     "highPrice": 44.99,
@@ -1429,7 +1429,7 @@
     "description": "If this Character would be removed from the field by your opponent's effect or K.O.'d, trash this Character and draw 1 card instead.",
     "groupId": 23462
   },
-  "OP08-OP08-046 foil": {
+  "OP08-OP08-046 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.13,
     "highPrice": 4.95,
@@ -1455,7 +1455,7 @@
     "description": "[Your Turn] [Once Per Turn] When a Character is removed from the field by your effect, if your opponent has 5 or more cards in their hand, your opponent places 1 card from their hand at the bottom of their deck. Then, rest this Character.",
     "groupId": 23462
   },
-  "OP08-OP08-047 foil": {
+  "OP08-OP08-047 normal": {
     "lowPrice": 0.42,
     "midPrice": 0.75,
     "highPrice": 10.0,
@@ -1585,7 +1585,7 @@
     "description": "[Your Turn] [On Play] Up to 1 of your [Edward Weevil] cards gains +2000 power during this turn.",
     "groupId": 23462
   },
-  "OP08-OP08-052 foil": {
+  "OP08-OP08-052 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.18,
     "highPrice": 4.95,
@@ -1611,7 +1611,7 @@
     "description": "[On Play] Reveal 1 card from the top of your deck and play up to 1 Character card with a type including \"Whitebeard Pirates\" and a cost of 4 or less. Then, place the rest at the top or bottom of your deck.",
     "groupId": 23462
   },
-  "OP08-OP08-052 parallelfoil": {
+  "OP08-OP08-052 parallel": {
     "lowPrice": 4.73,
     "midPrice": 7.88,
     "highPrice": 25.0,
@@ -1637,7 +1637,7 @@
     "description": "[On Play] Reveal 1 card from the top of your deck and play up to 1 Character card with a type including \"Whitebeard Piratess\" and a cost of 4 or less. Then, place the rest at the top or bottom of your deck.",
     "groupId": 23462
   },
-  "OP08-OP08-053 foil": {
+  "OP08-OP08-053 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.95,
@@ -1767,7 +1767,7 @@
     "description": "[Activate:Main] [Once Per Turn] DON!! 2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Choose one:<br>\r\n• If you have 5 or less cards in your hand, draw 1 card.<br>\r\n• Give up to 1 of your opponent's Characters -2 cost during this turn",
     "groupId": 23462
   },
-  "OP08-OP08-057 parallelfoil": {
+  "OP08-OP08-057 parallel": {
     "lowPrice": 9.67,
     "midPrice": 13.04,
     "highPrice": 55.0,
@@ -1819,7 +1819,7 @@
     "description": "[When Attacking] You may turn 2 cards from the top of your Life cards face-up: Add up to 1 DON!! card from your DON!! deck and rest it.",
     "groupId": 23462
   },
-  "OP08-OP08-058 parallelfoil": {
+  "OP08-OP08-058 parallel": {
     "lowPrice": 29.0,
     "midPrice": 35.0,
     "highPrice": 120.0,
@@ -1871,7 +1871,7 @@
     "description": "[Activate:Main] You may trash this Character: If your Leader has the [Animal Kingdom Pirates] type and you have 10 DON!! cards on your field, play up to 1 [King] with a cost of 7 or less from your hand.",
     "groupId": 23462
   },
-  "OP08-OP08-060 foil": {
+  "OP08-OP08-060 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.95,
@@ -1949,7 +1949,7 @@
     "description": "[Activate:Main] You may trash this Character: If your Leader has the {Big Mom Pirates} type, play up to 1 [Charlotte Katakuri] from your hand with a cost of 3 or more that is equal to or less than the number of DON!! cards on your opponent's field.",
     "groupId": 23462
   },
-  "OP08-OP08-063 foil": {
+  "OP08-OP08-063 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.24,
     "highPrice": 4.95,
@@ -2053,7 +2053,7 @@
     "description": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>\r\n[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it.",
     "groupId": 23462
   },
-  "OP08-OP08-067 foil": {
+  "OP08-OP08-067 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.29,
     "highPrice": 3.99,
@@ -2079,7 +2079,7 @@
     "description": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and rest it.",
     "groupId": 23462
   },
-  "OP08-OP08-067 parallelfoil": {
+  "OP08-OP08-067 parallel": {
     "lowPrice": 15.0,
     "midPrice": 24.71,
     "highPrice": 39.95,
@@ -2131,7 +2131,7 @@
     "description": "[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it.<br>\r\n[Trigger] DON!! 1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
     "groupId": 23462
   },
-  "OP08-OP08-069 foil": {
+  "OP08-OP08-069 normal": {
     "lowPrice": 3.46,
     "midPrice": 5.0,
     "highPrice": 22.49,
@@ -2157,7 +2157,7 @@
     "description": "[On Play] DON!! 1, You may trash 1 card from your hand: Add up to 1 card from the top of your deck to the top of your Life cards. Then, add up to 1 of your opponent's Characters with a cost of 6 or less to the top or bottom of your opponent's Life cards face-up.",
     "groupId": 23462
   },
-  "OP08-OP08-069 parallelfoil": {
+  "OP08-OP08-069 parallel": {
     "lowPrice": 17.5,
     "midPrice": 25.0,
     "highPrice": 59.95,
@@ -2287,7 +2287,7 @@
     "description": "[Opponent's Turn] [On K.O.] DON!! 1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 [Count Niwatori] with a cost of 6 or less from your deck. Then, shuffle your deck.",
     "groupId": 23462
   },
-  "OP08-OP08-074 foil": {
+  "OP08-OP08-074 normal": {
     "lowPrice": 2.5,
     "midPrice": 5.24,
     "highPrice": 20.0,
@@ -2313,7 +2313,7 @@
     "description": "[Activate:Main] [Once Per Turn] If you have no other [Black Maria] Characters, add up to 5 DON!! cards from your DON!! deck and rest them. Then, at the end of this turn, return DON!! cards from your field to your DON!! deck until you have the same number of DON!! cards on your field as your opponent.",
     "groupId": 23462
   },
-  "OP08-OP08-074 parallelfoil": {
+  "OP08-OP08-074 parallel": {
     "lowPrice": 7.95,
     "midPrice": 18.0,
     "highPrice": 45.0,
@@ -2391,7 +2391,7 @@
     "description": "[Main] Add up to 1 DON!! card from your DON!! deck and set it as active. Then, if your opponent has a Character with 6000 power or more, add up to 1 DON!! card from your DON!! deck and set it as active.",
     "groupId": 23462
   },
-  "OP08-OP08-077 foil": {
+  "OP08-OP08-077 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 4.95,
@@ -2443,7 +2443,7 @@
     "description": null,
     "groupId": 23462
   },
-  "OP08-OP08-079 foil": {
+  "OP08-OP08-079 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.75,
     "highPrice": 75.0,
@@ -2469,7 +2469,7 @@
     "description": "[Activate:Main] [Once Per Turn] You may trash 1 card from your hand: If this Character was played on this turn, trash up to 1 of your opponent's Characters with a cost of 7 or less. Then, your opponent trashes 1 card from their hand.",
     "groupId": 23462
   },
-  "OP08-OP08-079 parallelfoil": {
+  "OP08-OP08-079 parallel": {
     "lowPrice": 3.01,
     "midPrice": 11.43,
     "highPrice": 30.0,
@@ -2495,7 +2495,7 @@
     "description": "[Activate:Main] [Once Per Turn] You may trash 1 card from your hand: If this Character was played on this turn, trash up to 1 of your opponent's Characters with a cost of 7 or less. Then, your opponent trashes 1 card from their hand.",
     "groupId": 23462
   },
-  "OP08-OP08-080 foil": {
+  "OP08-OP08-080 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.95,
@@ -2521,7 +2521,7 @@
     "description": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Animal Kingdom Pirates} type card other than [Queen] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "groupId": 23462
   },
-  "OP08-OP08-080 parallelfoil": {
+  "OP08-OP08-080 parallel": {
     "lowPrice": 1.0,
     "midPrice": 3.0,
     "highPrice": 30.0,
@@ -2573,7 +2573,7 @@
     "description": "[When Attacking] You may place 3 cards with a type including \"CP\" from your trash at the bottom of your deck in any order: K.O. up to 1 of your opponent's Characters with a cost of 0.",
     "groupId": 23462
   },
-  "OP08-OP08-082 foil": {
+  "OP08-OP08-082 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 15.0,
@@ -2625,7 +2625,7 @@
     "description": "[DON!! x1] [Your Turn] Give all of your opponent's Characters 1 cost.",
     "groupId": 23462
   },
-  "OP08-OP08-084 foil": {
+  "OP08-OP08-084 normal": {
     "lowPrice": 0.1,
     "midPrice": 1.01,
     "highPrice": 10.0,
@@ -2651,7 +2651,7 @@
     "description": "This Character gains +4 cost.<br>\r\n[Activate: Main] You may rest this Character: Draw 1 card and trash 1 card from your hand. Then, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
     "groupId": 23462
   },
-  "OP08-OP08-084 parallelfoil": {
+  "OP08-OP08-084 parallel": {
     "lowPrice": 8.3,
     "midPrice": 12.51,
     "highPrice": 45.99,
@@ -2833,7 +2833,7 @@
     "description": "[On Play] Play up to 1 [SMILE] type Character card with a cost of 2 or less from your trash.",
     "groupId": 23462
   },
-  "OP08-OP08-091 foil": {
+  "OP08-OP08-091 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 4.95,
@@ -2859,7 +2859,7 @@
     "description": "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 3 or less.<br>\r\n[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
     "groupId": 23462
   },
-  "OP08-OP08-092 foil": {
+  "OP08-OP08-092 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.99,
@@ -2911,7 +2911,7 @@
     "description": "[DON!! x1] This Character gains +2 cost.",
     "groupId": 23462
   },
-  "OP08-OP08-094 foil": {
+  "OP08-OP08-094 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.95,
@@ -3041,7 +3041,7 @@
     "description": "[DON!! x1] [When Attacking] Play up to 1 {Shandian Warrior} type Character card from your hand with a cost equal to or less than the number of DON!! cards on your field. If you do, add 1 card from the top of your Life cards to your hand.",
     "groupId": 23462
   },
-  "OP08-OP08-098 parallelfoil": {
+  "OP08-OP08-098 parallel": {
     "lowPrice": 15.21,
     "midPrice": 18.69,
     "highPrice": 65.0,
@@ -3223,7 +3223,7 @@
     "description": "[Trigger] You may trash 1 card from your hand: Play this card. Then, draw 1 card.",
     "groupId": 23462
   },
-  "OP08-OP08-105 foil": {
+  "OP08-OP08-105 normal": {
     "lowPrice": 0.13,
     "midPrice": 0.79,
     "highPrice": 15.0,
@@ -3249,7 +3249,7 @@
     "description": "[DON!! x1] [Your Turn] [Once Per Turn] When a card is removed from your opponent's Life cards, draw 2 cards and trash 1 card from your hand.<br>\r\n[Trigger] Draw 2 cards and trash 1 card from your hand.",
     "groupId": 23462
   },
-  "OP08-OP08-105 parallelfoil": {
+  "OP08-OP08-105 parallel": {
     "lowPrice": 5.7,
     "midPrice": 9.99,
     "highPrice": 40.0,
@@ -3275,7 +3275,7 @@
     "description": "[DON!! x1] [Your Turn] [Once Per Turn] When a card is removed from your opponent's Life cards, draw 2 cards and trash 1 card from your hand.<br>\r\n[Trigger] Draw 2 cards and trash 1 card from your hand.",
     "groupId": 23462
   },
-  "OP08-OP08-106 foil": {
+  "OP08-OP08-106 normal": {
     "lowPrice": 2.97,
     "midPrice": 6.0,
     "highPrice": 19.99,
@@ -3301,7 +3301,7 @@
     "description": "[On Play] You may trash 1 card with a [Trigger] from your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less. Then, if you have 3 or less cards in your hand, draw 1 card.<br>\r\n[Trigger] Activate this card's [On Play] effect.",
     "groupId": 23462
   },
-  "OP08-OP08-106 parallelfoil": {
+  "OP08-OP08-106 parallel": {
     "lowPrice": 22.25,
     "midPrice": 31.5,
     "highPrice": 69.99,
@@ -3379,7 +3379,7 @@
     "description": null,
     "groupId": 23462
   },
-  "OP08-OP08-109 foil": {
+  "OP08-OP08-109 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.95,
@@ -3405,7 +3405,7 @@
     "description": "[On Play] If your Leader has the [Shandian Warrior] type and you have a [Kalgara] Character, add up to 1 card from the top of your deck to the top of your Life cards.",
     "groupId": 23462
   },
-  "OP08-OP08-110 foil": {
+  "OP08-OP08-110 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 10.0,
@@ -3431,7 +3431,7 @@
     "description": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Upper Yard] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Upper Yard] from your hand.",
     "groupId": 23462
   },
-  "OP08-OP08-110 parallelfoil": {
+  "OP08-OP08-110 parallel": {
     "lowPrice": 1.99,
     "midPrice": 3.7,
     "highPrice": 26.25,
@@ -3483,7 +3483,7 @@
     "description": "[DON!! x1] [When Attacking] Your opponent cannot activate [Blocker] during this battle.<br>\r\n[Trigger] You may trash 1 card from your hand: If you have 2 or less Life cards, play this card.",
     "groupId": 23462
   },
-  "OP08-OP08-112 foil": {
+  "OP08-OP08-112 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.48,
     "highPrice": 10.0,
@@ -3509,7 +3509,7 @@
     "description": "[On Play] Up to 1 of your opponent's Characters with a cost of 6 or less other than [Monkey.D.Luffy] cannot attack until the end of your opponent's next turn.<br>\r\n[Trigger] Activate this card's [On Play] effect.",
     "groupId": 23462
   },
-  "OP08-OP08-112 parallelfoil": {
+  "OP08-OP08-112 parallel": {
     "lowPrice": 4.0,
     "midPrice": 7.61,
     "highPrice": 98.0,
@@ -3561,7 +3561,7 @@
     "description": "[Trigger] You may trash 1 card from your hand: If you have 2 or less Life cards, play this card and K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
     "groupId": 23462
   },
-  "OP08-OP08-114 foil": {
+  "OP08-OP08-114 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.95,
@@ -3587,7 +3587,7 @@
     "description": "[DON!! x1] If you have less Life cards than your opponent, this Character cannot be K.O.'d in battle by <Slash> attribute cards and gains +2000 power.<br>\r\n[Trigger] You may trash 1 card from your hand: If you have 2 or less Life cards, play this card.",
     "groupId": 23462
   },
-  "OP08-OP08-115 foil": {
+  "OP08-OP08-115 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 16.0,
@@ -3665,7 +3665,7 @@
     "description": "[Main] You may trash 1 card from the top of your Life cards: K.O. up to 1 of your opponent's Characters with a cost of 7 or less.<br>\r\n[Trigger] You may add 1 card from the top of your Life cards to your hand: Add up to 1 card from your hand to the top of your Life cards.",
     "groupId": 23462
   },
-  "OP08-OP08-118 foil": {
+  "OP08-OP08-118 normal": {
     "lowPrice": 15.0,
     "midPrice": 25.0,
     "highPrice": 59.99,
@@ -3691,7 +3691,7 @@
     "description": "[On Play] Select up to 2 of your opponent's Characters, and give 1 Character 3000 power and the other 2000 power until the end of your opponent's next turn. Then, K.O. up to 1 of your opponent's Characters with 3000 power or less.",
     "groupId": 23462
   },
-  "OP08-OP08-118 parallelfoil": {
+  "OP08-OP08-118 parallel": {
     "lowPrice": 24.1,
     "midPrice": 34.55,
     "highPrice": 89.95,
@@ -3717,7 +3717,33 @@
     "description": "[On Play] Select up to 2 of your opponent's Characters, and give 1 Character 3000 power and the other 2000 power until the end of your opponent's next turn. Then, K.O. up to 1 of your opponent's Characters with 3000 power or less.",
     "groupId": 23462
   },
-  "OP08-OP08-119 foil": {
+  "OP08-OP08-118 alt2": {
+    "lowPrice": 274.9,
+    "midPrice": 300.0,
+    "highPrice": 555.0,
+    "marketPrice": 281.84,
+    "directLowPrice": null,
+    "name": "Silvers Rayleigh (Parallel) (Manga)",
+    "rarity": "SEC",
+    "power": "8000",
+    "cost": "8",
+    "life": null,
+    "category": "Character",
+    "colors": "Red",
+    "attributes": "Slash",
+    "types": "Former Roger Pirates",
+    "effect": "yes",
+    "trigger": null,
+    "counter": null,
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/558162_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[On Play] Select up to 2 of your opponent's Characters, and give 1 Character 3000 power and the other 2000 power until the end of your opponent's next turn. Then, K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+    "groupId": 23462
+  },
+  "OP08-OP08-119 normal": {
     "lowPrice": 1.0,
     "midPrice": 3.29,
     "highPrice": 20.0,
@@ -3743,7 +3769,7 @@
     "description": "[When Attacking] DON!! -10: K.O. all Characters other than this Character. Then, add up to 1 card from the top of your deck to the top of your Life cards and trash up to 1 card from the top of your opponent's Life cards.",
     "groupId": 23462
   },
-  "OP08-OP08-119 parallelfoil": {
+  "OP08-OP08-119 parallel": {
     "lowPrice": 5.0,
     "midPrice": 8.48,
     "highPrice": 45.0,
@@ -3769,7 +3795,7 @@
     "description": "[When Attacking] DON!! 10: K.O. all Characters other than this Character. Then, add up to 1 card from the top of your deck to the top of your Life cards and trash up to 1 card from the top of your opponent's Life cards.",
     "groupId": 23462
   },
-  "ST02-ST02-007 foil": {
+  "ST02-ST02-007 normal": {
     "lowPrice": 111.12,
     "midPrice": 131.25,
     "highPrice": 250.0,
@@ -3795,7 +3821,7 @@
     "description": "[Activate: Main] (1) (You may rest the specified number of DON!! cards in your cost area.) You may rest this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "groupId": 23462
   },
-  "ST03-ST03-004 foil": {
+  "ST03-ST03-004 normal": {
     "lowPrice": 29.4,
     "midPrice": 36.22,
     "highPrice": 144.89,
@@ -3821,7 +3847,7 @@
     "description": "[On Play] Add up to 1 [The Seven Warlords of the Sea] or [Thriller Bark Pirates] type Character with a cost of 4 or less other than [Gecko Moria] from your trash to your hand.",
     "groupId": 23462
   },
-  "ST04-ST04-005 foil": {
+  "ST04-ST04-005 normal": {
     "lowPrice": 25.99,
     "midPrice": 30.98,
     "highPrice": 139.99,
@@ -3847,7 +3873,7 @@
     "description": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>\r\n[On Play] DON!! 1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 2 cards and trash 1 card from your hand.",
     "groupId": 23462
   },
-  "ST06-ST06-006 foil": {
+  "ST06-ST06-006 normal": {
     "lowPrice": 51.0,
     "midPrice": 56.62,
     "highPrice": 124.95,
@@ -3873,7 +3899,7 @@
     "description": "[Activate:Main] You may rest this Character: Give up to 1 of your opponent's Characters 2 cost during this turn.",
     "groupId": 23462
   },
-  "OP07-OP07-109 foil": {
+  "OP07-OP07-109 normal": {
     "lowPrice": 29.0,
     "midPrice": 38.0,
     "highPrice": 120.0,

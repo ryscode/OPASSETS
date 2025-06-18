@@ -1,5 +1,5 @@
 {
-  "OP01-OP01-060 foil": {
+  "OP01-OP01-060 normal": {
     "lowPrice": 0.25,
     "midPrice": 0.5,
     "highPrice": 4.99,
@@ -155,7 +155,7 @@
     "description": "[On Play] Reveal 1 card from the top of your deck. If that card is a \"The Seven Warlords of the Sea\" type card, draw 2 cards and place 1 card from your hand at the top of your deck.",
     "groupId": 23492
   },
-  "ST17-ST17-002 foil": {
+  "ST17-ST17-002 normal": {
     "lowPrice": 0.99,
     "midPrice": 2.25,
     "highPrice": 25.0,
@@ -207,7 +207,7 @@
     "description": "[On Play] Look at 3 cards from the top of your deck and place them at the top of your deck in any order.",
     "groupId": 23492
   },
-  "ST17-ST17-004 foil": {
+  "ST17-ST17-004 normal": {
     "lowPrice": 0.6,
     "midPrice": 1.21,
     "highPrice": 20.0,

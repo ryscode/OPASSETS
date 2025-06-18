@@ -25,7 +25,7 @@
     "description": "When this Leader attacks or is attacked, you may trash any number of Event or Stage cards from your hand. This Leader gains +1000 power during this battle for every card trashed.",
     "groupId": 22890
   },
-  "OP03-OP03-001 foil": {
+  "OP03-OP03-001 parallel": {
     "lowPrice": 49.99,
     "midPrice": 59.99,
     "highPrice": 199.99,
@@ -77,7 +77,7 @@
     "description": "[Activate:Main] (3) <em>(You may rest the specified number of DON!! cards in your cost area.)</em> <strong>You may rest 2 of your [East Blue] type Characters: Set this Leader as active, and rest up to 1 of your opponent's Characters with a cost of 5 or less.",
     "groupId": 22890
   },
-  "OP03-OP03-021 foil": {
+  "OP03-OP03-021 parallel": {
     "lowPrice": 22.0,
     "midPrice": 25.24,
     "highPrice": 100.0,
@@ -129,7 +129,7 @@
     "description": "[DON!! x2] [When Attacking (1) <em>(You may rest the specified number of DON!! cards in your cost area.)</em>: Play up to 1 Character card with a cost of 4 or less and a [Trigger] from your hand.",
     "groupId": 22890
   },
-  "OP03-OP03-022 foil": {
+  "OP03-OP03-022 parallel": {
     "lowPrice": 50.99,
     "midPrice": 59.94,
     "highPrice": 150.0,
@@ -181,7 +181,7 @@
     "description": "When your deck is reduced to 0, you win the game instead of losing, according to the rules.\r\n<br>\r\n[DON!! x1] When this Leader's attack deals damage to your opponent's Life, you may trash 1 card from the top of your deck.",
     "groupId": 22890
   },
-  "OP03-OP03-040 foil": {
+  "OP03-OP03-040 parallel": {
     "lowPrice": 173.73,
     "midPrice": 201.02,
     "highPrice": 400.0,
@@ -233,7 +233,7 @@
     "description": "This Leader cannot attack.\r\n<br>\r\n[Activate:Main] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em> <strong>You may rest this Leader</strong>: Play up to 1 [Galley-La Company] type Character card with a cost of 5 or less from your hand.",
     "groupId": 22890
   },
-  "OP03-OP03-058 foil": {
+  "OP03-OP03-058 parallel": {
     "lowPrice": 29.48,
     "midPrice": 35.0,
     "highPrice": 99.99,
@@ -285,7 +285,7 @@
     "description": "[DON!! x2] [When Attacking] (2) <em>(You may rest the specified number of DON!! cards in your cost area.)</em> <strong>You may trash 1 card from your hand</strong>: If you have 1 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards.",
     "groupId": 22890
   },
-  "OP03-OP03-077 foil": {
+  "OP03-OP03-077 parallel": {
     "lowPrice": 18.69,
     "midPrice": 27.01,
     "highPrice": 100.0,
@@ -337,7 +337,7 @@
     "description": "[DON!! x1] [When Attacking] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards. Then, this Leader gains +1000 power during this battle.",
     "groupId": 22890
   },
-  "OP03-OP03-099 foil": {
+  "OP03-OP03-099 parallel": {
     "lowPrice": 89.77,
     "midPrice": 109.85,
     "highPrice": 250.0,
@@ -389,7 +389,7 @@
     "description": "[Your Turn] [Once Per Turn] <strong>You may trash 2 cards from your hand</strong>: When your opponent's Character is K.O.'d, set this Leader as active.",
     "groupId": 22890
   },
-  "OP03-OP03-076 foil": {
+  "OP03-OP03-076 parallel": {
     "lowPrice": 24.56,
     "midPrice": 30.96,
     "highPrice": 150.0,
@@ -415,7 +415,7 @@
     "description": "[Your Turn] [Once Per Turn] <strong>You may trash 2 cards from your hand</strong>: When your opponent's Character is K.O.'d, set this Leader as active.",
     "groupId": 22890
   },
-  "OP03-OP03-013 foil": {
+  "OP03-OP03-013 normal": {
     "lowPrice": 8.0,
     "midPrice": 9.99,
     "highPrice": 24.95,
@@ -441,7 +441,33 @@
     "description": "[Your Turn] [On Play] K.O. up to 1 of your opponent's Characters with 3000 power or less.\r\n<br>\r\n[On K.O.] <strong>You may trash 1 Event from your hand</strong: You may play this Character card from your trash rested.",
     "groupId": 22890
   },
-  "OP03-OP03-018 foil": {
+  "OP03-OP03-013 parallel": {
+    "lowPrice": 14.38,
+    "midPrice": 24.12,
+    "highPrice": 70.0,
+    "marketPrice": 20.49,
+    "directLowPrice": null,
+    "name": "Marco (Alternate Art)",
+    "rarity": "SR",
+    "power": "6000",
+    "cost": "5",
+    "life": null,
+    "category": "Character",
+    "colors": "Red",
+    "attributes": "Special",
+    "types": "Whitebeard Pirates",
+    "effect": "yes",
+    "trigger": null,
+    "counter": "1000",
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/498597_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[Your Turn] [On Play] K.O. up to 1 of your opponent's Characters with 3000 power or less.\r\n<br>\r\n[On K.O.] <strong>You may trash 1 Event from your hand</strong: You may play this Character card from your trash rested.",
+    "groupId": 22890
+  },
+  "OP03-OP03-018 normal": {
     "lowPrice": 0.2,
     "midPrice": 0.5,
     "highPrice": 5.0,
@@ -467,7 +493,33 @@
     "description": "[Main] <strong>You may trash 1 Event from your hand</strong>: K.O. up to 1 of your opponent's Characters with 5000 power or less and up to 1 of your opponent's Characters with 4000 power or less.\r\n<br>\r\n[Trigger] K.O. up to 1 of your opponent's Characters with 5000 power or less.",
     "groupId": 22890
   },
-  "OP03-OP03-024 foil": {
+  "OP03-OP03-018 parallel": {
+    "lowPrice": 6.0,
+    "midPrice": 10.48,
+    "highPrice": 99.0,
+    "marketPrice": 6.92,
+    "directLowPrice": null,
+    "name": "Fire Fist (Alternate Art)",
+    "rarity": "R",
+    "power": null,
+    "cost": "3",
+    "life": null,
+    "category": "Event",
+    "colors": "Red",
+    "attributes": null,
+    "types": "Whitebeard Pirates",
+    "effect": null,
+    "trigger": "yes",
+    "counter": null,
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/498784_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Event",
+    "description": "[Main] <strong>You may trash 1 Event from your hand</strong>: K.O. up to 1 of your opponent's Characters with 5000 power or less and up to 1 of your opponent's Characters with 4000 power or less.\r\n<br>\r\n[Trigger] K.O. up to 1 of your opponent's Characters with 5000 power or less.",
+    "groupId": 22890
+  },
+  "OP03-OP03-024 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 15.0,
@@ -493,7 +545,33 @@
     "description": "[On Play] If your Leader has the [East Blue] type, rest up to 2 of your opponent's Characters with a cost of 4 or less.",
     "groupId": 22890
   },
-  "OP03-OP03-025 foil": {
+  "OP03-OP03-024 parallel": {
+    "lowPrice": 3.25,
+    "midPrice": 4.62,
+    "highPrice": 28.0,
+    "marketPrice": 3.99,
+    "directLowPrice": null,
+    "name": "Gin (Alternate Art)",
+    "rarity": "R",
+    "power": "5000",
+    "cost": "4",
+    "life": null,
+    "category": "Character",
+    "colors": "Green",
+    "attributes": "Strike",
+    "types": "Krieg Pirates;East Blue",
+    "effect": "yes",
+    "trigger": null,
+    "counter": "1000",
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/498862_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[On Play] If your Leader has the [East Blue] type, rest up to 2 of your opponent's Characters with a cost of 4 or less.",
+    "groupId": 22890
+  },
+  "OP03-OP03-025 normal": {
     "lowPrice": 0.45,
     "midPrice": 1.0,
     "highPrice": 7.4,
@@ -519,7 +597,33 @@
     "description": "[On Play] <strong>You may trash 1 card from your hand</strong>: K.O. up to 2 of your opponent's rested Characters with a cost of 4 or less.\r\n<br>\r\n[DON!! x1] This Character gains [Double Attack]. <em>(This card deals 2 damage.)</em>",
     "groupId": 22890
   },
-  "OP03-OP03-041 foil": {
+  "OP03-OP03-025 parallel": {
+    "lowPrice": 2.6,
+    "midPrice": 4.99,
+    "highPrice": 28.0,
+    "marketPrice": 3.01,
+    "directLowPrice": null,
+    "name": "Krieg (Alternate Art)",
+    "rarity": "SR",
+    "power": "7000",
+    "cost": "6",
+    "life": null,
+    "category": "Character",
+    "colors": "Green",
+    "attributes": "Ranged",
+    "types": "Krieg Pirates;East Blue",
+    "effect": "yes",
+    "trigger": null,
+    "counter": null,
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/499029_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[On Play] <strong>You may trash 1 card from your hand</strong>: K.O. up to 2 of your opponent's rested Characters with a cost of 4 or less.\r\n<br>\r\n[DON!! x1] This Character gains [Double Attack]. <em>(This card deals 2 damage.)</em>",
+    "groupId": 22890
+  },
+  "OP03-OP03-041 normal": {
     "lowPrice": 0.36,
     "midPrice": 1.0,
     "highPrice": 10.0,
@@ -545,7 +649,33 @@
     "description": "[Rush] <em>(This card can attack on the turn in which it is played.)</em>\r\n<br>\r\n[DON!! x1] When this Character's attack deals damage to your opponent's Life, you may trash 7 cards from the top of your deck.",
     "groupId": 22890
   },
-  "OP03-OP03-047 foil": {
+  "OP03-OP03-041 parallel": {
+    "lowPrice": 4.62,
+    "midPrice": 7.75,
+    "highPrice": 99.0,
+    "marketPrice": 5.77,
+    "directLowPrice": null,
+    "name": "Usopp (Alternate Art)",
+    "rarity": "SR",
+    "power": "5000",
+    "cost": "4",
+    "life": null,
+    "category": "Character",
+    "colors": "Blue",
+    "attributes": "Ranged",
+    "types": "East Blue",
+    "effect": null,
+    "trigger": null,
+    "counter": null,
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/499191_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[Rush] <em>(This card can attack on the turn in which it is played.)</em>\r\n<br>\r\n[DON!! x1] When this Character's attack deals damage to your opponent's Life, you may trash 7 cards from the top of your deck.",
+    "groupId": 22890
+  },
+  "OP03-OP03-047 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 4.95,
@@ -571,7 +701,33 @@
     "description": "[DON!! x1] When this Character's attack deals damage to your opponent's Life, you may trash 7 cards from the top of your deck.\r\n<br>\r\n[On Play] Return up to 1 Character with a cost of 3 or less to the owner's hand, and you may trash 2 cards from the top of your deck.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/\">This card has been officially errata'd.</a>",
     "groupId": 22890
   },
-  "OP03-OP03-066 foil": {
+  "OP03-OP03-047 parallel": {
+    "lowPrice": 3.5,
+    "midPrice": 7.35,
+    "highPrice": 45.0,
+    "marketPrice": 3.75,
+    "directLowPrice": null,
+    "name": "Zeff (Alternate Art)",
+    "rarity": "R",
+    "power": "6000",
+    "cost": "5",
+    "life": null,
+    "category": "Character",
+    "colors": "Blue",
+    "attributes": "Strike",
+    "types": "East Blue",
+    "effect": "yes",
+    "trigger": null,
+    "counter": "1000",
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/499287_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[DON!! x1] When this Character's attack deals damage to your opponent's Life, you may trash 7 cards from the top of your deck.\r\n<br>\r\n[On Play] Return up to 1 Character with a cost of 3 or less to the owner's hand, and you may trash 2 cards from the top of your deck.\r\n<br><br>\r\n<a href=\"https://en.onepiece-cardgame.com/rules/errata_card/\">This card has been officially errata'd.</a>",
+    "groupId": 22890
+  },
+  "OP03-OP03-066 normal": {
     "lowPrice": 0.25,
     "midPrice": 0.99,
     "highPrice": 7.0,
@@ -597,7 +753,33 @@
     "description": "[On Play] (2) <em>(You may rest the specified number of DON!! cards in your cost area.)</em>: Add up to 1 DON!! card from your DON!! deck and set it as active. Then, if you have 8 or more DON!! cards on your field, K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
     "groupId": 22890
   },
-  "OP03-OP03-078 foil": {
+  "OP03-OP03-066 parallel": {
+    "lowPrice": 4.0,
+    "midPrice": 6.66,
+    "highPrice": 30.0,
+    "marketPrice": 4.86,
+    "directLowPrice": null,
+    "name": "Paulie (Alternate Art)",
+    "rarity": "SR",
+    "power": "6000",
+    "cost": "5",
+    "life": null,
+    "category": "Character",
+    "colors": "Purple",
+    "attributes": "Strike",
+    "types": "Galley-La Company;Water Seven",
+    "effect": "yes",
+    "trigger": null,
+    "counter": null,
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/499400_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[On Play] (2) <em>(You may rest the specified number of DON!! cards in your cost area.)</em>: Add up to 1 DON!! card from your DON!! deck and set it as active. Then, if you have 8 or more DON!! cards on your field, K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "groupId": 22890
+  },
+  "OP03-OP03-078 normal": {
     "lowPrice": 1.85,
     "midPrice": 2.69,
     "highPrice": 14.99,
@@ -616,6 +798,32 @@
     "trigger": null,
     "counter": null,
     "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/499497_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[DON!! x1] [Your Turn] Give all of your opponent's Characters -3 cost.\r\n<br>\r\n[On Play] If your opponent has 6 or more cards in their hand, trash 2 cards from your opponent's hand.",
+    "groupId": 22890
+  },
+  "OP03-OP03-078 parallel": {
+    "lowPrice": 5.49,
+    "midPrice": 11.49,
+    "highPrice": 44.99,
+    "marketPrice": 7.28,
+    "directLowPrice": null,
+    "name": "Issho (Alternate Art)",
+    "rarity": "SR",
+    "power": "9000",
+    "cost": "8",
+    "life": null,
+    "category": "Character",
+    "colors": "Black",
+    "attributes": "Slash",
+    "types": "Navy",
+    "effect": "yes",
+    "trigger": null,
+    "counter": null,
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/499498_200w.jpg",
     "frameType": null,
     "variant": null,
     "finish": null,
@@ -649,7 +857,7 @@
     "description": "[DON!! x1] [When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
     "groupId": 22890
   },
-  "OP03-OP03-003 foil": {
+  "OP03-OP03-003 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.24,
     "highPrice": 13.0,
@@ -883,7 +1091,7 @@
     "description": "[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters -2000 power during this turn.",
     "groupId": 22890
   },
-  "OP03-OP03-012 foil": {
+  "OP03-OP03-012 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.18,
     "highPrice": 4.95,
@@ -961,7 +1169,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
     "groupId": 22890
   },
-  "OP03-OP03-016 foil": {
+  "OP03-OP03-016 normal": {
     "lowPrice": 0.08,
     "midPrice": 0.25,
     "highPrice": 4.95,
@@ -1143,7 +1351,7 @@
     "description": "[On Play] If your Leader has the [East Blue] type, rest up to 1 of your opponent's Characters with a cost of 2 or less and, if you don't have [Buchi], play up to 1 [Buchi] from your hand.",
     "groupId": 22890
   },
-  "OP03-OP03-028 foil": {
+  "OP03-OP03-028 normal": {
     "lowPrice": 0.02,
     "midPrice": 0.2,
     "highPrice": 4.95,
@@ -1195,7 +1403,7 @@
     "description": "[On Play] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.\r\n<br>\r\n[Trigger] Play this card.",
     "groupId": 22890
   },
-  "OP03-OP03-030 foil": {
+  "OP03-OP03-030 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.25,
     "highPrice": 4.99,
@@ -1403,7 +1611,7 @@
     "description": "[Main] <strong>You may rest 1 of your [East Blue] type Characters</strong>: K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.\r\n<br>\r\n[Trigger] Play up to 1 Character card with a cost of 4 or less and a [Trigger] from your hand.",
     "groupId": 22890
   },
-  "OP03-OP03-038 foil": {
+  "OP03-OP03-038 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 4.95,
@@ -1507,7 +1715,7 @@
     "description": "When you deal damage to your opponent's Life, you may trash 3 cards from the top of your deck. If you do, trash this Character.",
     "groupId": 22890
   },
-  "OP03-OP03-044 foil": {
+  "OP03-OP03-044 normal": {
     "lowPrice": 1.49,
     "midPrice": 2.77,
     "highPrice": 50.0,
@@ -1663,7 +1871,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>\r\n<br>\r\n[On K.O.] You may trash 1 card from the top of your deck.",
     "groupId": 22890
   },
-  "OP03-OP03-051 foil": {
+  "OP03-OP03-051 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.25,
     "highPrice": 6.05,
@@ -1819,7 +2027,7 @@
     "description": "[Main] Draw 2 cards.\r\n<br>\r\n[Trigger] Activate this card's [Main] effect.",
     "groupId": 22890
   },
-  "OP03-OP03-057 foil": {
+  "OP03-OP03-057 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 6.0,
@@ -1923,7 +2131,7 @@
     "description": null,
     "groupId": 22890
   },
-  "OP03-OP03-062 foil": {
+  "OP03-OP03-062 normal": {
     "lowPrice": 0.02,
     "midPrice": 0.2,
     "highPrice": 4.95,
@@ -2105,7 +2313,7 @@
     "description": "[On K.O.] If your Leader has the [Impel Down] type, draw 2 cards and trash 1 card from your hand.",
     "groupId": 22890
   },
-  "OP03-OP03-070 foil": {
+  "OP03-OP03-070 normal": {
     "lowPrice": 0.04,
     "midPrice": 0.21,
     "highPrice": 4.95,
@@ -2131,7 +2339,7 @@
     "description": "[On Play] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em> <strong>You may trash 1 Character card with a cost of 5 from your hand</strong>: This Character gains [Rush] during this turn. <em>(This card can attack on the turn in which it is played.)</em>",
     "groupId": 22890
   },
-  "OP03-OP03-071 foil": {
+  "OP03-OP03-071 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.2,
     "highPrice": 4.95,
@@ -2157,7 +2365,7 @@
     "description": "[When Attacking] DON!! -1 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: Rest up to 1 of your opponent's Characters with a cost of 5 or less.",
     "groupId": 22890
   },
-  "OP03-OP03-072 foil": {
+  "OP03-OP03-072 normal": {
     "lowPrice": 6.61,
     "midPrice": 8.25,
     "highPrice": 19.95,
@@ -2287,7 +2495,7 @@
     "description": "[DON!! x1] This Character cannot be K.O.'d in battle.",
     "groupId": 22890
   },
-  "OP03-OP03-080 foil": {
+  "OP03-OP03-080 normal": {
     "lowPrice": 0.3,
     "midPrice": 1.0,
     "highPrice": 10.0,
@@ -2313,7 +2521,33 @@
     "description": "[On Play] <strong>You may place 2 cards with a type including \"CP\" from your trash at the bottom of your deck in any order</strong>: K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
     "groupId": 22890
   },
-  "OP03-OP03-081 foil": {
+  "OP03-OP03-080 parallel": {
+    "lowPrice": 2.67,
+    "midPrice": 6.05,
+    "highPrice": 36.99,
+    "marketPrice": 3.95,
+    "directLowPrice": null,
+    "name": "Kaku (080) (Alternate Art)",
+    "rarity": "SR",
+    "power": "6000",
+    "cost": "5",
+    "life": null,
+    "category": "Character",
+    "colors": "Black",
+    "attributes": "Slash",
+    "types": "CP9",
+    "effect": "yes",
+    "trigger": null,
+    "counter": "1000",
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/500018_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[On Play] <strong>You may place 2 cards with a type including \"CP\" from your trash at the bottom of your deck in any order</strong>: K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "groupId": 22890
+  },
+  "OP03-OP03-081 normal": {
     "lowPrice": 0.18,
     "midPrice": 0.5,
     "highPrice": 4.99,
@@ -2332,6 +2566,32 @@
     "trigger": null,
     "counter": "2000",
     "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/500019_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[On Play] Draw 2 cards and trash 2 cards from your hand. Then, give up to 1 of your opponent's Characters -2 cost during this turn.",
+    "groupId": 22890
+  },
+  "OP03-OP03-081 parallel": {
+    "lowPrice": 12.89,
+    "midPrice": 19.98,
+    "highPrice": 69.39,
+    "marketPrice": 17.09,
+    "directLowPrice": null,
+    "name": "Kalifa (081) (Alternate Art)",
+    "rarity": "R",
+    "power": "4000",
+    "cost": "4",
+    "life": null,
+    "category": "Character",
+    "colors": "Black",
+    "attributes": "Special",
+    "types": "CP9",
+    "effect": "yes",
+    "trigger": null,
+    "counter": "2000",
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/500020_200w.jpg",
     "frameType": null,
     "variant": null,
     "finish": null,
@@ -2443,7 +2703,7 @@
     "description": null,
     "groupId": 22890
   },
-  "OP03-OP03-086 foil": {
+  "OP03-OP03-086 normal": {
     "lowPrice": 0.15,
     "midPrice": 0.59,
     "highPrice": 4.95,
@@ -2462,6 +2722,32 @@
     "trigger": null,
     "counter": "1000",
     "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/500030_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[On Play] If your Leader's type include \"CP\", look at 3 cards from the top of your deck; reveal up to 1 card with a type including \"CP\" other than [Spandam] and add it to your hand. Then, trash the rest.",
+    "groupId": 22890
+  },
+  "OP03-OP03-086 parallel": {
+    "lowPrice": 3.45,
+    "midPrice": 8.49,
+    "highPrice": 99.0,
+    "marketPrice": 5.19,
+    "directLowPrice": null,
+    "name": "Spandam (Alternate Art)",
+    "rarity": "R",
+    "power": "2000",
+    "cost": "1",
+    "life": null,
+    "category": "Character",
+    "colors": "Black",
+    "attributes": "Slash",
+    "types": "CP9",
+    "effect": "yes",
+    "trigger": null,
+    "counter": "1000",
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/500033_200w.jpg",
     "frameType": null,
     "variant": null,
     "finish": null,
@@ -2521,7 +2807,7 @@
     "description": "This Character cannot be K.O.'d by effects.\r\n<br>\r\n[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
     "groupId": 22890
   },
-  "OP03-OP03-089 foil": {
+  "OP03-OP03-089 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 4.95,
@@ -2547,7 +2833,7 @@
     "description": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 [Navy] type card other than [Brannew] and add it to your hand. Then, trash the rest.",
     "groupId": 22890
   },
-  "OP03-OP03-090 foil": {
+  "OP03-OP03-090 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 4.95,
@@ -2599,7 +2885,7 @@
     "description": "[On Play] Set the cost of up to 1 of your opponent's Characters with no base effect to 0 during this turn.",
     "groupId": 22890
   },
-  "OP03-OP03-092 foil": {
+  "OP03-OP03-092 normal": {
     "lowPrice": 0.09,
     "midPrice": 0.5,
     "highPrice": 6.14,
@@ -2618,6 +2904,32 @@
     "trigger": null,
     "counter": null,
     "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/500040_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[On Play] <strong>You may place 2 cards with a type including \"CP\" from your trash at the bottom of your deck in any order</strong>: This Character gains [Rush] during this turn. <em>(This card can attack on the turn in which it is played.)</em>",
+    "groupId": 22890
+  },
+  "OP03-OP03-092 parallel": {
+    "lowPrice": 2.99,
+    "midPrice": 4.9,
+    "highPrice": 45.0,
+    "marketPrice": 3.86,
+    "directLowPrice": null,
+    "name": "Rob Lucci (092) (Alternate Art)",
+    "rarity": "SR",
+    "power": "7000",
+    "cost": "6",
+    "life": null,
+    "category": "Character",
+    "colors": "Black",
+    "attributes": "Strike",
+    "types": "CP9",
+    "effect": "yes",
+    "trigger": null,
+    "counter": null,
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/500041_200w.jpg",
     "frameType": null,
     "variant": null,
     "finish": null,
@@ -2729,7 +3041,7 @@
     "description": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 0 or your opponent's Stages with a cost of 3 or less.\r\n<br>\r\n[Trigger] Draw 2 cards.",
     "groupId": 22890
   },
-  "OP03-OP03-097 foil": {
+  "OP03-OP03-097 normal": {
     "lowPrice": 0.2,
     "midPrice": 0.59,
     "highPrice": 6.99,
@@ -2807,7 +3119,7 @@
     "description": null,
     "groupId": 22890
   },
-  "OP03-OP03-102 foil": {
+  "OP03-OP03-102 normal": {
     "lowPrice": 0.5,
     "midPrice": 1.05,
     "highPrice": 5.15,
@@ -2963,7 +3275,7 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
     "groupId": 22890
   },
-  "OP03-OP03-108 foil": {
+  "OP03-OP03-108 normal": {
     "lowPrice": 0.15,
     "midPrice": 0.75,
     "highPrice": 17.0,
@@ -2982,6 +3294,32 @@
     "trigger": "yes",
     "counter": "1000",
     "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/500077_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[DON!! x1] If you have less Life cards than your opponent, this Character gains [Double Attack] and +1000 power. <em>(This card deals 2 damage.)</em>\r\n<br>\r\n[Trigger] <strong>You may trash 1 card from your hand</strong>: Play this card.",
+    "groupId": 22890
+  },
+  "OP03-OP03-108 parallel": {
+    "lowPrice": 4.65,
+    "midPrice": 7.0,
+    "highPrice": 124.0,
+    "marketPrice": 5.85,
+    "directLowPrice": null,
+    "name": "Charlotte Cracker (Alternate Art)",
+    "rarity": "SR",
+    "power": "5000",
+    "cost": "4",
+    "life": null,
+    "category": "Character",
+    "colors": "Yellow",
+    "attributes": "Slash",
+    "types": "Big Mom Pirates",
+    "effect": null,
+    "trigger": "yes",
+    "counter": "1000",
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/500079_200w.jpg",
     "frameType": null,
     "variant": null,
     "finish": null,
@@ -3015,7 +3353,7 @@
     "description": "[On Play] <strong>You may trash 1 card from the top or bottom of your Life cards</strong>: Add up to 1 card from the top of your deck to the top of your Life cards.",
     "groupId": 22890
   },
-  "OP03-OP03-110 foil": {
+  "OP03-OP03-110 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 4.95,
@@ -3067,7 +3405,7 @@
     "description": null,
     "groupId": 22890
   },
-  "OP03-OP03-112 foil": {
+  "OP03-OP03-112 normal": {
     "lowPrice": 0.11,
     "midPrice": 0.35,
     "highPrice": 4.95,
@@ -3093,7 +3431,33 @@
     "description": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 [Sanji] or [Big Mom Pirates] type card other than [Charlotte Pudding] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "groupId": 22890
   },
-  "OP03-OP03-113 foil": {
+  "OP03-OP03-112 parallel": {
+    "lowPrice": 18.0,
+    "midPrice": 22.99,
+    "highPrice": 111.0,
+    "marketPrice": 20.8,
+    "directLowPrice": null,
+    "name": "Charlotte Pudding (Alternate Art)",
+    "rarity": "R",
+    "power": "2000",
+    "cost": "1",
+    "life": null,
+    "category": "Character",
+    "colors": "Yellow",
+    "attributes": "Wisdom",
+    "types": "Big Mom Pirates",
+    "effect": "yes",
+    "trigger": null,
+    "counter": "1000",
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/500086_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 [Sanji] or [Big Mom Pirates] type card other than [Charlotte Pudding] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "groupId": 22890
+  },
+  "OP03-OP03-113 normal": {
     "lowPrice": 0.02,
     "midPrice": 0.59,
     "highPrice": 19.5,
@@ -3119,7 +3483,33 @@
     "description": "[On K.O.] Look at 3 cards from the top of your deck; reveal up to 1 [Big Mom Pirates] type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.\r\n<br>\r\n[Trigger] <strong>You may trash 1 card from your hand</strong>: Play this card.",
     "groupId": 22890
   },
-  "OP03-OP03-114 foil": {
+  "OP03-OP03-113 parallel": {
+    "lowPrice": 3.49,
+    "midPrice": 6.0,
+    "highPrice": 58.0,
+    "marketPrice": 5.06,
+    "directLowPrice": null,
+    "name": "Charlotte Perospero (Alternate Art)",
+    "rarity": "SR",
+    "power": "5000",
+    "cost": "3",
+    "life": null,
+    "category": "Character",
+    "colors": "Yellow",
+    "attributes": "Special",
+    "types": "Big Mom Pirates",
+    "effect": null,
+    "trigger": "yes",
+    "counter": null,
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/500090_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[On K.O.] Look at 3 cards from the top of your deck; reveal up to 1 [Big Mom Pirates] type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.\r\n<br>\r\n[Trigger] <strong>You may trash 1 card from your hand</strong>: Play this card.",
+    "groupId": 22890
+  },
+  "OP03-OP03-114 normal": {
     "lowPrice": 6.0,
     "midPrice": 8.26,
     "highPrice": 35.25,
@@ -3145,37 +3535,37 @@
     "description": "[On Play] If your Leader has the [Big Mom Pirates] type, add up to 1 card from the top of your deck to the top of your Life cards. Then, trash up to 1 card from the top of your opponent's Life cards.",
     "groupId": 22890
   },
+  "OP03-OP03-114 parallel": {
+    "lowPrice": 11.7,
+    "midPrice": 16.0,
+    "highPrice": 111.24,
+    "marketPrice": 14.03,
+    "directLowPrice": null,
+    "name": "Charlotte Linlin (114) (Alternate Art)",
+    "rarity": "SR",
+    "power": "12000",
+    "cost": "10",
+    "life": null,
+    "category": "Character",
+    "colors": "Yellow",
+    "attributes": "Special",
+    "types": "Big Mom Pirates",
+    "effect": "yes",
+    "trigger": null,
+    "counter": null,
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/500093_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[On Play] If your Leader has the [Big Mom Pirates] type, add up to 1 card from the top of your deck to the top of your Life cards. Then, trash up to 1 card from the top of your opponent's Life cards.",
+    "groupId": 22890
+  },
   "OP03-OP03-115 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.95,
     "marketPrice": 0.06,
-    "directLowPrice": null,
-    "name": "Streusen",
-    "rarity": "R",
-    "power": "1000",
-    "cost": "1",
-    "life": null,
-    "category": "Character",
-    "colors": "Yellow",
-    "attributes": "Slash",
-    "types": "Big Mom Pirates",
-    "effect": "yes",
-    "trigger": "yes",
-    "counter": "2000",
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/500094_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Character",
-    "description": "[On Play] <strong>You may trash 1 card with a [Trigger] from your hand</strong>: K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
-    "groupId": 22890
-  },
-  "OP03-OP03-115 foil": {
-    "lowPrice": 0.05,
-    "midPrice": 0.25,
-    "highPrice": 4.95,
-    "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "Streusen",
     "rarity": "R",
@@ -3275,7 +3665,7 @@
     "description": "[Counter] Up to 1 of your Leader or Character cards gains +5000 power during this battle.\r\n<br>\r\n[Trigger] <strong>You may trash 2 cards from your hand</strong>: Add up to 1 card from the top of your deck to the top of your Life cards.",
     "groupId": 22890
   },
-  "OP03-OP03-119 foil": {
+  "OP03-OP03-119 normal": {
     "lowPrice": 0.09,
     "midPrice": 0.25,
     "highPrice": 4.95,
@@ -3353,7 +3743,7 @@
     "description": "[Main] <strong>You may trash 1 card from the top of your Life cards</strong>: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.\r\n<br>\r\n[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
     "groupId": 22890
   },
-  "OP03-OP03-122 foil": {
+  "OP03-OP03-122 normal": {
     "lowPrice": 9.63,
     "midPrice": 11.9,
     "highPrice": 99.0,
@@ -3379,7 +3769,33 @@
     "description": "Also treat this card's name as [Usopp] according to the rules.\r\n<br>\r\n[On Play] Return up to 1 Character with a cost of 6 or less to the owner's hand. Then, draw 2 cards and trash 2 cards from your hand.",
     "groupId": 22890
   },
-  "OP03-OP03-123 foil": {
+  "OP03-OP03-122 parallel": {
+    "lowPrice": 326.62,
+    "midPrice": 417.39,
+    "highPrice": 489.99,
+    "marketPrice": 362.91,
+    "directLowPrice": null,
+    "name": "Sogeking (Alternate Art) (Manga)",
+    "rarity": "SEC",
+    "power": "6000",
+    "cost": "7",
+    "life": null,
+    "category": "Character",
+    "colors": "Blue",
+    "attributes": "Ranged",
+    "types": "Sniper Island",
+    "effect": "yes",
+    "trigger": null,
+    "counter": "1000",
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/500118_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "Also treat this card's name as [Usopp] according to the rules.\r\n<br>\r\n[On Play] Return up to 1 Character with a cost of 6 or less to the owner's hand. Then, draw 2 cards and trash 2 cards from your hand.",
+    "groupId": 22890
+  },
+  "OP03-OP03-123 normal": {
     "lowPrice": 5.75,
     "midPrice": 13.62,
     "highPrice": 150.0,
@@ -3398,6 +3814,32 @@
     "trigger": null,
     "counter": null,
     "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/500120_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[On Play] Add up to 1 Character with a cost of 8 or less to the top or bottom of the owner's Life cards face-up.",
+    "groupId": 22890
+  },
+  "OP03-OP03-123 parallel": {
+    "lowPrice": 29.98,
+    "midPrice": 38.28,
+    "highPrice": 199.0,
+    "marketPrice": 32.97,
+    "directLowPrice": null,
+    "name": "Charlotte Katakuri (123) (Alternate Art)",
+    "rarity": "SEC",
+    "power": "8000",
+    "cost": "8",
+    "life": null,
+    "category": "Character",
+    "colors": "Yellow",
+    "attributes": "Strike",
+    "types": "Big Mom Pirates",
+    "effect": "yes",
+    "trigger": null,
+    "counter": null,
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/500122_200w.jpg",
     "frameType": null,
     "variant": null,
     "finish": null,
@@ -3431,7 +3873,7 @@
     "description": "[Trigger] <strong>You may trash 1 card from the top or bottom of your Life cards</strong>: Play this card.",
     "groupId": 22890
   },
-  "OP01-OP01-051 foil": {
+  "OP01-OP01-051 normal": {
     "lowPrice": 60.0,
     "midPrice": 76.95,
     "highPrice": 150.0,
@@ -3457,7 +3899,7 @@
     "description": "[DON!! x1] [Opponent's Turn] If this Character is rested, your opponent cannot attack any card other than the Character [Eustass\"Captain\"Kid].\r\n<br>\r\n[Activate:Main] [Once Per Turn] <strong>You may rest this Character</strong>: Play up to 1 Character card with a cost of 3 or less from your hand.",
     "groupId": 22890
   },
-  "ST01-ST01-012 foil": {
+  "ST01-ST01-012 normal": {
     "lowPrice": 105.0,
     "midPrice": 138.12,
     "highPrice": 350.0,
@@ -3483,7 +3925,7 @@
     "description": "[Rush] <em>(This card can attack on the turn in which it is played.)</em>\r\n<br>\r\n[DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
     "groupId": 22890
   },
-  "ST03-ST03-009 foil": {
+  "ST03-ST03-009 normal": {
     "lowPrice": 42.49,
     "midPrice": 47.0,
     "highPrice": 100.0,
@@ -3509,7 +3951,7 @@
     "description": "[On Play] Return up to 1 Character with a cost of 7 or less to the owner's hand.",
     "groupId": 22890
   },
-  "ST04-ST04-003 foil": {
+  "ST04-ST04-003 normal": {
     "lowPrice": 31.32,
     "midPrice": 36.01,
     "highPrice": 100.0,
@@ -3533,6 +3975,32 @@
     "finish": null,
     "cardType": "Character",
     "description": "[On Play] DON!! -5 <em>(You may return the specified number of DON!! cards from your field to your DON!! deck.)</em>: K.O. up to 1 of your opponent's Characters with a cost of 6 or less. This Character gains [Rush] during this turn. <em>(This card can attack on the turn in which it is played.)</em>",
+    "groupId": 22890
+  },
+  "OP03-OP03-122 alt2": {
+    "lowPrice": 3.35,
+    "midPrice": 4.94,
+    "highPrice": 99.0,
+    "marketPrice": 4.01,
+    "directLowPrice": null,
+    "name": "Sogeking",
+    "rarity": "SEC",
+    "power": "6000",
+    "cost": "7",
+    "life": null,
+    "category": "Character",
+    "colors": "Blue",
+    "attributes": "Ranged",
+    "types": "Sniper Island",
+    "effect": "yes",
+    "trigger": null,
+    "counter": "1000",
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/501997_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "Also treat this card's name as [Usopp] according to the rules.\r\n<br>\r\n[On Play] Return up to 1 Character with a cost of 6 or less to the owner's hand. Then, draw 2 cards and trash 2 cards from your hand.",
     "groupId": 22890
   }
 }

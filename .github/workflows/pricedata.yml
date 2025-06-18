@@ -34,5 +34,9 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add prices/prices_*.json
+          git add history/
+          git commit -m "📈 Add historical price logs for all sets"
+          git push
+
           git commit -m "Auto-update prices" || echo "Nichts zu committen"
           git push

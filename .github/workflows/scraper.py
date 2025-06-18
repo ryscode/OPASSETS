@@ -87,8 +87,15 @@ def build_price_data(group_id):
         variant = (info.get("variant") or "").lower()
         name = (info.get("name") or "").lower()
         
-        # 🧠 Eigene Logik für Suffix-Zuweisung
-        if "parallel" in name:
+               # 🧠 Neue erweiterte Logik für Varianten-Suffix
+        if "_p1" in number:
+            # prüfe ob auch eine normale Version ohne _p1 existiert
+            base = number.replace("_p1", "")
+            has_base = any(n == base for n in product_number_map.values())
+            suffix = "foil" if has_base else "normal"
+        elif "_p2" in number or "_p3" in number or "_p4" in number:
+            suffix = "parallelfoil"
+        elif "parallel" in name:
             suffix = "parallelfoil"
         elif "box topper" in name:
             suffix = "boxtopper"
@@ -100,6 +107,7 @@ def build_price_data(group_id):
             suffix = "foil"
         else:
             suffix = "normal"
+
         
         full_id = f"{number}_{suffix}"
 

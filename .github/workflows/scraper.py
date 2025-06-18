@@ -1,7 +1,7 @@
 import json
 import requests
 from pathlib import Path
-from collections import defaultdict
+from collections import defaultdict, Counter
 
 SET_GROUPS_URL = "https://raw.githubusercontent.com/ryscode/OPASSETS/main/prices/set_groups.json"
 BASE_PRODUCTS_URL = "https://tcgcsv.com/tcgplayer/68/{group_id}/products"
@@ -13,7 +13,6 @@ def fetch_json(url):
     return resp.json()
 
 def normalize_id(raw_id):
-    # z. B. "OP01-016_parallelfoil" → "OP01-OP01-016 parallelfoil"
     base = raw_id.replace("_", " ")
     parts = base.split("-")
     return f"{parts[0]}-{base}"
@@ -28,7 +27,7 @@ def build_price_data(group_id):
     product_info_map = {}
     product_number_map = {}
 
-    # Produkte gruppieren (für Debug-Zwecke)
+    # Produkte gruppieren
     product_groups = defaultdict(list)
     for prod in products:
         pid = str(prod.get("productId"))
@@ -36,19 +35,25 @@ def build_price_data(group_id):
 
     for pid, variants in product_groups.items():
         if len(variants) > 1:
-            print(f"👀 Mehrfacheintrag für productId: {pid} ({len(variants)} Varianten)")
+            print(f"\U0001f440 Mehrfacheintrag für productId: {pid} ({len(variants)} Varianten)")
             for i, v in enumerate(variants):
                 edata = v.get("extendedData")
                 print(f"  Variante {i+1}: extendedData {'leer' if not edata else 'OK'}, name: {v.get('name')}")
 
+    number_to_pids = defaultdict(list)
+
     for prod in products:
         pid = str(prod.get("productId"))
-
         extended = {
             ext.get("displayName", "").strip(): ext.get("value")
             for ext in prod.get("extendedData", [])
             if ext.get("displayName") and ext.get("value") is not None
         }
+
+        number = extended.get("Number")
+        if number:
+            number_to_pids[number].append(pid)
+            product_number_map[pid] = number
 
         product_info_map[pid] = {
             "name": prod.get("name"),
@@ -71,47 +76,27 @@ def build_price_data(group_id):
             "description": extended.get("Description")
         }
 
-        number = extended.get("Number")
-        if number:
-            product_number_map[pid] = number
-
     card_variants = defaultdict(list)
     for price in prices:
         pid = str(price.get("productId"))
         number = product_number_map.get(pid)
-        subtype = price.get("subTypeName") or ""
         if not number:
             continue
 
-        info = product_info_map.get(pid, {})
-        variant = (info.get("variant") or "").lower()
-        name = (info.get("name") or "").lower()
-        
-               # 🧠 Neue erweiterte Logik für Varianten-Suffix
-        if "_p1" in number:
-            # prüfe ob auch eine normale Version ohne _p1 existiert
-            base = number.replace("_p1", "")
-            has_base = any(n == base for n in product_number_map.values())
-            suffix = "foil" if has_base else "normal"
-        elif "_p2" in number or "_p3" in number or "_p4" in number:
-            suffix = "parallelfoil"
-        elif "parallel" in name:
-            suffix = "parallelfoil"
-        elif "box topper" in name:
-            suffix = "boxtopper"
-        elif "alt art" in name:
-            suffix = "altart"
-        elif "promo" in name:
-            suffix = "promo"
-        elif (variant or subtype).lower() == "foil":
-            suffix = "foil"
-        else:
+        all_pids = number_to_pids[number]
+        all_pids_sorted = sorted(all_pids)
+        index = all_pids_sorted.index(pid)
+
+        if index == 0:
             suffix = "normal"
+        elif index == 1:
+            suffix = "parallel"
+        else:
+            suffix = f"alt{index}"
 
-        
         full_id = f"{number}_{suffix}"
-
         norm_id = normalize_id(full_id)
+
         card_variants[norm_id].append({
             "productId": pid,
             "price": {

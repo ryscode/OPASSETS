@@ -1,7 +1,9 @@
 import json
 import requests
 from pathlib import Path
-from collections import defaultdict, Counter
+from collections import defaultdict
+
+from datetime import datetime  # 🆕 HISTORICAL LOGGING
 
 SET_GROUPS_URL = "https://raw.githubusercontent.com/ryscode/OPASSETS/main/prices/set_groups.json"
 BASE_PRODUCTS_URL = "https://tcgcsv.com/tcgplayer/68/{group_id}/products"
@@ -26,21 +28,13 @@ def build_price_data(group_id):
 
     product_info_map = {}
     product_number_map = {}
+    number_to_pids = defaultdict(list)
 
     # Produkte gruppieren
     product_groups = defaultdict(list)
     for prod in products:
         pid = str(prod.get("productId"))
         product_groups[pid].append(prod)
-
-    for pid, variants in product_groups.items():
-        if len(variants) > 1:
-            print(f"\U0001f440 Mehrfacheintrag für productId: {pid} ({len(variants)} Varianten)")
-            for i, v in enumerate(variants):
-                edata = v.get("extendedData")
-                print(f"  Variante {i+1}: extendedData {'leer' if not edata else 'OK'}, name: {v.get('name')}")
-
-    number_to_pids = defaultdict(list)
 
     for prod in products:
         pid = str(prod.get("productId"))
@@ -122,6 +116,30 @@ def build_price_data(group_id):
 
     return combined
 
+def save_historical_snapshot(set_code: str, data: dict):  # 🆕 HISTORICAL LOGGING
+    today = datetime.today().strftime("%Y-%m-%d")
+    output_dir = Path("history") / set_code.lower()
+    output_dir.mkdir(parents=True, exist_ok=True)
+    output_path = output_dir / f"{today}.json"
+
+    historical_data = {
+        card_id: {
+            "name": entry["name"],
+            "groupId": entry["groupId"],
+            "prices": {
+                "low": entry["lowPrice"],
+                "mid": entry["midPrice"],
+                "high": entry["highPrice"],
+                "market": entry["marketPrice"],
+                "directLow": entry["directLowPrice"]
+            }
+        }
+        for card_id, entry in data.items()
+    }
+
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(historical_data, f, indent=2, ensure_ascii=False)
+
 def main():
     print("🔁 Starte Scrape")
     sets = fetch_json(SET_GROUPS_URL)
@@ -132,9 +150,15 @@ def main():
         print(f"➞️  Verarbeite {set_code} ({group_id})")
         try:
             data = build_price_data(group_id)
+
+            # Schreibe aktuelle Preisdatei
             output_path = output_dir / f"prices_{set_code.lower()}.json"
             with open(output_path, "w", encoding="utf-8") as f:
                 json.dump(data, f, indent=2, ensure_ascii=False)
+
+            # 🆕 Schreibe Historie
+            save_historical_snapshot(set_code, data)
+
             print(f"✅ {len(data)} Preise gespeichert unter {output_path}")
         except Exception as e:
             print(f"❌ Fehler bei {set_code}: {e}")

@@ -157,7 +157,7 @@
   },
   "ST03-ST03-007 normal": {
     "lowPrice": 0.06,
-    "midPrice": 0.25,
+    "midPrice": 0.24,
     "highPrice": 2.0,
     "marketPrice": 0.12,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "ST03-ST03-008 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.18,
+    "midPrice": 0.17,
     "highPrice": 59.0,
     "marketPrice": 0.1,
     "directLowPrice": null,
@@ -209,9 +209,9 @@
   },
   "ST03-ST03-009 foil": {
     "lowPrice": 2.46,
-    "midPrice": 4.69,
+    "midPrice": 4.66,
     "highPrice": 7.0,
-    "marketPrice": 4.33,
+    "marketPrice": 4.27,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo",
     "rarity": "SR",
@@ -287,7 +287,7 @@
   },
   "ST03-ST03-012 normal": {
     "lowPrice": 0.07,
-    "midPrice": 0.25,
+    "midPrice": 0.22,
     "highPrice": 1.0,
     "marketPrice": 0.13,
     "directLowPrice": null,
@@ -313,9 +313,9 @@
   },
   "ST03-ST03-013 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.19,
+    "midPrice": 0.16,
     "highPrice": 5.0,
-    "marketPrice": 0.12,
+    "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Boa Hancock",
     "rarity": "C",
@@ -365,9 +365,9 @@
   },
   "ST03-ST03-015 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.25,
-    "highPrice": 2.0,
-    "marketPrice": 0.29,
+    "midPrice": 0.29,
+    "highPrice": 4.99,
+    "marketPrice": 0.5,
     "directLowPrice": null,
     "name": "Sables",
     "rarity": "C",
@@ -416,10 +416,10 @@
     "groupId": 3192
   },
   "ST03-ST03-017 normal": {
-    "lowPrice": 6.95,
-    "midPrice": 7.47,
+    "lowPrice": 6.5,
+    "midPrice": 7.43,
     "highPrice": 20.0,
-    "marketPrice": 6.97,
+    "marketPrice": 6.95,
     "directLowPrice": null,
     "name": "Love-Love Mellow",
     "rarity": "C",

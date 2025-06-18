@@ -1,9 +1,9 @@
 {
   "OP02-OP02-001 foil": {
     "lowPrice": 0.05,
-    "midPrice": 0.37,
+    "midPrice": 0.39,
     "highPrice": 4.99,
-    "marketPrice": 0.37,
+    "marketPrice": 0.38,
     "directLowPrice": null,
     "name": "Edward.Newgate (OP02-001)",
     "rarity": "L",
@@ -27,8 +27,8 @@
   },
   "OP02-OP02-008 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.14,
-    "highPrice": 1.5,
+    "midPrice": 0.15,
+    "highPrice": 1.53,
     "marketPrice": 0.08,
     "directLowPrice": null,
     "name": "Jozu",
@@ -234,10 +234,10 @@
     "groupId": 23490
   },
   "ST15-ST15-002 foil": {
-    "lowPrice": 2.85,
+    "lowPrice": 2.75,
     "midPrice": 3.99,
     "highPrice": 9.99,
-    "marketPrice": 3.26,
+    "marketPrice": 3.32,
     "directLowPrice": null,
     "name": "Edward.Newgate (ST15-002)",
     "rarity": "SR",
@@ -287,9 +287,9 @@
   },
   "ST15-ST15-004 normal": {
     "lowPrice": 0.14,
-    "midPrice": 0.34,
+    "midPrice": 0.35,
     "highPrice": 2.99,
-    "marketPrice": 0.32,
+    "marketPrice": 0.31,
     "directLowPrice": null,
     "name": "Thatch",
     "rarity": "C",
@@ -313,9 +313,9 @@
   },
   "ST15-ST15-005 foil": {
     "lowPrice": 0.25,
-    "midPrice": 1.75,
+    "midPrice": 1.66,
     "highPrice": 9.99,
-    "marketPrice": 1.12,
+    "marketPrice": 1.22,
     "directLowPrice": null,
     "name": "Portgas.D.Ace",
     "rarity": "SR",

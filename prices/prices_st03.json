@@ -1,7 +1,7 @@
 {
   "ST03-ST03-001 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.52,
+    "midPrice": 0.5,
     "highPrice": 3.6,
     "marketPrice": 0.51,
     "directLowPrice": null,
@@ -52,7 +52,7 @@
     "groupId": 3192
   },
   "ST03-ST03-003 normal": {
-    "lowPrice": 0.07,
+    "lowPrice": 0.04,
     "midPrice": 0.49,
     "highPrice": 5.0,
     "marketPrice": 0.3,
@@ -157,7 +157,7 @@
   },
   "ST03-ST03-007 normal": {
     "lowPrice": 0.06,
-    "midPrice": 0.24,
+    "midPrice": 0.25,
     "highPrice": 2.0,
     "marketPrice": 0.13,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "ST03-ST03-008 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.17,
+    "midPrice": 0.18,
     "highPrice": 59.0,
     "marketPrice": 0.09,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "ST03-ST03-009 normal": {
     "lowPrice": 2.46,
-    "midPrice": 4.33,
+    "midPrice": 4.35,
     "highPrice": 7.0,
     "marketPrice": 4.06,
     "directLowPrice": null,
@@ -287,7 +287,7 @@
   },
   "ST03-ST03-012 normal": {
     "lowPrice": 0.07,
-    "midPrice": 0.25,
+    "midPrice": 0.24,
     "highPrice": 1.0,
     "marketPrice": 0.13,
     "directLowPrice": null,
@@ -364,10 +364,10 @@
     "groupId": 3192
   },
   "ST03-ST03-015 normal": {
-    "lowPrice": 2.31,
-    "midPrice": 3.88,
-    "highPrice": 4.49,
-    "marketPrice": 3.88,
+    "lowPrice": 4.1,
+    "midPrice": 5.22,
+    "highPrice": 15.0,
+    "marketPrice": 4.24,
     "directLowPrice": null,
     "name": "Sables",
     "rarity": "C",
@@ -416,10 +416,10 @@
     "groupId": 3192
   },
   "ST03-ST03-017 normal": {
-    "lowPrice": 6.5,
+    "lowPrice": 5.57,
     "midPrice": 7.35,
-    "highPrice": 20.0,
-    "marketPrice": 6.89,
+    "highPrice": 13.99,
+    "marketPrice": 6.75,
     "directLowPrice": null,
     "name": "Love-Love Mellow",
     "rarity": "C",

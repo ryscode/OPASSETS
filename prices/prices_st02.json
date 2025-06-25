@@ -27,7 +27,7 @@
   },
   "ST02-ST02-002 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.19,
+    "midPrice": 0.18,
     "highPrice": 2.0,
     "marketPrice": 0.08,
     "directLowPrice": null,
@@ -52,7 +52,7 @@
     "groupId": 3191
   },
   "ST02-ST02-003 normal": {
-    "lowPrice": 0.03,
+    "lowPrice": 0.01,
     "midPrice": 0.25,
     "highPrice": 2.5,
     "marketPrice": 0.2,
@@ -183,7 +183,7 @@
   },
   "ST02-ST02-008 normal": {
     "lowPrice": 0.39,
-    "midPrice": 0.99,
+    "midPrice": 0.98,
     "highPrice": 7.99,
     "marketPrice": 0.85,
     "directLowPrice": null,
@@ -208,10 +208,10 @@
     "groupId": 3191
   },
   "ST02-ST02-009 normal": {
-    "lowPrice": 4.13,
-    "midPrice": 6.0,
+    "lowPrice": 4.09,
+    "midPrice": 5.97,
     "highPrice": 10.54,
-    "marketPrice": 5.1,
+    "marketPrice": 5.01,
     "directLowPrice": null,
     "name": "Trafalgar Law",
     "rarity": "SR",
@@ -234,7 +234,7 @@
     "groupId": 3191
   },
   "ST02-ST02-010 normal": {
-    "lowPrice": 0.15,
+    "lowPrice": 0.19,
     "midPrice": 0.42,
     "highPrice": 7.0,
     "marketPrice": 0.29,
@@ -312,8 +312,8 @@
     "groupId": 3191
   },
   "ST02-ST02-013 normal": {
-    "lowPrice": 0.69,
-    "midPrice": 1.07,
+    "lowPrice": 0.68,
+    "midPrice": 1.04,
     "highPrice": 11.45,
     "marketPrice": 0.93,
     "directLowPrice": null,
@@ -339,9 +339,9 @@
   },
   "ST02-ST02-014 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.35,
+    "midPrice": 0.34,
     "highPrice": 2.0,
-    "marketPrice": 0.2,
+    "marketPrice": 0.21,
     "directLowPrice": null,
     "name": "X.Drake",
     "rarity": "C",
@@ -416,10 +416,10 @@
     "groupId": 3191
   },
   "ST02-ST02-017 normal": {
-    "lowPrice": 1.68,
-    "midPrice": 2.47,
+    "lowPrice": 1.71,
+    "midPrice": 2.45,
     "highPrice": 5.0,
-    "marketPrice": 2.32,
+    "marketPrice": 2.28,
     "directLowPrice": null,
     "name": "Straw Sword",
     "rarity": "C",

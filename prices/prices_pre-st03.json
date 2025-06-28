@@ -55,7 +55,7 @@
     "lowPrice": 0.15,
     "midPrice": 0.7,
     "highPrice": 2.99,
-    "marketPrice": 0.65,
+    "marketPrice": 0.64,
     "directLowPrice": null,
     "name": "Karoo",
     "rarity": "C",
@@ -132,7 +132,7 @@
   "ST01-ST01-006 normal": {
     "lowPrice": 0.99,
     "midPrice": 1.78,
-    "highPrice": 19.99,
+    "highPrice": 5.0,
     "marketPrice": 1.56,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper",
@@ -157,7 +157,7 @@
   },
   "ST01-ST01-007 normal": {
     "lowPrice": 1.0,
-    "midPrice": 5.27,
+    "midPrice": 5.18,
     "highPrice": 22.79,
     "marketPrice": 5.36,
     "directLowPrice": null,
@@ -287,9 +287,9 @@
   },
   "ST01-ST01-012 normal": {
     "lowPrice": 10.71,
-    "midPrice": 12.46,
+    "midPrice": 12.62,
     "highPrice": 58.79,
-    "marketPrice": 14.58,
+    "marketPrice": 14.66,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (012)",
     "rarity": "SR",
@@ -338,10 +338,10 @@
     "groupId": 17659
   },
   "ST01-ST01-014 normal": {
-    "lowPrice": 0.95,
+    "lowPrice": 0.94,
     "midPrice": 1.72,
     "highPrice": 15.0,
-    "marketPrice": 1.58,
+    "marketPrice": 1.55,
     "directLowPrice": null,
     "name": "Guard Point",
     "rarity": "C",
@@ -364,8 +364,8 @@
     "groupId": 17659
   },
   "ST01-ST01-015 normal": {
-    "lowPrice": 1.05,
-    "midPrice": 1.74,
+    "lowPrice": 1.0,
+    "midPrice": 1.71,
     "highPrice": 45.0,
     "marketPrice": 1.45,
     "directLowPrice": null,
@@ -416,8 +416,8 @@
     "groupId": 17659
   },
   "ST01-ST01-017 normal": {
-    "lowPrice": 1.2,
-    "midPrice": 1.8,
+    "lowPrice": 1.0,
+    "midPrice": 1.7,
     "highPrice": 4.75,
     "marketPrice": 1.5,
     "directLowPrice": null,

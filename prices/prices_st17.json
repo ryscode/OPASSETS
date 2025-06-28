@@ -1,6 +1,6 @@
 {
   "OP01-OP01-060 normal": {
-    "lowPrice": 0.25,
+    "lowPrice": 0.24,
     "midPrice": 0.5,
     "highPrice": 4.99,
     "marketPrice": 0.41,
@@ -28,8 +28,8 @@
   "OP01-OP01-073 normal": {
     "lowPrice": 0.13,
     "midPrice": 0.25,
-    "highPrice": 7.99,
-    "marketPrice": 0.21,
+    "highPrice": 6.99,
+    "marketPrice": 0.24,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo (OP01-073)",
     "rarity": "R",
@@ -53,8 +53,8 @@
   },
   "OP02-OP02-054 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.15,
-    "highPrice": 3.99,
+    "midPrice": 0.12,
+    "highPrice": 1.0,
     "marketPrice": 0.05,
     "directLowPrice": null,
     "name": "Gecko Moria (OP02-054)",
@@ -80,7 +80,7 @@
   "OP02-OP02-057 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 4.99,
+    "highPrice": 0.99,
     "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Bartholomew Kuma",
@@ -106,8 +106,8 @@
   "P-P-030 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.22,
-    "highPrice": 9.99,
-    "marketPrice": 0.2,
+    "highPrice": 5.0,
+    "marketPrice": 0.22,
     "directLowPrice": null,
     "name": "Jinbe",
     "rarity": "PR",
@@ -132,7 +132,7 @@
   "ST17-ST17-001 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 3.99,
+    "highPrice": 1.98,
     "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Crocodile",
@@ -158,8 +158,8 @@
   "ST17-ST17-002 normal": {
     "lowPrice": 0.74,
     "midPrice": 2.0,
-    "highPrice": 25.0,
-    "marketPrice": 1.25,
+    "highPrice": 9.99,
+    "marketPrice": 1.16,
     "directLowPrice": null,
     "name": "Trafalgar Law (ST17-002)",
     "rarity": "SR",
@@ -182,10 +182,10 @@
     "groupId": 23492
   },
   "ST17-ST17-003 normal": {
-    "lowPrice": 1.89,
+    "lowPrice": 1.87,
     "midPrice": 2.8,
-    "highPrice": 9.99,
-    "marketPrice": 2.21,
+    "highPrice": 7.49,
+    "marketPrice": 2.12,
     "directLowPrice": null,
     "name": "Buggy",
     "rarity": "C",
@@ -209,9 +209,9 @@
   },
   "ST17-ST17-004 normal": {
     "lowPrice": 0.6,
-    "midPrice": 1.12,
-    "highPrice": 20.0,
-    "marketPrice": 0.79,
+    "midPrice": 1.09,
+    "highPrice": 9.99,
+    "marketPrice": 0.77,
     "directLowPrice": null,
     "name": "Boa Hancock",
     "rarity": "SR",
@@ -234,10 +234,10 @@
     "groupId": 23492
   },
   "ST17-ST17-005 normal": {
-    "lowPrice": 0.75,
-    "midPrice": 1.1,
+    "lowPrice": 0.45,
+    "midPrice": 1.11,
     "highPrice": 4.93,
-    "marketPrice": 0.96,
+    "marketPrice": 0.92,
     "directLowPrice": null,
     "name": "Marshall.D.Teach",
     "rarity": "C",

@@ -1,8 +1,8 @@
 {
   "ST09-ST09-001 normal": {
     "lowPrice": 1.0,
-    "midPrice": 1.75,
-    "highPrice": 12.99,
+    "midPrice": 1.72,
+    "highPrice": 3.24,
     "marketPrice": 1.64,
     "directLowPrice": null,
     "name": "Yamato (001)",
@@ -132,7 +132,7 @@
   "ST09-ST09-006 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 3.99,
+    "highPrice": 1.0,
     "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Kouzuki Momonosuke",
@@ -211,7 +211,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.2,
     "highPrice": 1.0,
-    "marketPrice": 0.17,
+    "marketPrice": 0.16,
     "directLowPrice": null,
     "name": "Shinobu",
     "rarity": "C",

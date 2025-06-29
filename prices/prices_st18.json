@@ -1,7 +1,7 @@
 {
   "OP05-OP05-060 normal": {
     "lowPrice": 0.14,
-    "midPrice": 0.4,
+    "midPrice": 0.38,
     "highPrice": 4.99,
     "marketPrice": 0.31,
     "directLowPrice": null,
@@ -27,9 +27,9 @@
   },
   "OP05-OP05-061 normal": {
     "lowPrice": 0.04,
-    "midPrice": 0.18,
+    "midPrice": 0.2,
     "highPrice": 1.34,
-    "marketPrice": 0.11,
+    "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Uso-Hachi (OP05-061)",
     "rarity": "UC",
@@ -104,7 +104,7 @@
     "groupId": 23493
   },
   "OP05-OP05-067 normal": {
-    "lowPrice": 0.04,
+    "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 1.4,
     "marketPrice": 0.18,
@@ -157,9 +157,9 @@
   },
   "OP05-OP05-070 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.16,
+    "midPrice": 0.17,
     "highPrice": 1.33,
-    "marketPrice": 0.13,
+    "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Fra-Nosuke",
     "rarity": "UC",
@@ -237,7 +237,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 7.99,
-    "marketPrice": 0.26,
+    "marketPrice": 0.25,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (P-041)",
     "rarity": "PR",
@@ -261,9 +261,9 @@
   },
   "ST18-ST18-001 normal": {
     "lowPrice": 9.0,
-    "midPrice": 9.88,
-    "highPrice": 16.03,
-    "marketPrice": 8.94,
+    "midPrice": 9.99,
+    "highPrice": 13.18,
+    "marketPrice": 9.24,
     "directLowPrice": null,
     "name": "Uso-Hachi (ST18-001)",
     "rarity": "C",
@@ -315,7 +315,7 @@
     "lowPrice": 0.15,
     "midPrice": 0.25,
     "highPrice": 1.75,
-    "marketPrice": 0.24,
+    "marketPrice": 0.23,
     "directLowPrice": null,
     "name": "San-Gorou",
     "rarity": "C",
@@ -338,10 +338,10 @@
     "groupId": 23493
   },
   "ST18-ST18-004 normal": {
-    "lowPrice": 1.08,
-    "midPrice": 2.26,
+    "lowPrice": 1.0,
+    "midPrice": 2.25,
     "highPrice": 10.0,
-    "marketPrice": 1.55,
+    "marketPrice": 1.43,
     "directLowPrice": null,
     "name": "Zoro-Juurou (ST18-004)",
     "rarity": "SR",
@@ -364,10 +364,10 @@
     "groupId": 23493
   },
   "ST18-ST18-005 normal": {
-    "lowPrice": 0.94,
-    "midPrice": 1.83,
+    "lowPrice": 0.95,
+    "midPrice": 1.96,
     "highPrice": 9.99,
-    "marketPrice": 1.22,
+    "marketPrice": 1.08,
     "directLowPrice": null,
     "name": "Luffy-Tarou",
     "rarity": "SR",

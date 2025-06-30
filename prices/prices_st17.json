@@ -53,7 +53,7 @@
   },
   "OP02-OP02-054 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.14,
+    "midPrice": 0.12,
     "highPrice": 1.0,
     "marketPrice": 0.05,
     "directLowPrice": null,
@@ -157,9 +157,9 @@
   },
   "ST17-ST17-002 normal": {
     "lowPrice": 0.72,
-    "midPrice": 1.99,
+    "midPrice": 2.0,
     "highPrice": 9.99,
-    "marketPrice": 1.13,
+    "marketPrice": 1.09,
     "directLowPrice": null,
     "name": "Trafalgar Law (ST17-002)",
     "rarity": "SR",
@@ -182,10 +182,10 @@
     "groupId": 23492
   },
   "ST17-ST17-003 normal": {
-    "lowPrice": 1.83,
-    "midPrice": 2.76,
+    "lowPrice": 1.79,
+    "midPrice": 2.67,
     "highPrice": 7.49,
-    "marketPrice": 2.05,
+    "marketPrice": 1.98,
     "directLowPrice": null,
     "name": "Buggy",
     "rarity": "C",
@@ -209,9 +209,9 @@
   },
   "ST17-ST17-004 normal": {
     "lowPrice": 0.6,
-    "midPrice": 1.06,
+    "midPrice": 1.08,
     "highPrice": 9.99,
-    "marketPrice": 0.77,
+    "marketPrice": 0.73,
     "directLowPrice": null,
     "name": "Boa Hancock",
     "rarity": "SR",
@@ -235,9 +235,9 @@
   },
   "ST17-ST17-005 normal": {
     "lowPrice": 0.69,
-    "midPrice": 1.11,
+    "midPrice": 1.1,
     "highPrice": 4.93,
-    "marketPrice": 0.88,
+    "marketPrice": 0.92,
     "directLowPrice": null,
     "name": "Marshall.D.Teach",
     "rarity": "C",

@@ -1,7 +1,7 @@
 {
   "ST01-ST01-001 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.64,
+    "midPrice": 0.69,
     "highPrice": 35.0,
     "marketPrice": 0.5,
     "directLowPrice": null,
@@ -53,7 +53,7 @@
   },
   "ST01-ST01-003 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.17,
+    "midPrice": 0.16,
     "highPrice": 1.32,
     "marketPrice": 0.11,
     "directLowPrice": null,
@@ -79,9 +79,9 @@
   },
   "ST01-ST01-004 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.54,
+    "midPrice": 0.53,
     "highPrice": 2.0,
-    "marketPrice": 0.52,
+    "marketPrice": 0.5,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "C",
@@ -133,7 +133,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.23,
     "highPrice": 4.99,
-    "marketPrice": 0.17,
+    "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper",
     "rarity": "C",
@@ -157,9 +157,9 @@
   },
   "ST01-ST01-007 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.63,
+    "midPrice": 0.69,
     "highPrice": 4.99,
-    "marketPrice": 0.55,
+    "marketPrice": 0.53,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "C",
@@ -183,7 +183,7 @@
   },
   "ST01-ST01-008 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.2,
+    "midPrice": 0.19,
     "highPrice": 1.32,
     "marketPrice": 0.19,
     "directLowPrice": null,
@@ -237,7 +237,7 @@
     "lowPrice": 0.03,
     "midPrice": 0.19,
     "highPrice": 2.0,
-    "marketPrice": 0.14,
+    "marketPrice": 0.15,
     "directLowPrice": null,
     "name": "Franky",
     "rarity": "C",
@@ -286,10 +286,10 @@
     "groupId": 3189
   },
   "ST01-ST01-012 normal": {
-    "lowPrice": 2.0,
-    "midPrice": 5.43,
+    "lowPrice": 3.09,
+    "midPrice": 5.5,
     "highPrice": 14.95,
-    "marketPrice": 4.24,
+    "marketPrice": 4.25,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (012)",
     "rarity": "SR",
@@ -365,7 +365,7 @@
   },
   "ST01-ST01-015 normal": {
     "lowPrice": 0.19,
-    "midPrice": 0.45,
+    "midPrice": 0.47,
     "highPrice": 9.49,
     "marketPrice": 0.37,
     "directLowPrice": null,
@@ -390,8 +390,8 @@
     "groupId": 3189
   },
   "ST01-ST01-016 normal": {
-    "lowPrice": 0.98,
-    "midPrice": 2.1,
+    "lowPrice": 0.95,
+    "midPrice": 2.2,
     "highPrice": 502.98,
     "marketPrice": 1.77,
     "directLowPrice": null,

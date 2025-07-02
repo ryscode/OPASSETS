@@ -1,7 +1,7 @@
 {
   "ST03-ST03-001 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.54,
+    "midPrice": 0.5,
     "highPrice": 3.6,
     "marketPrice": 0.53,
     "directLowPrice": null,
@@ -81,7 +81,7 @@
     "lowPrice": 0.02,
     "midPrice": 0.25,
     "highPrice": 11.5,
-    "marketPrice": 0.15,
+    "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Gecko Moria",
     "rarity": "C",
@@ -183,9 +183,9 @@
   },
   "ST03-ST03-008 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.19,
-    "highPrice": 59.0,
-    "marketPrice": 0.11,
+    "midPrice": 0.18,
+    "highPrice": 2.0,
+    "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Trafalgar Law",
     "rarity": "C",
@@ -208,10 +208,10 @@
     "groupId": 3192
   },
   "ST03-ST03-009 normal": {
-    "lowPrice": 2.15,
-    "midPrice": 3.9,
+    "lowPrice": 2.13,
+    "midPrice": 3.65,
     "highPrice": 7.0,
-    "marketPrice": 2.71,
+    "marketPrice": 2.6,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo",
     "rarity": "SR",
@@ -364,10 +364,10 @@
     "groupId": 3192
   },
   "ST03-ST03-015 normal": {
-    "lowPrice": 2.5,
-    "midPrice": 3.5,
+    "lowPrice": 2.45,
+    "midPrice": 2.99,
     "highPrice": 15.0,
-    "marketPrice": 2.91,
+    "marketPrice": 2.74,
     "directLowPrice": null,
     "name": "Sables",
     "rarity": "C",
@@ -416,10 +416,10 @@
     "groupId": 3192
   },
   "ST03-ST03-017 normal": {
-    "lowPrice": 5.0,
-    "midPrice": 7.0,
+    "lowPrice": 4.99,
+    "midPrice": 7.13,
     "highPrice": 13.99,
-    "marketPrice": 6.02,
+    "marketPrice": 5.79,
     "directLowPrice": null,
     "name": "Love-Love Mellow",
     "rarity": "C",

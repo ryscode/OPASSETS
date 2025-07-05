@@ -1,7 +1,7 @@
 {
   "ST12-ST12-001 normal": {
     "lowPrice": 2.34,
-    "midPrice": 3.6,
+    "midPrice": 3.53,
     "highPrice": 6.95,
     "marketPrice": 3.39,
     "directLowPrice": null,
@@ -27,8 +27,8 @@
   },
   "ST12-ST12-008 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.3,
-    "highPrice": 1.0,
+    "midPrice": 0.32,
+    "highPrice": 2.29,
     "marketPrice": 0.32,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
@@ -78,10 +78,10 @@
     "groupId": 23348
   },
   "ST12-ST12-016 normal": {
-    "lowPrice": 0.1,
+    "lowPrice": 0.09,
     "midPrice": 0.2,
     "highPrice": 1.0,
-    "marketPrice": 0.14,
+    "marketPrice": 0.15,
     "directLowPrice": null,
     "name": "Lion Strike",
     "rarity": "C",
@@ -105,9 +105,9 @@
   },
   "ST12-ST12-017 normal": {
     "lowPrice": 0.08,
-    "midPrice": 0.16,
+    "midPrice": 0.17,
     "highPrice": 2.99,
-    "marketPrice": 0.17,
+    "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Plastic Surgery Shot",
     "rarity": "C",
@@ -157,9 +157,9 @@
   },
   "ST12-ST12-003 normal": {
     "lowPrice": 7.46,
-    "midPrice": 12.0,
+    "midPrice": 11.95,
     "highPrice": 29.99,
-    "marketPrice": 9.66,
+    "marketPrice": 9.61,
     "directLowPrice": null,
     "name": "Dracule Mihawk",
     "rarity": "SR",
@@ -312,10 +312,10 @@
     "groupId": 23348
   },
   "ST12-ST12-010 normal": {
-    "lowPrice": 2.21,
-    "midPrice": 3.22,
+    "lowPrice": 2.19,
+    "midPrice": 3.2,
     "highPrice": 13.0,
-    "marketPrice": 2.6,
+    "marketPrice": 2.57,
     "directLowPrice": null,
     "name": "Emporio.Ivankov",
     "rarity": "SR",

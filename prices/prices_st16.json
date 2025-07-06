@@ -79,7 +79,7 @@
   },
   "P-P-059 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.15,
+    "midPrice": 0.16,
     "highPrice": 2.99,
     "marketPrice": 0.1,
     "directLowPrice": null,
@@ -157,9 +157,9 @@
   },
   "ST11-ST11-001 normal": {
     "lowPrice": 0.23,
-    "midPrice": 0.49,
+    "midPrice": 0.47,
     "highPrice": 2.0,
-    "marketPrice": 0.47,
+    "marketPrice": 0.4,
     "directLowPrice": null,
     "name": "Uta (ST11-001)",
     "rarity": "L",
@@ -211,7 +211,7 @@
     "lowPrice": 0.04,
     "midPrice": 0.2,
     "highPrice": 1.42,
-    "marketPrice": 0.13,
+    "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "New Genesis",
     "rarity": "SR",
@@ -235,7 +235,7 @@
   },
   "ST11-ST11-005 normal": {
     "lowPrice": 0.08,
-    "midPrice": 0.19,
+    "midPrice": 0.2,
     "highPrice": 3.99,
     "marketPrice": 0.14,
     "directLowPrice": null,
@@ -260,10 +260,10 @@
     "groupId": 23491
   },
   "ST16-ST16-001 normal": {
-    "lowPrice": 0.12,
+    "lowPrice": 0.11,
     "midPrice": 0.5,
     "highPrice": 9.99,
-    "marketPrice": 0.4,
+    "marketPrice": 0.38,
     "directLowPrice": null,
     "name": "Uta (ST16-001)",
     "rarity": "SR",
@@ -338,10 +338,10 @@
     "groupId": 23491
   },
   "ST16-ST16-004 normal": {
-    "lowPrice": 3.0,
-    "midPrice": 4.35,
+    "lowPrice": 2.99,
+    "midPrice": 4.26,
     "highPrice": 19.99,
-    "marketPrice": 3.37,
+    "marketPrice": 3.29,
     "directLowPrice": null,
     "name": "Shanks",
     "rarity": "SR",

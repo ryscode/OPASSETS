@@ -1,0 +1,167 @@
+{
+  "OP06-OP06-022 normal": {
+    "name": "Yamato (OP06-022)",
+    "groupId": 24287,
+    "prices": {
+      "low": 0.49,
+      "mid": 0.99,
+      "high": 9.99,
+      "market": 0.81,
+      "directLow": null
+    }
+  },
+  "OP06-OP06-100 normal": {
+    "name": "Inuarashi (Reprint)",
+    "groupId": 24287,
+    "prices": {
+      "low": 0.02,
+      "mid": 0.1,
+      "high": 4.99,
+      "market": 0.05,
+      "directLow": null
+    }
+  },
+  "OP06-OP06-103 normal": {
+    "name": "Kawamatsu (Reprint)",
+    "groupId": 24287,
+    "prices": {
+      "low": 0.02,
+      "mid": 0.13,
+      "high": 4.99,
+      "market": null,
+      "directLow": null
+    }
+  },
+  "OP06-OP06-104 normal": {
+    "name": "Kikunojo (Reprint)",
+    "groupId": 24287,
+    "prices": {
+      "low": 0.15,
+      "mid": 0.25,
+      "high": 4.99,
+      "market": 0.21,
+      "directLow": null
+    }
+  },
+  "OP06-OP06-109 normal": {
+    "name": "Denjiro (Reprint)",
+    "groupId": 24287,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 4.99,
+      "market": 0.12,
+      "directLow": null
+    }
+  },
+  "OP06-OP06-110 normal": {
+    "name": "Nekomamushi (Reprint)",
+    "groupId": 24287,
+    "prices": {
+      "low": 0.05,
+      "mid": 0.15,
+      "high": 4.99,
+      "market": 0.18,
+      "directLow": null
+    }
+  },
+  "OP06-OP06-112 normal": {
+    "name": "Raizo (Reprint)",
+    "groupId": 24287,
+    "prices": {
+      "low": 0.02,
+      "mid": 0.15,
+      "high": 4.99,
+      "market": null,
+      "directLow": null
+    }
+  },
+  "OP07-OP07-116 normal": {
+    "name": "Blaze Slice (Reprint)",
+    "groupId": 24287,
+    "prices": {
+      "low": 0.04,
+      "mid": 0.15,
+      "high": 4.99,
+      "market": 0.08,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-035 normal": {
+    "name": "Portgas.D.Ace (Reprint)",
+    "groupId": 24287,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 4.99,
+      "market": 0.15,
+      "directLow": null
+    }
+  },
+  "ST13-ST13-016 normal": {
+    "name": "Yamato (Reprint)",
+    "groupId": 24287,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.11,
+      "high": 4.99,
+      "market": 0.11,
+      "directLow": null
+    }
+  },
+  "ST28-ST28-001 normal": {
+    "name": "Ashura Doji",
+    "groupId": 24287,
+    "prices": {
+      "low": 0.14,
+      "mid": 0.25,
+      "high": 1.0,
+      "market": 0.22,
+      "directLow": null
+    }
+  },
+  "ST28-ST28-002 normal": {
+    "name": "Izo",
+    "groupId": 24287,
+    "prices": {
+      "low": 0.18,
+      "mid": 0.45,
+      "high": 2.0,
+      "market": 0.29,
+      "directLow": null
+    }
+  },
+  "ST28-ST28-003 normal": {
+    "name": "Kin'emon",
+    "groupId": 24287,
+    "prices": {
+      "low": 0.5,
+      "mid": 0.65,
+      "high": 1.49,
+      "market": 0.55,
+      "directLow": null
+    }
+  },
+  "ST28-ST28-004 normal": {
+    "name": "Kouzuki Momonosuke",
+    "groupId": 24287,
+    "prices": {
+      "low": 1.8,
+      "mid": 2.95,
+      "high": 5.0,
+      "market": 2.2,
+      "directLow": null
+    }
+  },
+  "ST28-ST28-005 normal": {
+    "name": "Yamato",
+    "groupId": 24287,
+    "prices": {
+      "low": 1.98,
+      "mid": 2.99,
+      "high": 12345.67,
+      "market": 2.12,
+      "directLow": null
+    }
+  }
+}

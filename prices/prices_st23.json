@@ -1,7 +1,7 @@
 {
   "OP09-OP09-001 normal": {
-    "lowPrice": 0.35,
-    "midPrice": 0.62,
+    "lowPrice": 0.34,
+    "midPrice": 0.6,
     "highPrice": 1.49,
     "marketPrice": 0.63,
     "directLowPrice": null,
@@ -26,10 +26,10 @@
     "groupId": 24282
   },
   "ST23-ST23-001 normal": {
-    "lowPrice": 1.0,
-    "midPrice": 1.96,
+    "lowPrice": 1.32,
+    "midPrice": 2.04,
     "highPrice": 4.95,
-    "marketPrice": 1.52,
+    "marketPrice": 1.54,
     "directLowPrice": null,
     "name": "Uta",
     "rarity": "SR",
@@ -53,9 +53,9 @@
   },
   "ST23-ST23-002 normal": {
     "lowPrice": 1.72,
-    "midPrice": 2.95,
+    "midPrice": 2.97,
     "highPrice": 5.99,
-    "marketPrice": 2.22,
+    "marketPrice": 2.18,
     "directLowPrice": null,
     "name": "Shanks (002)",
     "rarity": "SR",
@@ -78,8 +78,8 @@
     "groupId": 24282
   },
   "ST23-ST23-003 normal": {
-    "lowPrice": 0.23,
-    "midPrice": 0.44,
+    "lowPrice": 0.2,
+    "midPrice": 0.43,
     "highPrice": 1.99,
     "marketPrice": 0.39,
     "directLowPrice": null,
@@ -315,7 +315,7 @@
     "lowPrice": 0.02,
     "midPrice": 0.12,
     "highPrice": 0.44,
-    "marketPrice": 0.12,
+    "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Limejuice (Reprint)",
     "rarity": "UC",

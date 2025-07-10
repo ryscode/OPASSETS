@@ -1,0 +1,169 @@
+import json
+import requests
+from pathlib import Path
+from collections import defaultdict
+
+from datetime import datetime  # 🆕 HISTORICAL LOGGING
+
+SET_GROUPS_URL = "https://raw.githubusercontent.com/ryscode/OPASSETS/main/prices/set_groups.json"
+BASE_PRODUCTS_URL = "https://tcgcsv.com/tcgplayer/68/{group_id}/products"
+BASE_PRICES_URL = "https://tcgcsv.com/tcgplayer/68/{group_id}/prices"
+
+def fetch_json(url):
+    resp = requests.get(url)
+    resp.raise_for_status()
+    return resp.json()
+
+def normalize_id(raw_id):
+    base = raw_id.replace("_", " ")
+    parts = base.split("-")
+    return f"{parts[0]}-{base}"
+
+def build_price_data(group_id):
+    products_url = BASE_PRODUCTS_URL.format(group_id=group_id)
+    prices_url = BASE_PRICES_URL.format(group_id=group_id)
+
+    products = fetch_json(products_url).get("results", [])
+    prices = fetch_json(prices_url).get("results", [])
+
+    product_info_map = {}
+    product_number_map = {}
+    number_to_pids = defaultdict(list)
+
+    # Produkte gruppieren
+    product_groups = defaultdict(list)
+    for prod in products:
+        pid = str(prod.get("productId"))
+        product_groups[pid].append(prod)
+
+    for prod in products:
+        pid = str(prod.get("productId"))
+        extended = {
+            ext.get("displayName", "").strip(): ext.get("value")
+            for ext in prod.get("extendedData", [])
+            if ext.get("displayName") and ext.get("value") is not None
+        }
+
+        number = extended.get("Number")
+        if number:
+            number_to_pids[number].append(pid)
+            product_number_map[pid] = number
+
+        product_info_map[pid] = {
+            "name": prod.get("name"),
+            "rarity": extended.get("Rarity"),
+            "power": str(extended.get("Power")) if extended.get("Power") is not None else None,
+            "cost": str(extended.get("Cost")) if extended.get("Cost") is not None else None,
+            "life": str(extended.get("Life")) if extended.get("Life") is not None else None,
+            "category": extended.get("Card Type"),
+            "colors": extended.get("Color"),
+            "attributes": extended.get("Attribute"),
+            "types": extended.get("Subtype(s)"),
+            "effect": "yes" if any(t in extended.get("Description", "") for t in ["[Activate:", "[On Play]", "[When Attacking]"]) else None,
+            "trigger": "yes" if "[Trigger]" in extended.get("Description", "") else None,
+            "counter": str(extended.get("Counter") or extended.get("Counter+")) if (extended.get("Counter") or extended.get("Counter+")) is not None else None,
+            "imageUrl": prod.get("imageUrl"),
+            "frameType": extended.get("Frame Type"),
+            "variant": extended.get("Variant"),
+            "finish": extended.get("Finish"),
+            "cardType": extended.get("Card Type"),
+            "description": extended.get("Description")
+        }
+
+    card_variants = defaultdict(list)
+    for price in prices:
+        pid = str(price.get("productId"))
+        number = product_number_map.get(pid)
+        if not number:
+            continue
+
+        all_pids = number_to_pids[number]
+        all_pids_sorted = sorted(all_pids)
+        index = all_pids_sorted.index(pid)
+
+        if index == 0:
+            suffix = "normal"
+        elif index == 1:
+            suffix = "parallel"
+        else:
+            suffix = f"alt{index}"
+
+        full_id = f"{number}_{suffix}"
+        norm_id = normalize_id(full_id)
+
+        card_variants[norm_id].append({
+            "productId": pid,
+            "price": {
+                "lowPrice": price.get("lowPrice"),
+                "midPrice": price.get("midPrice"),
+                "highPrice": price.get("highPrice"),
+                "marketPrice": price.get("marketPrice"),
+                "directLowPrice": price.get("directLowPrice")
+            }
+        })
+
+    combined = {}
+    for card_id, entries in card_variants.items():
+        for entry in entries:
+            pid = entry["productId"]
+            info = product_info_map.get(pid, {})
+            combined[card_id] = {
+                **entry["price"],
+                **info,
+                "groupId": group_id
+            }
+            break
+
+    return combined
+
+def save_historical_snapshot(set_code: str, data: dict):  # 🆕 HISTORICAL LOGGING
+    today = datetime.today().strftime("%Y-%m-%d")
+    output_dir = Path("history") / set_code.lower()
+    output_dir.mkdir(parents=True, exist_ok=True)
+    output_path = output_dir / f"{today}.json"
+
+    historical_data = {
+        card_id: {
+            "name": entry["name"],
+            "groupId": entry["groupId"],
+            "prices": {
+                "low": entry["lowPrice"],
+                "mid": entry["midPrice"],
+                "high": entry["highPrice"],
+                "market": entry["marketPrice"],
+                "directLow": entry["directLowPrice"]
+            }
+        }
+        for card_id, entry in data.items()
+    }
+
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(historical_data, f, indent=2, ensure_ascii=False)
+
+def main():
+    print("🔁 Starte Scrape")
+    sets = fetch_json(SET_GROUPS_URL)
+    output_dir = Path("prices")
+    output_dir.mkdir(exist_ok=True)
+
+    for set_code, group_id in sets.items():
+        print(f"➞️  Verarbeite {set_code} ({group_id})")
+        try:
+            data = build_price_data(group_id)
+
+            # Schreibe aktuelle Preisdatei
+            output_path = output_dir / f"prices_{set_code.lower()}.json"
+            with open(output_path, "w", encoding="utf-8") as f:
+                json.dump(data, f, indent=2, ensure_ascii=False)
+
+            # 🆕 Schreibe Historie
+            save_historical_snapshot(set_code, data)
+
+            print(f"✅ {len(data)} Preise gespeichert unter {output_path}")
+        except Exception as e:
+            print(f"❌ Fehler bei {set_code}: {e}")
+
+    print("✅ Fertig!")
+
+if __name__ == "__main__":
+    main()

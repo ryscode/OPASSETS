@@ -1,9 +1,9 @@
 {
   "OP05-OP05-060 normal": {
-    "lowPrice": 0.17,
-    "midPrice": 0.39,
+    "lowPrice": 0.2,
+    "midPrice": 0.38,
     "highPrice": 4.99,
-    "marketPrice": 0.29,
+    "marketPrice": 0.28,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (OP05-060)",
     "rarity": "L",
@@ -28,7 +28,7 @@
   "OP05-OP05-061 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.18,
-    "highPrice": 1.61,
+    "highPrice": 1.36,
     "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Uso-Hachi (OP05-061)",
@@ -54,7 +54,7 @@
   "OP05-OP05-063 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.12,
-    "highPrice": 1.57,
+    "highPrice": 1.49,
     "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "O-Robi",
@@ -80,7 +80,7 @@
   "OP05-OP05-066 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 1.57,
+    "highPrice": 1.32,
     "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Jinbe",
@@ -132,7 +132,7 @@
   "OP05-OP05-068 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 1.57,
+    "highPrice": 1.32,
     "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Chopa-Emon",
@@ -158,7 +158,7 @@
   "OP05-OP05-070 normal": {
     "lowPrice": 0.02,
     "midPrice": 0.16,
-    "highPrice": 1.58,
+    "highPrice": 1.33,
     "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Fra-Nosuke",
@@ -183,8 +183,8 @@
   },
   "OP05-OP05-072 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.12,
-    "highPrice": 1.57,
+    "midPrice": 0.11,
+    "highPrice": 1.32,
     "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Hone-Kichi",
@@ -234,10 +234,10 @@
     "groupId": 23493
   },
   "P-P-041 normal": {
-    "lowPrice": 0.05,
-    "midPrice": 0.26,
+    "lowPrice": 0.15,
+    "midPrice": 0.25,
     "highPrice": 7.99,
-    "marketPrice": 0.32,
+    "marketPrice": 0.29,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (P-041)",
     "rarity": "PR",
@@ -260,10 +260,10 @@
     "groupId": 23493
   },
   "ST18-ST18-001 normal": {
-    "lowPrice": 9.99,
-    "midPrice": 12.74,
+    "lowPrice": 10.0,
+    "midPrice": 13.08,
     "highPrice": 18.6,
-    "marketPrice": 10.74,
+    "marketPrice": 10.56,
     "directLowPrice": null,
     "name": "Uso-Hachi (ST18-001)",
     "rarity": "C",
@@ -289,7 +289,7 @@
     "lowPrice": 0.24,
     "midPrice": 0.43,
     "highPrice": 4.99,
-    "marketPrice": 0.35,
+    "marketPrice": 0.36,
     "directLowPrice": null,
     "name": "O-Nami",
     "rarity": "C",
@@ -341,7 +341,7 @@
     "lowPrice": 1.0,
     "midPrice": 2.1,
     "highPrice": 10.0,
-    "marketPrice": 1.69,
+    "marketPrice": 1.75,
     "directLowPrice": null,
     "name": "Zoro-Juurou (ST18-004)",
     "rarity": "SR",
@@ -365,9 +365,9 @@
   },
   "ST18-ST18-005 normal": {
     "lowPrice": 0.99,
-    "midPrice": 1.94,
+    "midPrice": 1.93,
     "highPrice": 8.99,
-    "marketPrice": 1.41,
+    "marketPrice": 1.46,
     "directLowPrice": null,
     "name": "Luffy-Tarou",
     "rarity": "SR",

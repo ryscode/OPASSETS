@@ -1,7 +1,7 @@
 {
   "OP02-OP02-093 normal": {
     "lowPrice": 0.12,
-    "midPrice": 0.36,
+    "midPrice": 0.34,
     "highPrice": 3.99,
     "marketPrice": 0.3,
     "directLowPrice": null,
@@ -105,7 +105,7 @@
   },
   "OP02-OP02-109 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.13,
+    "midPrice": 0.14,
     "highPrice": 1.0,
     "marketPrice": 0.08,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "OP03-OP03-079 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.11,
+    "midPrice": 0.12,
     "highPrice": 0.55,
     "marketPrice": 0.09,
     "directLowPrice": null,
@@ -237,7 +237,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.2,
     "highPrice": 1.97,
-    "marketPrice": 0.19,
+    "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Smoker (ST19-001)",
     "rarity": "C",
@@ -260,10 +260,10 @@
     "groupId": 23494
   },
   "ST19-ST19-002 normal": {
-    "lowPrice": 2.0,
+    "lowPrice": 1.99,
     "midPrice": 2.99,
     "highPrice": 6.0,
-    "marketPrice": 2.13,
+    "marketPrice": 2.1,
     "directLowPrice": null,
     "name": "Sengoku",
     "rarity": "C",
@@ -312,10 +312,10 @@
     "groupId": 23494
   },
   "ST19-ST19-004 normal": {
-    "lowPrice": 0.5,
-    "midPrice": 1.6,
+    "lowPrice": 1.0,
+    "midPrice": 1.61,
     "highPrice": 4.99,
-    "marketPrice": 1.51,
+    "marketPrice": 1.47,
     "directLowPrice": null,
     "name": "Hina",
     "rarity": "SR",

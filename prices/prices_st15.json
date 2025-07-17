@@ -234,8 +234,8 @@
     "groupId": 23490
   },
   "ST15-ST15-002 normal": {
-    "lowPrice": 1.99,
-    "midPrice": 3.5,
+    "lowPrice": 1.75,
+    "midPrice": 3.49,
     "highPrice": 9.99,
     "marketPrice": 2.16,
     "directLowPrice": null,
@@ -261,7 +261,7 @@
   },
   "ST15-ST15-003 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.15,
+    "midPrice": 0.16,
     "highPrice": 0.73,
     "marketPrice": 0.1,
     "directLowPrice": null,
@@ -312,10 +312,10 @@
     "groupId": 23490
   },
   "ST15-ST15-005 normal": {
-    "lowPrice": 0.99,
-    "midPrice": 1.99,
+    "lowPrice": 1.0,
+    "midPrice": 2.0,
     "highPrice": 9.0,
-    "marketPrice": 1.42,
+    "marketPrice": 1.53,
     "directLowPrice": null,
     "name": "Portgas.D.Ace",
     "rarity": "SR",

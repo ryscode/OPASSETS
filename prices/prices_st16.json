@@ -79,7 +79,7 @@
   },
   "P-P-059 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.16,
+    "midPrice": 0.15,
     "highPrice": 2.99,
     "marketPrice": 0.12,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "ST11-ST11-003 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.17,
+    "midPrice": 0.16,
     "highPrice": 3.99,
     "marketPrice": 0.1,
     "directLowPrice": null,
@@ -260,7 +260,7 @@
     "groupId": 23491
   },
   "ST16-ST16-001 normal": {
-    "lowPrice": 0.05,
+    "lowPrice": 0.22,
     "midPrice": 0.5,
     "highPrice": 9.99,
     "marketPrice": 0.32,
@@ -338,10 +338,10 @@
     "groupId": 23491
   },
   "ST16-ST16-004 normal": {
-    "lowPrice": 2.88,
+    "lowPrice": 2.8,
     "midPrice": 4.49,
     "highPrice": 19.99,
-    "marketPrice": 3.29,
+    "marketPrice": 3.41,
     "directLowPrice": null,
     "name": "Shanks",
     "rarity": "SR",

@@ -17,7 +17,7 @@
       "low": 0.05,
       "mid": 0.19,
       "high": 1.36,
-      "market": 0.13,
+      "market": 0.15,
       "directLow": null
     }
   },
@@ -49,7 +49,7 @@
     "prices": {
       "low": 0.05,
       "mid": 0.25,
-      "high": 1.4,
+      "high": 1.42,
       "market": 0.19,
       "directLow": null
     }
@@ -94,7 +94,7 @@
       "low": 0.04,
       "mid": 0.25,
       "high": 1.99,
-      "market": 0.17,
+      "market": 0.18,
       "directLow": null
     }
   },
@@ -105,7 +105,7 @@
       "low": 0.16,
       "mid": 0.25,
       "high": 7.99,
-      "market": 0.25,
+      "market": 0.26,
       "directLow": null
     }
   },
@@ -113,8 +113,8 @@
     "name": "Uso-Hachi (ST18-001)",
     "groupId": 23493,
     "prices": {
-      "low": 10.0,
-      "mid": 12.0,
+      "low": 11.0,
+      "mid": 12.35,
       "high": 14.45,
       "market": 11.64,
       "directLow": null
@@ -125,7 +125,7 @@
     "groupId": 23493,
     "prices": {
       "low": 0.25,
-      "mid": 0.44,
+      "mid": 0.43,
       "high": 4.99,
       "market": 0.37,
       "directLow": null
@@ -146,10 +146,10 @@
     "name": "Zoro-Juurou (ST18-004)",
     "groupId": 23493,
     "prices": {
-      "low": 1.0,
-      "mid": 2.06,
+      "low": 1.25,
+      "mid": 2.09,
       "high": 10.0,
-      "market": 1.68,
+      "market": 1.57,
       "directLow": null
     }
   },
@@ -157,10 +157,10 @@
     "name": "Luffy-Tarou",
     "groupId": 23493,
     "prices": {
-      "low": 0.94,
-      "mid": 1.93,
+      "low": 0.9,
+      "mid": 1.9,
       "high": 8.99,
-      "market": 1.26,
+      "market": 1.14,
       "directLow": null
     }
   }

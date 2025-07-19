@@ -17,7 +17,7 @@
       "low": 0.02,
       "mid": 0.15,
       "high": 1.53,
-      "market": 0.09,
+      "market": 0.1,
       "directLow": null
     }
   },
@@ -26,7 +26,7 @@
     "groupId": 23490,
     "prices": {
       "low": 0.01,
-      "mid": 0.13,
+      "mid": 0.12,
       "high": 1.32,
       "market": 0.08,
       "directLow": null
@@ -48,7 +48,7 @@
     "groupId": 23490,
     "prices": {
       "low": 0.04,
-      "mid": 0.15,
+      "mid": 0.14,
       "high": 0.99,
       "market": 0.09,
       "directLow": null
@@ -102,10 +102,10 @@
     "name": "Edward.Newgate (ST15-002)",
     "groupId": 23490,
     "prices": {
-      "low": 2.08,
+      "low": 2.0,
       "mid": 3.49,
       "high": 9.99,
-      "market": 2.39,
+      "market": 2.49,
       "directLow": null
     }
   },
@@ -136,9 +136,9 @@
     "groupId": 23490,
     "prices": {
       "low": 1.0,
-      "mid": 2.27,
+      "mid": 2.25,
       "high": 9.0,
-      "market": 1.58,
+      "market": 1.66,
       "directLow": null
     }
   }

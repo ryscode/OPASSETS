@@ -1,7 +1,7 @@
 {
   "ST09-ST09-001 normal": {
-    "lowPrice": 0.95,
-    "midPrice": 1.75,
+    "lowPrice": 1.04,
+    "midPrice": 1.7,
     "highPrice": 12.99,
     "marketPrice": 1.42,
     "directLowPrice": null,
@@ -29,7 +29,7 @@
     "lowPrice": 0.2,
     "midPrice": 0.5,
     "highPrice": 4.0,
-    "marketPrice": 0.48,
+    "marketPrice": 0.47,
     "directLowPrice": null,
     "name": "Portgas.D.Ace",
     "rarity": "SR",
@@ -52,10 +52,10 @@
     "groupId": 22957
   },
   "ST09-ST09-005 normal": {
-    "lowPrice": 0.6,
-    "midPrice": 1.11,
+    "lowPrice": 0.83,
+    "midPrice": 1.08,
     "highPrice": 7.0,
-    "marketPrice": 0.94,
+    "marketPrice": 0.93,
     "directLowPrice": null,
     "name": "Kouzuki Oden",
     "rarity": "SR",
@@ -78,10 +78,10 @@
     "groupId": 22957
   },
   "ST09-ST09-011 normal": {
-    "lowPrice": 0.02,
+    "lowPrice": 0.05,
     "midPrice": 0.18,
     "highPrice": 1.0,
-    "marketPrice": 0.13,
+    "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy",
     "rarity": "C",
@@ -105,9 +105,9 @@
   },
   "ST09-ST09-008 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.18,
+    "midPrice": 0.16,
     "highPrice": 4.0,
-    "marketPrice": 0.12,
+    "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Shimotsuki Ushimaru",
     "rarity": "C",
@@ -182,7 +182,7 @@
     "groupId": 22957
   },
   "ST09-ST09-015 normal": {
-    "lowPrice": 0.01,
+    "lowPrice": 0.05,
     "midPrice": 0.2,
     "highPrice": 4.99,
     "marketPrice": 0.13,
@@ -260,7 +260,7 @@
     "groupId": 22957
   },
   "ST09-ST09-012 normal": {
-    "lowPrice": 0.02,
+    "lowPrice": 0.08,
     "midPrice": 0.25,
     "highPrice": 1.38,
     "marketPrice": 0.17,
@@ -287,7 +287,7 @@
   },
   "ST09-ST09-013 normal": {
     "lowPrice": 0.04,
-    "midPrice": 0.17,
+    "midPrice": 0.15,
     "highPrice": 1.0,
     "marketPrice": 0.14,
     "directLowPrice": null,
@@ -364,10 +364,10 @@
     "groupId": 22957
   },
   "ST09-ST09-004 normal": {
-    "lowPrice": 0.03,
+    "lowPrice": 0.04,
     "midPrice": 0.15,
     "highPrice": 1.0,
-    "marketPrice": 0.09,
+    "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Kaido",
     "rarity": "C",

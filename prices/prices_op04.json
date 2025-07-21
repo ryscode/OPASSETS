@@ -1,6 +1,6 @@
 {
   "ST08-ST08-005 normal": {
-    "lowPrice": 0.3,
+    "lowPrice": 0.22,
     "midPrice": 0.75,
     "highPrice": 3.98,
     "marketPrice": 0.56,
@@ -78,10 +78,10 @@
     "groupId": 22956
   },
   "ST08-ST08-002 normal": {
-    "lowPrice": 2.3,
-    "midPrice": 3.93,
+    "lowPrice": 2.0,
+    "midPrice": 3.97,
     "highPrice": 15.0,
-    "marketPrice": 2.69,
+    "marketPrice": 2.64,
     "directLowPrice": null,
     "name": "Uta",
     "rarity": "SR",
@@ -105,9 +105,9 @@
   },
   "ST08-ST08-014 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.75,
+    "midPrice": 0.85,
     "highPrice": 3.0,
-    "marketPrice": 0.5,
+    "marketPrice": 0.55,
     "directLowPrice": null,
     "name": "Gum-Gum Bell",
     "rarity": "C",
@@ -156,8 +156,8 @@
     "groupId": 22956
   },
   "ST08-ST08-001 normal": {
-    "lowPrice": 0.75,
-    "midPrice": 0.98,
+    "lowPrice": 0.67,
+    "midPrice": 0.99,
     "highPrice": 2.9,
     "marketPrice": 0.8,
     "directLowPrice": null,
@@ -185,7 +185,7 @@
     "lowPrice": 1.65,
     "midPrice": 2.79,
     "highPrice": 4.95,
-    "marketPrice": 1.88,
+    "marketPrice": 1.9,
     "directLowPrice": null,
     "name": "Shirahoshi",
     "rarity": "C",
@@ -289,7 +289,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.18,
     "highPrice": 1.0,
-    "marketPrice": 0.13,
+    "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Mr.2.Bon.Kurei (Bentham)",
     "rarity": "C",
@@ -313,9 +313,9 @@
   },
   "ST08-ST08-012 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.22,
+    "midPrice": 0.21,
     "highPrice": 1.99,
-    "marketPrice": 0.19,
+    "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "Laboon",
     "rarity": "C",

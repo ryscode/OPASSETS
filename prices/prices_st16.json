@@ -1,7 +1,7 @@
 {
   "P-P-029 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.2,
+    "midPrice": 0.19,
     "highPrice": 3.99,
     "marketPrice": 0.16,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "ST11-ST11-003 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.16,
+    "midPrice": 0.15,
     "highPrice": 3.99,
     "marketPrice": 0.1,
     "directLowPrice": null,
@@ -211,7 +211,7 @@
     "lowPrice": 0.04,
     "midPrice": 0.2,
     "highPrice": 1.35,
-    "marketPrice": 0.19,
+    "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "New Genesis",
     "rarity": "SR",
@@ -263,7 +263,7 @@
     "lowPrice": 0.22,
     "midPrice": 0.5,
     "highPrice": 9.99,
-    "marketPrice": 0.32,
+    "marketPrice": 0.31,
     "directLowPrice": null,
     "name": "Uta (ST16-001)",
     "rarity": "SR",
@@ -286,10 +286,10 @@
     "groupId": 23491
   },
   "ST16-ST16-002 normal": {
-    "lowPrice": 0.02,
+    "lowPrice": 0.01,
     "midPrice": 0.19,
     "highPrice": 2.99,
-    "marketPrice": 0.09,
+    "marketPrice": 0.08,
     "directLowPrice": null,
     "name": "Gordon",
     "rarity": "C",
@@ -338,10 +338,10 @@
     "groupId": 23491
   },
   "ST16-ST16-004 normal": {
-    "lowPrice": 2.8,
-    "midPrice": 4.49,
+    "lowPrice": 3.0,
+    "midPrice": 4.5,
     "highPrice": 19.99,
-    "marketPrice": 3.41,
+    "marketPrice": 3.73,
     "directLowPrice": null,
     "name": "Shanks",
     "rarity": "SR",

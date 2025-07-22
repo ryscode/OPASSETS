@@ -1,9 +1,9 @@
 {
   "OP09-OP09-001 normal": {
-    "lowPrice": 0.31,
-    "midPrice": 0.53,
+    "lowPrice": 0.3,
+    "midPrice": 0.52,
     "highPrice": 55.0,
-    "marketPrice": 0.51,
+    "marketPrice": 0.48,
     "directLowPrice": null,
     "name": "Shanks (OP09-001)",
     "rarity": "L",
@@ -26,10 +26,10 @@
     "groupId": 24282
   },
   "ST23-ST23-001 normal": {
-    "lowPrice": 1.3,
-    "midPrice": 2.0,
+    "lowPrice": 1.0,
+    "midPrice": 1.98,
     "highPrice": 4.5,
-    "marketPrice": 1.63,
+    "marketPrice": 1.68,
     "directLowPrice": null,
     "name": "Uta",
     "rarity": "SR",
@@ -52,10 +52,10 @@
     "groupId": 24282
   },
   "ST23-ST23-002 normal": {
-    "lowPrice": 1.72,
-    "midPrice": 2.95,
+    "lowPrice": 1.5,
+    "midPrice": 2.85,
     "highPrice": 5.99,
-    "marketPrice": 2.3,
+    "marketPrice": 2.46,
     "directLowPrice": null,
     "name": "Shanks (002)",
     "rarity": "SR",
@@ -78,10 +78,10 @@
     "groupId": 24282
   },
   "ST23-ST23-003 normal": {
-    "lowPrice": 0.05,
-    "midPrice": 0.37,
+    "lowPrice": 0.15,
+    "midPrice": 0.36,
     "highPrice": 3.99,
-    "marketPrice": 0.28,
+    "marketPrice": 0.27,
     "directLowPrice": null,
     "name": "Benn.Beckman",
     "rarity": "C",
@@ -104,10 +104,10 @@
     "groupId": 24282
   },
   "ST23-ST23-004 normal": {
-    "lowPrice": 0.05,
-    "midPrice": 0.21,
+    "lowPrice": 0.08,
+    "midPrice": 0.2,
     "highPrice": 1.45,
-    "marketPrice": 0.18,
+    "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy",
     "rarity": "C",
@@ -130,10 +130,10 @@
     "groupId": 24282
   },
   "ST23-ST23-005 normal": {
-    "lowPrice": 0.01,
+    "lowPrice": 0.08,
     "midPrice": 0.25,
     "highPrice": 1.41,
-    "marketPrice": 0.21,
+    "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "Yasopp",
     "rarity": "C",
@@ -157,7 +157,7 @@
   },
   "OP09-OP09-006 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.14,
+    "midPrice": 0.12,
     "highPrice": 1.34,
     "marketPrice": null,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "OP09-OP09-012 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.15,
+    "midPrice": 0.13,
     "highPrice": 1.32,
     "marketPrice": null,
     "directLowPrice": null,
@@ -365,9 +365,9 @@
   },
   "OP09-OP09-020 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.16,
+    "midPrice": 0.15,
     "highPrice": 1.35,
-    "marketPrice": 0.16,
+    "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Come On!! We'll Fight You!! (Reprint)",
     "rarity": "R",

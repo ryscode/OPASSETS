@@ -1,9 +1,9 @@
 {
   "OP06-OP06-022 normal": {
-    "lowPrice": 0.42,
-    "midPrice": 0.77,
+    "lowPrice": 0.45,
+    "midPrice": 0.79,
     "highPrice": 9.99,
-    "marketPrice": 0.63,
+    "marketPrice": 0.73,
     "directLowPrice": null,
     "name": "Yamato (OP06-022)",
     "rarity": "L",
@@ -52,7 +52,7 @@
     "groupId": 24287
   },
   "OP06-OP06-103 normal": {
-    "lowPrice": 0.02,
+    "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.99,
     "marketPrice": null,
@@ -156,8 +156,8 @@
     "groupId": 24287
   },
   "OP06-OP06-112 normal": {
-    "lowPrice": 0.02,
-    "midPrice": 0.13,
+    "lowPrice": 0.01,
+    "midPrice": 0.1,
     "highPrice": 4.99,
     "marketPrice": null,
     "directLowPrice": null,
@@ -185,7 +185,7 @@
     "lowPrice": 0.02,
     "midPrice": 0.14,
     "highPrice": 4.99,
-    "marketPrice": 0.09,
+    "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Blaze Slice (Reprint)",
     "rarity": "R",
@@ -211,7 +211,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.99,
-    "marketPrice": 0.1,
+    "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Portgas.D.Ace (Reprint)",
     "rarity": "UC",
@@ -260,7 +260,7 @@
     "groupId": 24287
   },
   "ST28-ST28-001 normal": {
-    "lowPrice": 0.1,
+    "lowPrice": 0.09,
     "midPrice": 0.22,
     "highPrice": 3.99,
     "marketPrice": 0.17,
@@ -286,10 +286,10 @@
     "groupId": 24287
   },
   "ST28-ST28-002 normal": {
-    "lowPrice": 0.14,
-    "midPrice": 0.29,
+    "lowPrice": 0.15,
+    "midPrice": 0.28,
     "highPrice": 2.0,
-    "marketPrice": 0.2,
+    "marketPrice": 0.19,
     "directLowPrice": null,
     "name": "Izo",
     "rarity": "C",
@@ -313,9 +313,9 @@
   },
   "ST28-ST28-003 normal": {
     "lowPrice": 0.45,
-    "midPrice": 0.61,
+    "midPrice": 0.6,
     "highPrice": 1.49,
-    "marketPrice": 0.52,
+    "marketPrice": 0.55,
     "directLowPrice": null,
     "name": "Kin'emon",
     "rarity": "C",
@@ -338,10 +338,10 @@
     "groupId": 24287
   },
   "ST28-ST28-004 normal": {
-    "lowPrice": 1.48,
-    "midPrice": 2.2,
-    "highPrice": 5.0,
-    "marketPrice": 1.66,
+    "lowPrice": 1.51,
+    "midPrice": 2.4,
+    "highPrice": 9.99,
+    "marketPrice": 1.94,
     "directLowPrice": null,
     "name": "Kouzuki Momonosuke",
     "rarity": "SR",
@@ -366,8 +366,8 @@
   "ST28-ST28-005 normal": {
     "lowPrice": 1.45,
     "midPrice": 2.35,
-    "highPrice": 5.0,
-    "marketPrice": 2.02,
+    "highPrice": 9.99,
+    "marketPrice": 2.01,
     "directLowPrice": null,
     "name": "Yamato",
     "rarity": "SR",

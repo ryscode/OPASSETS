@@ -1,8 +1,8 @@
 {
   "ST01-ST01-001 normal": {
-    "lowPrice": 87.7,
+    "lowPrice": 87.0,
     "midPrice": 90.02,
-    "highPrice": 101.19,
+    "highPrice": 100.41,
     "marketPrice": 68.63,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (001)",
@@ -53,7 +53,7 @@
   },
   "ST01-ST01-003 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.66,
+    "midPrice": 0.68,
     "highPrice": 2.99,
     "marketPrice": 0.54,
     "directLowPrice": null,
@@ -78,8 +78,8 @@
     "groupId": 17659
   },
   "ST01-ST01-004 normal": {
-    "lowPrice": 3.05,
-    "midPrice": 4.99,
+    "lowPrice": 3.04,
+    "midPrice": 4.97,
     "highPrice": 15.0,
     "marketPrice": 6.6,
     "directLowPrice": null,
@@ -131,7 +131,7 @@
   },
   "ST01-ST01-006 normal": {
     "lowPrice": 1.18,
-    "midPrice": 1.65,
+    "midPrice": 1.62,
     "highPrice": 5.0,
     "marketPrice": 1.41,
     "directLowPrice": null,
@@ -157,7 +157,7 @@
   },
   "ST01-ST01-007 normal": {
     "lowPrice": 3.71,
-    "midPrice": 5.03,
+    "midPrice": 5.0,
     "highPrice": 22.79,
     "marketPrice": 4.99,
     "directLowPrice": null,
@@ -185,7 +185,7 @@
     "lowPrice": 1.21,
     "midPrice": 1.99,
     "highPrice": 7.5,
-    "marketPrice": 1.28,
+    "marketPrice": 1.31,
     "directLowPrice": null,
     "name": "Nico Robin",
     "rarity": "C",
@@ -235,7 +235,7 @@
   },
   "ST01-ST01-010 normal": {
     "lowPrice": 0.85,
-    "midPrice": 1.23,
+    "midPrice": 1.2,
     "highPrice": 7.0,
     "marketPrice": 1.29,
     "directLowPrice": null,
@@ -261,7 +261,7 @@
   },
   "ST01-ST01-011 normal": {
     "lowPrice": 2.0,
-    "midPrice": 2.68,
+    "midPrice": 2.79,
     "highPrice": 22.79,
     "marketPrice": 2.44,
     "directLowPrice": null,
@@ -287,9 +287,9 @@
   },
   "ST01-ST01-012 normal": {
     "lowPrice": 10.0,
-    "midPrice": 12.46,
+    "midPrice": 12.42,
     "highPrice": 58.79,
-    "marketPrice": 14.84,
+    "marketPrice": 14.36,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (012)",
     "rarity": "SR",
@@ -313,9 +313,9 @@
   },
   "ST01-ST01-013 normal": {
     "lowPrice": 4.0,
-    "midPrice": 5.05,
+    "midPrice": 5.02,
     "highPrice": 19.59,
-    "marketPrice": 4.99,
+    "marketPrice": 4.98,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
     "rarity": "SR",
@@ -390,10 +390,10 @@
     "groupId": 17659
   },
   "ST01-ST01-016 normal": {
-    "lowPrice": 3.52,
-    "midPrice": 5.0,
+    "lowPrice": 3.5,
+    "midPrice": 4.92,
     "highPrice": 19.95,
-    "marketPrice": 4.64,
+    "marketPrice": 4.59,
     "directLowPrice": null,
     "name": "Diable Jambe",
     "rarity": "C",

@@ -1,0 +1,36 @@
+name: Generate index.json for ImageData (EN & JP)
+
+on:
+  push:
+    paths:
+      - 'ImageData/Data_EN/*.json'
+      - 'ImageData/Data_JP/*.json'
+      - '.github/workflows/generate-index.yml'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate index.json for EN
+        run: |
+          cd ImageData/Data_EN
+          ls *.json | jq -R -s -c 'split("\n") | map(select(length > 0))' > index.json
+
+      - name: Generate index.json for JP
+        run: |
+          cd ../../ImageData/Data_JP
+          ls *.json | jq -R -s -c 'split("\n") | map(select(length > 0))' > index.json
+
+      - name: Commit and push index.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add ImageData/Data_EN/index.json
+          git add ImageData/Data_JP/index.json
+          git commit -m "Auto-generate index.json for EN & JP"
+          git push

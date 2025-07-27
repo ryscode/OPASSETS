@@ -13,18 +13,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate index.json for EN
+      - name: Generate index.json for EN & JP
         run: |
-          cd ImageData/Data_EN
-          ls *.json | jq -R -s -c 'split("\n") | map(select(length > 0))' > index.json
+          echo "Generating index for EN..."
+          jq -R -s -c 'split("\n") | map(select(length > 0))' <<< "$(ls ImageData/Data_EN/*.json | xargs -n1 basename)" > ImageData/Data_EN/index.json
 
-      - name: Generate index.json for JP
-        run: |
-          cd ../../ImageData/Data_JP
-          ls *.json | jq -R -s -c 'split("\n") | map(select(length > 0))' > index.json
+          echo "Generating index for JP..."
+          jq -R -s -c 'split("\n") | map(select(length > 0))' <<< "$(ls ImageData/Data_JP/*.json | xargs -n1 basename)" > ImageData/Data_JP/index.json
 
       - name: Commit and push index.json
         run: |

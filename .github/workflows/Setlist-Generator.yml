@@ -7,7 +7,10 @@ on:
       - 'ImageData/Data_JP/*.json'
       - '.github/workflows/generate-index.yml'
   workflow_dispatch:
-
+  
+permissions:
+  contents: write
+  
 jobs:
   generate:
     runs-on: ubuntu-latest

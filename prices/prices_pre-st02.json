@@ -1,6 +1,6 @@
 {
   "ST02-ST02-001 normal": {
-    "lowPrice": 14.92,
+    "lowPrice": 14.0,
     "midPrice": 27.08,
     "highPrice": 100.0,
     "marketPrice": 26.49,
@@ -27,7 +27,7 @@
   },
   "ST02-ST02-013 normal": {
     "lowPrice": 1.49,
-    "midPrice": 2.8,
+    "midPrice": 2.69,
     "highPrice": 45.95,
     "marketPrice": 2.55,
     "directLowPrice": null,
@@ -52,9 +52,9 @@
     "groupId": 17658
   },
   "ST02-ST02-009 normal": {
-    "lowPrice": 9.31,
+    "lowPrice": 8.5,
     "midPrice": 13.98,
-    "highPrice": 29.5,
+    "highPrice": 29.99,
     "marketPrice": 8.56,
     "directLowPrice": null,
     "name": "Trafalgar Law",
@@ -79,9 +79,9 @@
   },
   "ST02-ST02-014 normal": {
     "lowPrice": 0.18,
-    "midPrice": 1.01,
+    "midPrice": 1.08,
     "highPrice": 14.95,
-    "marketPrice": 0.57,
+    "marketPrice": 0.55,
     "directLowPrice": null,
     "name": "X.Drake",
     "rarity": "C",
@@ -157,8 +157,8 @@
   },
   "ST02-ST02-017 normal": {
     "lowPrice": 4.8,
-    "midPrice": 5.95,
-    "highPrice": 15.6,
+    "midPrice": 5.96,
+    "highPrice": 29.99,
     "marketPrice": 4.8,
     "directLowPrice": null,
     "name": "Straw Sword",
@@ -183,8 +183,8 @@
   },
   "ST02-ST02-008 normal": {
     "lowPrice": 2.5,
-    "midPrice": 3.27,
-    "highPrice": 9.95,
+    "midPrice": 3.42,
+    "highPrice": 19.99,
     "marketPrice": 3.98,
     "directLowPrice": null,
     "name": "Scratchmen Apoo",
@@ -209,7 +209,7 @@
   },
   "ST02-ST02-015 normal": {
     "lowPrice": 0.45,
-    "midPrice": 1.33,
+    "midPrice": 1.41,
     "highPrice": 10.95,
     "marketPrice": 0.57,
     "directLowPrice": null,
@@ -287,8 +287,8 @@
   },
   "ST02-ST02-005 normal": {
     "lowPrice": 0.42,
-    "midPrice": 0.61,
-    "highPrice": 14.99,
+    "midPrice": 0.62,
+    "highPrice": 29.99,
     "marketPrice": 0.58,
     "directLowPrice": null,
     "name": "Killer",
@@ -313,8 +313,8 @@
   },
   "ST02-ST02-007 normal": {
     "lowPrice": 5.57,
-    "midPrice": 7.88,
-    "highPrice": 10.0,
+    "midPrice": 8.0,
+    "highPrice": 19.99,
     "marketPrice": 5.16,
     "directLowPrice": null,
     "name": "Jewelry Bonney",
@@ -365,8 +365,8 @@
   },
   "ST02-ST02-004 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.61,
-    "highPrice": 12.99,
+    "midPrice": 0.62,
+    "highPrice": 19.99,
     "marketPrice": 0.42,
     "directLowPrice": null,
     "name": "Capone\"Gang\"Bege",
@@ -392,8 +392,8 @@
   "ST02-ST02-012 normal": {
     "lowPrice": 0.18,
     "midPrice": 0.29,
-    "highPrice": 3.99,
-    "marketPrice": 0.23,
+    "highPrice": 4.99,
+    "marketPrice": 0.22,
     "directLowPrice": null,
     "name": "Bepo",
     "rarity": "C",
@@ -417,7 +417,7 @@
   },
   "ST02-ST02-010 normal": {
     "lowPrice": 2.6,
-    "midPrice": 5.56,
+    "midPrice": 7.77,
     "highPrice": 14.99,
     "marketPrice": 2.53,
     "directLowPrice": null,

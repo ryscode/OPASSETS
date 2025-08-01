@@ -1,7 +1,7 @@
 {
   "ST06-ST06-001 normal": {
     "lowPrice": 0.45,
-    "midPrice": 0.89,
+    "midPrice": 0.9,
     "highPrice": 5.0,
     "marketPrice": 0.67,
     "directLowPrice": null,
@@ -55,7 +55,7 @@
     "lowPrice": 0.56,
     "midPrice": 1.23,
     "highPrice": 19.99,
-    "marketPrice": 0.84,
+    "marketPrice": 0.95,
     "directLowPrice": null,
     "name": "Smoker",
     "rarity": "SR",
@@ -156,7 +156,7 @@
     "groupId": 17699
   },
   "ST06-ST06-015 normal": {
-    "lowPrice": 0.67,
+    "lowPrice": 0.66,
     "midPrice": 1.27,
     "highPrice": 27.99,
     "marketPrice": 0.79,
@@ -183,8 +183,8 @@
   },
   "ST06-ST06-003 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.15,
-    "highPrice": 1.0,
+    "midPrice": 0.2,
+    "highPrice": 1.31,
     "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Jango",
@@ -236,7 +236,7 @@
   "ST06-ST06-007 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.2,
-    "highPrice": 1.0,
+    "highPrice": 1.35,
     "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Tsuru",
@@ -288,7 +288,7 @@
   "ST06-ST06-009 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 1.0,
+    "highPrice": 1.31,
     "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Fullbody",
@@ -419,7 +419,7 @@
     "lowPrice": 1.49,
     "midPrice": 1.91,
     "highPrice": 6.17,
-    "marketPrice": 1.79,
+    "marketPrice": 1.78,
     "directLowPrice": null,
     "name": "Navy HQ",
     "rarity": "C",

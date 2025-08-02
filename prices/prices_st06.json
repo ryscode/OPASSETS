@@ -1,6 +1,6 @@
 {
   "ST06-ST06-001 normal": {
-    "lowPrice": 0.45,
+    "lowPrice": 0.35,
     "midPrice": 0.9,
     "highPrice": 5.0,
     "marketPrice": 0.67,
@@ -55,7 +55,7 @@
     "lowPrice": 0.56,
     "midPrice": 1.23,
     "highPrice": 19.99,
-    "marketPrice": 0.95,
+    "marketPrice": 0.99,
     "directLowPrice": null,
     "name": "Smoker",
     "rarity": "SR",
@@ -105,9 +105,9 @@
   },
   "ST06-ST06-006 normal": {
     "lowPrice": 0.98,
-    "midPrice": 1.75,
+    "midPrice": 1.72,
     "highPrice": 34.0,
-    "marketPrice": 1.29,
+    "marketPrice": 1.31,
     "directLowPrice": null,
     "name": "Tashigi",
     "rarity": "C",
@@ -130,10 +130,10 @@
     "groupId": 17699
   },
   "ST06-ST06-012 normal": {
-    "lowPrice": 1.4,
+    "lowPrice": 1.0,
     "midPrice": 2.14,
     "highPrice": 9.45,
-    "marketPrice": 1.83,
+    "marketPrice": 1.8,
     "directLowPrice": null,
     "name": "Monkey.D.Garp",
     "rarity": "SR",
@@ -157,7 +157,7 @@
   },
   "ST06-ST06-015 normal": {
     "lowPrice": 0.66,
-    "midPrice": 1.27,
+    "midPrice": 1.25,
     "highPrice": 27.99,
     "marketPrice": 0.79,
     "directLowPrice": null,
@@ -183,8 +183,8 @@
   },
   "ST06-ST06-003 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.2,
-    "highPrice": 1.31,
+    "midPrice": 0.15,
+    "highPrice": 1.0,
     "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Jango",
@@ -209,7 +209,7 @@
   },
   "ST06-ST06-005 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.25,
+    "midPrice": 0.24,
     "highPrice": 1.5,
     "marketPrice": 0.13,
     "directLowPrice": null,
@@ -236,7 +236,7 @@
   "ST06-ST06-007 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.2,
-    "highPrice": 1.35,
+    "highPrice": 1.0,
     "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Tsuru",
@@ -261,9 +261,9 @@
   },
   "ST06-ST06-008 normal": {
     "lowPrice": 3.68,
-    "midPrice": 5.5,
+    "midPrice": 5.51,
     "highPrice": 506.04,
-    "marketPrice": 4.63,
+    "marketPrice": 4.61,
     "directLowPrice": null,
     "name": "Hina",
     "rarity": "C",
@@ -288,7 +288,7 @@
   "ST06-ST06-009 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 1.31,
+    "highPrice": 1.0,
     "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Fullbody",

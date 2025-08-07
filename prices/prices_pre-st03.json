@@ -1,33 +1,7 @@
 {
-  "ST01-ST01-001 normal": {
-    "lowPrice": 88.87,
-    "midPrice": 95.01,
-    "highPrice": 99.99,
-    "marketPrice": 77.96,
-    "directLowPrice": null,
-    "name": "Monkey.D.Luffy (001)",
-    "rarity": "L",
-    "power": "5000",
-    "cost": null,
-    "life": "5",
-    "category": "Leader",
-    "colors": "Red",
-    "attributes": "Strike",
-    "types": "Straw Hat Crew;Supernovas",
-    "effect": "yes",
-    "trigger": null,
-    "counter": null,
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/412113_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Leader",
-    "description": "[Activate: Main] [Once Per Turn] Give this Leader or 1 of your Characters up to 1 rested DON!! card.",
-    "groupId": 17659
-  },
   "ST01-ST01-002 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.43,
+    "midPrice": 0.4,
     "highPrice": 4.99,
     "marketPrice": 0.28,
     "directLowPrice": null,
@@ -79,7 +53,7 @@
   },
   "ST01-ST01-004 normal": {
     "lowPrice": 3.0,
-    "midPrice": 4.97,
+    "midPrice": 4.98,
     "highPrice": 15.0,
     "marketPrice": 6.12,
     "directLowPrice": null,
@@ -105,7 +79,7 @@
   },
   "ST01-ST01-005 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.35,
+    "midPrice": 0.34,
     "highPrice": 2.0,
     "marketPrice": 0.26,
     "directLowPrice": null,
@@ -130,8 +104,8 @@
     "groupId": 17659
   },
   "ST01-ST01-006 normal": {
-    "lowPrice": 0.99,
-    "midPrice": 2.24,
+    "lowPrice": 1.25,
+    "midPrice": 2.25,
     "highPrice": 19.99,
     "marketPrice": 1.46,
     "directLowPrice": null,
@@ -156,10 +130,10 @@
     "groupId": 17659
   },
   "ST01-ST01-007 normal": {
-    "lowPrice": 4.32,
+    "lowPrice": 3.71,
     "midPrice": 5.0,
     "highPrice": 22.79,
-    "marketPrice": 4.81,
+    "marketPrice": 4.78,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "C",
@@ -235,7 +209,7 @@
   },
   "ST01-ST01-010 normal": {
     "lowPrice": 0.88,
-    "midPrice": 1.25,
+    "midPrice": 1.2,
     "highPrice": 7.0,
     "marketPrice": 1.3,
     "directLowPrice": null,
@@ -261,7 +235,7 @@
   },
   "ST01-ST01-011 normal": {
     "lowPrice": 2.0,
-    "midPrice": 2.75,
+    "midPrice": 2.72,
     "highPrice": 22.79,
     "marketPrice": 2.46,
     "directLowPrice": null,
@@ -287,7 +261,7 @@
   },
   "ST01-ST01-012 normal": {
     "lowPrice": 10.0,
-    "midPrice": 11.95,
+    "midPrice": 12.4,
     "highPrice": 58.79,
     "marketPrice": 12.4,
     "directLowPrice": null,
@@ -365,7 +339,7 @@
   },
   "ST01-ST01-015 normal": {
     "lowPrice": 0.84,
-    "midPrice": 1.64,
+    "midPrice": 1.63,
     "highPrice": 45.0,
     "marketPrice": 1.38,
     "directLowPrice": null,
@@ -391,7 +365,7 @@
   },
   "ST01-ST01-016 normal": {
     "lowPrice": 3.49,
-    "midPrice": 4.79,
+    "midPrice": 4.6,
     "highPrice": 19.95,
     "marketPrice": 4.26,
     "directLowPrice": null,

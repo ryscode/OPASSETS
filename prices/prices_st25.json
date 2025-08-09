@@ -1,7 +1,7 @@
 {
   "OP09-OP09-042 normal": {
     "lowPrice": 0.12,
-    "midPrice": 0.39,
+    "midPrice": 0.4,
     "highPrice": 4.99,
     "marketPrice": 0.34,
     "directLowPrice": null,
@@ -27,9 +27,9 @@
   },
   "ST25-ST25-003 normal": {
     "lowPrice": 2.5,
-    "midPrice": 3.4,
+    "midPrice": 3.44,
     "highPrice": 9.99,
-    "marketPrice": 3.06,
+    "marketPrice": 3.11,
     "directLowPrice": null,
     "name": "Crocodile & Mihawk",
     "rarity": "SR",
@@ -53,9 +53,9 @@
   },
   "ST25-ST25-004 normal": {
     "lowPrice": 0.64,
-    "midPrice": 1.11,
+    "midPrice": 1.14,
     "highPrice": 95.0,
-    "marketPrice": 0.79,
+    "marketPrice": 0.78,
     "directLowPrice": null,
     "name": "Buggy",
     "rarity": "SR",
@@ -133,7 +133,7 @@
     "lowPrice": 0.03,
     "midPrice": 0.15,
     "highPrice": 4.99,
-    "marketPrice": 0.15,
+    "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Buggy (Reprint)",
     "rarity": "R",
@@ -210,7 +210,7 @@
   "OP09-OP09-055 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 0.5,
+    "highPrice": 1.0,
     "marketPrice": 0.05,
     "directLowPrice": null,
     "name": "Mr.1(Daz.Bonez) (Reprint)",
@@ -262,7 +262,7 @@
   "OP09-OP09-057 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 0.5,
+    "highPrice": 1.0,
     "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Cross Guild (Reprint)",
@@ -286,10 +286,10 @@
     "groupId": 24284
   },
   "ST25-ST25-001 normal": {
-    "lowPrice": 0.84,
+    "lowPrice": 0.97,
     "midPrice": 1.5,
     "highPrice": 7.99,
-    "marketPrice": 1.17,
+    "marketPrice": 1.18,
     "directLowPrice": null,
     "name": "Alvida",
     "rarity": "C",
@@ -313,7 +313,7 @@
   },
   "ST25-ST25-002 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.22,
+    "midPrice": 0.21,
     "highPrice": 4.99,
     "marketPrice": 0.16,
     "directLowPrice": null,
@@ -341,7 +341,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.25,
     "highPrice": 1.0,
-    "marketPrice": 0.15,
+    "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Mohji",
     "rarity": "C",

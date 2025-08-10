@@ -1,7 +1,7 @@
 {
   "OP09-OP09-081 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.62,
+    "midPrice": 0.61,
     "highPrice": 9.99,
     "marketPrice": 0.5,
     "directLowPrice": null,
@@ -26,10 +26,10 @@
     "groupId": 24286
   },
   "ST27-ST27-003 normal": {
-    "lowPrice": 1.15,
-    "midPrice": 1.75,
+    "lowPrice": 1.0,
+    "midPrice": 1.68,
     "highPrice": 5.99,
-    "marketPrice": 1.34,
+    "marketPrice": 1.36,
     "directLowPrice": null,
     "name": "Kuzan",
     "rarity": "SR",
@@ -52,10 +52,10 @@
     "groupId": 24286
   },
   "ST27-ST27-005 normal": {
-    "lowPrice": 2.9,
-    "midPrice": 3.48,
+    "lowPrice": 2.84,
+    "midPrice": 3.42,
     "highPrice": 9.99,
-    "marketPrice": 3.17,
+    "marketPrice": 3.19,
     "directLowPrice": null,
     "name": "Marshall.D.Teach (ST27-005)",
     "rarity": "SR",
@@ -133,7 +133,7 @@
     "lowPrice": 0.12,
     "midPrice": 0.25,
     "highPrice": 3.99,
-    "marketPrice": 0.22,
+    "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "Sanjuan.Wolf",
     "rarity": "C",
@@ -339,9 +339,9 @@
   },
   "OP09-OP09-099 normal": {
     "lowPrice": 0.04,
-    "midPrice": 0.19,
+    "midPrice": 0.18,
     "highPrice": 4.99,
-    "marketPrice": 0.19,
+    "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Fullalead (Reprint)",
     "rarity": "C",

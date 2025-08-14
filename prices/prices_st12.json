@@ -131,7 +131,7 @@
   },
   "OP05-OP05-011 normal": {
     "lowPrice": 19.03,
-    "midPrice": 27.77,
+    "midPrice": 27.1,
     "highPrice": 39.99,
     "marketPrice": 19.7,
     "directLowPrice": null,
@@ -157,7 +157,7 @@
   },
   "OP05-OP05-012 normal": {
     "lowPrice": 0.6,
-    "midPrice": 1.87,
+    "midPrice": 1.93,
     "highPrice": 2.5,
     "marketPrice": 1.21,
     "directLowPrice": null,
@@ -182,8 +182,8 @@
     "groupId": 23368
   },
   "OP05-OP05-013 normal": {
-    "lowPrice": 1.17,
-    "midPrice": 2.93,
+    "lowPrice": 1.4,
+    "midPrice": 2.59,
     "highPrice": 8.0,
     "marketPrice": 1.19,
     "directLowPrice": null,
@@ -286,8 +286,8 @@
     "groupId": 23368
   },
   "OP05-OP05-021 normal": {
-    "lowPrice": 24.98,
-    "midPrice": 37.03,
+    "lowPrice": 22.68,
+    "midPrice": 25.99,
     "highPrice": 40.26,
     "marketPrice": 21.52,
     "directLowPrice": null,
@@ -417,7 +417,7 @@
   },
   "OP05-OP05-028 normal": {
     "lowPrice": 2.59,
-    "midPrice": 3.65,
+    "midPrice": 3.8,
     "highPrice": 5.95,
     "marketPrice": 2.41,
     "directLowPrice": null,
@@ -443,7 +443,7 @@
   },
   "OP05-OP05-029 normal": {
     "lowPrice": 8.26,
-    "midPrice": 10.89,
+    "midPrice": 10.75,
     "highPrice": 25.0,
     "marketPrice": 9.46,
     "directLowPrice": null,
@@ -495,7 +495,7 @@
   },
   "OP05-OP05-033 normal": {
     "lowPrice": 0.69,
-    "midPrice": 1.32,
+    "midPrice": 1.36,
     "highPrice": 7.99,
     "marketPrice": 0.99,
     "directLowPrice": null,
@@ -546,7 +546,7 @@
     "groupId": 23368
   },
   "OP05-OP05-036 normal": {
-    "lowPrice": 4.98,
+    "lowPrice": 5.01,
     "midPrice": 8.38,
     "highPrice": 17.49,
     "marketPrice": 7.57,
@@ -651,7 +651,7 @@
   },
   "OP05-OP05-044 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.57,
+    "midPrice": 0.56,
     "highPrice": 8.8,
     "marketPrice": 0.44,
     "directLowPrice": null,
@@ -703,7 +703,7 @@
   },
   "OP05-OP05-046 normal": {
     "lowPrice": 1.02,
-    "midPrice": 2.0,
+    "midPrice": 1.93,
     "highPrice": 8.74,
     "marketPrice": 1.83,
     "directLowPrice": null,
@@ -806,8 +806,8 @@
     "groupId": 23368
   },
   "OP05-OP05-052 normal": {
-    "lowPrice": 50.0,
-    "midPrice": 50.0,
+    "lowPrice": 1.93,
+    "midPrice": 25.97,
     "highPrice": 50.0,
     "marketPrice": 1.93,
     "directLowPrice": null,
@@ -858,9 +858,9 @@
     "groupId": 23368
   },
   "OP05-OP05-054 normal": {
-    "lowPrice": 14.99,
-    "midPrice": 16.13,
-    "highPrice": 17.27,
+    "lowPrice": 26.4,
+    "midPrice": 26.4,
+    "highPrice": 26.4,
     "marketPrice": 10.22,
     "directLowPrice": null,
     "name": "Monkey.D.Garp",
@@ -885,7 +885,7 @@
   },
   "OP05-OP05-056 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.39,
+    "midPrice": 0.36,
     "highPrice": 5.0,
     "marketPrice": 0.26,
     "directLowPrice": null,
@@ -937,7 +937,7 @@
   },
   "OP05-OP05-059 normal": {
     "lowPrice": 3.76,
-    "midPrice": 4.91,
+    "midPrice": 4.86,
     "highPrice": 14.95,
     "marketPrice": 3.78,
     "directLowPrice": null,
@@ -964,7 +964,7 @@
   "OP05-OP05-061 normal": {
     "lowPrice": 14.7,
     "midPrice": 15.44,
-    "highPrice": 16.91,
+    "highPrice": 17.64,
     "marketPrice": 11.79,
     "directLowPrice": null,
     "name": "Uso-Hachi",
@@ -988,8 +988,8 @@
     "groupId": 23368
   },
   "OP05-OP05-062 normal": {
-    "lowPrice": 79.99,
-    "midPrice": 83.12,
+    "lowPrice": 70.0,
+    "midPrice": 79.99,
     "highPrice": 105.0,
     "marketPrice": 67.01,
     "directLowPrice": null,
@@ -1066,10 +1066,10 @@
     "groupId": 23368
   },
   "OP05-OP05-066 normal": {
-    "lowPrice": 4.99,
+    "lowPrice": 5.08,
     "midPrice": 6.33,
     "highPrice": 15.0,
-    "marketPrice": 4.84,
+    "marketPrice": 4.93,
     "directLowPrice": null,
     "name": "Jinbe",
     "rarity": "C",
@@ -1119,8 +1119,8 @@
   },
   "OP05-OP05-070 normal": {
     "lowPrice": 24.99,
-    "midPrice": 31.5,
-    "highPrice": 37.5,
+    "midPrice": 28.83,
+    "highPrice": 31.25,
     "marketPrice": 24.22,
     "directLowPrice": null,
     "name": "Fra-Nosuke",
@@ -1145,7 +1145,7 @@
   },
   "OP05-OP05-072 normal": {
     "lowPrice": 1.8,
-    "midPrice": 2.76,
+    "midPrice": 2.71,
     "highPrice": 7.24,
     "marketPrice": 2.49,
     "directLowPrice": null,
@@ -1197,7 +1197,7 @@
   },
   "OP05-OP05-075 normal": {
     "lowPrice": 0.71,
-    "midPrice": 1.57,
+    "midPrice": 1.6,
     "highPrice": 55.0,
     "marketPrice": 0.96,
     "directLowPrice": null,
@@ -1223,7 +1223,7 @@
   },
   "OP05-OP05-077 normal": {
     "lowPrice": 8.99,
-    "midPrice": 9.67,
+    "midPrice": 9.65,
     "highPrice": 24.0,
     "marketPrice": 11.46,
     "directLowPrice": null,
@@ -1379,8 +1379,8 @@
   },
   "OP05-OP05-085 normal": {
     "lowPrice": 98.86,
-    "midPrice": 99.36,
-    "highPrice": 99.85,
+    "midPrice": 99.85,
+    "highPrice": 99.88,
     "marketPrice": 4.13,
     "directLowPrice": null,
     "name": "Nefeltari Cobra",
@@ -1430,8 +1430,8 @@
     "groupId": 23368
   },
   "OP05-OP05-090 normal": {
-    "lowPrice": 2.13,
-    "midPrice": 9.75,
+    "lowPrice": 2.07,
+    "midPrice": 9.6,
     "highPrice": 397.17,
     "marketPrice": 2.07,
     "directLowPrice": null,
@@ -1482,8 +1482,8 @@
     "groupId": 23368
   },
   "OP05-OP05-095 normal": {
-    "lowPrice": 4.2,
-    "midPrice": 6.5,
+    "lowPrice": 2.93,
+    "midPrice": 6.56,
     "highPrice": 7.5,
     "marketPrice": 6.37,
     "directLowPrice": null,
@@ -1531,6 +1531,32 @@
     "finish": null,
     "cardType": "Event",
     "description": "[Main] Choose one:\r\n<br>\r\n• K.O. up to 1 of your opponent's Characters with a cost of 1 or less.\r\n<br>\r\n• Return up to 1 of your opponent's Characters with a cost of 1 or less to the owner's hand.\r\n<br>\r\n• Place up to 1 of your opponent's Characters with a cost of 1 or less at the top or bottom of their Life cards face-up.\r\n<br>\r\nThen, if you have a [Celestial Dragons] type Character, draw 1 card.\r\n<br>\r\n[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 6 or less, or return it to the owner's hand.",
+    "groupId": 23368
+  },
+  "OP05-OP05-097 normal": {
+    "lowPrice": 25.0,
+    "midPrice": 25.0,
+    "highPrice": 25.0,
+    "marketPrice": 5.0,
+    "directLowPrice": null,
+    "name": "Mary Geoise",
+    "rarity": "C",
+    "power": null,
+    "cost": "1",
+    "life": null,
+    "category": "Stage",
+    "colors": "Black",
+    "attributes": null,
+    "types": "Mary Geoise",
+    "effect": null,
+    "trigger": null,
+    "counter": null,
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/530950_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Stage",
+    "description": "[Your Turn] The cost of playing [Celestial Dragons] type Character cards with a cost of 2 or more from your hand will be reduced by 1.",
     "groupId": 23368
   },
   "OP05-OP05-099 normal": {
@@ -1586,8 +1612,8 @@
     "groupId": 23368
   },
   "OP05-OP05-104 normal": {
-    "lowPrice": 12.52,
-    "midPrice": 13.0,
+    "lowPrice": 12.79,
+    "midPrice": 13.01,
     "highPrice": 15.17,
     "marketPrice": 12.64,
     "directLowPrice": null,
@@ -1613,7 +1639,7 @@
   },
   "OP05-OP05-107 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.73,
+    "midPrice": 0.72,
     "highPrice": 2.01,
     "marketPrice": 0.72,
     "directLowPrice": null,
@@ -1639,7 +1665,7 @@
   },
   "OP05-OP05-108 normal": {
     "lowPrice": 0.5,
-    "midPrice": 2.34,
+    "midPrice": 2.5,
     "highPrice": 6.0,
     "marketPrice": 0.59,
     "directLowPrice": null,
@@ -1690,8 +1716,8 @@
     "groupId": 23368
   },
   "OP05-OP05-110 normal": {
-    "lowPrice": 15.35,
-    "midPrice": 17.71,
+    "lowPrice": 14.99,
+    "midPrice": 17.59,
     "highPrice": 20.34,
     "marketPrice": 15.25,
     "directLowPrice": null,
@@ -1769,7 +1795,7 @@
   },
   "OP05-OP05-113 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.13,
+    "midPrice": 1.15,
     "highPrice": 20.0,
     "marketPrice": 1.07,
     "directLowPrice": null,
@@ -1795,7 +1821,7 @@
   },
   "OP05-OP05-114 normal": {
     "lowPrice": 5.9,
-    "midPrice": 7.54,
+    "midPrice": 7.42,
     "highPrice": 19.0,
     "marketPrice": 7.27,
     "directLowPrice": null,
@@ -1821,7 +1847,7 @@
   },
   "OP05-OP05-116 normal": {
     "lowPrice": 16.0,
-    "midPrice": 18.4,
+    "midPrice": 19.2,
     "highPrice": 99.99,
     "marketPrice": 4.68,
     "directLowPrice": null,

@@ -1,6 +1,6 @@
 {
   "ST02-ST02-001 normal": {
-    "lowPrice": 0.45,
+    "lowPrice": 0.44,
     "midPrice": 1.45,
     "highPrice": 19.95,
     "marketPrice": 0.67,
@@ -79,7 +79,7 @@
   },
   "ST02-ST02-004 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.19,
+    "midPrice": 0.2,
     "highPrice": 7.0,
     "marketPrice": 0.11,
     "directLowPrice": null,
@@ -157,9 +157,9 @@
   },
   "ST02-ST02-007 normal": {
     "lowPrice": 1.1,
-    "midPrice": 2.0,
+    "midPrice": 2.09,
     "highPrice": 502.46,
-    "marketPrice": 1.41,
+    "marketPrice": 1.44,
     "directLowPrice": null,
     "name": "Jewelry Bonney",
     "rarity": "C",
@@ -416,7 +416,7 @@
     "groupId": 3191
   },
   "ST02-ST02-017 normal": {
-    "lowPrice": 1.29,
+    "lowPrice": 1.28,
     "midPrice": 2.1,
     "highPrice": 5.0,
     "marketPrice": 1.95,

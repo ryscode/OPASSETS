@@ -1,7 +1,7 @@
 {
   "OP09-OP09-042 normal": {
     "lowPrice": 0.12,
-    "midPrice": 0.4,
+    "midPrice": 0.39,
     "highPrice": 4.99,
     "marketPrice": 0.35,
     "directLowPrice": null,
@@ -26,10 +26,10 @@
     "groupId": 24284
   },
   "ST25-ST25-003 normal": {
-    "lowPrice": 2.25,
+    "lowPrice": 2.5,
     "midPrice": 3.5,
     "highPrice": 9.99,
-    "marketPrice": 3.2,
+    "marketPrice": 3.22,
     "directLowPrice": null,
     "name": "Crocodile & Mihawk",
     "rarity": "SR",
@@ -52,8 +52,8 @@
     "groupId": 24284
   },
   "ST25-ST25-004 normal": {
-    "lowPrice": 0.65,
-    "midPrice": 1.11,
+    "lowPrice": 0.64,
+    "midPrice": 1.1,
     "highPrice": 95.0,
     "marketPrice": 0.84,
     "directLowPrice": null,
@@ -106,8 +106,8 @@
   "OP09-OP09-045 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 25.0,
-    "marketPrice": 0.14,
+    "highPrice": 4.99,
+    "marketPrice": 0.15,
     "directLowPrice": null,
     "name": "Cabaji (Reprint)",
     "rarity": "UC",
@@ -132,7 +132,7 @@
   "OP09-OP09-051 normal": {
     "lowPrice": 0.03,
     "midPrice": 0.15,
-    "highPrice": 25.0,
+    "highPrice": 4.99,
     "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Buggy (Reprint)",
@@ -158,7 +158,7 @@
   "OP09-OP09-053 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.11,
-    "highPrice": 25.0,
+    "highPrice": 1.56,
     "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Mohji (Reprint)",
@@ -184,7 +184,7 @@
   "OP09-OP09-054 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 25.0,
+    "highPrice": 1.95,
     "marketPrice": 0.03,
     "directLowPrice": null,
     "name": "Richie (Reprint)",
@@ -210,7 +210,7 @@
   "OP09-OP09-055 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 25.0,
+    "highPrice": 1.0,
     "marketPrice": 0.05,
     "directLowPrice": null,
     "name": "Mr.1(Daz.Bonez) (Reprint)",
@@ -236,7 +236,7 @@
   "OP09-OP09-056 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.13,
-    "highPrice": 25.0,
+    "highPrice": 1.1,
     "marketPrice": 0.13,
     "directLowPrice": null,
     "name": "Mr.3(Galdino) (Reprint)",
@@ -262,7 +262,7 @@
   "OP09-OP09-057 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 25.0,
+    "highPrice": 1.0,
     "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Cross Guild (Reprint)",
@@ -286,10 +286,10 @@
     "groupId": 24284
   },
   "ST25-ST25-001 normal": {
-    "lowPrice": 1.19,
-    "midPrice": 1.52,
+    "lowPrice": 1.2,
+    "midPrice": 1.56,
     "highPrice": 7.99,
-    "marketPrice": 1.24,
+    "marketPrice": 1.31,
     "directLowPrice": null,
     "name": "Alvida",
     "rarity": "C",
@@ -312,9 +312,9 @@
     "groupId": 24284
   },
   "ST25-ST25-002 normal": {
-    "lowPrice": 0.1,
+    "lowPrice": 0.15,
     "midPrice": 0.24,
-    "highPrice": 25.0,
+    "highPrice": 4.99,
     "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Cabaji",
@@ -338,9 +338,9 @@
     "groupId": 24284
   },
   "ST25-ST25-005 normal": {
-    "lowPrice": 0.1,
+    "lowPrice": 0.14,
     "midPrice": 0.25,
-    "highPrice": 25.0,
+    "highPrice": 1.56,
     "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Mohji",
@@ -364,9 +364,9 @@
     "groupId": 24284
   },
   "P-P-084 normal": {
-    "lowPrice": 0.12,
-    "midPrice": 0.28,
-    "highPrice": 25.0,
+    "lowPrice": 0.15,
+    "midPrice": 0.27,
+    "highPrice": 4.99,
     "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "Buggy (Promo Reprint)",

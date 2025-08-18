@@ -1,7 +1,7 @@
 {
   "OP09-OP09-081 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.59,
+    "midPrice": 0.6,
     "highPrice": 9.99,
     "marketPrice": 0.45,
     "directLowPrice": null,
@@ -26,10 +26,10 @@
     "groupId": 24286
   },
   "ST27-ST27-003 normal": {
-    "lowPrice": 1.08,
-    "midPrice": 1.67,
+    "lowPrice": 0.99,
+    "midPrice": 1.51,
     "highPrice": 5.99,
-    "marketPrice": 1.28,
+    "marketPrice": 1.26,
     "directLowPrice": null,
     "name": "Kuzan",
     "rarity": "SR",
@@ -53,9 +53,9 @@
   },
   "ST27-ST27-005 normal": {
     "lowPrice": 2.9,
-    "midPrice": 3.5,
+    "midPrice": 3.4,
     "highPrice": 9.99,
-    "marketPrice": 3.37,
+    "marketPrice": 3.45,
     "directLowPrice": null,
     "name": "Marshall.D.Teach (ST27-005)",
     "rarity": "SR",
@@ -107,7 +107,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.2,
     "highPrice": 1.99,
-    "marketPrice": 0.15,
+    "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Catarina Devon",
     "rarity": "C",

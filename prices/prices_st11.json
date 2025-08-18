@@ -27,7 +27,7 @@
   },
   "ST12-ST12-008 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.47,
+    "midPrice": 0.49,
     "highPrice": 2.29,
     "marketPrice": 0.56,
     "directLowPrice": null,
@@ -52,10 +52,10 @@
     "groupId": 23348
   },
   "ST12-ST12-011 normal": {
-    "lowPrice": 0.18,
+    "lowPrice": 0.2,
     "midPrice": 0.25,
     "highPrice": 4.99,
-    "marketPrice": 0.23,
+    "marketPrice": 0.24,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "C",
@@ -158,8 +158,8 @@
   "ST12-ST12-003 normal": {
     "lowPrice": 7.75,
     "midPrice": 10.0,
-    "highPrice": 29.99,
-    "marketPrice": 8.69,
+    "highPrice": 26.69,
+    "marketPrice": 8.65,
     "directLowPrice": null,
     "name": "Dracule Mihawk",
     "rarity": "SR",
@@ -313,9 +313,9 @@
   },
   "ST12-ST12-010 normal": {
     "lowPrice": 2.0,
-    "midPrice": 3.49,
+    "midPrice": 3.47,
     "highPrice": 13.21,
-    "marketPrice": 3.07,
+    "marketPrice": 3.1,
     "directLowPrice": null,
     "name": "Emporio.Ivankov",
     "rarity": "SR",

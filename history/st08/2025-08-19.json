@@ -1,166 +1,166 @@
 {
-  "ST09-ST09-001 normal": {
-    "name": "Yamato (001)",
-    "groupId": 22957,
+  "ST08-ST08-005 normal": {
+    "name": "Shanks",
+    "groupId": 22956,
     "prices": {
-      "low": 1.15,
-      "mid": 1.52,
-      "high": 12.99,
-      "market": 1.52,
+      "low": 0.29,
+      "mid": 0.75,
+      "high": 3.98,
+      "market": 0.56,
       "directLow": null
     }
   },
-  "ST09-ST09-010 normal": {
-    "name": "Portgas.D.Ace",
-    "groupId": 22957,
-    "prices": {
-      "low": 0.2,
-      "mid": 0.5,
-      "high": 4.0,
-      "market": 0.41,
-      "directLow": null
-    }
-  },
-  "ST09-ST09-005 normal": {
-    "name": "Kouzuki Oden",
-    "groupId": 22957,
-    "prices": {
-      "low": 0.5,
-      "mid": 1.35,
-      "high": 7.0,
-      "market": 1.21,
-      "directLow": null
-    }
-  },
-  "ST09-ST09-011 normal": {
-    "name": "Monkey.D.Luffy",
-    "groupId": 22957,
-    "prices": {
-      "low": 0.05,
-      "mid": 0.2,
-      "high": 0.99,
-      "market": 0.13,
-      "directLow": null
-    }
-  },
-  "ST09-ST09-008 normal": {
-    "name": "Shimotsuki Ushimaru",
-    "groupId": 22957,
-    "prices": {
-      "low": 0.05,
-      "mid": 0.19,
-      "high": 0.99,
-      "market": 0.11,
-      "directLow": null
-    }
-  },
-  "ST09-ST09-006 normal": {
-    "name": "Kouzuki Momonosuke",
-    "groupId": 22957,
+  "ST08-ST08-008 normal": {
+    "name": "Higuma",
+    "groupId": 22956,
     "prices": {
       "low": 0.01,
       "mid": 0.15,
-      "high": 3.99,
+      "high": 1.0,
       "market": 0.09,
       "directLow": null
     }
   },
-  "ST09-ST09-002 normal": {
-    "name": "Uzuki Tempura",
-    "groupId": 22957,
+  "ST08-ST08-004 normal": {
+    "name": "Koby",
+    "groupId": 22956,
     "prices": {
-      "low": 0.01,
-      "mid": 0.15,
-      "high": 0.99,
-      "market": 0.1,
-      "directLow": null
-    }
-  },
-  "ST09-ST09-015 normal": {
-    "name": "Thunder Bagua",
-    "groupId": 22957,
-    "prices": {
-      "low": 0.05,
-      "mid": 0.2,
-      "high": 4.99,
-      "market": 0.13,
-      "directLow": null
-    }
-  },
-  "ST09-ST09-007 normal": {
-    "name": "Shinobu",
-    "groupId": 22957,
-    "prices": {
-      "low": 0.05,
-      "mid": 0.2,
-      "high": 0.99,
-      "market": 0.16,
-      "directLow": null
-    }
-  },
-  "ST09-ST09-009 normal": {
-    "name": "Fugetsu Omusubi",
-    "groupId": 22957,
-    "prices": {
-      "low": 0.01,
-      "mid": 0.15,
-      "high": 0.99,
-      "market": 0.08,
-      "directLow": null
-    }
-  },
-  "ST09-ST09-012 normal": {
-    "name": "Yamato (012)",
-    "groupId": 22957,
-    "prices": {
-      "low": 0.1,
+      "low": 0.15,
       "mid": 0.25,
-      "high": 1.4,
-      "market": 0.17,
+      "high": 59.0,
+      "market": 0.21,
       "directLow": null
     }
   },
-  "ST09-ST09-013 normal": {
-    "name": "Yamato (013)",
-    "groupId": 22957,
+  "ST08-ST08-002 normal": {
+    "name": "Uta",
+    "groupId": 22956,
     "prices": {
-      "low": 0.04,
-      "mid": 0.18,
-      "high": 0.99,
-      "market": 0.13,
+      "low": 1.19,
+      "mid": 3.0,
+      "high": 15.0,
+      "market": 1.85,
       "directLow": null
     }
   },
-  "ST09-ST09-014 normal": {
-    "name": "Narikabura Arrow",
-    "groupId": 22957,
+  "ST08-ST08-014 normal": {
+    "name": "Gum-Gum Bell",
+    "groupId": 22956,
     "prices": {
-      "low": 0.01,
-      "mid": 0.15,
-      "high": 8.0,
-      "market": 0.1,
+      "low": 0.05,
+      "mid": 1.55,
+      "high": 3.0,
+      "market": 1.27,
       "directLow": null
     }
   },
-  "ST09-ST09-003 normal": {
-    "name": "Ulti",
-    "groupId": 22957,
+  "ST08-ST08-007 normal": {
+    "name": "Nefeltari Vivi",
+    "groupId": 22956,
     "prices": {
-      "low": 0.1,
-      "mid": 0.2,
-      "high": 0.99,
+      "low": 0.16,
+      "mid": 0.35,
+      "high": 3.5,
+      "market": 0.19,
+      "directLow": null
+    }
+  },
+  "ST08-ST08-001 normal": {
+    "name": "Monkey.D.Luffy (001)",
+    "groupId": 22956,
+    "prices": {
+      "low": 0.69,
+      "mid": 0.93,
+      "high": 2.5,
+      "market": 0.9,
+      "directLow": null
+    }
+  },
+  "ST08-ST08-006 normal": {
+    "name": "Shirahoshi",
+    "groupId": 22956,
+    "prices": {
+      "low": 1.7,
+      "mid": 2.5,
+      "high": 4.95,
+      "market": 2.0,
+      "directLow": null
+    }
+  },
+  "ST08-ST08-015 normal": {
+    "name": "Gum-Gum Pistol",
+    "groupId": 22956,
+    "prices": {
+      "low": 0.12,
+      "mid": 0.3,
+      "high": 1.42,
+      "market": 0.26,
+      "directLow": null
+    }
+  },
+  "ST08-ST08-011 normal": {
+    "name": "Monkey.D.Luffy (011)",
+    "groupId": 22956,
+    "prices": {
+      "low": 0.05,
+      "mid": 0.19,
+      "high": 1.53,
       "market": 0.15,
       "directLow": null
     }
   },
-  "ST09-ST09-004 normal": {
-    "name": "Kaido",
-    "groupId": 22957,
+  "ST08-ST08-009 normal": {
+    "name": "Makino",
+    "groupId": 22956,
     "prices": {
-      "low": 0.06,
+      "low": 0.01,
+      "mid": 0.2,
+      "high": 1.0,
+      "market": 0.13,
+      "directLow": null
+    }
+  },
+  "ST08-ST08-013 normal": {
+    "name": "Mr.2.Bon.Kurei (Bentham)",
+    "groupId": 22956,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.19,
+      "high": 1.0,
+      "market": 0.14,
+      "directLow": null
+    }
+  },
+  "ST08-ST08-012 normal": {
+    "name": "Laboon",
+    "groupId": 22956,
+    "prices": {
+      "low": 0.03,
+      "mid": 0.2,
+      "high": 1.99,
+      "market": 0.15,
+      "directLow": null
+    }
+  },
+  "ST08-ST08-003 normal": {
+    "name": "Gaimon",
+    "groupId": 22956,
+    "prices": {
+      "low": 0.03,
+      "mid": 0.15,
+      "high": 1.0,
+      "market": 0.09,
+      "directLow": null
+    }
+  },
+  "ST08-ST08-010 normal": {
+    "name": "Monkey.D.Garp",
+    "groupId": 22956,
+    "prices": {
+      "low": 0.01,
       "mid": 0.18,
-      "high": 0.99,
-      "market": 0.11,
+      "high": 1.0,
+      "market": 0.13,
       "directLow": null
     }
   }

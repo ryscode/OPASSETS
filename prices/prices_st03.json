@@ -78,7 +78,7 @@
     "groupId": 3192
   },
   "ST03-ST03-004 normal": {
-    "lowPrice": 0.02,
+    "lowPrice": 0.04,
     "midPrice": 0.25,
     "highPrice": 11.5,
     "marketPrice": 0.13,
@@ -131,8 +131,8 @@
   },
   "ST03-ST03-006 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.19,
-    "highPrice": 1.32,
+    "midPrice": 0.18,
+    "highPrice": 1.0,
     "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Jinbe",
@@ -185,7 +185,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.18,
     "highPrice": 2.0,
-    "marketPrice": 0.08,
+    "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Trafalgar Law",
     "rarity": "C",
@@ -209,9 +209,9 @@
   },
   "ST03-ST03-009 normal": {
     "lowPrice": 2.5,
-    "midPrice": 3.69,
+    "midPrice": 3.68,
     "highPrice": 7.0,
-    "marketPrice": 3.04,
+    "marketPrice": 3.11,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo",
     "rarity": "SR",
@@ -261,7 +261,7 @@
   },
   "ST03-ST03-011 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.19,
+    "midPrice": 0.2,
     "highPrice": 4.99,
     "marketPrice": 0.08,
     "directLowPrice": null,
@@ -287,7 +287,7 @@
   },
   "ST03-ST03-012 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.21,
+    "midPrice": 0.22,
     "highPrice": 1.0,
     "marketPrice": 0.12,
     "directLowPrice": null,
@@ -315,7 +315,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 5.0,
-    "marketPrice": 0.24,
+    "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Boa Hancock",
     "rarity": "C",
@@ -364,10 +364,10 @@
     "groupId": 3192
   },
   "ST03-ST03-015 normal": {
-    "lowPrice": 2.89,
+    "lowPrice": 2.96,
     "midPrice": 3.95,
-    "highPrice": 15.0,
-    "marketPrice": 2.96,
+    "highPrice": 6.08,
+    "marketPrice": 3.19,
     "directLowPrice": null,
     "name": "Sables",
     "rarity": "C",
@@ -417,7 +417,7 @@
   },
   "ST03-ST03-017 normal": {
     "lowPrice": 6.35,
-    "midPrice": 7.39,
+    "midPrice": 7.13,
     "highPrice": 13.99,
     "marketPrice": 6.6,
     "directLowPrice": null,

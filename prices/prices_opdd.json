@@ -27,9 +27,9 @@
   },
   "P-P-001 normal": {
     "lowPrice": 1.0,
-    "midPrice": 2.24,
+    "midPrice": 2.25,
     "highPrice": 14.99,
-    "marketPrice": 1.17,
+    "marketPrice": 1.19,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (001)",
     "rarity": "PR",
@@ -105,7 +105,7 @@
   },
   "OP01-OP01-011 normal": {
     "lowPrice": 0.13,
-    "midPrice": 0.45,
+    "midPrice": 0.5,
     "highPrice": 2.5,
     "marketPrice": null,
     "directLowPrice": null,
@@ -131,9 +131,9 @@
   },
   "OP01-OP01-013 normal": {
     "lowPrice": 1.65,
-    "midPrice": 4.0,
+    "midPrice": 4.1,
     "highPrice": 14.02,
-    "marketPrice": 3.66,
+    "marketPrice": 3.75,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "R",
@@ -157,9 +157,9 @@
   },
   "OP01-OP01-016 normal": {
     "lowPrice": 2.06,
-    "midPrice": 4.0,
+    "midPrice": 4.5,
     "highPrice": 5.0,
-    "marketPrice": 2.18,
+    "marketPrice": 2.37,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "R",
@@ -209,7 +209,7 @@
   },
   "OP02-OP02-015 normal": {
     "lowPrice": 0.44,
-    "midPrice": 1.0,
+    "midPrice": 0.83,
     "highPrice": 2.5,
     "marketPrice": 1.19,
     "directLowPrice": null,
@@ -261,9 +261,9 @@
   },
   "ST01-ST01-006 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.5,
+    "midPrice": 0.59,
     "highPrice": 2.5,
-    "marketPrice": 0.47,
+    "marketPrice": 0.44,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper (006)",
     "rarity": "C",
@@ -341,7 +341,7 @@
     "lowPrice": 0.22,
     "midPrice": 0.53,
     "highPrice": 3.02,
-    "marketPrice": 0.55,
+    "marketPrice": 0.54,
     "directLowPrice": null,
     "name": "Guard Point",
     "rarity": "C",
@@ -365,7 +365,7 @@
   },
   "ST01-ST01-015 normal": {
     "lowPrice": 0.98,
-    "midPrice": 1.15,
+    "midPrice": 1.19,
     "highPrice": 5.0,
     "marketPrice": 1.05,
     "directLowPrice": null,
@@ -416,10 +416,10 @@
     "groupId": 23907
   },
   "OP01-OP01-003 normal": {
-    "lowPrice": 0.39,
+    "lowPrice": 0.37,
     "midPrice": 1.25,
     "highPrice": 7.0,
-    "marketPrice": 0.93,
+    "marketPrice": 0.95,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (003)",
     "rarity": "L",
@@ -442,7 +442,7 @@
     "groupId": 23907
   },
   "OP01-OP01-012 normal": {
-    "lowPrice": 0.39,
+    "lowPrice": 0.05,
     "midPrice": 0.9,
     "highPrice": 4.9,
     "marketPrice": 0.74,
@@ -471,7 +471,7 @@
     "lowPrice": 0.25,
     "midPrice": 0.82,
     "highPrice": 4.0,
-    "marketPrice": 0.35,
+    "marketPrice": 0.32,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper (015)",
     "rarity": "UC",
@@ -496,7 +496,7 @@
   "OP01-OP01-029 normal": {
     "lowPrice": 0.45,
     "midPrice": 0.57,
-    "highPrice": 5.94,
+    "highPrice": 1.96,
     "marketPrice": 0.53,
     "directLowPrice": null,
     "name": "Radical Beam!!",

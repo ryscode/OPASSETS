@@ -1,0 +1,236 @@
+name: OPASSETS · Fetch One Piece catalogs + daily price guide
+
+on:
+  workflow_dispatch:
+    inputs:
+      products_singles_url:
+        description: "Override One Piece products_singles_18.json URL"
+        required: false
+      products_nonsingles_url:
+        description: "Override One Piece products_nonsingles_18.json URL"
+        required: false
+      priceguide_url:
+        description: "Override One Piece price_guide_18.json URL"
+        required: false
+  # 05:15 UTC ≙ 07:15 Berlin (CEST), 06:15 Berlin (CET)
+  schedule:
+    - cron: '15 05 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: opassets-onepiece-fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Resolve source URLs (inputs > repo variables > built-in defaults)
+        id: resolve
+        run: |
+          # Inputs (may be empty)
+          IN_SINGLES="${{ github.event.inputs.products_singles_url }}"
+          IN_NONSINGLES="${{ github.event.inputs.products_nonsingles_url }}"
+          IN_PRICEGUIDE="${{ github.event.inputs.priceguide_url }}"
+
+          # Repo-level variables (may be empty)
+          VAR_SINGLES="${{ vars.PRODUCTS_SINGLES_URL }}"
+          VAR_NONSINGLES="${{ vars.PRODUCTS_NONSINGLES_URL }}"
+          VAR_PRICEGUIDE="${{ vars.PRICEGUIDE_URL }}"
+
+          # Fallback to official Cardmarket S3 endpoints for One Piece (gameId=18)
+          DEF_SINGLES="https://downloads.s3.cardmarket.com/productCatalog/productList/products_singles_18.json"
+          DEF_NONSINGLES="https://downloads.s3.cardmarket.com/productCatalog/productList/products_nonsingles_18.json"
+          DEF_PRICEGUIDE="https://downloads.s3.cardmarket.com/productCatalog/priceGuide/price_guide_18.json"
+
+          SINGLES_URL="${IN_SINGLES:-${VAR_SINGLES:-$DEF_SINGLES}}"
+          NONSINGLES_URL="${IN_NONSINGLES:-${VAR_NONSINGLES:-$DEF_NONSINGLES}}"
+          PRICEGUIDE_URL="${IN_PRICEGUIDE:-${VAR_PRICEGUIDE:-$DEF_PRICEGUIDE}}"
+
+          echo "SINGLES_URL=$SINGLES_URL" | tee -a $GITHUB_ENV
+          echo "NONSINGLES_URL=$NONSINGLES_URL" | tee -a $GITHUB_ENV
+          echo "PRICEGUIDE_URL=$PRICEGUIDE_URL" | tee -a $GITHUB_ENV
+
+      - name: Download JSONs (retry, compressed)
+        env:
+          AUTH_HEADER: ${{ secrets.SOURCE_AUTH_HEADER }}
+        run: |
+          set -euo pipefail
+          mkdir -p data/current
+          dl() { url="$1" out="$2"; \
+            curl -fSL --compressed --retry 3 --retry-delay 2 ${AUTH_HEADER:+-H "$AUTH_HEADER"} "$url" -o "$out"; }
+          dl "$SINGLES_URL"    data/current/products_singles_18.json
+          dl "$NONSINGLES_URL" data/current/products_nonsingles_18.json
+          dl "$PRICEGUIDE_URL" data/current/price_guide_18.json
+
+      - name: Validate JSON with jq
+        run: |
+          sudo apt-get update && sudo apt-get install -y jq
+          jq type data/current/products_singles_18.json > /dev/null
+          jq type data/current/products_nonsingles_18.json > /dev/null
+          jq type data/current/price_guide_18.json > /dev/null
+
+      - name: Place files into OPASSETS layout (CM-Data/*)
+        run: |
+          set -euo pipefail
+          # Determine snapshot timestamp (prefer price guide -> singles -> now)
+          SNAP=$(jq -r '.createdAt // empty' data/current/price_guide_18.json)
+          if [ -z "$SNAP" ]; then SNAP=$(jq -r '.createdAt // empty' data/current/products_singles_18.json); fi
+          if [ -z "$SNAP" ]; then SNAP=$(date -u +"%Y-%m-%dT%H:%M:%SZ"); fi
+
+          MONTH=${SNAP:0:7}   # YYYY-MM
+          DATE=${SNAP:0:10}   # YYYY-MM-DD
+
+          PRICE_DIR="CM-Data/PriceHistory/$MONTH"
+          PROD_DIR="CM-Data/Products"
+          mkdir -p "$PRICE_DIR" "$PROD_DIR"
+
+          # Price guide: daily file under monthly folder
+          cp data/current/price_guide_18.json "$PRICE_DIR/price_guide_18_${DATE}.json"
+
+          # Product catalogs: overwrite latest
+          cp data/current/products_singles_18.json    "$PROD_DIR/products_singles_18.json"
+          cp data/current/products_nonsingles_18.json "$PROD_DIR/products_nonsingles_18.json"
+
+          echo "SNAPSHOT_DATE=$DATE"  >> $GITHUB_ENV
+          echo "SNAPSHOT_MONTH=$MONTH" >> $GITHUB_ENV
+
+      - name: Commit & push changes
+        run: |
+          set -e
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add CM-Data/PriceHistory CM-Data/Products
+          git commit -m "chore(data): One Piece price guide $SNAPSHOT_DATE → PriceHistory/$SNAPSHOT_MONTH + overwrite product catalogs" || echo "No changes to commit."
+          git pull --rebase || true
+          git push || true
+
+      - name: Upload as workflow artifact (optional)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: onepiece-json-${{ env.SNAPSHOT_DATE }}
+          path: data/current/*.json
+name: OPASSETS · Fetch One Piece catalogs + daily price guide
+
+on:
+  workflow_dispatch:
+    inputs:
+      products_singles_url:
+        description: "Override One Piece products_singles_18.json URL"
+        required: false
+      products_nonsingles_url:
+        description: "Override One Piece products_nonsingles_18.json URL"
+        required: false
+      priceguide_url:
+        description: "Override One Piece price_guide_18.json URL"
+        required: false
+  # 05:15 UTC ≙ 07:15 Berlin (CEST), 06:15 Berlin (CET)
+  schedule:
+    - cron: '15 05 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: opassets-onepiece-fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Resolve source URLs (inputs > repo variables > built-in defaults)
+        id: resolve
+        run: |
+          # Inputs (may be empty)
+          IN_SINGLES="${{ github.event.inputs.products_singles_url }}"
+          IN_NONSINGLES="${{ github.event.inputs.products_nonsingles_url }}"
+          IN_PRICEGUIDE="${{ github.event.inputs.priceguide_url }}"
+
+          # Repo-level variables (may be empty)
+          VAR_SINGLES="${{ vars.PRODUCTS_SINGLES_URL }}"
+          VAR_NONSINGLES="${{ vars.PRODUCTS_NONSINGLES_URL }}"
+          VAR_PRICEGUIDE="${{ vars.PRICEGUIDE_URL }}"
+
+          # Fallback to official Cardmarket S3 endpoints for One Piece (gameId=18)
+          DEF_SINGLES="https://downloads.s3.cardmarket.com/productCatalog/productList/products_singles_18.json"
+          DEF_NONSINGLES="https://downloads.s3.cardmarket.com/productCatalog/productList/products_nonsingles_18.json"
+          DEF_PRICEGUIDE="https://downloads.s3.cardmarket.com/productCatalog/priceGuide/price_guide_18.json"
+
+          SINGLES_URL="${IN_SINGLES:-${VAR_SINGLES:-$DEF_SINGLES}}"
+          NONSINGLES_URL="${IN_NONSINGLES:-${VAR_NONSINGLES:-$DEF_NONSINGLES}}"
+          PRICEGUIDE_URL="${IN_PRICEGUIDE:-${VAR_PRICEGUIDE:-$DEF_PRICEGUIDE}}"
+
+          echo "SINGLES_URL=$SINGLES_URL" | tee -a $GITHUB_ENV
+          echo "NONSINGLES_URL=$NONSINGLES_URL" | tee -a $GITHUB_ENV
+          echo "PRICEGUIDE_URL=$PRICEGUIDE_URL" | tee -a $GITHUB_ENV
+
+      - name: Download JSONs (retry, compressed)
+        env:
+          AUTH_HEADER: ${{ secrets.SOURCE_AUTH_HEADER }}
+        run: |
+          set -euo pipefail
+          mkdir -p data/current
+          dl() { url="$1" out="$2"; \
+            curl -fSL --compressed --retry 3 --retry-delay 2 ${AUTH_HEADER:+-H "$AUTH_HEADER"} "$url" -o "$out"; }
+          dl "$SINGLES_URL"    data/current/products_singles_18.json
+          dl "$NONSINGLES_URL" data/current/products_nonsingles_18.json
+          dl "$PRICEGUIDE_URL" data/current/price_guide_18.json
+
+      - name: Validate JSON with jq
+        run: |
+          sudo apt-get update && sudo apt-get install -y jq
+          jq type data/current/products_singles_18.json > /dev/null
+          jq type data/current/products_nonsingles_18.json > /dev/null
+          jq type data/current/price_guide_18.json > /dev/null
+
+      - name: Place files into OPASSETS layout (CM-Data/*)
+        run: |
+          set -euo pipefail
+          # Determine snapshot timestamp (prefer price guide -> singles -> now)
+          SNAP=$(jq -r '.createdAt // empty' data/current/price_guide_18.json)
+          if [ -z "$SNAP" ]; then SNAP=$(jq -r '.createdAt // empty' data/current/products_singles_18.json); fi
+          if [ -z "$SNAP" ]; then SNAP=$(date -u +"%Y-%m-%dT%H:%M:%SZ"); fi
+
+          MONTH=${SNAP:0:7}   # YYYY-MM
+          DATE=${SNAP:0:10}   # YYYY-MM-DD
+
+          PRICE_DIR="CM-Data/PriceHistory/$MONTH"
+          PROD_DIR="CM-Data/Products"
+          mkdir -p "$PRICE_DIR" "$PROD_DIR"
+
+          # Price guide: daily file under monthly folder
+          cp data/current/price_guide_18.json "$PRICE_DIR/price_guide_18_${DATE}.json"
+
+          # Product catalogs: overwrite latest
+          cp data/current/products_singles_18.json    "$PROD_DIR/products_singles_18.json"
+          cp data/current/products_nonsingles_18.json "$PROD_DIR/products_nonsingles_18.json"
+
+          echo "SNAPSHOT_DATE=$DATE"  >> $GITHUB_ENV
+          echo "SNAPSHOT_MONTH=$MONTH" >> $GITHUB_ENV
+
+      - name: Commit & push changes
+        run: |
+          set -e
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add CM-Data/PriceHistory CM-Data/Products
+          git commit -m "chore(data): One Piece price guide $SNAPSHOT_DATE → PriceHistory/$SNAPSHOT_MONTH + overwrite product catalogs" || echo "No changes to commit."
+          git pull --rebase || true
+          git push || true
+
+      - name: Upload as workflow artifact (optional)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: onepiece-json-${{ env.SNAPSHOT_DATE }}
+          path: data/current/*.json

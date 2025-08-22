@@ -1,8 +1,8 @@
 {
   "ST07-ST07-001 normal": {
     "lowPrice": 0.94,
-    "midPrice": 1.22,
-    "highPrice": 2.99,
+    "midPrice": 1.26,
+    "highPrice": 5.0,
     "marketPrice": 1.05,
     "directLowPrice": null,
     "name": "Charlotte Linlin",
@@ -28,7 +28,7 @@
   "ST07-ST07-002 normal": {
     "lowPrice": 0.02,
     "midPrice": 0.15,
-    "highPrice": 1.32,
+    "highPrice": 0.99,
     "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Charlotte Anana",
@@ -54,7 +54,7 @@
   "ST07-ST07-003 normal": {
     "lowPrice": 0.8,
     "midPrice": 1.47,
-    "highPrice": 4.75,
+    "highPrice": 5.0,
     "marketPrice": 1.1,
     "directLowPrice": null,
     "name": "Charlotte Katakuri",
@@ -80,7 +80,7 @@
   "ST07-ST07-004 normal": {
     "lowPrice": 0.03,
     "midPrice": 0.15,
-    "highPrice": 1.33,
+    "highPrice": 0.99,
     "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Charlotte Snack",
@@ -105,7 +105,7 @@
   },
   "ST07-ST07-005 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.24,
+    "midPrice": 0.25,
     "highPrice": 1.4,
     "marketPrice": 0.13,
     "directLowPrice": null,
@@ -157,9 +157,9 @@
   },
   "ST07-ST07-007 normal": {
     "lowPrice": 0.07,
-    "midPrice": 0.28,
+    "midPrice": 0.29,
     "highPrice": 14.89,
-    "marketPrice": 0.28,
+    "marketPrice": 0.27,
     "directLowPrice": null,
     "name": "Charlotte Brulee",
     "rarity": "C",
@@ -183,7 +183,7 @@
   },
   "ST07-ST07-008 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.23,
+    "midPrice": 0.24,
     "highPrice": 1.4,
     "marketPrice": 0.19,
     "directLowPrice": null,
@@ -210,7 +210,7 @@
   "ST07-ST07-009 normal": {
     "lowPrice": 0.09,
     "midPrice": 0.2,
-    "highPrice": 1.39,
+    "highPrice": 0.78,
     "marketPrice": 0.15,
     "directLowPrice": null,
     "name": "Charlotte Mont-d'Or",
@@ -234,10 +234,10 @@
     "groupId": 22930
   },
   "ST07-ST07-010 normal": {
-    "lowPrice": 3.93,
+    "lowPrice": 4.94,
     "midPrice": 8.0,
     "highPrice": 35.0,
-    "marketPrice": 7.07,
+    "marketPrice": 6.67,
     "directLowPrice": null,
     "name": "Charlotte Linlin (010)",
     "rarity": "SR",
@@ -261,8 +261,8 @@
   },
   "ST07-ST07-011 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.2,
-    "highPrice": 1.39,
+    "midPrice": 0.22,
+    "highPrice": 1.0,
     "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Zeus",
@@ -287,7 +287,7 @@
   },
   "ST07-ST07-012 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.17,
+    "midPrice": 0.15,
     "highPrice": 4.99,
     "marketPrice": 0.04,
     "directLowPrice": null,
@@ -313,8 +313,8 @@
   },
   "ST07-ST07-013 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.24,
-    "highPrice": 1.39,
+    "midPrice": 0.23,
+    "highPrice": 0.99,
     "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Prometheus",
@@ -340,7 +340,7 @@
   "ST07-ST07-014 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 1.31,
+    "highPrice": 1.25,
     "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Pekoms",
@@ -365,9 +365,9 @@
   },
   "ST07-ST07-015 normal": {
     "lowPrice": 0.8,
-    "midPrice": 1.49,
+    "midPrice": 1.5,
     "highPrice": 13.46,
-    "marketPrice": 1.33,
+    "marketPrice": 1.34,
     "directLowPrice": null,
     "name": "Soul Pocus",
     "rarity": "C",

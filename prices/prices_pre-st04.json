@@ -1,7 +1,7 @@
 {
   "ST04-ST04-001 normal": {
     "lowPrice": 20.0,
-    "midPrice": 25.99,
+    "midPrice": 26.0,
     "highPrice": 90.0,
     "marketPrice": 20.75,
     "directLowPrice": null,
@@ -27,8 +27,8 @@
   },
   "ST04-ST04-002 normal": {
     "lowPrice": 1.11,
-    "midPrice": 1.8,
-    "highPrice": 9.99,
+    "midPrice": 1.82,
+    "highPrice": 6.5,
     "marketPrice": 1.83,
     "directLowPrice": null,
     "name": "Ulti",
@@ -53,9 +53,9 @@
   },
   "ST04-ST04-003 normal": {
     "lowPrice": 0.95,
-    "midPrice": 2.37,
+    "midPrice": 2.3,
     "highPrice": 30.0,
-    "marketPrice": 1.44,
+    "marketPrice": 1.47,
     "directLowPrice": null,
     "name": "Kaido (003)",
     "rarity": "SR",
@@ -78,8 +78,8 @@
     "groupId": 17661
   },
   "ST04-ST04-004 normal": {
-    "lowPrice": 0.89,
-    "midPrice": 2.42,
+    "lowPrice": 0.8,
+    "midPrice": 2.4,
     "highPrice": 22.79,
     "marketPrice": 1.66,
     "directLowPrice": null,
@@ -131,9 +131,9 @@
   },
   "ST04-ST04-006 normal": {
     "lowPrice": 0.13,
-    "midPrice": 0.41,
+    "midPrice": 0.44,
     "highPrice": 2.99,
-    "marketPrice": 0.23,
+    "marketPrice": 0.24,
     "directLowPrice": null,
     "name": "Sasaki",
     "rarity": "C",
@@ -159,7 +159,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 2.0,
-    "marketPrice": 0.2,
+    "marketPrice": 0.22,
     "directLowPrice": null,
     "name": "Sheepshead",
     "rarity": "C",
@@ -211,7 +211,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 2.0,
-    "marketPrice": 0.16,
+    "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Ginrummy",
     "rarity": "C",
@@ -235,7 +235,7 @@
   },
   "ST04-ST04-010 normal": {
     "lowPrice": 0.13,
-    "midPrice": 0.29,
+    "midPrice": 0.3,
     "highPrice": 6.35,
     "marketPrice": 0.24,
     "directLowPrice": null,
@@ -288,7 +288,7 @@
   "ST04-ST04-012 normal": {
     "lowPrice": 0.34,
     "midPrice": 0.99,
-    "highPrice": 9.99,
+    "highPrice": 4.95,
     "marketPrice": 0.66,
     "directLowPrice": null,
     "name": "Page One",
@@ -338,7 +338,7 @@
     "groupId": 17661
   },
   "ST04-ST04-014 normal": {
-    "lowPrice": 2.91,
+    "lowPrice": 2.89,
     "midPrice": 3.49,
     "highPrice": 14.99,
     "marketPrice": 5.31,
@@ -365,7 +365,7 @@
   },
   "ST04-ST04-015 normal": {
     "lowPrice": 1.74,
-    "midPrice": 2.18,
+    "midPrice": 2.72,
     "highPrice": 19.9,
     "marketPrice": 3.36,
     "directLowPrice": null,
@@ -391,7 +391,7 @@
   },
   "ST04-ST04-016 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.5,
+    "midPrice": 0.54,
     "highPrice": 13.98,
     "marketPrice": 0.49,
     "directLowPrice": null,
@@ -417,7 +417,7 @@
   },
   "ST04-ST04-017 normal": {
     "lowPrice": 1.0,
-    "midPrice": 1.27,
+    "midPrice": 1.28,
     "highPrice": 13.0,
     "marketPrice": 1.28,
     "directLowPrice": null,

@@ -1,7 +1,7 @@
 {
   "OP01-OP01-001 normal": {
     "lowPrice": 3.38,
-    "midPrice": 4.25,
+    "midPrice": 4.2,
     "highPrice": 6.49,
     "marketPrice": 3.39,
     "directLowPrice": null,
@@ -131,9 +131,9 @@
   },
   "OP01-OP01-013 normal": {
     "lowPrice": 1.65,
-    "midPrice": 4.2,
+    "midPrice": 4.1,
     "highPrice": 16.19,
-    "marketPrice": 3.7,
+    "marketPrice": 3.75,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "R",
@@ -287,7 +287,7 @@
   },
   "ST01-ST01-008 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.37,
+    "midPrice": 0.36,
     "highPrice": 3.84,
     "marketPrice": 0.3,
     "directLowPrice": null,
@@ -339,7 +339,7 @@
   },
   "ST01-ST01-014 normal": {
     "lowPrice": 0.22,
-    "midPrice": 0.53,
+    "midPrice": 0.55,
     "highPrice": 3.02,
     "marketPrice": 0.54,
     "directLowPrice": null,
@@ -416,10 +416,10 @@
     "groupId": 23907
   },
   "OP01-OP01-003 normal": {
-    "lowPrice": 0.35,
-    "midPrice": 1.74,
+    "lowPrice": 0.33,
+    "midPrice": 1.75,
     "highPrice": 7.0,
-    "marketPrice": 0.93,
+    "marketPrice": 0.91,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (003)",
     "rarity": "L",
@@ -494,8 +494,8 @@
     "groupId": 23907
   },
   "OP01-OP01-029 normal": {
-    "lowPrice": 0.45,
-    "midPrice": 0.59,
+    "lowPrice": 0.46,
+    "midPrice": 0.6,
     "highPrice": 5.94,
     "marketPrice": 0.54,
     "directLowPrice": null,
@@ -521,7 +521,7 @@
   },
   "OP01-OP01-008 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.84,
+    "midPrice": 0.79,
     "highPrice": 5.0,
     "marketPrice": 0.73,
     "directLowPrice": null,
@@ -573,9 +573,9 @@
   },
   "ST01-ST01-010 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.99,
+    "midPrice": 1.0,
     "highPrice": 5.0,
-    "marketPrice": 1.56,
+    "marketPrice": 1.09,
     "directLowPrice": null,
     "name": "Franky (010)",
     "rarity": "C",

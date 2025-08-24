@@ -1,7 +1,7 @@
 {
   "ST07-ST07-001 normal": {
     "lowPrice": 0.94,
-    "midPrice": 1.26,
+    "midPrice": 1.32,
     "highPrice": 5.0,
     "marketPrice": 1.03,
     "directLowPrice": null,
@@ -28,7 +28,7 @@
   "ST07-ST07-002 normal": {
     "lowPrice": 0.02,
     "midPrice": 0.15,
-    "highPrice": 1.32,
+    "highPrice": 0.99,
     "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Charlotte Anana",
@@ -53,7 +53,7 @@
   },
   "ST07-ST07-003 normal": {
     "lowPrice": 0.8,
-    "midPrice": 1.47,
+    "midPrice": 1.46,
     "highPrice": 5.0,
     "marketPrice": 1.11,
     "directLowPrice": null,
@@ -80,7 +80,7 @@
   "ST07-ST07-004 normal": {
     "lowPrice": 0.03,
     "midPrice": 0.15,
-    "highPrice": 1.33,
+    "highPrice": 0.99,
     "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Charlotte Snack",
@@ -104,7 +104,7 @@
     "groupId": 22930
   },
   "ST07-ST07-005 normal": {
-    "lowPrice": 0.05,
+    "lowPrice": 0.08,
     "midPrice": 0.25,
     "highPrice": 1.4,
     "marketPrice": 0.14,
@@ -130,7 +130,7 @@
     "groupId": 22930
   },
   "ST07-ST07-006 normal": {
-    "lowPrice": 0.04,
+    "lowPrice": 0.05,
     "midPrice": 0.2,
     "highPrice": 49.99,
     "marketPrice": 0.1,
@@ -157,9 +157,9 @@
   },
   "ST07-ST07-007 normal": {
     "lowPrice": 0.07,
-    "midPrice": 0.29,
+    "midPrice": 0.3,
     "highPrice": 14.89,
-    "marketPrice": 0.31,
+    "marketPrice": 0.32,
     "directLowPrice": null,
     "name": "Charlotte Brulee",
     "rarity": "C",
@@ -210,7 +210,7 @@
   "ST07-ST07-009 normal": {
     "lowPrice": 0.09,
     "midPrice": 0.2,
-    "highPrice": 1.39,
+    "highPrice": 0.78,
     "marketPrice": 0.15,
     "directLowPrice": null,
     "name": "Charlotte Mont-d'Or",
@@ -235,9 +235,9 @@
   },
   "ST07-ST07-010 normal": {
     "lowPrice": 4.94,
-    "midPrice": 8.0,
+    "midPrice": 7.99,
     "highPrice": 35.0,
-    "marketPrice": 6.49,
+    "marketPrice": 6.26,
     "directLowPrice": null,
     "name": "Charlotte Linlin (010)",
     "rarity": "SR",
@@ -261,8 +261,8 @@
   },
   "ST07-ST07-011 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.24,
-    "highPrice": 1.39,
+    "midPrice": 0.23,
+    "highPrice": 1.0,
     "marketPrice": 0.19,
     "directLowPrice": null,
     "name": "Zeus",
@@ -286,8 +286,8 @@
     "groupId": 22930
   },
   "ST07-ST07-012 normal": {
-    "lowPrice": 0.01,
-    "midPrice": 0.2,
+    "lowPrice": 0.02,
+    "midPrice": 0.15,
     "highPrice": 4.99,
     "marketPrice": 0.04,
     "directLowPrice": null,
@@ -313,8 +313,8 @@
   },
   "ST07-ST07-013 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.24,
-    "highPrice": 1.39,
+    "midPrice": 0.23,
+    "highPrice": 0.99,
     "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Prometheus",
@@ -340,7 +340,7 @@
   "ST07-ST07-014 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 1.31,
+    "highPrice": 1.25,
     "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Pekoms",
@@ -417,9 +417,9 @@
   },
   "ST07-ST07-017 normal": {
     "lowPrice": 0.35,
-    "midPrice": 1.05,
+    "midPrice": 1.15,
     "highPrice": 5.95,
-    "marketPrice": 0.67,
+    "marketPrice": 0.66,
     "directLowPrice": null,
     "name": "Queen Mama Chanter",
     "rarity": "C",

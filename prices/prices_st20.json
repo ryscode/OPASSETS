@@ -1,7 +1,7 @@
 {
   "OP03-OP03-099 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.4,
+    "midPrice": 0.41,
     "highPrice": 3.69,
     "marketPrice": 0.37,
     "directLowPrice": null,
@@ -130,7 +130,7 @@
     "groupId": 23495
   },
   "ST07-ST07-005 normal": {
-    "lowPrice": 0.02,
+    "lowPrice": 0.05,
     "midPrice": 0.1,
     "highPrice": 11.97,
     "marketPrice": 0.08,
@@ -158,7 +158,7 @@
   "ST20-ST20-001 normal": {
     "lowPrice": 0.99,
     "midPrice": 1.75,
-    "highPrice": 147.0,
+    "highPrice": 20.0,
     "marketPrice": 1.37,
     "directLowPrice": null,
     "name": "Charlotte Katakuri (ST20-001)",
@@ -234,7 +234,7 @@
     "groupId": 23495
   },
   "ST20-ST20-004 normal": {
-    "lowPrice": 0.09,
+    "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 9.99,
     "marketPrice": 0.16,
@@ -263,7 +263,7 @@
     "lowPrice": 1.73,
     "midPrice": 2.48,
     "highPrice": 20.0,
-    "marketPrice": 2.11,
+    "marketPrice": 2.02,
     "directLowPrice": null,
     "name": "Charlotte Linlin",
     "rarity": "SR",

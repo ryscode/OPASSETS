@@ -1,7 +1,7 @@
 {
   "ST02-ST02-001 normal": {
     "lowPrice": 22.0,
-    "midPrice": 28.7,
+    "midPrice": 28.44,
     "highPrice": 100.0,
     "marketPrice": 22.9,
     "directLowPrice": null,
@@ -27,7 +27,7 @@
   },
   "ST02-ST02-013 normal": {
     "lowPrice": 1.48,
-    "midPrice": 3.44,
+    "midPrice": 2.97,
     "highPrice": 45.95,
     "marketPrice": 1.92,
     "directLowPrice": null,
@@ -52,8 +52,8 @@
     "groupId": 17658
   },
   "ST02-ST02-009 normal": {
-    "lowPrice": 8.51,
-    "midPrice": 13.4,
+    "lowPrice": 8.3,
+    "midPrice": 12.16,
     "highPrice": 29.5,
     "marketPrice": 8.8,
     "directLowPrice": null,
@@ -79,7 +79,7 @@
   },
   "ST02-ST02-014 normal": {
     "lowPrice": 0.18,
-    "midPrice": 2.15,
+    "midPrice": 2.1,
     "highPrice": 14.95,
     "marketPrice": 0.47,
     "directLowPrice": null,
@@ -133,7 +133,7 @@
     "lowPrice": 0.09,
     "midPrice": 0.49,
     "highPrice": 9.95,
-    "marketPrice": 0.32,
+    "marketPrice": 0.31,
     "directLowPrice": null,
     "name": "Urouge",
     "rarity": "C",
@@ -182,10 +182,10 @@
     "groupId": 17658
   },
   "ST02-ST02-008 normal": {
-    "lowPrice": 2.36,
-    "midPrice": 2.97,
+    "lowPrice": 2.0,
+    "midPrice": 3.07,
     "highPrice": 9.95,
-    "marketPrice": 3.83,
+    "marketPrice": 3.8,
     "directLowPrice": null,
     "name": "Scratchmen Apoo",
     "rarity": "C",
@@ -209,7 +209,7 @@
   },
   "ST02-ST02-015 normal": {
     "lowPrice": 0.45,
-    "midPrice": 1.06,
+    "midPrice": 1.07,
     "highPrice": 10.95,
     "marketPrice": 0.57,
     "directLowPrice": null,
@@ -263,7 +263,7 @@
     "lowPrice": 0.09,
     "midPrice": 0.39,
     "highPrice": 2.95,
-    "marketPrice": 0.25,
+    "marketPrice": 0.23,
     "directLowPrice": null,
     "name": "Koby",
     "rarity": "C",
@@ -312,10 +312,10 @@
     "groupId": 17658
   },
   "ST02-ST02-007 normal": {
-    "lowPrice": 7.73,
-    "midPrice": 8.0,
+    "lowPrice": 7.75,
+    "midPrice": 8.6,
     "highPrice": 10.0,
-    "marketPrice": 6.19,
+    "marketPrice": 6.39,
     "directLowPrice": null,
     "name": "Jewelry Bonney",
     "rarity": "C",
@@ -393,7 +393,7 @@
     "lowPrice": 0.18,
     "midPrice": 0.31,
     "highPrice": 4.99,
-    "marketPrice": 0.26,
+    "marketPrice": 0.25,
     "directLowPrice": null,
     "name": "Bepo",
     "rarity": "C",

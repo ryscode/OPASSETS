@@ -53,7 +53,7 @@
   },
   "ST01-ST01-003 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.2,
+    "midPrice": 0.19,
     "highPrice": 1.33,
     "marketPrice": 0.1,
     "directLowPrice": null,
@@ -130,10 +130,10 @@
     "groupId": 3189
   },
   "ST01-ST01-006 normal": {
-    "lowPrice": 0.07,
+    "lowPrice": 0.09,
     "midPrice": 0.24,
     "highPrice": 4.99,
-    "marketPrice": 0.13,
+    "marketPrice": 0.15,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper",
     "rarity": "C",
@@ -157,9 +157,9 @@
   },
   "ST01-ST01-007 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.65,
+    "midPrice": 0.63,
     "highPrice": 2.5,
-    "marketPrice": 0.61,
+    "marketPrice": 0.52,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "C",
@@ -209,7 +209,7 @@
   },
   "ST01-ST01-009 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.19,
+    "midPrice": 0.17,
     "highPrice": 2.0,
     "marketPrice": 0.15,
     "directLowPrice": null,
@@ -261,9 +261,9 @@
   },
   "ST01-ST01-011 normal": {
     "lowPrice": 0.79,
-    "midPrice": 1.49,
+    "midPrice": 1.5,
     "highPrice": 14.0,
-    "marketPrice": 0.97,
+    "marketPrice": 0.96,
     "directLowPrice": null,
     "name": "Brook",
     "rarity": "C",
@@ -286,10 +286,10 @@
     "groupId": 3189
   },
   "ST01-ST01-012 normal": {
-    "lowPrice": 1.34,
+    "lowPrice": 1.31,
     "midPrice": 3.99,
     "highPrice": 14.95,
-    "marketPrice": 2.27,
+    "marketPrice": 2.13,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (012)",
     "rarity": "SR",
@@ -315,7 +315,7 @@
     "lowPrice": 0.3,
     "midPrice": 1.0,
     "highPrice": 6.0,
-    "marketPrice": 0.81,
+    "marketPrice": 0.79,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
     "rarity": "SR",
@@ -392,8 +392,8 @@
   "ST01-ST01-016 normal": {
     "lowPrice": 0.75,
     "midPrice": 1.99,
-    "highPrice": 502.98,
-    "marketPrice": 1.04,
+    "highPrice": 15.0,
+    "marketPrice": 1.03,
     "directLowPrice": null,
     "name": "Diable Jambe",
     "rarity": "C",

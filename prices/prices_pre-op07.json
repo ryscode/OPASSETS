@@ -1,7 +1,7 @@
 {
   "OP07-OP07-006 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.39,
+    "midPrice": 0.4,
     "highPrice": 4.99,
     "marketPrice": 0.27,
     "directLowPrice": null,
@@ -27,7 +27,7 @@
   },
   "OP07-OP07-007 normal": {
     "lowPrice": 0.04,
-    "midPrice": 0.29,
+    "midPrice": 0.31,
     "highPrice": 2.0,
     "marketPrice": 0.21,
     "directLowPrice": null,
@@ -79,7 +79,7 @@
   },
   "OP07-OP07-011 normal": {
     "lowPrice": 0.11,
-    "midPrice": 0.46,
+    "midPrice": 0.49,
     "highPrice": 4.99,
     "marketPrice": 0.21,
     "directLowPrice": null,
@@ -131,7 +131,7 @@
   },
   "OP07-OP07-018 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.41,
+    "midPrice": 0.42,
     "highPrice": 2.0,
     "marketPrice": 0.35,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "OP07-OP07-024 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.33,
+    "midPrice": 0.3,
     "highPrice": 4.99,
     "marketPrice": 0.25,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "OP07-OP07-025 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.33,
+    "midPrice": 0.34,
     "highPrice": 4.99,
     "marketPrice": 0.25,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "OP07-OP07-027 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.38,
+    "midPrice": 0.39,
     "highPrice": 4.99,
     "marketPrice": 0.38,
     "directLowPrice": null,
@@ -261,7 +261,7 @@
   },
   "OP07-OP07-028 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.35,
+    "midPrice": 0.37,
     "highPrice": 2.0,
     "marketPrice": 0.25,
     "directLowPrice": null,
@@ -287,7 +287,7 @@
   },
   "OP07-OP07-030 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.45,
+    "midPrice": 0.48,
     "highPrice": 2.0,
     "marketPrice": 0.42,
     "directLowPrice": null,
@@ -339,7 +339,7 @@
   },
   "OP07-OP07-039 normal": {
     "lowPrice": 0.14,
-    "midPrice": 0.47,
+    "midPrice": 0.49,
     "highPrice": 2.0,
     "marketPrice": 0.31,
     "directLowPrice": null,
@@ -417,7 +417,7 @@
   },
   "OP07-OP07-049 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.44,
+    "midPrice": 0.47,
     "highPrice": 4.99,
     "marketPrice": 0.31,
     "directLowPrice": null,
@@ -443,7 +443,7 @@
   },
   "OP07-OP07-050 normal": {
     "lowPrice": 0.75,
-    "midPrice": 0.96,
+    "midPrice": 1.03,
     "highPrice": 7.99,
     "marketPrice": 0.91,
     "directLowPrice": null,
@@ -495,7 +495,7 @@
   },
   "OP07-OP07-055 normal": {
     "lowPrice": 2.0,
-    "midPrice": 3.99,
+    "midPrice": 3.96,
     "highPrice": 7.41,
     "marketPrice": 3.04,
     "directLowPrice": null,
@@ -573,7 +573,7 @@
   },
   "OP07-OP07-062 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.5,
+    "midPrice": 0.49,
     "highPrice": 4.99,
     "marketPrice": 0.44,
     "directLowPrice": null,
@@ -677,7 +677,7 @@
   },
   "OP07-OP07-074 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.52,
+    "midPrice": 0.5,
     "highPrice": 2.02,
     "marketPrice": 0.5,
     "directLowPrice": null,
@@ -755,7 +755,7 @@
   },
   "OP07-OP07-081 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.97,
+    "midPrice": 0.96,
     "highPrice": 15.0,
     "marketPrice": 0.83,
     "directLowPrice": null,
@@ -781,7 +781,7 @@
   },
   "OP07-OP07-084 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.42,
+    "midPrice": 0.46,
     "highPrice": 2.0,
     "marketPrice": 0.34,
     "directLowPrice": null,
@@ -859,7 +859,7 @@
   },
   "OP07-OP07-089 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.35,
+    "midPrice": 0.37,
     "highPrice": 2.0,
     "marketPrice": 0.26,
     "directLowPrice": null,
@@ -885,7 +885,7 @@
   },
   "OP07-OP07-090 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.43,
+    "midPrice": 0.46,
     "highPrice": 4.99,
     "marketPrice": 0.28,
     "directLowPrice": null,
@@ -936,8 +936,8 @@
     "groupId": 23512
   },
   "OP07-OP07-099 normal": {
-    "lowPrice": 24.0,
-    "midPrice": 24.99,
+    "lowPrice": 23.99,
+    "midPrice": 24.0,
     "highPrice": 24.99,
     "marketPrice": 1.08,
     "directLowPrice": null,
@@ -1041,7 +1041,7 @@
   },
   "OP07-OP07-106 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.35,
+    "midPrice": 0.38,
     "highPrice": 50.0,
     "marketPrice": 0.26,
     "directLowPrice": null,
@@ -1067,7 +1067,7 @@
   },
   "OP07-OP07-108 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.82,
+    "midPrice": 0.73,
     "highPrice": 4.99,
     "marketPrice": 0.52,
     "directLowPrice": null,
@@ -1092,8 +1092,8 @@
     "groupId": 23512
   },
   "OP07-OP07-110 normal": {
-    "lowPrice": 0.8,
-    "midPrice": 1.05,
+    "lowPrice": 0.76,
+    "midPrice": 1.03,
     "highPrice": 3.0,
     "marketPrice": 1.03,
     "directLowPrice": null,
@@ -1118,8 +1118,8 @@
     "groupId": 23512
   },
   "OP07-OP07-115 normal": {
-    "lowPrice": 4.0,
-    "midPrice": 4.98,
+    "lowPrice": 3.99,
+    "midPrice": 4.94,
     "highPrice": 5.99,
     "marketPrice": 4.61,
     "directLowPrice": null,
@@ -1171,7 +1171,7 @@
   },
   "OP07-OP07-008 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.5,
+    "midPrice": 0.52,
     "highPrice": 50.0,
     "marketPrice": 0.47,
     "directLowPrice": null,
@@ -1223,7 +1223,7 @@
   },
   "OP07-OP07-014 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.06,
+    "midPrice": 1.0,
     "highPrice": 50.0,
     "marketPrice": 0.95,
     "directLowPrice": null,
@@ -1275,7 +1275,7 @@
   },
   "OP07-OP07-023 normal": {
     "lowPrice": 0.21,
-    "midPrice": 0.49,
+    "midPrice": 0.5,
     "highPrice": 4.99,
     "marketPrice": 0.46,
     "directLowPrice": null,
@@ -1300,8 +1300,8 @@
     "groupId": 23512
   },
   "OP07-OP07-031 normal": {
-    "lowPrice": 4.99,
-    "midPrice": 8.37,
+    "lowPrice": 4.98,
+    "midPrice": 5.95,
     "highPrice": 19.99,
     "marketPrice": 8.48,
     "directLowPrice": null,
@@ -1327,7 +1327,7 @@
   },
   "OP07-OP07-033 normal": {
     "lowPrice": 2.0,
-    "midPrice": 4.99,
+    "midPrice": 4.98,
     "highPrice": 6.0,
     "marketPrice": 4.77,
     "directLowPrice": null,
@@ -1379,8 +1379,8 @@
   },
   "OP07-OP07-037 normal": {
     "lowPrice": 2.2,
-    "midPrice": 3.48,
-    "highPrice": 6.0,
+    "midPrice": 3.43,
+    "highPrice": 16.0,
     "marketPrice": 3.62,
     "directLowPrice": null,
     "name": "More Pizza!!",
@@ -1404,8 +1404,8 @@
     "groupId": 23512
   },
   "OP07-OP07-040 normal": {
-    "lowPrice": 5.99,
-    "midPrice": 12.69,
+    "lowPrice": 5.0,
+    "midPrice": 12.3,
     "highPrice": 14.2,
     "marketPrice": 12.51,
     "directLowPrice": null,
@@ -1431,7 +1431,7 @@
   },
   "OP07-OP07-041 normal": {
     "lowPrice": 1.74,
-    "midPrice": 3.0,
+    "midPrice": 2.99,
     "highPrice": 5.98,
     "marketPrice": 2.84,
     "directLowPrice": null,
@@ -1483,7 +1483,7 @@
   },
   "OP07-OP07-048 normal": {
     "lowPrice": 1.45,
-    "midPrice": 1.92,
+    "midPrice": 1.9,
     "highPrice": 3.48,
     "marketPrice": 2.14,
     "directLowPrice": null,
@@ -1508,10 +1508,10 @@
     "groupId": 23512
   },
   "OP07-OP07-056 normal": {
-    "lowPrice": 3.89,
-    "midPrice": 7.3,
+    "lowPrice": 5.0,
+    "midPrice": 17.85,
     "highPrice": 28.98,
-    "marketPrice": 4.56,
+    "marketPrice": 5.06,
     "directLowPrice": null,
     "name": "Slave Arrow",
     "rarity": "UC",
@@ -1535,7 +1535,7 @@
   },
   "OP07-OP07-060 normal": {
     "lowPrice": 2.29,
-    "midPrice": 3.97,
+    "midPrice": 3.96,
     "highPrice": 8.48,
     "marketPrice": 3.79,
     "directLowPrice": null,
@@ -1561,7 +1561,7 @@
   },
   "OP07-OP07-065 normal": {
     "lowPrice": 6.0,
-    "midPrice": 6.98,
+    "midPrice": 7.0,
     "highPrice": 13.0,
     "marketPrice": 8.46,
     "directLowPrice": null,
@@ -1716,8 +1716,8 @@
     "groupId": 23512
   },
   "OP07-OP07-088 normal": {
-    "lowPrice": 1.1,
-    "midPrice": 1.34,
+    "lowPrice": 1.0,
+    "midPrice": 1.27,
     "highPrice": 2.5,
     "marketPrice": 1.22,
     "directLowPrice": null,
@@ -1795,7 +1795,7 @@
   },
   "OP07-OP07-098 normal": {
     "lowPrice": 6.0,
-    "midPrice": 7.49,
+    "midPrice": 7.21,
     "highPrice": 19.99,
     "marketPrice": 7.06,
     "directLowPrice": null,
@@ -1820,8 +1820,8 @@
     "groupId": 23512
   },
   "OP07-OP07-101 normal": {
-    "lowPrice": 9.0,
-    "midPrice": 11.49,
+    "lowPrice": 8.99,
+    "midPrice": 11.1,
     "highPrice": 100.0,
     "marketPrice": 12.42,
     "directLowPrice": null,
@@ -1846,7 +1846,7 @@
     "groupId": 23512
   },
   "OP07-OP07-104 normal": {
-    "lowPrice": 27.44,
+    "lowPrice": 26.0,
     "midPrice": 28.44,
     "highPrice": 34.22,
     "marketPrice": 27.97,
@@ -1924,10 +1924,10 @@
     "groupId": 23512
   },
   "OP07-OP07-114 normal": {
-    "lowPrice": 5.01,
+    "lowPrice": 6.22,
     "midPrice": 10.89,
     "highPrice": 40.0,
-    "marketPrice": 6.37,
+    "marketPrice": 6.42,
     "directLowPrice": null,
     "name": "He Possesses the World's Most Brilliant Mind",
     "rarity": "UC",

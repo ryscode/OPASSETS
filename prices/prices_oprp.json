@@ -1,7 +1,7 @@
 {
   "ST01-ST01-001 normal": {
-    "lowPrice": 0.88,
-    "midPrice": 1.09,
+    "lowPrice": 0.89,
+    "midPrice": 1.1,
     "highPrice": 4.99,
     "marketPrice": 1.02,
     "directLowPrice": null,
@@ -26,8 +26,8 @@
     "groupId": 23890
   },
   "ST04-ST04-017 normal": {
-    "lowPrice": 0.35,
-    "midPrice": 0.98,
+    "lowPrice": 0.44,
+    "midPrice": 0.99,
     "highPrice": 3.0,
     "marketPrice": 0.7,
     "directLowPrice": null,
@@ -105,9 +105,9 @@
   },
   "ST01-ST01-007 normal": {
     "lowPrice": 1.0,
-    "midPrice": 2.36,
+    "midPrice": 2.37,
     "highPrice": 500.0,
-    "marketPrice": 1.98,
+    "marketPrice": 1.93,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "C",
@@ -183,9 +183,9 @@
   },
   "ST01-ST01-015 normal": {
     "lowPrice": 0.49,
-    "midPrice": 0.78,
+    "midPrice": 0.79,
     "highPrice": 3.49,
-    "marketPrice": 0.57,
+    "marketPrice": 0.56,
     "directLowPrice": null,
     "name": "Gum-Gum Jet Pistol",
     "rarity": "C",
@@ -208,10 +208,10 @@
     "groupId": 23890
   },
   "ST01-ST01-016 normal": {
-    "lowPrice": 0.99,
-    "midPrice": 2.45,
+    "lowPrice": 0.98,
+    "midPrice": 2.43,
     "highPrice": 6.38,
-    "marketPrice": 1.49,
+    "marketPrice": 1.45,
     "directLowPrice": null,
     "name": "Diable Jambe",
     "rarity": "C",
@@ -235,9 +235,9 @@
   },
   "ST04-ST04-014 normal": {
     "lowPrice": 0.5,
-    "midPrice": 3.27,
+    "midPrice": 3.28,
     "highPrice": 13.0,
-    "marketPrice": 1.38,
+    "marketPrice": 1.31,
     "directLowPrice": null,
     "name": "Lead Performer \"Disaster\"",
     "rarity": "C",
@@ -392,8 +392,8 @@
   "ST02-ST02-007 normal": {
     "lowPrice": 2.5,
     "midPrice": 4.49,
-    "highPrice": 6.99,
-    "marketPrice": 4.03,
+    "highPrice": 8.99,
+    "marketPrice": 4.15,
     "directLowPrice": null,
     "name": "Jewelry Bonney",
     "rarity": "C",
@@ -416,8 +416,8 @@
     "groupId": 23890
   },
   "ST02-ST02-008 normal": {
-    "lowPrice": 0.75,
-    "midPrice": 1.79,
+    "lowPrice": 0.83,
+    "midPrice": 1.82,
     "highPrice": 4.3,
     "marketPrice": 1.44,
     "directLowPrice": null,
@@ -443,9 +443,9 @@
   },
   "ST04-ST04-003 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.54,
-    "highPrice": 4.99,
-    "marketPrice": 0.43,
+    "midPrice": 0.53,
+    "highPrice": 3.74,
+    "marketPrice": 0.41,
     "directLowPrice": null,
     "name": "Kaido (003)",
     "rarity": "SR",
@@ -469,7 +469,7 @@
   },
   "ST02-ST02-009 normal": {
     "lowPrice": 4.5,
-    "midPrice": 7.62,
+    "midPrice": 7.4,
     "highPrice": 17.99,
     "marketPrice": 6.74,
     "directLowPrice": null,
@@ -573,7 +573,7 @@
   },
   "ST02-ST02-016 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.46,
+    "midPrice": 0.43,
     "highPrice": 2.25,
     "marketPrice": 0.37,
     "directLowPrice": null,
@@ -598,10 +598,10 @@
     "groupId": 23890
   },
   "ST03-ST03-017 normal": {
-    "lowPrice": 5.78,
-    "midPrice": 7.0,
+    "lowPrice": 5.49,
+    "midPrice": 6.99,
     "highPrice": 12.0,
-    "marketPrice": 6.55,
+    "marketPrice": 6.54,
     "directLowPrice": null,
     "name": "Love-Love Mellow",
     "rarity": "C",
@@ -651,9 +651,9 @@
   },
   "ST03-ST03-015 normal": {
     "lowPrice": 0.7,
-    "midPrice": 3.99,
+    "midPrice": 3.93,
     "highPrice": 6.0,
-    "marketPrice": 3.33,
+    "marketPrice": 3.31,
     "directLowPrice": null,
     "name": "Sables",
     "rarity": "C",
@@ -679,7 +679,7 @@
     "lowPrice": 0.12,
     "midPrice": 0.3,
     "highPrice": 1.49,
-    "marketPrice": 0.2,
+    "marketPrice": 0.22,
     "directLowPrice": null,
     "name": "Marshall.D.Teach",
     "rarity": "C",
@@ -703,7 +703,7 @@
   },
   "ST03-ST03-009 normal": {
     "lowPrice": 2.25,
-    "midPrice": 3.62,
+    "midPrice": 3.77,
     "highPrice": 5.5,
     "marketPrice": 2.42,
     "directLowPrice": null,
@@ -782,7 +782,7 @@
   "ST03-ST03-004 normal": {
     "lowPrice": 0.27,
     "midPrice": 0.49,
-    "highPrice": 2.41,
+    "highPrice": 7.99,
     "marketPrice": 0.39,
     "directLowPrice": null,
     "name": "Gecko Moria",
@@ -809,7 +809,7 @@
     "lowPrice": 0.25,
     "midPrice": 0.75,
     "highPrice": 1.84,
-    "marketPrice": 0.68,
+    "marketPrice": 0.7,
     "directLowPrice": null,
     "name": "Crocodile (003)",
     "rarity": "SR",
@@ -833,9 +833,9 @@
   },
   "ST03-ST03-001 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.64,
+    "midPrice": 0.61,
     "highPrice": 1.78,
-    "marketPrice": 0.53,
+    "marketPrice": 0.51,
     "directLowPrice": null,
     "name": "Crocodile (001)",
     "rarity": "L",

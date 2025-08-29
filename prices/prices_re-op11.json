@@ -1,8 +1,8 @@
 {
   "OP11-OP11-002 normal": {
     "lowPrice": 0.19,
-    "midPrice": 0.34,
-    "highPrice": 4.99,
+    "midPrice": 0.33,
+    "highPrice": 1.5,
     "marketPrice": 0.28,
     "directLowPrice": null,
     "name": "Ain",
@@ -53,7 +53,7 @@
   },
   "OP11-OP11-005 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.57,
+    "midPrice": 0.56,
     "highPrice": 8.99,
     "marketPrice": 0.53,
     "directLowPrice": null,
@@ -79,7 +79,7 @@
   },
   "OP11-OP11-006 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.5,
+    "midPrice": 0.47,
     "highPrice": 2.5,
     "marketPrice": 0.39,
     "directLowPrice": null,
@@ -105,7 +105,7 @@
   },
   "OP11-OP11-007 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.88,
+    "midPrice": 0.81,
     "highPrice": 3000.0,
     "marketPrice": 0.3,
     "directLowPrice": null,
@@ -131,7 +131,7 @@
   },
   "OP11-OP11-009 normal": {
     "lowPrice": 1.35,
-    "midPrice": 3.19,
+    "midPrice": 3.23,
     "highPrice": 15.0,
     "marketPrice": 2.06,
     "directLowPrice": null,
@@ -158,7 +158,7 @@
   "OP11-OP11-011 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.5,
-    "highPrice": 4.99,
+    "highPrice": 3.0,
     "marketPrice": 0.41,
     "directLowPrice": null,
     "name": "Bins",
@@ -182,8 +182,8 @@
     "groupId": 24242
   },
   "OP11-OP11-012 normal": {
-    "lowPrice": 2.5,
-    "midPrice": 4.78,
+    "lowPrice": 4.56,
+    "midPrice": 4.8,
     "highPrice": 7.5,
     "marketPrice": 2.76,
     "directLowPrice": null,
@@ -235,9 +235,9 @@
   },
   "OP11-OP11-016 normal": {
     "lowPrice": 2.0,
-    "midPrice": 3.14,
+    "midPrice": 3.27,
     "highPrice": 10.0,
-    "marketPrice": 3.18,
+    "marketPrice": 3.12,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
     "rarity": "UC",
@@ -260,8 +260,8 @@
     "groupId": 24242
   },
   "OP11-OP11-017 normal": {
-    "lowPrice": 2.0,
-    "midPrice": 5.96,
+    "lowPrice": 5.87,
+    "midPrice": 6.09,
     "highPrice": 7.45,
     "marketPrice": 3.28,
     "directLowPrice": null,
@@ -287,7 +287,7 @@
   },
   "OP11-OP11-019 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.85,
+    "midPrice": 0.86,
     "highPrice": 11.3,
     "marketPrice": 0.86,
     "directLowPrice": null,
@@ -391,7 +391,7 @@
   },
   "OP11-OP11-026 normal": {
     "lowPrice": 0.54,
-    "midPrice": 1.47,
+    "midPrice": 1.0,
     "highPrice": 5.0,
     "marketPrice": 0.74,
     "directLowPrice": null,
@@ -443,8 +443,8 @@
   },
   "OP11-OP11-029 normal": {
     "lowPrice": 0.2,
-    "midPrice": 1.53,
-    "highPrice": 14.0,
+    "midPrice": 1.51,
+    "highPrice": 8.75,
     "marketPrice": 1.46,
     "directLowPrice": null,
     "name": "Charlotte Praline",
@@ -495,7 +495,7 @@
   },
   "OP11-OP11-033 normal": {
     "lowPrice": 7.5,
-    "midPrice": 7.95,
+    "midPrice": 7.86,
     "highPrice": 15.49,
     "marketPrice": 2.43,
     "directLowPrice": null,
@@ -521,7 +521,7 @@
   },
   "OP11-OP11-034 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.62,
+    "midPrice": 0.61,
     "highPrice": 2.5,
     "marketPrice": 0.56,
     "directLowPrice": null,
@@ -547,7 +547,7 @@
   },
   "OP11-OP11-035 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.87,
+    "midPrice": 0.84,
     "highPrice": 5.0,
     "marketPrice": 0.76,
     "directLowPrice": null,
@@ -599,8 +599,8 @@
   },
   "OP11-OP11-037 normal": {
     "lowPrice": 2.64,
-    "midPrice": 3.76,
-    "highPrice": 14.99,
+    "midPrice": 3.57,
+    "highPrice": 13.1,
     "marketPrice": 2.76,
     "directLowPrice": null,
     "name": "Ancient Weapon Poseidon",
@@ -625,7 +625,7 @@
   },
   "OP11-OP11-039 normal": {
     "lowPrice": 0.6,
-    "midPrice": 1.98,
+    "midPrice": 1.93,
     "highPrice": 10.99,
     "marketPrice": 1.89,
     "directLowPrice": null,
@@ -651,7 +651,7 @@
   },
   "OP11-OP11-042 normal": {
     "lowPrice": 0.2,
-    "midPrice": 1.05,
+    "midPrice": 1.03,
     "highPrice": 12.0,
     "marketPrice": 0.95,
     "directLowPrice": null,
@@ -678,7 +678,7 @@
   "OP11-OP11-043 normal": {
     "lowPrice": 1.0,
     "midPrice": 1.81,
-    "highPrice": 3.0,
+    "highPrice": 2.99,
     "marketPrice": 1.43,
     "directLowPrice": null,
     "name": "Vinsmoke Ichiji",
@@ -703,7 +703,7 @@
   },
   "OP11-OP11-044 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.7,
+    "midPrice": 0.67,
     "highPrice": 1.99,
     "marketPrice": 0.52,
     "directLowPrice": null,
@@ -729,7 +729,7 @@
   },
   "OP11-OP11-045 normal": {
     "lowPrice": 4.0,
-    "midPrice": 4.41,
+    "midPrice": 4.31,
     "highPrice": 4.95,
     "marketPrice": 4.29,
     "directLowPrice": null,
@@ -755,7 +755,7 @@
   },
   "OP11-OP11-046 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.82,
+    "midPrice": 0.84,
     "highPrice": 4.99,
     "marketPrice": 0.45,
     "directLowPrice": null,
@@ -833,7 +833,7 @@
   },
   "OP11-OP11-053 normal": {
     "lowPrice": 2.79,
-    "midPrice": 4.46,
+    "midPrice": 3.92,
     "highPrice": 18.49,
     "marketPrice": 7.59,
     "directLowPrice": null,
@@ -859,8 +859,8 @@
   },
   "OP11-OP11-055 normal": {
     "lowPrice": 0.7,
-    "midPrice": 1.23,
-    "highPrice": 7.99,
+    "midPrice": 1.06,
+    "highPrice": 2.97,
     "marketPrice": 1.28,
     "directLowPrice": null,
     "name": "Bartolomeo",
@@ -911,7 +911,7 @@
   },
   "OP11-OP11-058 normal": {
     "lowPrice": 0.87,
-    "midPrice": 1.95,
+    "midPrice": 1.92,
     "highPrice": 3.99,
     "marketPrice": 1.51,
     "directLowPrice": null,
@@ -937,7 +937,7 @@
   },
   "OP11-OP11-059 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.69,
+    "midPrice": 0.67,
     "highPrice": 11.3,
     "marketPrice": 0.52,
     "directLowPrice": null,
@@ -965,7 +965,7 @@
     "lowPrice": 5.0,
     "midPrice": 5.0,
     "highPrice": 5.0,
-    "marketPrice": 2.33,
+    "marketPrice": 2.54,
     "directLowPrice": null,
     "name": "Gum-Gum Jet Culverin",
     "rarity": "UC",
@@ -1015,7 +1015,7 @@
   },
   "OP11-OP11-064 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.5,
+    "midPrice": 0.49,
     "highPrice": 8.0,
     "marketPrice": 0.26,
     "directLowPrice": null,
@@ -1040,8 +1040,8 @@
     "groupId": 24242
   },
   "OP11-OP11-065 normal": {
-    "lowPrice": 4.5,
-    "midPrice": 5.0,
+    "lowPrice": 3.36,
+    "midPrice": 4.5,
     "highPrice": 5.0,
     "marketPrice": 3.36,
     "directLowPrice": null,
@@ -1067,7 +1067,7 @@
   },
   "OP11-OP11-068 normal": {
     "lowPrice": 1.6,
-    "midPrice": 1.94,
+    "midPrice": 1.9,
     "highPrice": 18.99,
     "marketPrice": 2.84,
     "directLowPrice": null,
@@ -1093,7 +1093,7 @@
   },
   "OP11-OP11-072 normal": {
     "lowPrice": 3.3,
-    "midPrice": 4.94,
+    "midPrice": 4.83,
     "highPrice": 12.0,
     "marketPrice": 5.05,
     "directLowPrice": null,
@@ -1119,7 +1119,7 @@
   },
   "OP11-OP11-074 normal": {
     "lowPrice": 1.88,
-    "midPrice": 3.04,
+    "midPrice": 2.93,
     "highPrice": 11.3,
     "marketPrice": 2.82,
     "directLowPrice": null,
@@ -1145,7 +1145,7 @@
   },
   "OP11-OP11-075 normal": {
     "lowPrice": 0.35,
-    "midPrice": 1.81,
+    "midPrice": 1.75,
     "highPrice": 18.99,
     "marketPrice": 1.41,
     "directLowPrice": null,
@@ -1196,8 +1196,8 @@
     "groupId": 24242
   },
   "OP11-OP11-077 normal": {
-    "lowPrice": 0.38,
-    "midPrice": 0.88,
+    "lowPrice": 0.36,
+    "midPrice": 0.85,
     "highPrice": 11.3,
     "marketPrice": 1.15,
     "directLowPrice": null,
@@ -1223,7 +1223,7 @@
   },
   "OP11-OP11-078 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.93,
+    "midPrice": 0.85,
     "highPrice": 3.5,
     "marketPrice": 1.18,
     "directLowPrice": null,
@@ -1249,7 +1249,7 @@
   },
   "OP11-OP11-079 normal": {
     "lowPrice": 1.2,
-    "midPrice": 3.35,
+    "midPrice": 3.08,
     "highPrice": 10.0,
     "marketPrice": 2.8,
     "directLowPrice": null,
@@ -1379,9 +1379,9 @@
   },
   "OP11-OP11-088 normal": {
     "lowPrice": 0.7,
-    "midPrice": 1.32,
+    "midPrice": 1.38,
     "highPrice": 11.3,
-    "marketPrice": 1.89,
+    "marketPrice": 1.78,
     "directLowPrice": null,
     "name": "Shu",
     "rarity": "C",
@@ -1405,7 +1405,7 @@
   },
   "OP11-OP11-089 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.64,
+    "midPrice": 0.63,
     "highPrice": 4.99,
     "marketPrice": 0.62,
     "directLowPrice": null,
@@ -1431,7 +1431,7 @@
   },
   "OP11-OP11-090 normal": {
     "lowPrice": 0.06,
-    "midPrice": 0.6,
+    "midPrice": 0.59,
     "highPrice": 15.0,
     "marketPrice": 0.51,
     "directLowPrice": null,
@@ -1456,8 +1456,8 @@
     "groupId": 24242
   },
   "OP11-OP11-091 normal": {
-    "lowPrice": 1.15,
-    "midPrice": 10.9,
+    "lowPrice": 10.4,
+    "midPrice": 11.0,
     "highPrice": 12.3,
     "marketPrice": 1.8,
     "directLowPrice": null,
@@ -1483,8 +1483,8 @@
   },
   "OP11-OP11-093 normal": {
     "lowPrice": 0.9,
-    "midPrice": 2.0,
-    "highPrice": 7.99,
+    "midPrice": 1.85,
+    "highPrice": 3.99,
     "marketPrice": 1.47,
     "directLowPrice": null,
     "name": "Bogard",
@@ -1534,8 +1534,8 @@
     "groupId": 24242
   },
   "OP11-OP11-096 normal": {
-    "lowPrice": 4.07,
-    "midPrice": 6.37,
+    "lowPrice": 3.66,
+    "midPrice": 6.3,
     "highPrice": 15.54,
     "marketPrice": 5.55,
     "directLowPrice": null,
@@ -1561,8 +1561,8 @@
   },
   "OP11-OP11-097 normal": {
     "lowPrice": 0.59,
-    "midPrice": 1.75,
-    "highPrice": 7.99,
+    "midPrice": 1.68,
+    "highPrice": 3.59,
     "marketPrice": 1.11,
     "directLowPrice": null,
     "name": "After All These Years I'm Losing My Edge!!!",
@@ -1587,8 +1587,8 @@
   },
   "OP11-OP11-098 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.69,
-    "highPrice": 4.99,
+    "midPrice": 0.67,
+    "highPrice": 3.99,
     "marketPrice": 0.47,
     "directLowPrice": null,
     "name": "Blue Hole",
@@ -1639,8 +1639,8 @@
   },
   "OP11-OP11-102 normal": {
     "lowPrice": 1.0,
-    "midPrice": 3.67,
-    "highPrice": 12.99,
+    "midPrice": 3.58,
+    "highPrice": 8.99,
     "marketPrice": 3.68,
     "directLowPrice": null,
     "name": "Camie",
@@ -1665,7 +1665,7 @@
   },
   "OP11-OP11-103 normal": {
     "lowPrice": 0.3,
-    "midPrice": 1.36,
+    "midPrice": 1.27,
     "highPrice": 3.5,
     "marketPrice": 0.65,
     "directLowPrice": null,
@@ -1691,7 +1691,7 @@
   },
   "OP11-OP11-105 normal": {
     "lowPrice": 0.6,
-    "midPrice": 1.1,
+    "midPrice": 1.04,
     "highPrice": 9.89,
     "marketPrice": 1.09,
     "directLowPrice": null,
@@ -1717,7 +1717,7 @@
   },
   "OP11-OP11-107 normal": {
     "lowPrice": 0.4,
-    "midPrice": 3.66,
+    "midPrice": 3.53,
     "highPrice": 8.0,
     "marketPrice": 1.05,
     "directLowPrice": null,
@@ -1820,8 +1820,8 @@
     "groupId": 24242
   },
   "OP11-OP11-112 normal": {
-    "lowPrice": 2.0,
-    "midPrice": 2.4,
+    "lowPrice": 2.3,
+    "midPrice": 2.42,
     "highPrice": 8.0,
     "marketPrice": 2.44,
     "directLowPrice": null,
@@ -1847,7 +1847,7 @@
   },
   "OP11-OP11-113 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.56,
+    "midPrice": 0.55,
     "highPrice": 3.99,
     "marketPrice": 0.48,
     "directLowPrice": null,
@@ -1899,7 +1899,7 @@
   },
   "OP11-OP11-116 normal": {
     "lowPrice": 0.45,
-    "midPrice": 1.5,
+    "midPrice": 1.49,
     "highPrice": 11.3,
     "marketPrice": 0.88,
     "directLowPrice": null,
@@ -1927,7 +1927,7 @@
     "lowPrice": 0.45,
     "midPrice": 1.61,
     "highPrice": 9.0,
-    "marketPrice": 1.57,
+    "marketPrice": 1.52,
     "directLowPrice": null,
     "name": "Fish-Man Island",
     "rarity": "C",

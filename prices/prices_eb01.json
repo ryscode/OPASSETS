@@ -2,7 +2,7 @@
   "EB01-EB01-001 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.2,
-    "highPrice": 4.99,
+    "highPrice": 2.0,
     "marketPrice": 0.15,
     "directLowPrice": null,
     "name": "Kouzuki Oden",
@@ -26,10 +26,10 @@
     "groupId": 23333
   },
   "EB01-EB01-001 parallel": {
-    "lowPrice": 25.0,
-    "midPrice": 29.7,
-    "highPrice": 59.99,
-    "marketPrice": 25.78,
+    "lowPrice": 21.62,
+    "midPrice": 28.85,
+    "highPrice": 58.78,
+    "marketPrice": 25.7,
     "directLowPrice": null,
     "name": "Kouzuki Oden (Alternate Art)",
     "rarity": "L",
@@ -55,7 +55,7 @@
     "lowPrice": 0.32,
     "midPrice": 1.0,
     "highPrice": 5.0,
-    "marketPrice": 0.94,
+    "marketPrice": 0.92,
     "directLowPrice": null,
     "name": "Izo",
     "rarity": "R",
@@ -78,9 +78,9 @@
     "groupId": 23333
   },
   "EB01-EB01-003 normal": {
-    "lowPrice": 10.26,
-    "midPrice": 13.2,
-    "highPrice": 39.99,
+    "lowPrice": 10.0,
+    "midPrice": 12.69,
+    "highPrice": 25.0,
     "marketPrice": 11.0,
     "directLowPrice": null,
     "name": "Kid & Killer",
@@ -104,10 +104,10 @@
     "groupId": 23333
   },
   "EB01-EB01-003 parallel": {
-    "lowPrice": 29.5,
-    "midPrice": 35.85,
+    "lowPrice": 29.0,
+    "midPrice": 34.75,
     "highPrice": 99.0,
-    "marketPrice": 32.96,
+    "marketPrice": 33.01,
     "directLowPrice": null,
     "name": "Kid & Killer (Alternate Art)",
     "rarity": "R",
@@ -132,7 +132,7 @@
   "EB01-EB01-004 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 4.99,
+    "highPrice": 1.32,
     "marketPrice": 0.05,
     "directLowPrice": null,
     "name": "Koza",
@@ -158,7 +158,7 @@
   "EB01-EB01-005 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 4.99,
+    "highPrice": 1.32,
     "marketPrice": 0.05,
     "directLowPrice": null,
     "name": "Doma",
@@ -182,10 +182,10 @@
     "groupId": 23333
   },
   "EB01-EB01-006 normal": {
-    "lowPrice": 17.99,
-    "midPrice": 23.21,
+    "lowPrice": 15.25,
+    "midPrice": 22.9,
     "highPrice": 50.0,
-    "marketPrice": 21.23,
+    "marketPrice": 20.75,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper",
     "rarity": "SR",
@@ -208,9 +208,9 @@
     "groupId": 23333
   },
   "EB01-EB01-006 parallel": {
-    "lowPrice": 37.21,
-    "midPrice": 40.5,
-    "highPrice": 89.99,
+    "lowPrice": 36.67,
+    "midPrice": 40.0,
+    "highPrice": 79.69,
     "marketPrice": 37.44,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper (Alternate Art)",
@@ -235,8 +235,8 @@
   },
   "EB01-EB01-006 alt2": {
     "lowPrice": 799.9,
-    "midPrice": 1006.99,
-    "highPrice": 1799.99,
+    "midPrice": 949.99,
+    "highPrice": 1063.99,
     "marketPrice": 837.08,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper (Alternate Art) (Manga)",
@@ -262,7 +262,7 @@
   "EB01-EB01-007 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.15,
-    "highPrice": 4.99,
+    "highPrice": 1.36,
     "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Yamato",
@@ -288,7 +288,7 @@
   "EB01-EB01-008 normal": {
     "lowPrice": 0.04,
     "midPrice": 0.2,
-    "highPrice": 4.99,
+    "highPrice": 2.0,
     "marketPrice": 0.16,
     "directLowPrice": null,
     "name": "LittleOars Jr.",
@@ -314,7 +314,7 @@
   "EB01-EB01-009 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.25,
-    "highPrice": 4.99,
+    "highPrice": 2.0,
     "marketPrice": 0.22,
     "directLowPrice": null,
     "name": "Just Shut Up and Come with Us!!!!",
@@ -340,7 +340,7 @@
   "EB01-EB01-010 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.25,
-    "highPrice": 4.99,
+    "highPrice": 2.0,
     "marketPrice": 0.26,
     "directLowPrice": null,
     "name": "There's No Way You Could Defeat Me!!",
@@ -366,8 +366,8 @@
   "EB01-EB01-011 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 4.99,
-    "marketPrice": 0.09,
+    "highPrice": 1.32,
+    "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Mini-Merry",
     "rarity": "C",
@@ -390,10 +390,10 @@
     "groupId": 23333
   },
   "EB01-EB01-012 normal": {
-    "lowPrice": 40.0,
-    "midPrice": 50.0,
-    "highPrice": 99.99,
-    "marketPrice": 45.47,
+    "lowPrice": 39.66,
+    "midPrice": 47.99,
+    "highPrice": 70.0,
+    "marketPrice": 41.35,
     "directLowPrice": null,
     "name": "Cavendish",
     "rarity": "SR",
@@ -416,10 +416,10 @@
     "groupId": 23333
   },
   "EB01-EB01-012 parallel": {
-    "lowPrice": 61.99,
+    "lowPrice": 68.99,
     "midPrice": 76.48,
-    "highPrice": 124.99,
-    "marketPrice": 70.68,
+    "highPrice": 120.0,
+    "marketPrice": 69.96,
     "directLowPrice": null,
     "name": "Cavendish (Alternate Art)",
     "rarity": "SR",
@@ -442,10 +442,10 @@
     "groupId": 23333
   },
   "EB01-EB01-013 normal": {
-    "lowPrice": 1.95,
-    "midPrice": 3.24,
-    "highPrice": 14.99,
-    "marketPrice": 2.34,
+    "lowPrice": 2.0,
+    "midPrice": 3.0,
+    "highPrice": 9.99,
+    "marketPrice": 2.44,
     "directLowPrice": null,
     "name": "Kouzuki Hiyori",
     "rarity": "R",
@@ -469,9 +469,9 @@
   },
   "EB01-EB01-013 parallel": {
     "lowPrice": 12.5,
-    "midPrice": 19.66,
+    "midPrice": 19.86,
     "highPrice": 50.0,
-    "marketPrice": 13.72,
+    "marketPrice": 13.58,
     "directLowPrice": null,
     "name": "Kouzuki Hiyori (Alternate Art)",
     "rarity": "R",
@@ -495,7 +495,7 @@
   },
   "EB01-EB01-014 normal": {
     "lowPrice": 0.47,
-    "midPrice": 0.96,
+    "midPrice": 0.93,
     "highPrice": 5.09,
     "marketPrice": 0.73,
     "directLowPrice": null,
@@ -523,7 +523,7 @@
     "lowPrice": 0.49,
     "midPrice": 1.0,
     "highPrice": 10.0,
-    "marketPrice": 0.63,
+    "marketPrice": 0.65,
     "directLowPrice": null,
     "name": "Scratchmen Apoo",
     "rarity": "R",
@@ -548,7 +548,7 @@
   "EB01-EB01-016 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 4.99,
+    "highPrice": 1.52,
     "marketPrice": 0.04,
     "directLowPrice": null,
     "name": "Bingoh",
@@ -574,7 +574,7 @@
   "EB01-EB01-017 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 4.99,
+    "highPrice": 1.32,
     "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Blueno (017)",
@@ -600,7 +600,7 @@
   "EB01-EB01-018 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.12,
-    "highPrice": 4.99,
+    "highPrice": 1.34,
     "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Mountain God",
@@ -626,8 +626,8 @@
   "EB01-EB01-019 normal": {
     "lowPrice": 0.21,
     "midPrice": 0.5,
-    "highPrice": 4.99,
-    "marketPrice": 0.45,
+    "highPrice": 4.5,
+    "marketPrice": 0.44,
     "directLowPrice": null,
     "name": "Off-White",
     "rarity": "R",
@@ -652,7 +652,7 @@
   "EB01-EB01-020 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 4.99,
+    "highPrice": 1.32,
     "marketPrice": 0.08,
     "directLowPrice": null,
     "name": "Chambres",
@@ -678,7 +678,7 @@
   "EB01-EB01-021 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.16,
-    "highPrice": 4.99,
+    "highPrice": 2.0,
     "marketPrice": 0.13,
     "directLowPrice": null,
     "name": "Hannyabal",
@@ -703,9 +703,9 @@
   },
   "EB01-EB01-021 parallel": {
     "lowPrice": 11.23,
-    "midPrice": 15.86,
+    "midPrice": 15.81,
     "highPrice": 50.0,
-    "marketPrice": 14.09,
+    "marketPrice": 14.21,
     "directLowPrice": null,
     "name": "Hannyabal (Alternate Art)",
     "rarity": "L",
@@ -783,7 +783,7 @@
     "lowPrice": 1.0,
     "midPrice": 2.11,
     "highPrice": 8.99,
-    "marketPrice": 1.53,
+    "marketPrice": 1.54,
     "directLowPrice": null,
     "name": "Edward Weevil",
     "rarity": "R",
@@ -808,7 +808,7 @@
   "EB01-EB01-024 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 4.99,
+    "highPrice": 1.32,
     "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Hamlet",
@@ -834,7 +834,7 @@
   "EB01-EB01-025 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 4.99,
+    "highPrice": 1.53,
     "marketPrice": 0.05,
     "directLowPrice": null,
     "name": "Fourtricks",
@@ -860,7 +860,7 @@
   "EB01-EB01-026 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 4.99,
+    "highPrice": 1.52,
     "marketPrice": 0.05,
     "directLowPrice": null,
     "name": "Prince Bellett",
@@ -885,9 +885,9 @@
   },
   "EB01-EB01-027 normal": {
     "lowPrice": 0.85,
-    "midPrice": 1.5,
-    "highPrice": 7.99,
-    "marketPrice": 1.19,
+    "midPrice": 1.48,
+    "highPrice": 5.0,
+    "marketPrice": 1.17,
     "directLowPrice": null,
     "name": "Mr. 1 (Daz.Bonez)",
     "rarity": "R",
@@ -910,8 +910,8 @@
     "groupId": 23333
   },
   "EB01-EB01-027 parallel": {
-    "lowPrice": 2.19,
-    "midPrice": 9.99,
+    "lowPrice": 2.15,
+    "midPrice": 8.99,
     "highPrice": 50.0,
     "marketPrice": 2.26,
     "directLowPrice": null,
@@ -938,7 +938,7 @@
   "EB01-EB01-028 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.23,
-    "highPrice": 4.99,
+    "highPrice": 4.0,
     "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Gum-Gum Champion Rifle",
@@ -964,7 +964,7 @@
   "EB01-EB01-029 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 4.99,
+    "highPrice": 1.32,
     "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Sorry. I'm a Goner.",
@@ -990,7 +990,7 @@
   "EB01-EB01-030 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 4.99,
+    "highPrice": 1.32,
     "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Loguetown",
@@ -1016,7 +1016,7 @@
   "EB01-EB01-031 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.25,
-    "highPrice": 4.99,
+    "highPrice": 2.0,
     "marketPrice": 0.16,
     "directLowPrice": null,
     "name": "Kalifa",
@@ -1041,9 +1041,9 @@
   },
   "EB01-EB01-031 parallel": {
     "lowPrice": 3.0,
-    "midPrice": 4.95,
+    "midPrice": 4.94,
     "highPrice": 28.0,
-    "marketPrice": 3.63,
+    "marketPrice": 3.62,
     "directLowPrice": null,
     "name": "Kalifa (Alternate Art)",
     "rarity": "R",
@@ -1068,7 +1068,7 @@
   "EB01-EB01-032 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 4.99,
+    "highPrice": 1.32,
     "marketPrice": 0.05,
     "directLowPrice": null,
     "name": "Army Wolves",
@@ -1092,9 +1092,9 @@
     "groupId": 23333
   },
   "EB01-EB01-033 normal": {
-    "lowPrice": 0.09,
+    "lowPrice": 0.1,
     "midPrice": 0.25,
-    "highPrice": 4.99,
+    "highPrice": 2.0,
     "marketPrice": 0.19,
     "directLowPrice": null,
     "name": "Blueno (033)",
@@ -1119,9 +1119,9 @@
   },
   "EB01-EB01-034 normal": {
     "lowPrice": 1.0,
-    "midPrice": 1.82,
-    "highPrice": 7.99,
-    "marketPrice": 1.25,
+    "midPrice": 1.8,
+    "highPrice": 6.17,
+    "marketPrice": 1.28,
     "directLowPrice": null,
     "name": "Ms. Wednesday",
     "rarity": "SR",
@@ -1172,7 +1172,7 @@
   "EB01-EB01-035 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 4.99,
+    "highPrice": 1.32,
     "marketPrice": 0.03,
     "directLowPrice": null,
     "name": "Ms. Monday",
@@ -1198,7 +1198,7 @@
   "EB01-EB01-036 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 4.99,
+    "highPrice": 1.32,
     "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Minochihuahua",
@@ -1224,8 +1224,8 @@
   "EB01-EB01-037 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 4.99,
-    "marketPrice": 0.06,
+    "highPrice": 1.32,
+    "marketPrice": 0.05,
     "directLowPrice": null,
     "name": "Mr. 9",
     "rarity": "C",
@@ -1250,7 +1250,7 @@
   "EB01-EB01-038 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.12,
-    "highPrice": 4.99,
+    "highPrice": 1.35,
     "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Oh Come My Way",
@@ -1276,7 +1276,7 @@
   "EB01-EB01-039 normal": {
     "lowPrice": 0.49,
     "midPrice": 1.0,
-    "highPrice": 7.99,
+    "highPrice": 4.99,
     "marketPrice": 0.63,
     "directLowPrice": null,
     "name": "Conquerer of Three Worlds Ragnaraku",
@@ -1302,7 +1302,7 @@
   "EB01-EB01-040 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.17,
-    "highPrice": 4.99,
+    "highPrice": 2.0,
     "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Kyros",
@@ -1329,7 +1329,7 @@
     "lowPrice": 13.01,
     "midPrice": 15.4,
     "highPrice": 49.99,
-    "marketPrice": 13.79,
+    "marketPrice": 13.8,
     "directLowPrice": null,
     "name": "Kyros (Alternate Art)",
     "rarity": "L",
@@ -1354,7 +1354,7 @@
   "EB01-EB01-041 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 4.99,
+    "highPrice": 1.32,
     "marketPrice": 0.04,
     "directLowPrice": null,
     "name": "Crocus",
@@ -1406,7 +1406,7 @@
   "EB01-EB01-043 normal": {
     "lowPrice": 0.2,
     "midPrice": 0.49,
-    "highPrice": 4.99,
+    "highPrice": 2.5,
     "marketPrice": 0.34,
     "directLowPrice": null,
     "name": "Spandine",
@@ -1432,7 +1432,7 @@
   "EB01-EB01-044 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 4.99,
+    "highPrice": 1.32,
     "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Funkfreed",
@@ -1458,7 +1458,7 @@
   "EB01-EB01-045 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 4.99,
+    "highPrice": 1.32,
     "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Brook (045)",
@@ -1482,10 +1482,10 @@
     "groupId": 23333
   },
   "EB01-EB01-046 normal": {
-    "lowPrice": 18.0,
-    "midPrice": 26.2,
-    "highPrice": 69.99,
-    "marketPrice": 20.01,
+    "lowPrice": 17.91,
+    "midPrice": 25.0,
+    "highPrice": 50.0,
+    "marketPrice": 19.31,
     "directLowPrice": null,
     "name": "Brook (046)",
     "rarity": "SR",
@@ -1508,9 +1508,9 @@
     "groupId": 23333
   },
   "EB01-EB01-046 parallel": {
-    "lowPrice": 44.95,
-    "midPrice": 50.0,
-    "highPrice": 114.99,
+    "lowPrice": 40.55,
+    "midPrice": 48.0,
+    "highPrice": 99.99,
     "marketPrice": 40.62,
     "directLowPrice": null,
     "name": "Brook (046) (Alternate Art)",
@@ -1536,7 +1536,7 @@
   "EB01-EB01-047 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.13,
-    "highPrice": 4.99,
+    "highPrice": 1.35,
     "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Laboon (047)",
@@ -1561,9 +1561,9 @@
   },
   "EB01-EB01-048 normal": {
     "lowPrice": 11.0,
-    "midPrice": 16.48,
+    "midPrice": 15.99,
     "highPrice": 79.99,
-    "marketPrice": 12.97,
+    "marketPrice": 12.77,
     "directLowPrice": null,
     "name": "Laboon (048)",
     "rarity": "SR",
@@ -1587,9 +1587,9 @@
   },
   "EB01-EB01-048 parallel": {
     "lowPrice": 32.99,
-    "midPrice": 39.99,
+    "midPrice": 39.69,
     "highPrice": 99.99,
-    "marketPrice": 34.68,
+    "marketPrice": 34.91,
     "directLowPrice": null,
     "name": "Laboon (048) (Alternate Art)",
     "rarity": "SR",
@@ -1612,10 +1612,10 @@
     "groupId": 23333
   },
   "EB01-EB01-049 normal": {
-    "lowPrice": 0.75,
-    "midPrice": 1.77,
+    "lowPrice": 0.9,
+    "midPrice": 1.9,
     "highPrice": 11.99,
-    "marketPrice": 1.77,
+    "marketPrice": 1.68,
     "directLowPrice": null,
     "name": "T-Bone",
     "rarity": "R",
@@ -1638,8 +1638,8 @@
     "groupId": 23333
   },
   "EB01-EB01-049 parallel": {
-    "lowPrice": 21.28,
-    "midPrice": 23.3,
+    "lowPrice": 16.0,
+    "midPrice": 22.73,
     "highPrice": 50.0,
     "marketPrice": 18.06,
     "directLowPrice": null,
@@ -1665,8 +1665,8 @@
   },
   "EB01-EB01-050 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.14,
-    "highPrice": 4.99,
+    "midPrice": 0.13,
+    "highPrice": 1.32,
     "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "...I Want to Live!!",
@@ -1691,8 +1691,8 @@
   },
   "EB01-EB01-051 normal": {
     "lowPrice": 4.0,
-    "midPrice": 5.95,
-    "highPrice": 17.99,
+    "midPrice": 5.85,
+    "highPrice": 14.99,
     "marketPrice": 5.21,
     "directLowPrice": null,
     "name": "Finger Pistol",
@@ -1717,9 +1717,9 @@
   },
   "EB01-EB01-052 normal": {
     "lowPrice": 10.99,
-    "midPrice": 13.0,
-    "highPrice": 29.99,
-    "marketPrice": 11.82,
+    "midPrice": 12.6,
+    "highPrice": 25.0,
+    "marketPrice": 11.73,
     "directLowPrice": null,
     "name": "Viola",
     "rarity": "SR",
@@ -1742,9 +1742,9 @@
     "groupId": 23333
   },
   "EB01-EB01-052 parallel": {
-    "lowPrice": 17.75,
+    "lowPrice": 17.73,
     "midPrice": 23.0,
-    "highPrice": 49.99,
+    "highPrice": 48.0,
     "marketPrice": 17.73,
     "directLowPrice": null,
     "name": "Viola (Alternate Art)",
@@ -1770,7 +1770,7 @@
   "EB01-EB01-053 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 4.99,
+    "highPrice": 1.32,
     "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Gastino",
@@ -1796,7 +1796,7 @@
   "EB01-EB01-054 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.2,
-    "highPrice": 4.99,
+    "highPrice": 2.0,
     "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Gan.Fall",
@@ -1822,7 +1822,7 @@
   "EB01-EB01-055 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 4.99,
+    "highPrice": 1.32,
     "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Charlotte Compote",
@@ -1847,9 +1847,9 @@
   },
   "EB01-EB01-056 normal": {
     "lowPrice": 2.0,
-    "midPrice": 3.5,
+    "midPrice": 3.4,
     "highPrice": 10.2,
-    "marketPrice": 3.05,
+    "marketPrice": 2.95,
     "directLowPrice": null,
     "name": "Charlotte Flampe",
     "rarity": "R",
@@ -1898,10 +1898,10 @@
     "groupId": 23333
   },
   "EB01-EB01-057 normal": {
-    "lowPrice": 10.0,
-    "midPrice": 14.99,
+    "lowPrice": 9.99,
+    "midPrice": 14.58,
     "highPrice": 30.0,
-    "marketPrice": 11.42,
+    "marketPrice": 11.25,
     "directLowPrice": null,
     "name": "Shirahoshi",
     "rarity": "SR",
@@ -1926,7 +1926,7 @@
   "EB01-EB01-057 parallel": {
     "lowPrice": 14.99,
     "midPrice": 21.0,
-    "highPrice": 59.99,
+    "highPrice": 53.99,
     "marketPrice": 19.44,
     "directLowPrice": null,
     "name": "Shirahoshi (Alternate Art)",
@@ -1952,7 +1952,7 @@
   "EB01-EB01-058 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 4.99,
+    "highPrice": 1.32,
     "marketPrice": 0.04,
     "directLowPrice": null,
     "name": "Mont Blanc Cricket",
@@ -2003,8 +2003,8 @@
   },
   "EB01-EB01-060 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.13,
-    "highPrice": 4.99,
+    "midPrice": 0.12,
+    "highPrice": 1.34,
     "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Did Someone Say...Kami?",
@@ -2028,10 +2028,10 @@
     "groupId": 23333
   },
   "EB01-EB01-061 normal": {
-    "lowPrice": 23.09,
-    "midPrice": 30.0,
-    "highPrice": 120.0,
-    "marketPrice": 24.06,
+    "lowPrice": 23.39,
+    "midPrice": 29.85,
+    "highPrice": 99.95,
+    "marketPrice": 24.11,
     "directLowPrice": null,
     "name": "Mr.2.Bon.Kurei (Bentham)",
     "rarity": "SEC",
@@ -2054,10 +2054,10 @@
     "groupId": 23333
   },
   "EB01-EB01-061 parallel": {
-    "lowPrice": 73.49,
-    "midPrice": 102.31,
-    "highPrice": 249.99,
-    "marketPrice": 79.43,
+    "lowPrice": 73.0,
+    "midPrice": 100.5,
+    "highPrice": 199.0,
+    "marketPrice": 75.82,
     "directLowPrice": null,
     "name": "Mr.2.Bon.Kurei (Bentham) (Alternate Art)",
     "rarity": "SEC",

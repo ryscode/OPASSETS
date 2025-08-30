@@ -52,10 +52,10 @@
     "groupId": 23907
   },
   "OP01-OP01-004 normal": {
-    "lowPrice": 0.05,
+    "lowPrice": 0.09,
     "midPrice": 0.4,
     "highPrice": 25.0,
-    "marketPrice": 0.39,
+    "marketPrice": 0.38,
     "directLowPrice": null,
     "name": "Usopp",
     "rarity": "R",
@@ -133,7 +133,7 @@
     "lowPrice": 3.5,
     "midPrice": 4.27,
     "highPrice": 16.19,
-    "marketPrice": 3.76,
+    "marketPrice": 3.88,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "R",
@@ -157,7 +157,7 @@
   },
   "OP01-OP01-016 normal": {
     "lowPrice": 2.06,
-    "midPrice": 4.38,
+    "midPrice": 4.25,
     "highPrice": 5.0,
     "marketPrice": 2.54,
     "directLowPrice": null,
@@ -314,7 +314,7 @@
   "ST01-ST01-011 normal": {
     "lowPrice": 0.74,
     "midPrice": 0.84,
-    "highPrice": 4.99,
+    "highPrice": 5.99,
     "marketPrice": 0.84,
     "directLowPrice": null,
     "name": "Brook",
@@ -417,7 +417,7 @@
   },
   "OP01-OP01-003 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.98,
+    "midPrice": 1.0,
     "highPrice": 7.0,
     "marketPrice": 0.68,
     "directLowPrice": null,
@@ -443,7 +443,7 @@
   },
   "OP01-OP01-012 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.8,
+    "midPrice": 0.89,
     "highPrice": 4.9,
     "marketPrice": 0.74,
     "directLowPrice": null,
@@ -548,7 +548,7 @@
   "OP01-OP01-019 normal": {
     "lowPrice": 0.3,
     "midPrice": 0.99,
-    "highPrice": 4.0,
+    "highPrice": 9.99,
     "marketPrice": 0.99,
     "directLowPrice": null,
     "name": "Bartolomeo",

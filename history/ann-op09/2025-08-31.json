@@ -1,0 +1,827 @@
+{
+  "OP09-OP09-003 normal": {
+    "name": "Shachi & Penguin",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.35,
+      "high": 5.0,
+      "market": 0.28,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-006 normal": {
+    "name": "Howling Gab",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.26,
+      "high": 1.41,
+      "market": 0.23,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-007 normal": {
+    "name": "Heat",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.22,
+      "mid": 0.42,
+      "high": 4.0,
+      "market": 0.31,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-010 normal": {
+    "name": "Bonk Punch",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.09,
+      "mid": 0.37,
+      "high": 5.99,
+      "market": 0.27,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-012 normal": {
+    "name": "Monster",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.3,
+      "high": 1.46,
+      "market": 0.24,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-016 normal": {
+    "name": "Rockstar",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.15,
+      "mid": 0.49,
+      "high": 8.98,
+      "market": 0.3,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-019 normal": {
+    "name": "Nobody Hurts a Friend of Mine!!!!",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.39,
+      "high": 2.0,
+      "market": 0.32,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-021 normal": {
+    "name": "Red Force",
+    "groupId": 23590,
+    "prices": {
+      "low": 2.69,
+      "mid": 3.85,
+      "high": 13.5,
+      "market": 4.32,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-024 normal": {
+    "name": "Usopp (024)",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.09,
+      "mid": 0.55,
+      "high": 9.89,
+      "market": 0.52,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-028 normal": {
+    "name": "Sanji (028)",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.39,
+      "high": 3.46,
+      "market": 0.3,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-029 normal": {
+    "name": "Tony Tony.Chopper",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.99,
+      "mid": 1.79,
+      "high": 11.27,
+      "market": 1.49,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-033 normal": {
+    "name": "Nico Robin (033)",
+    "groupId": 23590,
+    "prices": {
+      "low": 1.79,
+      "mid": 3.19,
+      "high": 13.73,
+      "market": 2.07,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-036 normal": {
+    "name": "Monkey.D.Luffy (036)",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.49,
+      "mid": 0.67,
+      "high": 7.47,
+      "market": 0.62,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-038 normal": {
+    "name": "Rob Lucci (038)",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.31,
+      "high": 3.72,
+      "market": 0.29,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-041 normal": {
+    "name": "Soul Franky Swing Arm Boxing Solid",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.23,
+      "mid": 0.4,
+      "high": 1.98,
+      "market": 0.36,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-047 normal": {
+    "name": "Kouzuki Oden",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.23,
+      "mid": 0.5,
+      "high": 3.0,
+      "market": 0.27,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-049 normal": {
+    "name": "Jozu",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.09,
+      "mid": 0.35,
+      "high": 4.0,
+      "market": 0.22,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-052 normal": {
+    "name": "Marco",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.3,
+      "high": 5.0,
+      "market": 0.23,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-054 normal": {
+    "name": "Richie",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.5,
+      "mid": 0.75,
+      "high": 2.68,
+      "market": 0.59,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-055 normal": {
+    "name": "Mr.1(Daz.Bonez)",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.65,
+      "mid": 0.88,
+      "high": 2.25,
+      "market": 0.97,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-058 normal": {
+    "name": "Special Muggy Ball",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.3,
+      "mid": 0.42,
+      "high": 4.01,
+      "market": 0.35,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-060 normal": {
+    "name": "Emptee Bluffs Island",
+    "groupId": 23590,
+    "prices": {
+      "low": 1.89,
+      "mid": 2.85,
+      "high": 9.0,
+      "market": 2.18,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-063 normal": {
+    "name": "Usopp (063)",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.2,
+      "mid": 0.57,
+      "high": 2.5,
+      "market": 0.53,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-067 normal": {
+    "name": "Jinbe",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.09,
+      "mid": 0.36,
+      "high": 7.0,
+      "market": 0.27,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-071 normal": {
+    "name": "Nico Robin (071)",
+    "groupId": 23590,
+    "prices": {
+      "low": 3.0,
+      "mid": 4.29,
+      "high": 10.99,
+      "market": 4.24,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-073 normal": {
+    "name": "Brook (073)",
+    "groupId": 23590,
+    "prices": {
+      "low": 1.5,
+      "mid": 2.3,
+      "high": 12.99,
+      "market": 2.2,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-074 normal": {
+    "name": "Bepo",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.41,
+      "mid": 0.76,
+      "high": 5.99,
+      "market": 0.66,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-079 normal": {
+    "name": "Gum-Gum Jump Rope",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.19,
+      "mid": 0.39,
+      "high": 6.99,
+      "market": 0.38,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-080 normal": {
+    "name": "Thousand Sunny",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.17,
+      "mid": 0.5,
+      "high": 3.0,
+      "market": 0.38,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-082 normal": {
+    "name": "Avalo Pizarro",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.05,
+      "mid": 0.35,
+      "high": 5.99,
+      "market": 0.23,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-085 normal": {
+    "name": "Gecko Moria",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.2,
+      "mid": 0.36,
+      "high": 3.0,
+      "market": 0.36,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-087 normal": {
+    "name": "Charlotte Pudding",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.4,
+      "mid": 0.72,
+      "high": 4.98,
+      "market": 0.61,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-091 normal": {
+    "name": "Vasco Shot",
+    "groupId": 23590,
+    "prices": {
+      "low": 1.0,
+      "mid": 1.8,
+      "high": 12.0,
+      "market": 1.54,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-092 normal": {
+    "name": "Marshall.D.Teach (092)",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.24,
+      "mid": 0.46,
+      "high": 8.97,
+      "market": 0.34,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-094 normal": {
+    "name": "Peachbeard",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.08,
+      "mid": 0.35,
+      "high": 1.41,
+      "market": 0.22,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-097 normal": {
+    "name": "Black Vortex",
+    "groupId": 23590,
+    "prices": {
+      "low": 13.72,
+      "mid": 14.99,
+      "high": 49.99,
+      "market": 4.42,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-099 normal": {
+    "name": "Fullalead",
+    "groupId": 23590,
+    "prices": {
+      "low": 2.0,
+      "mid": 3.12,
+      "high": 13.48,
+      "market": 2.67,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-105 normal": {
+    "name": "Sanji (105)",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.4,
+      "mid": 0.75,
+      "high": 12.0,
+      "market": 0.67,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-106 normal": {
+    "name": "Nico Olvia",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.97,
+      "mid": 1.94,
+      "high": 15.0,
+      "market": 1.32,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-110 normal": {
+    "name": "Pierre",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.23,
+      "mid": 0.4,
+      "high": 1.56,
+      "market": 0.39,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-111 normal": {
+    "name": "Brook (111)",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.09,
+      "mid": 0.49,
+      "high": 5.99,
+      "market": 0.28,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-112 normal": {
+    "name": "Belo Betty",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.4,
+      "mid": 0.75,
+      "high": 5.99,
+      "market": 0.71,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-113 normal": {
+    "name": "Morley",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.03,
+      "mid": 0.3,
+      "high": 1.34,
+      "market": 0.21,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-114 normal": {
+    "name": "Lindbergh",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.05,
+      "mid": 0.33,
+      "high": 6.0,
+      "market": 0.22,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-116 normal": {
+    "name": "Never Underestimate the Power of Miracles!!",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.25,
+      "mid": 0.37,
+      "high": 5.0,
+      "market": 0.35,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-008 normal": {
+    "name": "Building Snake",
+    "groupId": 23590,
+    "prices": {
+      "low": 4.6,
+      "mid": 5.4,
+      "high": 29.99,
+      "market": 4.94,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-011 normal": {
+    "name": "Hongo",
+    "groupId": 23590,
+    "prices": {
+      "low": 1.34,
+      "mid": 3.08,
+      "high": 7.5,
+      "market": 3.05,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-014 normal": {
+    "name": "Limejuice",
+    "groupId": 23590,
+    "prices": {
+      "low": 3.99,
+      "mid": 5.0,
+      "high": 8.99,
+      "market": 6.02,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-017 normal": {
+    "name": "Wire",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.42,
+      "mid": 0.69,
+      "high": 1.99,
+      "market": 0.43,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-018 normal": {
+    "name": "Get Out of Here!",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.4,
+      "mid": 0.5,
+      "high": 6.77,
+      "market": 0.64,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-025 normal": {
+    "name": "Crocodile (025)",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.48,
+      "mid": 0.65,
+      "high": 2.5,
+      "market": 0.6,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-027 normal": {
+    "name": "Sabo (027)",
+    "groupId": 23590,
+    "prices": {
+      "low": 3.8,
+      "mid": 5.48,
+      "high": 6.71,
+      "market": 5.82,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-030 normal": {
+    "name": "Trafalgar Law",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.7,
+      "mid": 0.91,
+      "high": 4.99,
+      "market": 0.82,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-032 normal": {
+    "name": "Donquixote Rosinante (032)",
+    "groupId": 23590,
+    "prices": {
+      "low": 3.49,
+      "mid": 4.77,
+      "high": 9.95,
+      "market": 4.77,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-035 normal": {
+    "name": "Portgas.D.Ace",
+    "groupId": 23590,
+    "prices": {
+      "low": 2.25,
+      "mid": 4.26,
+      "high": 29.01,
+      "market": 4.03,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-040 normal": {
+    "name": "Thunder Lance Flip Caliber Phoenix Shot",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.44,
+      "mid": 1.04,
+      "high": 9.99,
+      "market": 1.14,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-043 normal": {
+    "name": "Alvida",
+    "groupId": 23590,
+    "prices": {
+      "low": 1.5,
+      "mid": 3.04,
+      "high": 12.99,
+      "market": 2.69,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-044 normal": {
+    "name": "Izo",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.49,
+      "mid": 0.59,
+      "high": 3.5,
+      "market": 0.55,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-045 normal": {
+    "name": "Cabaji",
+    "groupId": 23590,
+    "prices": {
+      "low": 6.15,
+      "mid": 7.88,
+      "high": 34.99,
+      "market": 6.96,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-053 normal": {
+    "name": "Mohji",
+    "groupId": 23590,
+    "prices": {
+      "low": 1.5,
+      "mid": 7.0,
+      "high": 11.0,
+      "market": 7.93,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-059 normal": {
+    "name": "Murder at the Steam Bath",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.49,
+      "mid": 0.86,
+      "high": 5.0,
+      "market": 0.82,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-064 normal": {
+    "name": "Killer",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.85,
+      "mid": 1.0,
+      "high": 3.73,
+      "market": 1.1,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-066 normal": {
+    "name": "Jean Bart",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.42,
+      "mid": 0.55,
+      "high": 1.89,
+      "market": 0.53,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-068 normal": {
+    "name": "Tony Tony.Chopper (067)",
+    "groupId": 23590,
+    "prices": {
+      "low": 3.3,
+      "mid": 5.77,
+      "high": 8.84,
+      "market": 5.18,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-070 normal": {
+    "name": "Nami (070)",
+    "groupId": 23590,
+    "prices": {
+      "low": 9.0,
+      "mid": 12.08,
+      "high": 28.01,
+      "market": 12.58,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-075 normal": {
+    "name": "Eustass\"Captain\"Kid",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.49,
+      "mid": 1.25,
+      "high": 8.0,
+      "market": 1.16,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-077 normal": {
+    "name": "Gum-Gum Lightning",
+    "groupId": 23590,
+    "prices": {
+      "low": 3.43,
+      "mid": 4.95,
+      "high": 7.95,
+      "market": 4.47,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-084 normal": {
+    "name": "Catarina Devon",
+    "groupId": 23590,
+    "prices": {
+      "low": 3.25,
+      "mid": 5.01,
+      "high": 17.96,
+      "market": 6.99,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-088 normal": {
+    "name": "Shiryu",
+    "groupId": 23590,
+    "prices": {
+      "low": 3.49,
+      "mid": 7.98,
+      "high": 12.98,
+      "market": 9.82,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-089 normal": {
+    "name": "Stronger",
+    "groupId": 23590,
+    "prices": {
+      "low": 5.2,
+      "mid": 13.18,
+      "high": 20.0,
+      "market": 15.7,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-098 normal": {
+    "name": "Black Hole",
+    "groupId": 23590,
+    "prices": {
+      "low": 2.99,
+      "mid": 6.29,
+      "high": 22.99,
+      "market": 3.9,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-100 normal": {
+    "name": "Karasu",
+    "groupId": 23590,
+    "prices": {
+      "low": 4.2,
+      "mid": 5.29,
+      "high": 8.24,
+      "market": 5.29,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-108 normal": {
+    "name": "Bartholomew Kuma",
+    "groupId": 23590,
+    "prices": {
+      "low": 4.2,
+      "mid": 7.0,
+      "high": 34.99,
+      "market": 7.27,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-109 normal": {
+    "name": "Jaguar.D.Saul",
+    "groupId": 23590,
+    "prices": {
+      "low": 2.89,
+      "mid": 3.48,
+      "high": 7.49,
+      "market": 3.19,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-115 normal": {
+    "name": "Ice Block Partisan",
+    "groupId": 23590,
+    "prices": {
+      "low": 0.2,
+      "mid": 0.39,
+      "high": 1.99,
+      "market": 0.33,
+      "directLow": null
+    }
+  }
+}

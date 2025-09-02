@@ -26,10 +26,10 @@
     "groupId": 23491
   },
   "P-P-057 normal": {
-    "lowPrice": 0.01,
-    "midPrice": 0.16,
+    "lowPrice": 0.05,
+    "midPrice": 0.15,
     "highPrice": 3.99,
-    "marketPrice": 0.09,
+    "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Fleeting Lullaby",
     "rarity": "PR",
@@ -52,7 +52,7 @@
     "groupId": 23491
   },
   "P-P-058 normal": {
-    "lowPrice": 0.01,
+    "lowPrice": 0.05,
     "midPrice": 0.15,
     "highPrice": 2.99,
     "marketPrice": 0.1,
@@ -78,10 +78,10 @@
     "groupId": 23491
   },
   "P-P-059 normal": {
-    "lowPrice": 0.01,
+    "lowPrice": 0.05,
     "midPrice": 0.18,
     "highPrice": 2.99,
-    "marketPrice": 0.1,
+    "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "The World's Continuation",
     "rarity": "PR",
@@ -107,7 +107,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 2.99,
-    "marketPrice": 0.09,
+    "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Tot Musica",
     "rarity": "PR",
@@ -208,8 +208,8 @@
     "groupId": 23491
   },
   "ST11-ST11-004 normal": {
-    "lowPrice": 0.13,
-    "midPrice": 0.24,
+    "lowPrice": 0.1,
+    "midPrice": 0.25,
     "highPrice": 1.44,
     "marketPrice": 0.22,
     "directLowPrice": null,
@@ -261,9 +261,9 @@
   },
   "ST16-ST16-001 normal": {
     "lowPrice": 0.22,
-    "midPrice": 0.5,
+    "midPrice": 0.56,
     "highPrice": 9.99,
-    "marketPrice": 0.51,
+    "marketPrice": 0.56,
     "directLowPrice": null,
     "name": "Uta (ST16-001)",
     "rarity": "SR",
@@ -289,7 +289,7 @@
     "lowPrice": 0.02,
     "midPrice": 0.2,
     "highPrice": 2.99,
-    "marketPrice": 0.07,
+    "marketPrice": 0.08,
     "directLowPrice": null,
     "name": "Gordon",
     "rarity": "C",
@@ -339,9 +339,9 @@
   },
   "ST16-ST16-004 normal": {
     "lowPrice": 3.0,
-    "midPrice": 4.39,
+    "midPrice": 4.4,
     "highPrice": 12.0,
-    "marketPrice": 3.75,
+    "marketPrice": 3.83,
     "directLowPrice": null,
     "name": "Shanks",
     "rarity": "SR",

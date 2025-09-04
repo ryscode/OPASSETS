@@ -27,10 +27,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout main
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: main
 
       - name: Setup Node 20
         uses: actions/setup-node@v4
@@ -50,7 +51,7 @@ jobs:
           const PRODUCTS_DIR   = path.join(ROOT, 'CM-Data', 'Products');
           const FINAL_DIR      = path.join(ROOT, 'CM-Data', 'Final', 'PriceHistory');
 
-          const FORCE_DATE = (process.env.FORCE_DATE || '').trim();
+          const FORCE_DATE    = (process.env.FORCE_DATE || '').trim();
           const MARKET_FILTER = (process.env.MARKET_FILTER || '').trim();
 
           const ensureNL = s => (s.endsWith('\n') ? s : s + '\n');
@@ -213,57 +214,28 @@ jobs:
           MARKET_FILTER: ${{ inputs.market || '' }}
         run: node scripts/split-priceguide-by-expansion.mjs
 
-      # --- Force-Add und committen/pushen + PR via gh ---
-      - name: Show outputs & status
-        run: |
-          echo "=== list final dir ==="
-          ls -lahR "CM-Data/Final/PriceHistory" || true
-          echo "=== git status (before add) ==="
-          git status --porcelain
-
       - name: Stage Final outputs (force, recursive)
         id: stage
         run: |
+          echo "=== list final dir ==="
+          ls -lahR "CM-Data/Final/PriceHistory" || true
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # nur die Ausgabe-Ordner stagen (überschreibt .gitignore)
           git add -f -A -- CM-Data/Final/PriceHistory/
-          echo "=== git status (after add) ==="
-          git status --porcelain
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             echo "changed=true"  >> "$GITHUB_OUTPUT"
           fi
+          echo "=== cached diff ==="
+          git diff --cached --name-status | sed -n '1,200p'
 
-      - name: Commit & push branch
+      - name: Commit & direct push to main
         if: steps.stage.outputs.changed == 'true'
-        env:
-          HEAD_BRANCH: automation/split-priceguide-${{ github.run_id }}
         run: |
-          # Commit
+          # Rebase, damit der Push fast-forward ist
+          git fetch origin main
+          git rebase origin/main || { echo "Rebase-Konflikt, Soft-Reset"; git reset --soft ORIG_HEAD; }
           git commit -m "chore(pricehistory): split by expansion [skip ci]"
-          # Default-Branch ermitteln (origin/HEAD → z.B. main)
-          BASE_BRANCH="$(git symbolic-ref --short refs/remotes/origin/HEAD | sed 's@^origin/@@')"
-          echo "BASE_BRANCH=${BASE_BRANCH}"
-          # Branch erstellen und pushen
-          git switch -c "$HEAD_BRANCH"
-          git push --set-upstream origin "$HEAD_BRANCH"
-          echo "BASE_BRANCH=$BASE_BRANCH" >> $GITHUB_ENV
-          echo "HEAD_BRANCH=$HEAD_BRANCH" >> $GITHUB_ENV
-
-      - name: Create PR with gh
-        if: steps.stage.outputs.changed == 'true'
-        env:
-          GH_TOKEN: ${{ github.token }}
-          GH_REPO: ${{ github.repository }}
-        run: |
-          gh pr create \
-            --base "${BASE_BRANCH}" \
-            --head "${HEAD_BRANCH}" \
-            --title "chore(pricehistory): split by expansion" \
-            --body  "- Neuester Dump: ${{ inputs.date || 'auto (neuester im Repo)' }}\
-            \n- Mapping per \`idProduct → idExpansion\` aus \`CM-Data/Products/\`.\
-            \n- Ablage unter \`CM-Data/Final/PriceHistory/YYYY-MM-DD/\` inkl. \`index.json\`.\
-            \n- Dateinamen: \`price_guide_<lang>_<OP-07|ST-13|exp-<id>>_<date>.json\`."
-          echo "PR erstellt:"
-          gh pr view --web || true
+          git push origin HEAD:main

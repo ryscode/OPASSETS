@@ -6,7 +6,11 @@ on:
   workflow_dispatch:
     inputs:
       date:
-        description: "Optional: bestimmtes Datum (YYYY-MM-DD) statt 'neuester Dump'"
+        description: "Optional: Datum (YYYY-MM-DD) statt 'neuester Dump'"
+        required: false
+        type: string
+      market:
+        description: "Optional: nur diesen Markt splitten (z. B. 18)"
         required: false
         type: string
 
@@ -49,6 +53,7 @@ jobs:
 
           // --- Optionen / Env ---
           const FORCE_DATE = (process.env.FORCE_DATE || '').trim(); // YYYY-MM-DD oder leer
+          const MARKET_FILTER = (process.env.MARKET_FILTER || '').trim(); // z.B. "18"
 
           // Hilfsfunktionen
           const ensureNL = s => (s.endsWith('\n') ? s : s + '\n');
@@ -97,7 +102,7 @@ jobs:
 
           function normalizeCode(raw) {
             if (!raw) return null;
-            // Beispiele: OP07, OP-07, ST13 → "OP-07" / "ST-13"
+            // OP07, OP-07, ST13  →  OP-07, ST-13
             const m = String(raw).replace(/[\[\]()]/g, '').match(/^([A-Z]{2})-?(\d{2})$/);
             if (!m) return null;
             return `${m[1]}-${m[2]}`;
@@ -105,11 +110,10 @@ jobs:
 
           function guessCodeFromName(name) {
             if (!name || typeof name !== 'string') return null;
-            // Verschiedene Muster zulassen
             const pats = [
-              /\(([A-Z]{2}-?\d{2})-\d{3}\)/, // (OP07-001)
-              /\[([A-Z]{2}-?\d{2})\]/,       // [OP-07]
-              /(?:^|\s)([A-Z]{2}-?\d{2})-\d{3}\b/, // OP07-001
+              /\(([A-Z]{2}-?\d{2})-\d{3}\)/,          // (OP07-001)
+              /\[([A-Z]{2}-?\d{2})\]/,                // [OP-07]
+              /(?:^|\s)([A-Z]{2}-?\d{2})-\d{3}\b/,    // OP07-001
               /(?:^|\s)\(([A-Z]{2}-?\d{2})\)(?:\s|$)/ // (OP07)
             ];
             for (const rx of pats) {
@@ -127,32 +131,28 @@ jobs:
           async function main() {
             // 1) Neueste(n) price_guide_* ermitteln (nach Datum)
             const pgFiles = await listFiles(PRICEHIST_DIR, /price_guide_\d+_\d{4}-\d{2}-\d{2}\.json$/);
-            if (!pgFiles.length) {
-              console.log('ℹ️ Keine price_guide_*.json gefunden.');
-              return;
-            }
-            const groupedByDate = {};
+            if (!pgFiles.length) { console.log('ℹ️ Keine price_guide_*.json gefunden.'); return; }
+
+            const byDate = {};
             for (const f of pgFiles) {
               const meta = parseDateFromPriceGuideName(f);
               if (!meta) continue;
-              (groupedByDate[meta.date] ||= []).push({ file: f, ...meta });
+              (byDate[meta.date] ||= []).push({ file: f, ...meta });
             }
-            let targetDate = FORCE_DATE || Object.keys(groupedByDate).sort().pop();
-            if (!groupedByDate[targetDate]) {
-              throw new Error(`Kein price_guide_* für Datum ${targetDate} gefunden.`);
-            }
-            const todaysGuides = groupedByDate[targetDate];
-            console.log(`📅 Verwende Dump-Datum: ${targetDate} (${todaysGuides.length} Datei(en))`);
+            let targetDate = FORCE_DATE || Object.keys(byDate).sort().pop();
+            if (!byDate[targetDate]) throw new Error(`Kein price_guide_* für Datum ${targetDate} gefunden.`);
+
+            let todaysGuides = byDate[targetDate];
+            if (MARKET_FILTER) todaysGuides = todaysGuides.filter(g => g.langOrMarket === MARKET_FILTER);
+            if (!todaysGuides.length) { console.log(`ℹ️ Keine price_guide_* für Markt ${MARKET_FILTER}.`); return; }
+
+            console.log(`📅 Dump-Datum: ${targetDate} | Dateien: ${todaysGuides.length} | Markt-Filter: ${MARKET_FILTER || '—'}`);
 
             // 2) Neueste Products-Dateien (singles / nonsingles)
             const prodFiles = await listFiles(PRODUCTS_DIR, /products_(?:single|singles|nonsingle|nonsingles)(?:_\d+)?_\d{4}-\d{2}-\d{2}\.json$/i);
-            if (!prodFiles.length) {
-              console.log('⚠️ Keine datierten Products-Dateien gefunden, versuche undatierte Fallbacks …');
-            }
             let latestSingles = null, latestNonsingles = null, latestSinglesDate = null, latestNonsinglesDate = null;
             for (const f of prodFiles) {
-              const meta = parseDateFromProductsName(f);
-              if (!meta) continue;
+              const meta = parseDateFromProductsName(f); if (!meta) continue;
               if (/singles?/i.test(f)) {
                 if (!latestSinglesDate || meta.date > latestSinglesDate) { latestSingles = f; latestSinglesDate = meta.date; }
               } else {
@@ -164,28 +164,16 @@ jobs:
               const f = (await listFiles(PRODUCTS_DIR, /products_singles(?:_\d+)?\.json$/i)).sort().pop();
               if (f) latestSingles = f;
             }
-            if (!latestNonsingles) {
-              const f = (await listFiles(PRODUCTS_DIR, /products_nonsingles(?:_\d+)?\.json$/i)).sort().pop();
-              if (f) latestNonsingles = f;
-            }
-            if (!latestSingles) {
-              console.log('❌ Keine Products Singles gefunden – ohne Mapping keine Aufteilung möglich.');
-              process.exit(1);
-            }
+            if (!latestSingles) { console.log('❌ Keine Products Singles gefunden – ohne Mapping keine Aufteilung möglich.'); process.exit(1); }
 
             console.log('🧾 Products Singles:', path.relative(ROOT, latestSingles));
             if (latestNonsingles) console.log('🧾 Products NonSingles:', path.relative(ROOT, latestNonsingles));
 
-            // 3) Mapping idProduct -> idExpansion (+ Code-Guess pro Expansion)
+            // 3) Mapping idProduct -> idExpansion (+ Code-Guess)
             const singlesJson = await readJson(latestSingles);
             const singlesArr = Array.isArray(singlesJson?.products) ? singlesJson.products
                               : Array.isArray(singlesJson) && singlesJson[0]?.products ? singlesJson[0].products
                               : [];
-            const nonsJson = latestNonsingles ? await readJson(latestNonsingles) : null;
-            const nonsArr  = Array.isArray(nonsJson?.products) ? nonsJson.products
-                              : Array.isArray(nonsJson) && nonsJson[0]?.products ? nonsJson[0].products
-                              : [];
-
             const productById = new Map();
             const codeHintsByExpansion = new Map();
 
@@ -201,31 +189,28 @@ jobs:
                 }
               }
             };
-
             for (const p of singlesArr) pushProduct(p);
-            for (const p of nonsArr)    pushProduct(p); // nur als Fallback
 
             const codeGuessForExpansion = new Map(
               [...codeHintsByExpansion.entries()].map(([exp, list]) => {
-                const freqMap = list.reduce((a,c)=> (a[c]=(a[c]||0)+1, a), {});
-                const best = Object.entries(freqMap).sort((a,b)=> b[1]-a[1])[0][0];
+                const freq = list.reduce((a,c)=> (a[c]=(a[c]||0)+1, a), {});
+                const best = Object.entries(freq).sort((a,b)=> b[1]-a[1])[0][0];
                 return [exp, best];
               })
             );
 
-            // 4) Zielordner: CM-Data/Final/PriceHistory/YYYY-MM-DD
+            // 4) Zielordner anlegen: CM-Data/Final/PriceHistory/YYYY-MM-DD
             const outDir = path.join(FINAL_DIR, targetDate);
             await fs.mkdir(outDir, { recursive: true });
 
-            // Alte Dateien des Tages (nur Split-Outputs) bereinigen
-            const existing = await fs.readdir(outDir);
-            for (const name of existing) {
-              if (/^price_guide_\d+_(?:[A-Z]{2}-\d{2}_exp-\d+|exp-\d+)_\d{4}-\d{2}-\d{2}\.json$/.test(name) || name === 'index.json') {
+            // Vorherige Outputs dieses Datums aufräumen
+            for (const name of await fs.readdir(outDir)) {
+              if (/^price_guide_\d+_(?:[A-Z]{2}-\d{2}_exp-\d+|exp-\d+|exp-unknown)_\d{4}-\d{2}-\d{2}\.json$/.test(name) || name === 'index.json') {
                 await fs.rm(path.join(outDir, name));
               }
             }
 
-            // 5) Für jeden price_guide_* des Zieldatums splitten
+            // 5) Splitten
             const index = [];
             let totalUnmatched = 0;
 
@@ -234,7 +219,6 @@ jobs:
               const { version, createdAt, priceGuides } = src || {};
               if (!Array.isArray(priceGuides)) continue;
 
-              // Gruppieren nach idExpansion via Product-Mapping
               const groups = new Map(); // expId -> entries[]
               const unknown = [];
 
@@ -249,31 +233,18 @@ jobs:
                 }
               }
 
-              // Schreiben pro Expansion (eindeutiger Dateiname!)
+              // Schreiben pro Expansion – eindeutige Dateinamen!
               for (const [expId, list] of groups.entries()) {
                 list.sort((a,b)=>(a.idProduct??0)-(b.idProduct??0));
-
                 const code = codeGuessForExpansion.get(expId) || null;
                 const codePart = code ? `${code}_exp-${expId}` : `exp-${expId}`;
                 const outName = `price_guide_${langOrMarket}_${codePart}_${targetDate}.json`;
                 const outPath = path.join(outDir, outName);
 
-                const outJson = {
-                  version,
-                  createdAt,
-                  idExpansion: expId,
-                  expansionCode: code,
-                  priceGuides: list
-                };
+                const outJson = { version, createdAt, idExpansion: expId, expansionCode: code, priceGuides: list };
                 await fs.writeFile(outPath, stableStringify(outJson), 'utf8');
 
-                index.push({
-                  langOrMarket,
-                  idExpansion: expId,
-                  expansionCode: code,
-                  file: path.relative(ROOT, outPath),
-                  count: list.length
-                });
+                index.push({ langOrMarket, idExpansion: expId, expansionCode: code, file: path.relative(ROOT, outPath), count: list.length });
                 console.log(`✂️  ${path.relative(ROOT, file)} → ${path.relative(ROOT, outPath)} (${list.length})`);
               }
 
@@ -283,13 +254,7 @@ jobs:
                 const outPath = path.join(outDir, outName);
                 const outJson = { version, createdAt, idExpansion: null, expansionCode: null, priceGuides: unknown };
                 await fs.writeFile(outPath, stableStringify(outJson), 'utf8');
-                index.push({
-                  langOrMarket,
-                  idExpansion: null,
-                  expansionCode: null,
-                  file: path.relative(ROOT, outPath),
-                  count: unknown.length
-                });
+                index.push({ langOrMarket, idExpansion: null, expansionCode: null, file: path.relative(ROOT, outPath), count: unknown.length });
                 console.log(`⁉️  Unmatched: ${unknown.length} → ${path.relative(ROOT, outPath)}`);
               }
             }
@@ -307,9 +272,10 @@ jobs:
       - name: Run splitter
         env:
           FORCE_DATE: ${{ inputs.date || '' }}
+          MARKET_FILTER: ${{ inputs.market || '' }}
         run: node scripts/split-priceguide-by-expansion.mjs
 
-      # --- Force-Add + PR (bypasst .gitignore) ---
+      # --- Force-Add + PR (ignoriert .gitignore) ---
       - name: Debug outputs & status
         run: |
           echo "=== list final dir ==="
@@ -319,14 +285,16 @@ jobs:
           echo "=== git status (before add) ==="
           git status --porcelain
 
-      - name: Stage Final outputs (force)
+      - name: Stage Final outputs (force, recursive)
         id: stage
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f CM-Data/Final/PriceHistory/**
+          git add -f -A -- CM-Data/Final/PriceHistory/
           echo "=== git status (after add) ==="
           git status --porcelain
+          echo "=== cached diff ==="
+          git diff --cached --name-status || true
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
@@ -340,6 +308,8 @@ jobs:
           branch: automation/split-priceguide-${{ github.run_id }}
           title: "chore(pricehistory): split by expansion"
           commit-message: "chore(pricehistory): split by expansion [skip ci]"
+          add-paths: |
+            CM-Data/Final/PriceHistory/**
           body: |
             - Neuester Dump: ${{ inputs.date || 'auto (neuester im Repo)' }}
             - Mapping per `idProduct → idExpansion` aus `CM-Data/Products/`.

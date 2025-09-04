@@ -14,6 +14,10 @@ permissions:
   contents: write
   pull-requests: write
 
+concurrency:
+  group: split-priceguide-by-expansion
+  cancel-in-progress: true
+
 jobs:
   split:
     runs-on: ubuntu-latest
@@ -91,10 +95,6 @@ jobs:
             return m ? { market: m[2] || null, date: m[3] } : null;
           }
 
-          function maxDate(a, b) {
-            return (a > b) ? a : b;
-          }
-
           function normalizeCode(raw) {
             if (!raw) return null;
             // Beispiele: OP07, OP-07, ST13 → "OP-07" / "ST-13"
@@ -154,11 +154,9 @@ jobs:
               const meta = parseDateFromProductsName(f);
               if (!meta) continue;
               if (/singles?/i.test(f)) {
-                latestSingles = (!latestSinglesDate || meta.date > latestSinglesDate) ? f : latestSingles;
-                latestSinglesDate = (!latestSinglesDate || meta.date > latestSinglesDate) ? meta.date : latestSinglesDate;
+                if (!latestSinglesDate || meta.date > latestSinglesDate) { latestSingles = f; latestSinglesDate = meta.date; }
               } else {
-                latestNonsingles = (!latestNonsinglesDate || meta.date > latestNonsinglesDate) ? f : latestNonsingles;
-                latestNonsinglesDate = (!latestNonsinglesDate || meta.date > latestNonsinglesDate) ? meta.date : latestNonsinglesDate;
+                if (!latestNonsinglesDate || meta.date > latestNonsinglesDate) { latestNonsingles = f; latestNonsinglesDate = meta.date; }
               }
             }
             // Fallbacks ohne Datum
@@ -205,12 +203,13 @@ jobs:
             };
 
             for (const p of singlesArr) pushProduct(p);
-            for (const p of nonsArr)    pushProduct(p); // nur als Fallback, falls idProduct dort vorkommt
+            for (const p of nonsArr)    pushProduct(p); // nur als Fallback
 
             const codeGuessForExpansion = new Map(
               [...codeHintsByExpansion.entries()].map(([exp, list]) => {
-                const freq = Object.entries(list.reduce((a,c)=> (a[c]=(a[c]||0)+1, a), {})).sort((a,b)=>b[1]-a[1]);
-                return [exp, freq[0][0]];
+                const freqMap = list.reduce((a,c)=> (a[c]=(a[c]||0)+1, a), {});
+                const best = Object.entries(freqMap).sort((a,b)=> b[1]-a[1])[0][0];
+                return [exp, best];
               })
             );
 
@@ -221,7 +220,7 @@ jobs:
             // Alte Dateien des Tages (nur Split-Outputs) bereinigen
             const existing = await fs.readdir(outDir);
             for (const name of existing) {
-              if (/^price_guide_\d+_(?:[A-Z]{2}-\d{2}|exp-\d+)_\d{4}-\d{2}-\d{2}\.json$/.test(name) || name === 'index.json') {
+              if (/^price_guide_\d+_(?:[A-Z]{2}-\d{2}_exp-\d+|exp-\d+)_\d{4}-\d{2}-\d{2}\.json$/.test(name) || name === 'index.json') {
                 await fs.rm(path.join(outDir, name));
               }
             }
@@ -250,12 +249,12 @@ jobs:
                 }
               }
 
-              // Schreiben pro Expansion
+              // Schreiben pro Expansion (eindeutiger Dateiname!)
               for (const [expId, list] of groups.entries()) {
                 list.sort((a,b)=>(a.idProduct??0)-(b.idProduct??0));
 
                 const code = codeGuessForExpansion.get(expId) || null;
-                const codePart = code ? code : `exp-${expId}`;
+                const codePart = code ? `${code}_exp-${expId}` : `exp-${expId}`;
                 const outName = `price_guide_${langOrMarket}_${codePart}_${targetDate}.json`;
                 const outPath = path.join(outDir, outName);
 
@@ -280,7 +279,6 @@ jobs:
 
               totalUnmatched += unknown.length;
               if (unknown.length) {
-                // Optional: unknown separat schreiben
                 const outName = `price_guide_${langOrMarket}_exp-unknown_${targetDate}.json`;
                 const outPath = path.join(outDir, outName);
                 const outJson = { version, createdAt, idExpansion: null, expansionCode: null, priceGuides: unknown };
@@ -311,12 +309,24 @@ jobs:
           FORCE_DATE: ${{ inputs.date || '' }}
         run: node scripts/split-priceguide-by-expansion.mjs
 
-      - name: Detect & stage changes
-        id: changes
+      # --- Force-Add + PR (bypasst .gitignore) ---
+      - name: Debug outputs & status
+        run: |
+          echo "=== list final dir ==="
+          ls -lahR "CM-Data/Final/PriceHistory" || true
+          echo "=== sample check-ignore ==="
+          git check-ignore -v CM-Data/Final/PriceHistory/ || echo "not ignored"
+          echo "=== git status (before add) ==="
+          git status --porcelain
+
+      - name: Stage Final outputs (force)
+        id: stage
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
+          git add -f CM-Data/Final/PriceHistory/**
+          echo "=== git status (after add) ==="
+          git status --porcelain
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
@@ -324,16 +334,16 @@ jobs:
           fi
 
       - name: Create Pull Request
-        if: steps.diff.outputs.changed == 'true'
+        if: steps.stage.outputs.changed == 'true'
         uses: peter-evans/create-pull-request@v6
         with:
           branch: automation/split-priceguide-${{ github.run_id }}
           title: "chore(pricehistory): split by expansion"
+          commit-message: "chore(pricehistory): split by expansion [skip ci]"
           body: |
-            - Wurde mit dem neuesten `price_guide_*.json` aus `CM-Data/PriceHistory/` ausgeführt
-              (Datum: ${{ inputs.date || 'neuester Dump' }}).
+            - Neuester Dump: ${{ inputs.date || 'auto (neuester im Repo)' }}
             - Mapping per `idProduct → idExpansion` aus `CM-Data/Products/`.
-            - Ergebnisse abgelegt unter `CM-Data/Final/PriceHistory/YYYY-MM-DD/` inkl. `index.json`.
-            - Dateinamen: `price_guide_<langOrMarket>_<OP-07|ST-13|exp-<id>>_<date>.json`.
+            - Ablage unter `CM-Data/Final/PriceHistory/YYYY-MM-DD/` inkl. `index.json`.
+            - Dateinamen: `price_guide_<lang>_<OP-07|ST-13|exp-<id>>_<date>.json`.
           labels: chore, automated, data
           delete-branch: true

@@ -16,7 +16,6 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 concurrency:
   group: split-priceguide-by-expansion
@@ -25,22 +24,19 @@ concurrency:
 jobs:
   split:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout main
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          ref: main
 
       - name: Setup Node 20
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: Add splitter script
+      - name: Add splitter script (via heredoc)
         shell: bash
         run: |
+          set -euo pipefail
           mkdir -p scripts
           cat > scripts/split_priceguide_by_expansion.mjs <<'EOF'
           import fs from "fs/promises";
@@ -55,8 +51,8 @@ jobs:
           // ===== CLI args (robust) =====
           const { values } = parseArgs({
             options: {
-              date:   { type: "string" },
-              market: { type: "string" },
+              date:   { type: "string" }, // YYYY-MM-DD oder leer
+              market: { type: "string" }, // "18" o.ä. oder leer
             },
             allowPositionals: true,
           });
@@ -130,6 +126,7 @@ jobs:
             if (!(await fileExists(singlesPath))) throw new Error(`Fehlt: ${singlesPath}`);
             if (!(await fileExists(nonsinglesPath))) throw new Error(`Fehlt: ${nonsinglesPath}`);
 
+            // Dateien haben Schema {version, createdAt, products:[...]}
             const singles = await readArrayOrKey(singlesPath, "products");
             const nonsingles = await readArrayOrKey(nonsinglesPath, "products");
             console.log(`ℹ️ Products m${market}: singles=${singles.length}, nonsingles=${nonsingles.length}`);
@@ -149,16 +146,173 @@ jobs:
 
           // ===== Expansion name resolver =====
           function deriveNameFromNonSingles(names = []) {
+            // 1) "Common Set - Romance Dawn (OP01)" → "Romance Dawn"
             for (const s of names) {
               const m = s.match(/Set\s*-\s*([^()]+?)\s*\(/);
               if (m) return m[1].trim();
             }
+            // 2) "Starter Deck: Straw Hat Crew" → "Straw Hat Crew"
             for (const s of names) {
               const m = s.match(/Starter Deck:\s*(.+)/);
               if (m) return m[1].trim();
             }
+            // 3) "Romance Dawn Booster Box" / "Sleeved Booster" → "Romance Dawn"
             for (const s of names) {
               for (const kw of [
                 " Sleeved Booster",
                 " Box Promotion Booster",
-                " Booster
+                " Booster Box Case",
+                " Booster Box",
+                " Booster",
+              ]) {
+                if (s.includes(kw)) return s.split(kw)[0].trim();
+              }
+            }
+            // 4) Fallback nach Doppelpunkt
+            for (const s of names) {
+              if (s.includes(":")) return s.split(":", 2)[1].trim();
+            }
+            return names[0]?.trim() ?? null;
+          }
+
+          async function buildExpansionNameMap(market) {
+            const singlesPath = path.join(PRODUCTS_DIR, `products_singles_${market}.json`);
+            const nonsinglesPath = path.join(PRODUCTS_DIR, `products_nonsingles_${market}.json`);
+            const singles = await readArrayOrKey(singlesPath, "products");
+            const nonsingles = await readArrayOrKey(nonsinglesPath, "products");
+
+            // Kandidatennamen aus Non-Singles
+            const namesByExp = new Map();
+            for (const p of nonsingles) {
+              if (p?.idExpansion == null || !p.name) continue;
+              const k = Number(p.idExpansion);
+              if (!namesByExp.has(k)) namesByExp.set(k, []);
+              namesByExp.get(k).push(String(p.name));
+            }
+
+            const expNameMap = new Map();
+            for (const [expId, names] of namesByExp.entries()) {
+              const nm = deriveNameFromNonSingles(names);
+              if (nm) expNameMap.set(expId, nm);
+            }
+
+            // grober Fallback über Codes in Singles
+            const codeRx = /\(([A-Z]{2}\d{2})-/; // z.B. (OP02-003) → OP02
+            for (const p of singles) {
+              const expId = Number(p?.idExpansion ?? NaN);
+              if (!Number.isFinite(expId) || expNameMap.has(expId)) continue;
+              const m = String(p?.name ?? "").match(codeRx);
+              if (m) {
+                const code = m[1];
+                if (code.startsWith("OP")) expNameMap.set(expId, `Unknown ${code}`);
+                else if (code.startsWith("P")) expNameMap.set(expId, "Promo");
+              }
+            }
+            return expNameMap;
+          }
+
+          // ===== Grouping =====
+          function groupByExpansion(priceGuides, productMap) {
+            const groups = new Map();
+            const unknown = [];
+            for (const row of priceGuides) {
+              if (!row || row.idProduct == null) continue;
+              const meta = productMap.get(row.idProduct);
+              const exp = meta?.idExpansion ?? null;
+              const enriched = {
+                ...row,
+                productName: meta?.productName ?? null,
+                productCategoryName: meta?.categoryName ?? null
+              };
+              if (exp == null) unknown.push(enriched);
+              else {
+                if (!groups.has(exp)) groups.set(exp, []);
+                groups.get(exp).push(enriched);
+              }
+            }
+            return { groups, unknown };
+          }
+
+          // ===== Output =====
+          async function writeOutput(date, market, groups, unknown, expNameMap) {
+            // Zielordner: YYYY-MM-DD
+            const outDir = path.join(FINAL_DIR, date);
+            await ensureDir(outDir);
+
+            const index = [];
+            for (const [expIdRaw, items] of [...groups.entries()].sort((a,b)=>Number(a[0])-Number(b[0]))) {
+              const expId = Number(expIdRaw);
+              const expansionName = expNameMap.get(expId) ?? null;
+
+              const out = {
+                date,
+                market: Number(market),
+                expansionId: expId,
+                expansionName,
+                count: items.length,
+                priceGuides: items
+              };
+              const file = path.join(outDir, `m${market}_expansion_${expId}.json`);
+              await fs.writeFile(file, JSON.stringify(out, null, 2), "utf8");
+
+              index.push({ expansionId: expId, expansionName, count: items.length, file: path.basename(file) });
+            }
+
+            if (unknown.length) {
+              const ufile = path.join(outDir, `m${market}_expansion_unknown.json`);
+              await fs.writeFile(ufile, JSON.stringify({
+                date, market: Number(market), expansionId: null, expansionName: null, count: unknown.length, priceGuides: unknown
+              }, null, 2), "utf8");
+              index.push({ expansionId: null, expansionName: null, count: unknown.length, file: path.basename(ufile) });
+            }
+
+            await fs.writeFile(
+              path.join(outDir, "index.json"),
+              JSON.stringify({ date, market: Number(market), files: index }, null, 2),
+              "utf8"
+            );
+            await fs.writeFile(path.join(outDir, "_metadata.txt"), `date=${date}\nmarket=${market}\n`, "utf8");
+          }
+
+          // ===== Main =====
+          async function main() {
+            const markets = INPUT_MARKET ? [INPUT_MARKET] : await listMarketsFromProducts();
+            if (markets.length === 0) throw new Error("Keine Märkte unter CM-Data/Products gefunden.");
+
+            for (const market of markets) {
+              const { date, filepath } = await findLatestPriceGuideForMarket(market, INPUT_DATE);
+
+              const pg = await readJSON(filepath); // {version, createdAt, priceGuides:[...]}
+              const priceGuides = Array.isArray(pg) ? pg
+                : Array.isArray(pg?.priceGuides) ? pg.priceGuides
+                : (() => { throw new Error(`Inhalt in ${filepath} enthält kein Array "priceGuides".`); })();
+
+              console.log(`ℹ️ PriceGuide m${market} @ ${date}: rows=${priceGuides.length}`);
+
+              const productMap = await loadProductMaps(market);
+              const expNameMap = await buildExpansionNameMap(market);
+              const { groups, unknown } = groupByExpansion(priceGuides, productMap);
+              await writeOutput(date, market, groups, unknown, expNameMap);
+
+              console.log(`✔️ Markt ${market}: ${groups.size} Expansionen + ${unknown.length} unbekannte → CM-Data/Final/PriceHistory/${date}`);
+            }
+          }
+
+          main().catch(err => { console.error("❌ Split-Job fehlgeschlagen:", err); process.exit(1); });
+          EOF
+
+      - name: Run splitter
+        shell: bash
+        run: |
+          set -euo pipefail
+          ARGS=()
+          [[ -n "${{ inputs.date }}" ]]   && ARGS+=(--date "${{ inputs.date }}")
+          [[ -n "${{ inputs.market }}" ]] && ARGS+=(--market "${{ inputs.market }}")
+          node scripts/split_priceguide_by_expansion.mjs "${ARGS[@]}"
+
+      - name: Commit & push results
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: split price guide by expansion (auto)"
+          file_pattern: |
+            CM-Data/Final/PriceHistory/**/*

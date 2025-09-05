@@ -25,6 +25,7 @@ concurrency:
 jobs:
   split:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout main
         uses: actions/checkout@v4
@@ -37,7 +38,6 @@ jobs:
         with:
           node-version: '20'
 
-      # legt die JS-Datei im Repo ab
       - name: Add splitter script
         shell: bash
         run: |
@@ -52,6 +52,7 @@ jobs:
           const PRICEHISTORY_DIR = path.join(ROOT, "CM-Data", "PriceHistory");
           const FINAL_DIR = path.join(ROOT, "CM-Data", "Final", "PriceHistory");
 
+          // ===== CLI args (robust) =====
           const { values } = parseArgs({
             options: {
               date:   { type: "string" },
@@ -59,7 +60,6 @@ jobs:
             },
             allowPositionals: true,
           });
-
           const sanitize = (v) => {
             if (v == null) return "";
             let s = String(v).trim();
@@ -69,6 +69,7 @@ jobs:
           const INPUT_DATE   = sanitize(values.date);
           const INPUT_MARKET = sanitize(values.market);
 
+          // ===== FS helpers =====
           async function fileExists(p) { try { await fs.access(p); return true; } catch { return false; } }
           async function readJSON(p) { return JSON.parse(await fs.readFile(p, "utf8")); }
           async function readArrayOrKey(p, key) {
@@ -77,7 +78,9 @@ jobs:
             if (key && Array.isArray(j[key])) return j[key];
             throw new Error(`Inhalt in ${p} hat weder ein Array-Root noch das Array-Feld "${key}".`);
           }
+          async function ensureDir(p) { await fs.mkdir(p, { recursive: true }); }
 
+          // ===== Markets discover =====
           async function listMarketsFromProducts() {
             const files = await fs.readdir(PRODUCTS_DIR);
             const mks = new Set();
@@ -88,6 +91,7 @@ jobs:
             return [...mks].sort();
           }
 
+          // ===== Price guide picker =====
           async function findLatestPriceGuideForMarket(market, preferDate) {
             const entries = await fs.readdir(PRICEHISTORY_DIR, { withFileTypes: true });
             const monthDirs = entries
@@ -119,6 +123,7 @@ jobs:
             return { date: bestDate, filepath: bestPath, month: bestDate.slice(0,7) };
           }
 
+          // ===== Product maps =====
           async function loadProductMaps(market) {
             const singlesPath = path.join(PRODUCTS_DIR, `products_singles_${market}.json`);
             const nonsinglesPath = path.join(PRODUCTS_DIR, `products_nonsingles_${market}.json`);
@@ -142,82 +147,18 @@ jobs:
             return byId;
           }
 
-          function groupByExpansion(priceGuides, productMap) {
-            const groups = new Map();
-            const unknown = [];
-            for (const row of priceGuides) {
-              if (!row || row.idProduct == null) continue;
-              const meta = productMap.get(row.idProduct);
-              const exp = meta?.idExpansion ?? null;
-              const enriched = {
-                ...row,
-                productName: meta?.productName ?? null,
-                productCategoryName: meta?.categoryName ?? null
-              };
-              if (exp == null) unknown.push(enriched);
-              else {
-                if (!groups.has(exp)) groups.set(exp, []);
-                groups.get(exp).push(enriched);
-              }
+          // ===== Expansion name resolver =====
+          function deriveNameFromNonSingles(names = []) {
+            for (const s of names) {
+              const m = s.match(/Set\s*-\s*([^()]+?)\s*\(/);
+              if (m) return m[1].trim();
             }
-            return { groups, unknown };
-          }
-
-          async function ensureDir(p) { await fs.mkdir(p, { recursive: true }); }
-          async function writeOutput(date, market, groups, unknown) {
-            const outDir = path.join(FINAL_DIR, date); // Ordner: YYYY-MM-DD
-            await ensureDir(outDir);
-
-            const index = [];
-            for (const [expId, items] of [...groups.entries()].sort((a,b)=>Number(a[0])-Number(b[0]))) {
-              const out = { date, market: Number(market), expansionId: Number(expId), count: items.length, priceGuides: items };
-              const file = path.join(outDir, `m${market}_expansion_${expId}.json`);
-              await fs.writeFile(file, JSON.stringify(out, null, 2), "utf8");
-              index.push({ expansionId: Number(expId), count: items.length, file: path.basename(file) });
+            for (const s of names) {
+              const m = s.match(/Starter Deck:\s*(.+)/);
+              if (m) return m[1].trim();
             }
-            if (unknown.length) {
-              const ufile = path.join(outDir, `m${market}_expansion_unknown.json`);
-              await fs.writeFile(ufile, JSON.stringify({ date, market: Number(market), expansionId: null, count: unknown.length, priceGuides: unknown }, null, 2), "utf8");
-              index.push({ expansionId: null, count: unknown.length, file: path.basename(ufile) });
-            }
-            await fs.writeFile(path.join(outDir, "index.json"), JSON.stringify({ date, market: Number(market), files: index }, null, 2), "utf8");
-            await fs.writeFile(path.join(outDir, "_metadata.txt"), `date=${date}\nmarket=${market}\n`, "utf8");
-          }
-
-          async function main() {
-            const markets = INPUT_MARKET ? [INPUT_MARKET] : await listMarketsFromProducts();
-            if (markets.length === 0) throw new Error("Keine Märkte unter CM-Data/Products gefunden.");
-
-            for (const market of markets) {
-              const { date, filepath } = await findLatestPriceGuideForMarket(market, INPUT_DATE);
-              const pg = await readJSON(filepath); // {version, createdAt, priceGuides:[...]}
-              const priceGuides = Array.isArray(pg) ? pg
-                : Array.isArray(pg?.priceGuides) ? pg.priceGuides
-                : (() => { throw new Error(`Inhalt in ${filepath} enthält kein Array "priceGuides".`); })();
-
-              console.log(`ℹ️ PriceGuide m${market} @ ${date}: rows=${priceGuides.length}`);
-              const productMap = await loadProductMaps(market);
-              const { groups, unknown } = groupByExpansion(priceGuides, productMap);
-              await writeOutput(date, market, groups, unknown);
-              console.log(`✔️ Markt ${market}: ${groups.size} Expansionen + ${unknown.length} unbekannte → CM-Data/Final/PriceHistory/${date}`);
-            }
-          }
-
-          main().catch(err => { console.error("❌ Split-Job fehlgeschlagen:", err); process.exit(1); });
-          EOF
-
-      - name: Run splitter
-        shell: bash
-        run: |
-          ARGS=()
-          if [[ -n "${{ inputs.date }}" ]]; then ARGS+=(--date "${{ inputs.date }}"); fi
-          if [[ -n "${{ inputs.market }}" ]]; then ARGS+=(--market "${{ inputs.market }}"); fi
-          node scripts/split_priceguide_by_expansion.mjs "${ARGS[@]}"
-
-      - name: Commit & push
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: split price guide by expansion (auto)"
-          file_pattern: |
-            CM-Data/Final/PriceHistory/**/*
-            scripts/split_priceguide_by_expansion.mjs
+            for (const s of names) {
+              for (const kw of [
+                " Sleeved Booster",
+                " Box Promotion Booster",
+                " Booster

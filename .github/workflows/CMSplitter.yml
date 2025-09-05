@@ -6,12 +6,28 @@ const PRODUCTS_DIR = path.join(ROOT, "CM-Data", "Products");
 const PRICEHISTORY_DIR = path.join(ROOT, "CM-Data", "PriceHistory");
 const FINAL_DIR = path.join(ROOT, "CM-Data", "Final", "PriceHistory");
 
-function argOf(flag) {
-  const i = process.argv.indexOf(flag);
-  return i >= 0 ? (process.argv[i + 1] || "").trim() : "";
-}
-const INPUT_DATE = argOf("--date");     // YYYY-MM-DD oder leer
-const INPUT_MARKET = argOf("--market"); // "18" o.ä. oder leer
+import { parseArgs } from "node:util";
+
+// definiere erlaubte Optionen
+const { values } = parseArgs({
+  options: {
+    date:   { type: "string" },
+    market: { type: "string" },
+  },
+  allowPositionals: true,
+});
+
+// sanitize: normalize leere/„null“/„undefined“
+const sanitize = (v) => {
+  if (v == null) return "";
+  let s = String(v).trim();
+  if (s === "null" || s === "undefined" || s === '""' || s === "''") s = "";
+  return s;
+};
+
+const INPUT_DATE   = sanitize(values.date);
+const INPUT_MARKET = sanitize(values.market);
+
 
 async function fileExists(p) {
   try { await fs.access(p); return true; } catch { return false; }

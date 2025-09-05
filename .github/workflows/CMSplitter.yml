@@ -42,200 +42,197 @@ jobs:
         shell: bash
         run: |
           mkdir -p scripts
-          cat > scripts/split-priceguide-by-expansion.mjs <<'EOF'
-          import fs from 'node:fs/promises';
-          import path from 'node:path';
+          cat > scripts/split_priceguide_by_expansion.mjs <<'EOF'
+          import fs from "fs/promises";
+          import path from "path";
 
           const ROOT = process.cwd();
-          const PRICEHIST_DIR = path.join(ROOT, 'CM-Data', 'PriceHistory');
-          const PRODUCTS_DIR   = path.join(ROOT, 'CM-Data', 'Products');
-          const FINAL_DIR      = path.join(ROOT, 'CM-Data', 'Final', 'PriceHistory');
+          const PRODUCTS_DIR = path.join(ROOT, "CM-Data", "Products");
+          const PRICEHISTORY_DIR = path.join(ROOT, "CM-Data", "PriceHistory");
+          const FINAL_DIR = path.join(ROOT, "CM-Data", "Final", "PriceHistory");
 
-          const FORCE_DATE    = (process.env.FORCE_DATE || '').trim();
-          const MARKET_FILTER = (process.env.MARKET_FILTER || '').trim();
+          function argOf(flag) {
+            const i = process.argv.indexOf(flag);
+            return i >= 0 ? (process.argv[i + 1] || "").trim() : "";
+          }
+          const INPUT_DATE = argOf("--date");     // YYYY-MM-DD oder leer
+          const INPUT_MARKET = argOf("--market"); // "18" o.ä. oder leer
 
-          const ensureNL = s => (s.endsWith('\n') ? s : s + '\n');
-          function stableStringify(obj) {
-            const sortObj = (o) => {
-              if (Array.isArray(o)) return o.map(sortObj);
-              if (o && typeof o === 'object') {
-                const out = {};
-                for (const k of Object.keys(o).sort()) out[k] = sortObj(o[k]);
-                return out;
+          async function fileExists(p) {
+            try { await fs.access(p); return true; } catch { return false; }
+          }
+
+          async function readJSON(p) {
+            return JSON.parse(await fs.readFile(p, "utf8"));
+          }
+
+          async function listMarketsFromProducts() {
+            const files = await fs.readdir(PRODUCTS_DIR);
+            const mks = new Set();
+            for (const f of files) {
+              const m = f.match(/products_(?:non)?singles_(\d+)\.json$/);
+              if (m) mks.add(m[1]);
+            }
+            return [...mks].sort();
+          }
+
+          async function findLatestPriceGuideForMarket(market, preferDate /* YYYY-MM-DD or "" */) {
+            // Sammle Month-Ordner (YYYY-MM), neueste zuerst
+            const entries = await fs.readdir(PRICEHISTORY_DIR, { withFileTypes: true });
+            const monthDirs = entries
+              .filter(e => e.isDirectory())
+              .map(e => e.name)
+              .filter(n => /^\d{4}-\d{2}$/.test(n))
+              .sort().reverse();
+
+            let best = null;
+            let bestPath = null;
+
+            // Wenn ein Datum vorgegeben ist: direkt dorthin
+            if (preferDate) {
+              const month = preferDate.slice(0, 7);
+              const p = path.join(PRICEHISTORY_DIR, month, `price_guide_${market}_${preferDate}.json`);
+              if (await fileExists(p)) return { date: preferDate, filepath: p, month };
+              throw new Error(`Price guide für Markt ${market} am ${preferDate} nicht gefunden.`);
+            }
+
+            // sonst: neueste Datei finden
+            const rx = new RegExp(`^price_guide_${market}_(\\d{4}-\\d{2}-\\d{2})\\.json$`);
+            for (const mdir of monthDirs) {
+              const dir = path.join(PRICEHISTORY_DIR, mdir);
+              const files = await fs.readdir(dir);
+              for (const f of files) {
+                const mm = f.match(rx);
+                if (mm) {
+                  const d = mm[1];
+                  if (!best || d > best) {
+                    best = d;
+                    bestPath = path.join(dir, f);
+                  }
+                }
               }
-              return o;
-            };
-            return ensureNL(JSON.stringify(sortObj(obj), null, 2));
+              if (best) break;
+            }
+            if (!best) throw new Error(`Kein price_guide_* für Markt ${market} gefunden.`);
+            return { date: best, filepath: bestPath, month: best.slice(0,7) };
           }
-          async function listFiles(dir, rx) {
-            const out = [];
-            async function rec(d) {
-              const entries = await fs.readdir(d, { withFileTypes: true });
-              for (const e of entries) {
-                const p = path.join(d, e.name);
-                if (e.isDirectory()) await rec(p);
-                else if (rx.test(p)) out.push(p);
+
+          async function loadProductMaps(market) {
+            const singlesPath = path.join(PRODUCTS_DIR, `products_singles_${market}.json`);
+            const nonsinglesPath = path.join(PRODUCTS_DIR, `products_nonsingles_${market}.json`);
+
+            const singles = (await readJSON(singlesPath)).filter(Boolean);
+            const nonsingles = (await readJSON(nonsinglesPath)).filter(Boolean);
+
+            const byId = new Map();
+            for (const p of [...singles, ...nonsingles]) {
+              // Erwartete Felder: idProduct, idExpansion, name, categoryName, idCategory
+              byId.set(p.idProduct, {
+                idExpansion: p.idExpansion ?? null,
+                productName: p.name ?? null,
+                categoryName: p.categoryName ?? null,
+                idCategoryProduct: p.idCategory ?? null,
+              });
+            }
+            return byId;
+          }
+
+          function groupByExpansion(priceGuides, productMap) {
+            const groups = new Map(); // expId -> items[]
+            const unknown = [];
+
+            for (const row of priceGuides) {
+              const meta = productMap.get(row.idProduct);
+              const exp = meta?.idExpansion ?? null;
+              const enriched = {
+                ...row,
+                productName: meta?.productName ?? null,
+                productCategoryName: meta?.categoryName ?? null
+              };
+              if (exp == null) {
+                unknown.push(enriched);
+                continue;
               }
+              if (!groups.has(exp)) groups.set(exp, []);
+              groups.get(exp).push(enriched);
             }
-            await rec(dir);
-            return out;
+            return { groups, unknown };
           }
-          function parseDateFromPriceGuideName(file) {
-            const bn = path.basename(file);
-            const m = bn.match(/^price_guide_(\d+)_([0-9]{4}-[0-9]{2}-[0-9]{2})\.json$/);
-            return m ? { langOrMarket: m[1], date: m[2] } : null;
-          }
-          function parseDateFromProductsName(file) {
-            const bn = path.basename(file);
-            const m = bn.match(/^products_(single|singles|nonsingle|nonsingles)(?:_(\d+))?_([0-9]{4}-[0-9]{2}-[0-9]{2})\.json$/i);
-            return m ? { market: m[2] || null, date: m[3] } : null;
-          }
-          function normalizeCode(raw) {
-            if (!raw) return null;
-            const m = String(raw).replace(/[\[\]()]/g, '').match(/^([A-Z]{2})-?(\d{2})$/);
-            return m ? `${m[1]}-${m[2]}` : null;
-          }
-          function guessCodeFromName(name) {
-            if (!name || typeof name !== 'string') return null;
-            const pats = [
-              /\(([A-Z]{2}-?\d{2})-\d{3}\)/, /\[([A-Z]{2}-?\d{2})\]/,
-              /(?:^|\s)([A-Z]{2}-?\d{2})-\d{3}\b/, /(?:^|\s)\(([A-Z]{2}-?\d{2})\)(?:\s|$)/
-            ];
-            for (const rx of pats) { const m = name.match(rx); if (m) return normalizeCode(m[1]); }
-            return null;
-          }
-          async function readJson(file) { return JSON.parse(await fs.readFile(file, 'utf8')); }
 
-          async function main() {
-            const pgFiles = await listFiles(PRICEHIST_DIR, /price_guide_\d+_\d{4}-\d{2}-\d{2}\.json$/);
-            if (!pgFiles.length) { console.log('ℹ️ Keine price_guide_*.json gefunden.'); return; }
-            const byDate = {};
-            for (const f of pgFiles) {
-              const m = parseDateFromPriceGuideName(f); if (!m) continue;
-              (byDate[m.date] ||= []).push({ file: f, ...m });
-            }
-            let targetDate = FORCE_DATE || Object.keys(byDate).sort().pop();
-            if (!byDate[targetDate]) throw new Error(`Kein price_guide_* für Datum ${targetDate} gefunden.`);
-            let todaysGuides = byDate[targetDate];
-            if (MARKET_FILTER) todaysGuides = todaysGuides.filter(g => g.langOrMarket === MARKET_FILTER);
-            if (!todaysGuides.length) { console.log(`ℹ️ Keine price_guide_* für Markt ${MARKET_FILTER}.`); return; }
-            console.log(`📅 Dump-Datum: ${targetDate} | Dateien: ${todaysGuides.length} | Markt-Filter: ${MARKET_FILTER || '—'}`);
+          async function ensureDir(p) {
+            await fs.mkdir(p, { recursive: true });
+          }
 
-            const prodFiles = await listFiles(PRODUCTS_DIR, /products_(?:single|singles|nonsingle|nonsingles)(?:_\d+)?_\d{4}-\d{2}-\d{2}\.json$/i);
-            let latestSingles = null, latestSinglesDate = null;
-            for (const f of prodFiles) {
-              const meta = parseDateFromProductsName(f); if (!meta) continue;
-              if (/singles?/i.test(f)) if (!latestSinglesDate || meta.date > latestSinglesDate) { latestSingles = f; latestSinglesDate = meta.date; }
-            }
-            if (!latestSingles) {
-              const f = (await listFiles(PRODUCTS_DIR, /products_singles(?:_\d+)?\.json$/i)).sort().pop();
-              if (f) latestSingles = f;
-            }
-            if (!latestSingles) { console.log('❌ Keine Products Singles gefunden.'); process.exit(1); }
-            console.log('🧾 Products Singles:', path.relative(ROOT, latestSingles));
-
-            const singlesJson = await readJson(latestSingles);
-            const singlesArr = Array.isArray(singlesJson?.products) ? singlesJson.products
-                              : Array.isArray(singlesJson) && singlesJson[0]?.products ? singlesJson[0].products
-                              : [];
-            const productById = new Map();
-            const codeHintsByExpansion = new Map();
-            for (const p of singlesArr) {
-              if (!p || p.idProduct == null) continue;
-              if (!productById.has(p.idProduct)) productById.set(p.idProduct, p);
-              if (p.idExpansion != null && p.name) {
-                const code = guessCodeFromName(p.name);
-                if (code) (codeHintsByExpansion.get(p.idExpansion) || codeHintsByExpansion.set(p.idExpansion, []).get(p.idExpansion)).push(code);
-              }
-            }
-            const codeGuessForExpansion = new Map(
-              [...codeHintsByExpansion.entries()].map(([exp, list]) => {
-                const freq = list.reduce((a,c)=>(a[c]=(a[c]||0)+1,a),{});
-                return [exp, Object.entries(freq).sort((a,b)=>b[1]-a[1])[0][0]];
-              })
-            );
-
-            const outDir = path.join(FINAL_DIR, targetDate);
-            await fs.mkdir(outDir, { recursive: true });
-            for (const name of await fs.readdir(outDir)) {
-              if (/^price_guide_\d+_(?:[A-Z]{2}-\d{2}_exp-\d+|exp-\d+|exp-unknown)_\d{4}-\d{2}-\d{2}\.json$/.test(name) || name === 'index.json') {
-                await fs.rm(path.join(outDir, name));
-              }
-            }
+          async function writeOutput(date, market, groups, unknown) {
+            // Ziel: CM-Data/Final/PriceHistory/YYYY-MM-DD/{m<market>_expansion_<id>.json}
+            const outDir = path.join(FINAL_DIR, date);
+            await ensureDir(outDir);
 
             const index = [];
-            let totalUnmatched = 0;
-
-            for (const { file, langOrMarket } of todaysGuides) {
-              const src = await readJson(file);
-              const { version, createdAt, priceGuides } = src || {};
-              if (!Array.isArray(priceGuides)) continue;
-
-              const groups = new Map(); const unknown = [];
-              for (const e of priceGuides) {
-                const p = productById.get(e.idProduct);
-                if (p?.idExpansion != null) (groups.get(p.idExpansion) || groups.set(p.idExpansion, []).get(p.idExpansion)).push(e);
-                else unknown.push(e);
-              }
-
-              for (const [expId, list] of groups.entries()) {
-                list.sort((a,b)=>(a.idProduct??0)-(b.idProduct??0));
-                const code = codeGuessForExpansion.get(expId) || null;
-                const codePart = code ? `${code}_exp-${expId}` : `exp-${expId}`;
-                const outName = `price_guide_${langOrMarket}_${codePart}_${targetDate}.json`;
-                const outPath = path.join(outDir, outName);
-                const outJson = { version, createdAt, idExpansion: expId, expansionCode: code, priceGuides: list };
-                await fs.writeFile(outPath, stableStringify(outJson), 'utf8');
-                index.push({ langOrMarket, idExpansion: expId, expansionCode: code, file: path.relative(ROOT, outPath), count: list.length });
-                console.log(`✂️  ${path.relative(ROOT, file)} → ${path.relative(ROOT, outPath)} (${list.length})`);
-              }
-
-              totalUnmatched += unknown.length;
-              if (unknown.length) {
-                const outName = `price_guide_${langOrMarket}_exp-unknown_${targetDate}.json`;
-                const outPath = path.join(outDir, outName);
-                const outJson = { version, createdAt, idExpansion: null, expansionCode: null, priceGuides: unknown };
-                await fs.writeFile(outPath, stableStringify(outJson), 'utf8');
-                index.push({ langOrMarket, idExpansion: null, expansionCode: null, file: path.relative(ROOT, outPath), count: unknown.length });
-                console.log(`⁉️  Unmatched: ${unknown.length} → ${path.relative(ROOT, outPath)}`);
-              }
+            for (const [expId, items] of groups.entries()) {
+              const out = {
+                date,
+                market: Number(market),
+                expansionId: Number(expId),
+                count: items.length,
+                priceGuides: items
+              };
+              const file = path.join(outDir, `m${market}_expansion_${expId}.json`);
+              await fs.writeFile(file, JSON.stringify(out, null, 2), "utf8");
+              index.push({ expansionId: Number(expId), count: items.length, file: path.basename(file) });
             }
 
-            index.sort((a,b)=> (a.langOrMarket+b.file).localeCompare(b.langOrMarket+b.file));
-            await fs.writeFile(path.join(outDir, 'index.json'), stableStringify({ date: targetDate, items: index, unmatched: totalUnmatched }), 'utf8');
-            console.log(`\n✅ Split fertig. Zielordner: ${path.relative(ROOT, outDir)}`);
+            if (unknown.length) {
+              const ufile = path.join(outDir, `m${market}_expansion_unknown.json`);
+              await fs.writeFile(ufile, JSON.stringify({
+                date, market: Number(market), expansionId: null, count: unknown.length, priceGuides: unknown
+              }, null, 2), "utf8");
+              index.push({ expansionId: null, count: unknown.length, file: path.basename(ufile) });
+            }
+
+            await fs.writeFile(path.join(outDir, "index.json"), JSON.stringify({
+              date, market: Number(market), files: index
+            }, null, 2), "utf8");
+
+            // kleine Spur für Commit-Message
+            await fs.writeFile(path.join(outDir, "_metadata.txt"), `date=${date}\nmarket=${market}\n`, "utf8");
           }
-          await main().catch(err => { console.error(err); process.exit(1); });
+
+          async function main() {
+            const markets = INPUT_MARKET ? [INPUT_MARKET] : await listMarketsFromProducts();
+            if (markets.length === 0) {
+              throw new Error("Keine Märkte unter CM-Data/Products gefunden.");
+            }
+
+            for (const market of markets) {
+              const { date, filepath } = await findLatestPriceGuideForMarket(market, INPUT_DATE);
+              const pg = await readJSON(filepath); // Objekt mit {version, createdAt, priceGuides:[...]}
+              const priceGuides = Array.isArray(pg?.priceGuides) ? pg.priceGuides : [];
+              // Hinweis: Struktur siehe Quelle (idProduct, idCategory, avg/low/trend/…)  //  (siehe Zitier-Block im Chat)
+
+              const productMap = await loadProductMaps(market);
+              const { groups, unknown } = groupByExpansion(priceGuides, productMap);
+              await writeOutput(date, market, groups, unknown);
+
+              console.log(`✔️ Markt ${market}: ${groups.size} Expansionen + ${unknown.length} unbekannte Einträge → CM-Data/Final/PriceHistory/${date}`);
+            }
+          }
+
+          main().catch(err => {
+            console.error("❌ Split-Job fehlgeschlagen:", err);
+            process.exit(1);
+          });
           EOF
 
       - name: Run splitter
-        env:
-          FORCE_DATE: ${{ inputs.date || '' }}
-          MARKET_FILTER: ${{ inputs.market || '' }}
-        run: node scripts/split-priceguide-by-expansion.mjs
-
-      - name: Stage Final outputs (force, recursive)
-        id: stage
+        shell: bash
         run: |
-          echo "=== list final dir ==="
-          ls -lahR "CM-Data/Final/PriceHistory" || true
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # nur die Ausgabe-Ordner stagen (überschreibt .gitignore)
-          git add -f -A -- CM-Data/Final/PriceHistory/
-          if git diff --cached --quiet; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-          else
-            echo "changed=true"  >> "$GITHUB_OUTPUT"
-          fi
-          echo "=== cached diff ==="
-          git diff --cached --name-status | sed -n '1,200p'
+          node scripts/split_priceguide_by_expansion.mjs --date "${{ inputs.date }}" --market "${{ inputs.market }}"
 
-      - name: Commit & direct push to main
-        if: steps.stage.outputs.changed == 'true'
-        run: |
-          # Rebase, damit der Push fast-forward ist
-          git fetch origin main
-          git rebase origin/main || { echo "Rebase-Konflikt, Soft-Reset"; git reset --soft ORIG_HEAD; }
-          git commit -m "chore(pricehistory): split by expansion [skip ci]"
-          git push origin HEAD:main
+      - name: Commit & push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: split price guide by expansion (auto)"
+          file_pattern: |
+            CM-Data/Final/PriceHistory/**/*
+            scripts/split_priceguide_by_expansion.mjs

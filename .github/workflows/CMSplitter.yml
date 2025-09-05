@@ -233,6 +233,18 @@ jobs:
             return { groups, unknown };
           }
 
+          // ===== safe filename slug =====
+          function slugify(name) {
+            if (!name) return "unknown";
+            return name
+              .normalize('NFKD')                 // Akzente trennbar machen
+              .replace(/[\u0300-\u036f]/g, '')   // Akzentzeichen entfernen
+              .replace(/[^a-zA-Z0-9]+/g, '_')    // alles Nicht-Alnum → _
+              .replace(/^_+|_+$/g, '')           // Trim _
+              .toLowerCase()
+              .slice(0, 80);                     // etwas kürzen
+          }
+
           // ===== Output =====
           async function writeOutput(date, market, groups, unknown, expNameMap) {
             // Zielordner: YYYY-MM-DD
@@ -243,6 +255,7 @@ jobs:
             for (const [expIdRaw, items] of [...groups.entries()].sort((a,b)=>Number(a[0])-Number(b[0]))) {
               const expId = Number(expIdRaw);
               const expansionName = expNameMap.get(expId) ?? null;
+              const expansionSlug = slugify(expansionName);
 
               const out = {
                 date,
@@ -252,10 +265,17 @@ jobs:
                 count: items.length,
                 priceGuides: items
               };
-              const file = path.join(outDir, `m${market}_expansion_${expId}.json`);
+
+              // 👇 hier kommt der Name mit in den Dateinamen
+              const file = path.join(outDir, `m${market}_expansion_${expId}_${expansionSlug}.json`);
               await fs.writeFile(file, JSON.stringify(out, null, 2), "utf8");
 
-              index.push({ expansionId: expId, expansionName, count: items.length, file: path.basename(file) });
+              index.push({
+                expansionId: expId,
+                expansionName,
+                count: items.length,
+                file: path.basename(file)
+              });
             }
 
             if (unknown.length) {

@@ -1,6 +1,6 @@
 {
   "P-P-029 normal": {
-    "lowPrice": 0.05,
+    "lowPrice": 0.03,
     "midPrice": 0.2,
     "highPrice": 5.99,
     "marketPrice": 0.12,
@@ -79,7 +79,7 @@
   },
   "P-P-059 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.17,
+    "midPrice": 0.16,
     "highPrice": 2.99,
     "marketPrice": 0.1,
     "directLowPrice": null,
@@ -107,7 +107,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 2.99,
-    "marketPrice": 0.11,
+    "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Tot Musica",
     "rarity": "PR",
@@ -157,7 +157,7 @@
   },
   "ST11-ST11-001 normal": {
     "lowPrice": 0.23,
-    "midPrice": 0.44,
+    "midPrice": 0.45,
     "highPrice": 2.0,
     "marketPrice": 0.31,
     "directLowPrice": null,
@@ -263,7 +263,7 @@
     "lowPrice": 0.22,
     "midPrice": 0.52,
     "highPrice": 9.9,
-    "marketPrice": 0.51,
+    "marketPrice": 0.52,
     "directLowPrice": null,
     "name": "Uta (ST16-001)",
     "rarity": "SR",
@@ -338,10 +338,10 @@
     "groupId": 23491
   },
   "ST16-ST16-004 normal": {
-    "lowPrice": 2.82,
-    "midPrice": 4.4,
+    "lowPrice": 3.46,
+    "midPrice": 4.41,
     "highPrice": 10.0,
-    "marketPrice": 3.69,
+    "marketPrice": 3.59,
     "directLowPrice": null,
     "name": "Shanks",
     "rarity": "SR",

@@ -1,9 +1,9 @@
 {
   "ST22-ST22-001 normal": {
-    "lowPrice": 1.0,
-    "midPrice": 2.46,
+    "lowPrice": 0.75,
+    "midPrice": 1.32,
     "highPrice": 2.99,
-    "marketPrice": 2.46,
+    "marketPrice": 1.32,
     "directLowPrice": null,
     "name": "Ace & Newgate",
     "rarity": "L",
@@ -26,10 +26,10 @@
     "groupId": 24304
   },
   "ST22-ST22-001 parallel": {
-    "lowPrice": 24.5,
-    "midPrice": 27.5,
+    "lowPrice": 20.5,
+    "midPrice": 24.82,
     "highPrice": 99.0,
-    "marketPrice": 26.71,
+    "marketPrice": 22.67,
     "directLowPrice": null,
     "name": "Ace & Newgate (Parallel)",
     "rarity": "L",
@@ -52,10 +52,10 @@
     "groupId": 24304
   },
   "ST22-ST22-002 normal": {
-    "lowPrice": 3.99,
-    "midPrice": 4.99,
+    "lowPrice": 1.0,
+    "midPrice": 2.5,
     "highPrice": 15.0,
-    "marketPrice": 5.3,
+    "marketPrice": 2.39,
     "directLowPrice": null,
     "name": "Izo",
     "rarity": "SR",
@@ -78,10 +78,10 @@
     "groupId": 24304
   },
   "ST22-ST22-002 parallel": {
-    "lowPrice": 27.0,
-    "midPrice": 29.98,
-    "highPrice": 39.97,
-    "marketPrice": 21.91,
+    "lowPrice": 16.99,
+    "midPrice": 20.99,
+    "highPrice": 30.53,
+    "marketPrice": 22.52,
     "directLowPrice": null,
     "name": "Izo (Parallel)",
     "rarity": "SR",
@@ -104,10 +104,10 @@
     "groupId": 24304
   },
   "ST22-ST22-003 normal": {
-    "lowPrice": 0.15,
-    "midPrice": 1.1,
+    "lowPrice": 0.07,
+    "midPrice": 0.5,
     "highPrice": 1.99,
-    "marketPrice": 1.14,
+    "marketPrice": 0.39,
     "directLowPrice": null,
     "name": "Edward.Newgate",
     "rarity": "C",
@@ -130,10 +130,10 @@
     "groupId": 24304
   },
   "ST22-ST22-003 parallel": {
-    "lowPrice": 7.14,
-    "midPrice": 8.75,
-    "highPrice": 13.97,
-    "marketPrice": 9.04,
+    "lowPrice": 5.0,
+    "midPrice": 6.96,
+    "highPrice": 17.95,
+    "marketPrice": 6.34,
     "directLowPrice": null,
     "name": "Edward.Newgate (Parallel)",
     "rarity": "C",
@@ -156,10 +156,10 @@
     "groupId": 24304
   },
   "ST22-ST22-004 normal": {
-    "lowPrice": 0.1,
-    "midPrice": 0.27,
+    "lowPrice": 0.01,
+    "midPrice": 0.2,
     "highPrice": 1.0,
-    "marketPrice": null,
+    "marketPrice": 0.08,
     "directLowPrice": null,
     "name": "Elmy",
     "rarity": "C",
@@ -182,10 +182,10 @@
     "groupId": 24304
   },
   "ST22-ST22-004 parallel": {
-    "lowPrice": 1.0,
-    "midPrice": 2.97,
-    "highPrice": 9.99,
-    "marketPrice": 1.9,
+    "lowPrice": 0.8,
+    "midPrice": 1.0,
+    "highPrice": 2.99,
+    "marketPrice": 1.01,
     "directLowPrice": null,
     "name": "Elmy (Parallel)",
     "rarity": "C",
@@ -208,10 +208,10 @@
     "groupId": 24304
   },
   "ST22-ST22-005 normal": {
-    "lowPrice": 3.79,
-    "midPrice": 4.35,
+    "lowPrice": 2.5,
+    "midPrice": 3.04,
     "highPrice": 6.0,
-    "marketPrice": 4.09,
+    "marketPrice": 2.69,
     "directLowPrice": null,
     "name": "Kouzuki Oden",
     "rarity": "SR",
@@ -234,10 +234,10 @@
     "groupId": 24304
   },
   "ST22-ST22-005 parallel": {
-    "lowPrice": 29.67,
-    "midPrice": 38.48,
+    "lowPrice": 19.99,
+    "midPrice": 26.98,
     "highPrice": 55.0,
-    "marketPrice": 30.27,
+    "marketPrice": 28.17,
     "directLowPrice": null,
     "name": "Kouzuki Oden (Parallel)",
     "rarity": "SR",
@@ -260,10 +260,10 @@
     "groupId": 24304
   },
   "ST22-ST22-006 normal": {
-    "lowPrice": 0.14,
-    "midPrice": 0.4,
+    "lowPrice": 0.06,
+    "midPrice": 0.16,
     "highPrice": 1.0,
-    "marketPrice": 0.15,
+    "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Jozu",
     "rarity": "C",
@@ -286,10 +286,10 @@
     "groupId": 24304
   },
   "ST22-ST22-006 parallel": {
-    "lowPrice": 5.75,
-    "midPrice": 7.49,
+    "lowPrice": 2.99,
+    "midPrice": 6.33,
     "highPrice": 9.99,
-    "marketPrice": 7.19,
+    "marketPrice": 6.32,
     "directLowPrice": null,
     "name": "Jozu (Parallel)",
     "rarity": "C",
@@ -312,10 +312,10 @@
     "groupId": 24304
   },
   "ST22-ST22-007 normal": {
-    "lowPrice": 0.79,
-    "midPrice": 0.95,
+    "lowPrice": 0.45,
+    "midPrice": 0.76,
     "highPrice": 1.25,
-    "marketPrice": 0.95,
+    "marketPrice": 0.7,
     "directLowPrice": null,
     "name": "Squard",
     "rarity": "C",
@@ -338,10 +338,10 @@
     "groupId": 24304
   },
   "ST22-ST22-007 parallel": {
-    "lowPrice": 3.0,
-    "midPrice": 4.64,
-    "highPrice": 14.99,
-    "marketPrice": 4.44,
+    "lowPrice": 1.0,
+    "midPrice": 2.5,
+    "highPrice": 11.49,
+    "marketPrice": 1.91,
     "directLowPrice": null,
     "name": "Squard (Parallel)",
     "rarity": "C",
@@ -364,10 +364,10 @@
     "groupId": 24304
   },
   "ST22-ST22-008 normal": {
-    "lowPrice": 0.1,
-    "midPrice": 0.25,
+    "lowPrice": 0.05,
+    "midPrice": 0.2,
     "highPrice": 1.0,
-    "marketPrice": null,
+    "marketPrice": 0.08,
     "directLowPrice": null,
     "name": "Decalvan Brothers",
     "rarity": "C",
@@ -390,10 +390,10 @@
     "groupId": 24304
   },
   "ST22-ST22-008 parallel": {
-    "lowPrice": 1.0,
-    "midPrice": 1.5,
-    "highPrice": 9.99,
-    "marketPrice": 1.84,
+    "lowPrice": 0.4,
+    "midPrice": 1.0,
+    "highPrice": 2.49,
+    "marketPrice": 1.0,
     "directLowPrice": null,
     "name": "Decalvan Brothers (Parallel)",
     "rarity": "C",
@@ -416,10 +416,10 @@
     "groupId": 24304
   },
   "ST22-ST22-009 normal": {
-    "lowPrice": 0.5,
-    "midPrice": 0.85,
+    "lowPrice": 0.2,
+    "midPrice": 0.68,
     "highPrice": 1.0,
-    "marketPrice": 0.81,
+    "marketPrice": 0.51,
     "directLowPrice": null,
     "name": "Vista",
     "rarity": "C",
@@ -442,10 +442,10 @@
     "groupId": 24304
   },
   "ST22-ST22-009 parallel": {
-    "lowPrice": 2.49,
-    "midPrice": 3.25,
-    "highPrice": 7.97,
-    "marketPrice": 4.23,
+    "lowPrice": 2.41,
+    "midPrice": 3.0,
+    "highPrice": 5.29,
+    "marketPrice": 2.85,
     "directLowPrice": null,
     "name": "Vista (Parallel)",
     "rarity": "C",
@@ -468,10 +468,10 @@
     "groupId": 24304
   },
   "ST22-ST22-010 normal": {
-    "lowPrice": 0.15,
-    "midPrice": 0.66,
-    "highPrice": 1.0,
-    "marketPrice": 0.57,
+    "lowPrice": 0.08,
+    "midPrice": 0.36,
+    "highPrice": 0.97,
+    "marketPrice": 0.21,
     "directLowPrice": null,
     "name": "Portgas.D.Ace",
     "rarity": "C",
@@ -494,10 +494,10 @@
     "groupId": 24304
   },
   "ST22-ST22-010 parallel": {
-    "lowPrice": 4.75,
-    "midPrice": 6.93,
-    "highPrice": 11.97,
-    "marketPrice": 7.16,
+    "lowPrice": 2.97,
+    "midPrice": 4.54,
+    "highPrice": 7.16,
+    "marketPrice": 3.69,
     "directLowPrice": null,
     "name": "Portgas.D.Ace (Parallel)",
     "rarity": "C",
@@ -520,10 +520,10 @@
     "groupId": 24304
   },
   "ST22-ST22-011 normal": {
-    "lowPrice": 0.7,
-    "midPrice": 0.95,
+    "lowPrice": 0.45,
+    "midPrice": 0.7,
     "highPrice": 1.25,
-    "marketPrice": 0.93,
+    "marketPrice": 0.65,
     "directLowPrice": null,
     "name": "Whitey Bay",
     "rarity": "C",
@@ -546,10 +546,10 @@
     "groupId": 24304
   },
   "ST22-ST22-011 parallel": {
-    "lowPrice": 4.0,
-    "midPrice": 6.83,
-    "highPrice": 14.99,
-    "marketPrice": 5.53,
+    "lowPrice": 1.99,
+    "midPrice": 4.39,
+    "highPrice": 7.99,
+    "marketPrice": 2.97,
     "directLowPrice": null,
     "name": "Whitey Bay (Parallel)",
     "rarity": "C",
@@ -572,10 +572,10 @@
     "groupId": 24304
   },
   "ST22-ST22-012 normal": {
-    "lowPrice": 0.13,
-    "midPrice": 0.4,
+    "lowPrice": 0.07,
+    "midPrice": 0.19,
     "highPrice": 1.0,
-    "marketPrice": 0.15,
+    "marketPrice": 0.13,
     "directLowPrice": null,
     "name": "Marco",
     "rarity": "C",
@@ -598,10 +598,10 @@
     "groupId": 24304
   },
   "ST22-ST22-012 parallel": {
-    "lowPrice": 9.99,
-    "midPrice": 12.24,
-    "highPrice": 17.98,
-    "marketPrice": 14.28,
+    "lowPrice": 4.99,
+    "midPrice": 9.93,
+    "highPrice": 18.99,
+    "marketPrice": 10.76,
     "directLowPrice": null,
     "name": "Marco (Parallel)",
     "rarity": "C",
@@ -624,10 +624,10 @@
     "groupId": 24304
   },
   "ST22-ST22-013 normal": {
-    "lowPrice": 0.1,
-    "midPrice": 0.25,
+    "lowPrice": 0.05,
+    "midPrice": 0.19,
     "highPrice": 1.0,
-    "marketPrice": null,
+    "marketPrice": 0.08,
     "directLowPrice": null,
     "name": "LittleOars Jr.",
     "rarity": "C",
@@ -650,10 +650,10 @@
     "groupId": 24304
   },
   "ST22-ST22-013 parallel": {
-    "lowPrice": 3.0,
-    "midPrice": 3.7,
-    "highPrice": 9.99,
-    "marketPrice": 3.25,
+    "lowPrice": 0.74,
+    "midPrice": 1.78,
+    "highPrice": 6.49,
+    "marketPrice": 1.7,
     "directLowPrice": null,
     "name": "LittleOars Jr. (Parallel)",
     "rarity": "C",
@@ -676,10 +676,10 @@
     "groupId": 24304
   },
   "ST22-ST22-014 normal": {
-    "lowPrice": 0.1,
-    "midPrice": 0.25,
+    "lowPrice": 0.05,
+    "midPrice": 0.19,
     "highPrice": 1.0,
-    "marketPrice": null,
+    "marketPrice": 0.08,
     "directLowPrice": null,
     "name": "A.O.",
     "rarity": "C",
@@ -702,10 +702,10 @@
     "groupId": 24304
   },
   "ST22-ST22-014 parallel": {
-    "lowPrice": 1.0,
-    "midPrice": 1.95,
-    "highPrice": 9.99,
-    "marketPrice": 1.49,
+    "lowPrice": 0.4,
+    "midPrice": 0.98,
+    "highPrice": 2.97,
+    "marketPrice": 0.89,
     "directLowPrice": null,
     "name": "A.O. (Parallel)",
     "rarity": "C",
@@ -728,10 +728,10 @@
     "groupId": 24304
   },
   "ST22-ST22-015 normal": {
-    "lowPrice": 0.93,
-    "midPrice": 1.39,
+    "lowPrice": 0.4,
+    "midPrice": 0.99,
     "highPrice": 1.99,
-    "marketPrice": 1.37,
+    "marketPrice": 0.93,
     "directLowPrice": null,
     "name": "I Am Whitebeard!!",
     "rarity": "C",
@@ -754,10 +754,10 @@
     "groupId": 24304
   },
   "ST22-ST22-016 normal": {
-    "lowPrice": 0.4,
-    "midPrice": 1.42,
-    "highPrice": 1.99,
-    "marketPrice": 1.38,
+    "lowPrice": 0.19,
+    "midPrice": 0.7,
+    "highPrice": 1.7,
+    "marketPrice": 0.58,
     "directLowPrice": null,
     "name": "Take That Back!! Take Back What You Said!!",
     "rarity": "C",
@@ -780,10 +780,10 @@
     "groupId": 24304
   },
   "ST22-ST22-017 normal": {
-    "lowPrice": 0.99,
-    "midPrice": 1.65,
+    "lowPrice": 0.4,
+    "midPrice": 0.98,
     "highPrice": 2.25,
-    "marketPrice": 1.99,
+    "marketPrice": 0.97,
     "directLowPrice": null,
     "name": "Fire Fist",
     "rarity": "C",

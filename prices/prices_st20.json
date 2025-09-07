@@ -1,7 +1,7 @@
 {
   "OP03-OP03-099 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.4,
+    "midPrice": 0.42,
     "highPrice": 3.69,
     "marketPrice": 0.36,
     "directLowPrice": null,
@@ -131,7 +131,7 @@
   },
   "ST07-ST07-005 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.12,
+    "midPrice": 0.14,
     "highPrice": 11.97,
     "marketPrice": 0.08,
     "directLowPrice": null,
@@ -156,10 +156,10 @@
     "groupId": 23495
   },
   "ST20-ST20-001 normal": {
-    "lowPrice": 0.9,
+    "lowPrice": 0.86,
     "midPrice": 1.5,
     "highPrice": 9.99,
-    "marketPrice": 1.01,
+    "marketPrice": 1.07,
     "directLowPrice": null,
     "name": "Charlotte Katakuri (ST20-001)",
     "rarity": "SR",
@@ -184,7 +184,7 @@
   "ST20-ST20-002 normal": {
     "lowPrice": 0.04,
     "midPrice": 0.22,
-    "highPrice": 2.48,
+    "highPrice": 2.45,
     "marketPrice": 0.16,
     "directLowPrice": null,
     "name": "Charlotte Cracker",
@@ -210,7 +210,7 @@
   "ST20-ST20-003 normal": {
     "lowPrice": 0.17,
     "midPrice": 0.25,
-    "highPrice": 3.46,
+    "highPrice": 3.45,
     "marketPrice": 0.24,
     "directLowPrice": null,
     "name": "Charlotte Brulee",
@@ -260,10 +260,10 @@
     "groupId": 23495
   },
   "ST20-ST20-005 normal": {
-    "lowPrice": 1.05,
-    "midPrice": 2.25,
+    "lowPrice": 1.5,
+    "midPrice": 2.24,
     "highPrice": 9.99,
-    "marketPrice": 1.68,
+    "marketPrice": 1.64,
     "directLowPrice": null,
     "name": "Charlotte Linlin",
     "rarity": "SR",

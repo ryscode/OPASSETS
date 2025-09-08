@@ -1,7 +1,7 @@
 {
   "OP01-OP01-001 normal": {
-    "lowPrice": 2.95,
-    "midPrice": 3.85,
+    "lowPrice": 3.25,
+    "midPrice": 4.0,
     "highPrice": 6.49,
     "marketPrice": 3.39,
     "directLowPrice": null,
@@ -27,9 +27,9 @@
   },
   "P-P-001 normal": {
     "lowPrice": 1.0,
-    "midPrice": 2.25,
+    "midPrice": 2.3,
     "highPrice": 14.99,
-    "marketPrice": 1.26,
+    "marketPrice": 1.22,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (001)",
     "rarity": "PR",
@@ -81,7 +81,7 @@
     "lowPrice": 0.19,
     "midPrice": 0.37,
     "highPrice": 4.5,
-    "marketPrice": 0.33,
+    "marketPrice": 0.32,
     "directLowPrice": null,
     "name": "Uta",
     "rarity": "R",
@@ -105,7 +105,7 @@
   },
   "OP01-OP01-011 normal": {
     "lowPrice": 0.13,
-    "midPrice": 0.6,
+    "midPrice": 0.8,
     "highPrice": 2.5,
     "marketPrice": null,
     "directLowPrice": null,
@@ -131,9 +131,9 @@
   },
   "OP01-OP01-013 normal": {
     "lowPrice": 3.49,
-    "midPrice": 4.99,
+    "midPrice": 5.0,
     "highPrice": 16.19,
-    "marketPrice": 3.89,
+    "marketPrice": 3.87,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "R",
@@ -159,7 +159,7 @@
     "lowPrice": 2.99,
     "midPrice": 4.22,
     "highPrice": 4.96,
-    "marketPrice": 2.67,
+    "marketPrice": 2.82,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "R",
@@ -183,7 +183,7 @@
   },
   "OP01-OP01-021 normal": {
     "lowPrice": 0.36,
-    "midPrice": 0.94,
+    "midPrice": 0.89,
     "highPrice": 2.5,
     "marketPrice": 0.68,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "OP02-OP02-015 normal": {
     "lowPrice": 0.47,
-    "midPrice": 1.07,
+    "midPrice": 1.13,
     "highPrice": 2.5,
     "marketPrice": 1.19,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "ST01-ST01-005 normal": {
     "lowPrice": 1.03,
-    "midPrice": 1.45,
+    "midPrice": 1.5,
     "highPrice": 2.5,
     "marketPrice": 1.33,
     "directLowPrice": null,
@@ -261,7 +261,7 @@
   },
   "ST01-ST01-006 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.79,
+    "midPrice": 0.89,
     "highPrice": 2.5,
     "marketPrice": 0.44,
     "directLowPrice": null,
@@ -287,7 +287,7 @@
   },
   "ST01-ST01-008 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.35,
+    "midPrice": 0.37,
     "highPrice": 3.84,
     "marketPrice": 0.31,
     "directLowPrice": null,
@@ -339,7 +339,7 @@
   },
   "ST01-ST01-014 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.53,
+    "midPrice": 0.5,
     "highPrice": 3.02,
     "marketPrice": 0.54,
     "directLowPrice": null,
@@ -365,7 +365,7 @@
   },
   "ST01-ST01-015 normal": {
     "lowPrice": 0.99,
-    "midPrice": 1.24,
+    "midPrice": 1.25,
     "highPrice": 5.0,
     "marketPrice": 1.05,
     "directLowPrice": null,
@@ -391,8 +391,8 @@
   },
   "ST01-ST01-017 normal": {
     "lowPrice": 0.27,
-    "midPrice": 1.57,
-    "highPrice": 1.99,
+    "midPrice": 1.66,
+    "highPrice": 2.05,
     "marketPrice": 1.17,
     "directLowPrice": null,
     "name": "Thousand Sunny",
@@ -418,7 +418,7 @@
   "OP01-OP01-003 normal": {
     "lowPrice": 0.3,
     "midPrice": 0.95,
-    "highPrice": 7.0,
+    "highPrice": 6.25,
     "marketPrice": 0.63,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (003)",
@@ -443,7 +443,7 @@
   },
   "OP01-OP01-012 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.76,
+    "midPrice": 0.75,
     "highPrice": 4.9,
     "marketPrice": 0.74,
     "directLowPrice": null,
@@ -521,7 +521,7 @@
   },
   "OP01-OP01-008 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.73,
+    "midPrice": 0.74,
     "highPrice": 5.0,
     "marketPrice": 0.7,
     "directLowPrice": null,
@@ -547,7 +547,7 @@
   },
   "OP01-OP01-019 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.97,
+    "midPrice": 0.99,
     "highPrice": 9.99,
     "marketPrice": 0.99,
     "directLowPrice": null,
@@ -573,7 +573,7 @@
   },
   "ST01-ST01-010 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.79,
+    "midPrice": 0.78,
     "highPrice": 5.0,
     "marketPrice": 0.64,
     "directLowPrice": null,

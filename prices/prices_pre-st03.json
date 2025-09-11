@@ -1,6 +1,6 @@
 {
   "ST03-ST03-001 normal": {
-    "lowPrice": 70.0,
+    "lowPrice": 115.0,
     "midPrice": 115.0,
     "highPrice": 118.0,
     "marketPrice": 23.01,
@@ -26,8 +26,8 @@
     "groupId": 17660
   },
   "ST03-ST03-003 normal": {
-    "lowPrice": 1.18,
-    "midPrice": 1.95,
+    "lowPrice": 1.05,
+    "midPrice": 1.85,
     "highPrice": 15.0,
     "marketPrice": 1.42,
     "directLowPrice": null,
@@ -53,7 +53,7 @@
   },
   "ST03-ST03-009 normal": {
     "lowPrice": 6.45,
-    "midPrice": 7.87,
+    "midPrice": 7.75,
     "highPrice": 54.51,
     "marketPrice": 6.95,
     "directLowPrice": null,
@@ -183,9 +183,9 @@
   },
   "ST03-ST03-012 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.33,
+    "midPrice": 0.35,
     "highPrice": 5.0,
-    "marketPrice": 0.18,
+    "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Pacifista",
     "rarity": "C",
@@ -209,7 +209,7 @@
   },
   "ST03-ST03-014 normal": {
     "lowPrice": 0.38,
-    "midPrice": 0.73,
+    "midPrice": 0.78,
     "highPrice": 14.0,
     "marketPrice": 0.62,
     "directLowPrice": null,
@@ -261,7 +261,7 @@
   },
   "ST03-ST03-006 normal": {
     "lowPrice": 0.14,
-    "midPrice": 0.34,
+    "midPrice": 0.35,
     "highPrice": 2.0,
     "marketPrice": 0.25,
     "directLowPrice": null,
@@ -315,7 +315,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.31,
     "highPrice": 2.0,
-    "marketPrice": 0.21,
+    "marketPrice": 0.22,
     "directLowPrice": null,
     "name": "Edward Weevil",
     "rarity": "C",
@@ -365,7 +365,7 @@
   },
   "ST03-ST03-011 normal": {
     "lowPrice": 0.14,
-    "midPrice": 0.31,
+    "midPrice": 0.34,
     "highPrice": 5.99,
     "marketPrice": 0.29,
     "directLowPrice": null,
@@ -417,7 +417,7 @@
   },
   "ST03-ST03-010 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.59,
+    "midPrice": 0.6,
     "highPrice": 50.0,
     "marketPrice": 0.42,
     "directLowPrice": null,

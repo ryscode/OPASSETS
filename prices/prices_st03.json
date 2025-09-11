@@ -107,7 +107,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 14.0,
-    "marketPrice": 0.11,
+    "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Dracule Mihawk",
     "rarity": "C",
@@ -185,7 +185,7 @@
     "lowPrice": 0.04,
     "midPrice": 0.2,
     "highPrice": 2.0,
-    "marketPrice": 0.18,
+    "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Trafalgar Law",
     "rarity": "C",
@@ -208,7 +208,7 @@
     "groupId": 3192
   },
   "ST03-ST03-009 normal": {
-    "lowPrice": 2.5,
+    "lowPrice": 2.45,
     "midPrice": 3.5,
     "highPrice": 7.0,
     "marketPrice": 3.0,
@@ -364,10 +364,10 @@
     "groupId": 3192
   },
   "ST03-ST03-015 normal": {
-    "lowPrice": 1.26,
-    "midPrice": 2.97,
+    "lowPrice": 0.14,
+    "midPrice": 2.95,
     "highPrice": 6.0,
-    "marketPrice": 2.42,
+    "marketPrice": 2.19,
     "directLowPrice": null,
     "name": "Sables",
     "rarity": "C",
@@ -416,8 +416,8 @@
     "groupId": 3192
   },
   "ST03-ST03-017 normal": {
-    "lowPrice": 3.98,
-    "midPrice": 6.6,
+    "lowPrice": 3.99,
+    "midPrice": 6.49,
     "highPrice": 13.99,
     "marketPrice": 5.08,
     "directLowPrice": null,

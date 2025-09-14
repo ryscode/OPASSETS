@@ -1,7 +1,7 @@
 {
   "ST01-ST01-001 normal": {
-    "lowPrice": 500.0,
-    "midPrice": 750.0,
+    "lowPrice": 325.0,
+    "midPrice": 500.0,
     "highPrice": 2000.0,
     "marketPrice": 180.65,
     "directLowPrice": null,
@@ -53,7 +53,7 @@
   },
   "ST01-ST01-003 normal": {
     "lowPrice": 0.37,
-    "midPrice": 0.7,
+    "midPrice": 0.63,
     "highPrice": 2.99,
     "marketPrice": 0.4,
     "directLowPrice": null,
@@ -79,7 +79,7 @@
   },
   "ST01-ST01-004 normal": {
     "lowPrice": 2.5,
-    "midPrice": 4.59,
+    "midPrice": 4.5,
     "highPrice": 15.0,
     "marketPrice": 3.02,
     "directLowPrice": null,
@@ -105,9 +105,9 @@
   },
   "ST01-ST01-005 normal": {
     "lowPrice": 0.21,
-    "midPrice": 0.45,
+    "midPrice": 0.4,
     "highPrice": 2.0,
-    "marketPrice": 0.26,
+    "marketPrice": 0.25,
     "directLowPrice": null,
     "name": "Jinbe",
     "rarity": "C",
@@ -129,11 +129,37 @@
     "description": "[DON!! x1] [When Attacking] Up to 1 of your Leader or Character cards other than this card gains +1000 power during this turn.",
     "groupId": 17659
   },
+  "ST01-ST01-006 normal": {
+    "lowPrice": 240.0,
+    "midPrice": 250.0,
+    "highPrice": 264.0,
+    "marketPrice": 3.45,
+    "directLowPrice": null,
+    "name": "Tony Tony.Chopper",
+    "rarity": "C",
+    "power": "1000",
+    "cost": "1",
+    "life": null,
+    "category": "Character",
+    "colors": "Red",
+    "attributes": "Strike",
+    "types": "Animal;Straw Hat Crew",
+    "effect": null,
+    "trigger": null,
+    "counter": null,
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/416671_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
+    "groupId": 17659
+  },
   "ST01-ST01-007 normal": {
     "lowPrice": 4.31,
     "midPrice": 5.88,
     "highPrice": 22.79,
-    "marketPrice": 4.89,
+    "marketPrice": 4.86,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "C",
@@ -159,7 +185,7 @@
     "lowPrice": 1.21,
     "midPrice": 1.99,
     "highPrice": 7.5,
-    "marketPrice": 1.66,
+    "marketPrice": 1.67,
     "directLowPrice": null,
     "name": "Nico Robin",
     "rarity": "C",
@@ -185,7 +211,7 @@
     "lowPrice": 0.2,
     "midPrice": 1.0,
     "highPrice": 2.5,
-    "marketPrice": 0.49,
+    "marketPrice": 0.51,
     "directLowPrice": null,
     "name": "Nefeltari Vivi",
     "rarity": "C",
@@ -208,8 +234,8 @@
     "groupId": 17659
   },
   "ST01-ST01-010 normal": {
-    "lowPrice": 1.29,
-    "midPrice": 2.87,
+    "lowPrice": 0.85,
+    "midPrice": 1.74,
     "highPrice": 7.0,
     "marketPrice": 1.12,
     "directLowPrice": null,
@@ -234,7 +260,7 @@
     "groupId": 17659
   },
   "ST01-ST01-011 normal": {
-    "lowPrice": 2.0,
+    "lowPrice": 1.98,
     "midPrice": 3.08,
     "highPrice": 22.79,
     "marketPrice": 2.29,
@@ -263,7 +289,7 @@
     "lowPrice": 28.0,
     "midPrice": 35.0,
     "highPrice": 58.79,
-    "marketPrice": 10.25,
+    "marketPrice": 10.11,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (012)",
     "rarity": "SR",
@@ -286,7 +312,7 @@
     "groupId": 17659
   },
   "ST01-ST01-013 normal": {
-    "lowPrice": 3.26,
+    "lowPrice": 3.25,
     "midPrice": 5.05,
     "highPrice": 19.59,
     "marketPrice": 3.25,
@@ -339,7 +365,7 @@
   },
   "ST01-ST01-015 normal": {
     "lowPrice": 0.74,
-    "midPrice": 1.63,
+    "midPrice": 1.47,
     "highPrice": 45.0,
     "marketPrice": 1.2,
     "directLowPrice": null,
@@ -390,10 +416,10 @@
     "groupId": 17659
   },
   "ST01-ST01-017 normal": {
-    "lowPrice": 4.99,
-    "midPrice": 4.99,
-    "highPrice": 4.99,
-    "marketPrice": 1.89,
+    "lowPrice": 5.5,
+    "midPrice": 5.5,
+    "highPrice": 5.5,
+    "marketPrice": 2.04,
     "directLowPrice": null,
     "name": "Thousand Sunny",
     "rarity": "C",

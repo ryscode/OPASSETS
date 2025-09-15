@@ -1,9 +1,9 @@
 {
   "ST11-ST11-001 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.05,
+    "midPrice": 1.02,
     "highPrice": 5.0,
-    "marketPrice": 1.01,
+    "marketPrice": 1.0,
     "directLowPrice": null,
     "name": "Uta (001)",
     "rarity": "L",
@@ -27,7 +27,7 @@
   },
   "ST11-ST11-002 normal": {
     "lowPrice": 1.0,
-    "midPrice": 2.4,
+    "midPrice": 2.39,
     "highPrice": 10.0,
     "marketPrice": 1.28,
     "directLowPrice": null,
@@ -55,7 +55,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.25,
     "highPrice": 5.99,
-    "marketPrice": 0.13,
+    "marketPrice": 0.15,
     "directLowPrice": null,
     "name": "Backlight",
     "rarity": "C",

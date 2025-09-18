@@ -1,7 +1,7 @@
 {
   "ST01-ST01-001 normal": {
-    "lowPrice": 325.0,
-    "midPrice": 420.0,
+    "lowPrice": 350.0,
+    "midPrice": 460.0,
     "highPrice": 2000.0,
     "marketPrice": 180.65,
     "directLowPrice": null,
@@ -55,7 +55,7 @@
     "lowPrice": 0.37,
     "midPrice": 0.63,
     "highPrice": 2.99,
-    "marketPrice": 0.38,
+    "marketPrice": 0.4,
     "directLowPrice": null,
     "name": "Karoo",
     "rarity": "C",
@@ -78,10 +78,10 @@
     "groupId": 17659
   },
   "ST01-ST01-004 normal": {
-    "lowPrice": 2.49,
-    "midPrice": 4.24,
+    "lowPrice": 2.41,
+    "midPrice": 4.02,
     "highPrice": 15.0,
-    "marketPrice": 2.93,
+    "marketPrice": 2.76,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "C",
@@ -105,7 +105,7 @@
   },
   "ST01-ST01-005 normal": {
     "lowPrice": 0.21,
-    "midPrice": 0.42,
+    "midPrice": 0.45,
     "highPrice": 2.0,
     "marketPrice": 0.25,
     "directLowPrice": null,
@@ -131,9 +131,9 @@
   },
   "ST01-ST01-006 normal": {
     "lowPrice": 3.5,
-    "midPrice": 6.75,
+    "midPrice": 5.0,
     "highPrice": 10.0,
-    "marketPrice": 3.45,
+    "marketPrice": 3.59,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper",
     "rarity": "C",
@@ -157,9 +157,9 @@
   },
   "ST01-ST01-007 normal": {
     "lowPrice": 4.31,
-    "midPrice": 6.0,
+    "midPrice": 6.25,
     "highPrice": 13.99,
-    "marketPrice": 4.94,
+    "marketPrice": 5.02,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "C",
@@ -260,10 +260,10 @@
     "groupId": 17659
   },
   "ST01-ST01-011 normal": {
-    "lowPrice": 2.0,
-    "midPrice": 3.0,
+    "lowPrice": 2.37,
+    "midPrice": 3.32,
     "highPrice": 14.98,
-    "marketPrice": 2.28,
+    "marketPrice": 2.29,
     "directLowPrice": null,
     "name": "Brook",
     "rarity": "C",
@@ -286,10 +286,10 @@
     "groupId": 17659
   },
   "ST01-ST01-012 normal": {
-    "lowPrice": 28.0,
-    "midPrice": 32.0,
+    "lowPrice": 40.0,
+    "midPrice": 40.0,
     "highPrice": 40.0,
-    "marketPrice": 10.08,
+    "marketPrice": 16.49,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (012)",
     "rarity": "SR",
@@ -312,10 +312,10 @@
     "groupId": 17659
   },
   "ST01-ST01-013 normal": {
-    "lowPrice": 3.05,
-    "midPrice": 6.93,
+    "lowPrice": 3.34,
+    "midPrice": 6.85,
     "highPrice": 10.64,
-    "marketPrice": 3.99,
+    "marketPrice": 4.0,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
     "rarity": "SR",
@@ -339,7 +339,7 @@
   },
   "ST01-ST01-014 normal": {
     "lowPrice": 0.79,
-    "midPrice": 1.29,
+    "midPrice": 1.31,
     "highPrice": 15.0,
     "marketPrice": 1.0,
     "directLowPrice": null,
@@ -393,7 +393,7 @@
     "lowPrice": 3.0,
     "midPrice": 4.34,
     "highPrice": 19.95,
-    "marketPrice": 3.62,
+    "marketPrice": 3.61,
     "directLowPrice": null,
     "name": "Diable Jambe",
     "rarity": "C",

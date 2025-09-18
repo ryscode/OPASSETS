@@ -1,6 +1,6 @@
 {
   "ST04-ST04-001 normal": {
-    "lowPrice": 0.22,
+    "lowPrice": 0.23,
     "midPrice": 0.5,
     "highPrice": 2.99,
     "marketPrice": 0.38,
@@ -27,7 +27,7 @@
   },
   "ST04-ST04-002 normal": {
     "lowPrice": 0.14,
-    "midPrice": 0.31,
+    "midPrice": 0.3,
     "highPrice": 3.94,
     "marketPrice": 0.25,
     "directLowPrice": null,
@@ -78,10 +78,10 @@
     "groupId": 3190
   },
   "ST04-ST04-004 normal": {
-    "lowPrice": 0.2,
+    "lowPrice": 0.19,
     "midPrice": 0.59,
     "highPrice": 25.0,
-    "marketPrice": 0.44,
+    "marketPrice": 0.46,
     "directLowPrice": null,
     "name": "King",
     "rarity": "SR",
@@ -107,7 +107,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.38,
     "highPrice": 40.0,
-    "marketPrice": 0.23,
+    "marketPrice": 0.25,
     "directLowPrice": null,
     "name": "Queen",
     "rarity": "C",
@@ -131,7 +131,7 @@
   },
   "ST04-ST04-006 normal": {
     "lowPrice": 0.04,
-    "midPrice": 0.19,
+    "midPrice": 0.17,
     "highPrice": 1.35,
     "marketPrice": 0.13,
     "directLowPrice": null,
@@ -185,7 +185,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.23,
     "highPrice": 1.56,
-    "marketPrice": 0.15,
+    "marketPrice": 0.16,
     "directLowPrice": null,
     "name": "Jack",
     "rarity": "C",
@@ -237,7 +237,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.24,
     "highPrice": 1.32,
-    "marketPrice": 0.11,
+    "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Who's.Who",
     "rarity": "C",
@@ -289,7 +289,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.3,
     "highPrice": 3.5,
-    "marketPrice": 0.28,
+    "marketPrice": 0.29,
     "directLowPrice": null,
     "name": "Page One",
     "rarity": "C",
@@ -313,7 +313,7 @@
   },
   "ST04-ST04-013 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.18,
+    "midPrice": 0.16,
     "highPrice": 1.35,
     "marketPrice": 0.14,
     "directLowPrice": null,
@@ -338,8 +338,8 @@
     "groupId": 3190
   },
   "ST04-ST04-014 normal": {
-    "lowPrice": 0.64,
-    "midPrice": 1.18,
+    "lowPrice": 0.62,
+    "midPrice": 1.12,
     "highPrice": 8.0,
     "marketPrice": 0.9,
     "directLowPrice": null,
@@ -419,7 +419,7 @@
     "lowPrice": 0.2,
     "midPrice": 0.43,
     "highPrice": 1.95,
-    "marketPrice": 0.43,
+    "marketPrice": 0.37,
     "directLowPrice": null,
     "name": "Onigashima Island",
     "rarity": "C",

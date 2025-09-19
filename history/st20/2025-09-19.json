@@ -1,0 +1,123 @@
+{
+  "OP03-OP03-099 normal": {
+    "name": "Charlotte Katakuri (OP03-099)",
+    "groupId": 23495,
+    "prices": {
+      "low": 0.2,
+      "mid": 0.48,
+      "high": 3.69,
+      "market": 0.39,
+      "directLow": null
+    }
+  },
+  "OP03-OP03-106 normal": {
+    "name": "Charlotte Opera",
+    "groupId": 23495,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 11.97,
+      "market": 0.06,
+      "directLow": null
+    }
+  },
+  "OP03-OP03-107 normal": {
+    "name": "Charlotte Galette",
+    "groupId": 23495,
+    "prices": {
+      "low": 0.02,
+      "mid": 0.12,
+      "high": 11.97,
+      "market": 0.05,
+      "directLow": null
+    }
+  },
+  "OP03-OP03-110 normal": {
+    "name": "Charlotte Smoothie",
+    "groupId": 23495,
+    "prices": {
+      "low": 0.03,
+      "mid": 0.15,
+      "high": 11.97,
+      "market": 0.1,
+      "directLow": null
+    }
+  },
+  "OP03-OP03-112 normal": {
+    "name": "Charlotte Pudding (OP03-112)",
+    "groupId": 23495,
+    "prices": {
+      "low": 0.02,
+      "mid": 0.18,
+      "high": 1.33,
+      "market": 0.13,
+      "directLow": null
+    }
+  },
+  "ST07-ST07-005 normal": {
+    "name": "Charlotte Daifuku",
+    "groupId": 23495,
+    "prices": {
+      "low": 0.05,
+      "mid": 0.15,
+      "high": 11.97,
+      "market": 0.08,
+      "directLow": null
+    }
+  },
+  "ST20-ST20-001 normal": {
+    "name": "Charlotte Katakuri (ST20-001)",
+    "groupId": 23495,
+    "prices": {
+      "low": 0.61,
+      "mid": 1.45,
+      "high": 9.99,
+      "market": 0.99,
+      "directLow": null
+    }
+  },
+  "ST20-ST20-002 normal": {
+    "name": "Charlotte Cracker",
+    "groupId": 23495,
+    "prices": {
+      "low": 0.04,
+      "mid": 0.22,
+      "high": 2.45,
+      "market": 0.17,
+      "directLow": null
+    }
+  },
+  "ST20-ST20-003 normal": {
+    "name": "Charlotte Brulee",
+    "groupId": 23495,
+    "prices": {
+      "low": 0.17,
+      "mid": 0.25,
+      "high": 3.45,
+      "market": 0.25,
+      "directLow": null
+    }
+  },
+  "ST20-ST20-004 normal": {
+    "name": "Charlotte Pudding (ST20-004)",
+    "groupId": 23495,
+    "prices": {
+      "low": 0.09,
+      "mid": 0.25,
+      "high": 9.99,
+      "market": 0.18,
+      "directLow": null
+    }
+  },
+  "ST20-ST20-005 normal": {
+    "name": "Charlotte Linlin",
+    "groupId": 23495,
+    "prices": {
+      "low": 1.15,
+      "mid": 2.07,
+      "high": 9.99,
+      "market": 1.58,
+      "directLow": null
+    }
+  }
+}

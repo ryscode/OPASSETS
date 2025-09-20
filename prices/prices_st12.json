@@ -1,9 +1,9 @@
 {
   "ST12-ST12-001 normal": {
     "lowPrice": 3.5,
-    "midPrice": 4.28,
+    "midPrice": 4.3,
     "highPrice": 10.0,
-    "marketPrice": 3.9,
+    "marketPrice": 3.86,
     "directLowPrice": null,
     "name": "Roronoa Zoro & Sanji",
     "rarity": "L",
@@ -26,10 +26,10 @@
     "groupId": 23348
   },
   "ST12-ST12-008 normal": {
-    "lowPrice": 0.25,
-    "midPrice": 0.89,
+    "lowPrice": 0.29,
+    "midPrice": 1.0,
     "highPrice": 2.5,
-    "marketPrice": 0.77,
+    "marketPrice": 0.81,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
     "rarity": "C",
@@ -156,10 +156,10 @@
     "groupId": 23348
   },
   "ST12-ST12-003 normal": {
-    "lowPrice": 8.0,
-    "midPrice": 10.0,
+    "lowPrice": 8.5,
+    "midPrice": 9.99,
     "highPrice": 36.98,
-    "marketPrice": 8.75,
+    "marketPrice": 8.56,
     "directLowPrice": null,
     "name": "Dracule Mihawk",
     "rarity": "SR",
@@ -209,7 +209,7 @@
   },
   "ST12-ST12-005 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.15,
+    "midPrice": 0.16,
     "highPrice": 1.41,
     "marketPrice": 0.16,
     "directLowPrice": null,
@@ -315,7 +315,7 @@
     "lowPrice": 1.4,
     "midPrice": 3.0,
     "highPrice": 13.11,
-    "marketPrice": 1.72,
+    "marketPrice": 1.75,
     "directLowPrice": null,
     "name": "Emporio.Ivankov",
     "rarity": "SR",
@@ -391,9 +391,9 @@
   },
   "ST12-ST12-014 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.21,
+    "midPrice": 0.22,
     "highPrice": 5.5,
-    "marketPrice": 0.21,
+    "marketPrice": 0.22,
     "directLowPrice": null,
     "name": "Duval",
     "rarity": "C",

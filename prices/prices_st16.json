@@ -131,7 +131,7 @@
   },
   "P-P-061 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.29,
+    "midPrice": 0.3,
     "highPrice": 2.0,
     "marketPrice": 0.3,
     "directLowPrice": null,
@@ -159,7 +159,7 @@
     "lowPrice": 0.19,
     "midPrice": 0.5,
     "highPrice": 2.99,
-    "marketPrice": 0.39,
+    "marketPrice": 0.41,
     "directLowPrice": null,
     "name": "Uta (ST11-001)",
     "rarity": "L",
@@ -235,7 +235,7 @@
   },
   "ST11-ST11-005 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.17,
+    "midPrice": 0.18,
     "highPrice": 1.39,
     "marketPrice": 0.12,
     "directLowPrice": null,
@@ -338,10 +338,10 @@
     "groupId": 23491
   },
   "ST16-ST16-004 normal": {
-    "lowPrice": 2.49,
-    "midPrice": 4.0,
+    "lowPrice": 2.0,
+    "midPrice": 3.99,
     "highPrice": 10.0,
-    "marketPrice": 3.36,
+    "marketPrice": 3.19,
     "directLowPrice": null,
     "name": "Shanks",
     "rarity": "SR",

@@ -1,9 +1,9 @@
 {
   "ST12-ST12-001 normal": {
     "lowPrice": 3.5,
-    "midPrice": 4.26,
+    "midPrice": 4.23,
     "highPrice": 10.0,
-    "marketPrice": 4.06,
+    "marketPrice": 4.03,
     "directLowPrice": null,
     "name": "Roronoa Zoro & Sanji",
     "rarity": "L",
@@ -27,9 +27,9 @@
   },
   "ST12-ST12-008 normal": {
     "lowPrice": 0.29,
-    "midPrice": 1.0,
+    "midPrice": 0.95,
     "highPrice": 2.5,
-    "marketPrice": 0.83,
+    "marketPrice": 0.87,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
     "rarity": "C",
@@ -156,7 +156,7 @@
     "groupId": 23348
   },
   "ST12-ST12-003 normal": {
-    "lowPrice": 8.35,
+    "lowPrice": 8.49,
     "midPrice": 9.99,
     "highPrice": 36.98,
     "marketPrice": 8.65,
@@ -312,10 +312,10 @@
     "groupId": 23348
   },
   "ST12-ST12-010 normal": {
-    "lowPrice": 1.4,
-    "midPrice": 3.0,
+    "lowPrice": 0.99,
+    "midPrice": 2.99,
     "highPrice": 13.11,
-    "marketPrice": 1.69,
+    "marketPrice": 1.7,
     "directLowPrice": null,
     "name": "Emporio.Ivankov",
     "rarity": "SR",
@@ -341,7 +341,7 @@
     "lowPrice": 0.15,
     "midPrice": 0.3,
     "highPrice": 3.45,
-    "marketPrice": 0.21,
+    "marketPrice": 0.22,
     "directLowPrice": null,
     "name": "Charlotte Pudding",
     "rarity": "C",
@@ -391,9 +391,9 @@
   },
   "ST12-ST12-014 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.22,
+    "midPrice": 0.23,
     "highPrice": 5.5,
-    "marketPrice": 0.22,
+    "marketPrice": 0.23,
     "directLowPrice": null,
     "name": "Duval",
     "rarity": "C",

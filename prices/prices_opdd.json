@@ -1,7 +1,7 @@
 {
   "OP01-OP01-001 normal": {
     "lowPrice": 3.38,
-    "midPrice": 3.72,
+    "midPrice": 3.69,
     "highPrice": 5.0,
     "marketPrice": 3.41,
     "directLowPrice": null,
@@ -27,9 +27,9 @@
   },
   "P-P-001 normal": {
     "lowPrice": 1.18,
-    "midPrice": 2.3,
+    "midPrice": 2.36,
     "highPrice": 14.99,
-    "marketPrice": 1.19,
+    "marketPrice": 1.18,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (001)",
     "rarity": "PR",
@@ -79,9 +79,9 @@
   },
   "OP01-OP01-005 normal": {
     "lowPrice": 0.19,
-    "midPrice": 0.37,
+    "midPrice": 0.38,
     "highPrice": 4.5,
-    "marketPrice": 0.32,
+    "marketPrice": 0.31,
     "directLowPrice": null,
     "name": "Uta",
     "rarity": "R",
@@ -104,8 +104,8 @@
     "groupId": 23907
   },
   "OP01-OP01-011 normal": {
-    "lowPrice": 0.2,
-    "midPrice": 1.0,
+    "lowPrice": 0.22,
+    "midPrice": 1.25,
     "highPrice": 2.5,
     "marketPrice": null,
     "directLowPrice": null,
@@ -131,9 +131,9 @@
   },
   "OP01-OP01-013 normal": {
     "lowPrice": 3.0,
-    "midPrice": 4.23,
+    "midPrice": 4.0,
     "highPrice": 11.19,
-    "marketPrice": 3.5,
+    "marketPrice": 3.53,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "R",
@@ -157,8 +157,8 @@
   },
   "OP01-OP01-016 normal": {
     "lowPrice": 2.06,
-    "midPrice": 3.72,
-    "highPrice": 5.0,
+    "midPrice": 3.07,
+    "highPrice": 4.96,
     "marketPrice": 3.04,
     "directLowPrice": null,
     "name": "Nami",
@@ -183,7 +183,7 @@
   },
   "OP01-OP01-021 normal": {
     "lowPrice": 0.52,
-    "midPrice": 0.94,
+    "midPrice": 0.98,
     "highPrice": 2.5,
     "marketPrice": null,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "OP02-OP02-015 normal": {
     "lowPrice": 0.47,
-    "midPrice": 1.6,
+    "midPrice": 1.65,
     "highPrice": 2.5,
     "marketPrice": 0.59,
     "directLowPrice": null,
@@ -263,7 +263,7 @@
     "lowPrice": 0.09,
     "midPrice": 0.5,
     "highPrice": 2.5,
-    "marketPrice": 0.25,
+    "marketPrice": 0.26,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper (006)",
     "rarity": "C",
@@ -341,7 +341,7 @@
     "lowPrice": 0.2,
     "midPrice": 0.5,
     "highPrice": 3.02,
-    "marketPrice": 0.51,
+    "marketPrice": 0.36,
     "directLowPrice": null,
     "name": "Guard Point",
     "rarity": "C",
@@ -365,7 +365,7 @@
   },
   "ST01-ST01-015 normal": {
     "lowPrice": 0.99,
-    "midPrice": 1.12,
+    "midPrice": 1.15,
     "highPrice": 5.0,
     "marketPrice": 1.05,
     "directLowPrice": null,
@@ -390,8 +390,8 @@
     "groupId": 23907
   },
   "ST01-ST01-017 normal": {
-    "lowPrice": 1.0,
-    "midPrice": 1.86,
+    "lowPrice": 0.9,
+    "midPrice": 1.83,
     "highPrice": 2.71,
     "marketPrice": 0.79,
     "directLowPrice": null,
@@ -416,8 +416,8 @@
     "groupId": 23907
   },
   "OP01-OP01-003 normal": {
-    "lowPrice": 0.29,
-    "midPrice": 0.64,
+    "lowPrice": 0.26,
+    "midPrice": 0.6,
     "highPrice": 6.25,
     "marketPrice": 0.58,
     "directLowPrice": null,
@@ -445,7 +445,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.74,
     "highPrice": 4.9,
-    "marketPrice": 0.74,
+    "marketPrice": 0.68,
     "directLowPrice": null,
     "name": "Sai",
     "rarity": "C",
@@ -520,10 +520,10 @@
     "groupId": 23907
   },
   "OP01-OP01-008 normal": {
-    "lowPrice": 0.33,
-    "midPrice": 0.71,
+    "lowPrice": 0.29,
+    "midPrice": 0.7,
     "highPrice": 5.0,
-    "marketPrice": 0.7,
+    "marketPrice": 0.66,
     "directLowPrice": null,
     "name": "Cavendish",
     "rarity": "C",
@@ -546,10 +546,10 @@
     "groupId": 23907
   },
   "OP01-OP01-019 normal": {
-    "lowPrice": 0.35,
-    "midPrice": 0.99,
+    "lowPrice": 0.34,
+    "midPrice": 0.9,
     "highPrice": 9.99,
-    "marketPrice": 0.99,
+    "marketPrice": 0.7,
     "directLowPrice": null,
     "name": "Bartolomeo",
     "rarity": "C",
@@ -573,9 +573,9 @@
   },
   "ST01-ST01-010 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.69,
+    "midPrice": 0.65,
     "highPrice": 5.0,
-    "marketPrice": 0.64,
+    "marketPrice": 0.56,
     "directLowPrice": null,
     "name": "Franky (010)",
     "rarity": "C",

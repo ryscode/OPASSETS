@@ -3,7 +3,7 @@
   "market": 18,
   "expansionId": 5230,
   "expansionName": null,
-  "count": 142,
+  "count": 144,
   "priceGuides": [
     {
       "idProduct": 690375,
@@ -2535,6 +2535,30 @@
       "avg7": null,
       "avg30": null,
       "productName": "Jinbe (P-030)",
+      "productCategoryName": "One Piece Single"
+    },
+    {
+      "idProduct": 850914,
+      "idCategory": 1621,
+      "avg": null,
+      "low": null,
+      "trend": null,
+      "avg1": null,
+      "avg7": null,
+      "avg30": null,
+      "productName": "Jewelry Bonney (P-085)",
+      "productCategoryName": "One Piece Single"
+    },
+    {
+      "idProduct": 850915,
+      "idCategory": 1621,
+      "avg": null,
+      "low": null,
+      "trend": null,
+      "avg1": null,
+      "avg7": null,
+      "avg30": null,
+      "productName": "Tony Tony.Chopper (P-089)",
       "productCategoryName": "One Piece Single"
     }
   ]

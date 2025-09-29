@@ -1,7 +1,7 @@
 {
   "OP07-OP07-006 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.39,
+    "midPrice": 0.4,
     "highPrice": 4.99,
     "marketPrice": 0.31,
     "directLowPrice": null,
@@ -27,7 +27,7 @@
   },
   "OP07-OP07-007 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.32,
+    "midPrice": 0.31,
     "highPrice": 2.0,
     "marketPrice": 0.19,
     "directLowPrice": null,
@@ -79,9 +79,9 @@
   },
   "OP07-OP07-011 normal": {
     "lowPrice": 0.11,
-    "midPrice": 0.46,
+    "midPrice": 0.44,
     "highPrice": 5.99,
-    "marketPrice": 0.22,
+    "marketPrice": 0.21,
     "directLowPrice": null,
     "name": "Bluejam",
     "rarity": "C",
@@ -131,7 +131,7 @@
   },
   "OP07-OP07-018 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.41,
+    "midPrice": 0.4,
     "highPrice": 2.0,
     "marketPrice": 0.39,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "OP07-OP07-024 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.39,
+    "midPrice": 0.37,
     "highPrice": 4.99,
     "marketPrice": 0.29,
     "directLowPrice": null,
@@ -341,7 +341,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.5,
     "highPrice": 5.21,
-    "marketPrice": 0.23,
+    "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "Edward Weevil",
     "rarity": "C",
@@ -367,7 +367,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.39,
     "highPrice": 50.0,
-    "marketPrice": 0.23,
+    "marketPrice": 0.24,
     "directLowPrice": null,
     "name": "Gecko Moria (042)",
     "rarity": "C",
@@ -391,7 +391,7 @@
   },
   "OP07-OP07-044 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.57,
+    "midPrice": 0.6,
     "highPrice": 10.0,
     "marketPrice": 0.48,
     "directLowPrice": null,
@@ -442,7 +442,7 @@
     "groupId": 23512
   },
   "OP07-OP07-050 normal": {
-    "lowPrice": 0.7,
+    "lowPrice": 0.74,
     "midPrice": 1.01,
     "highPrice": 9.99,
     "marketPrice": 0.87,
@@ -573,7 +573,7 @@
   },
   "OP07-OP07-062 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.61,
+    "midPrice": 0.56,
     "highPrice": 4.99,
     "marketPrice": 0.46,
     "directLowPrice": null,
@@ -653,7 +653,7 @@
     "lowPrice": 0.5,
     "midPrice": 0.74,
     "highPrice": 1.19,
-    "marketPrice": 1.13,
+    "marketPrice": 1.14,
     "directLowPrice": null,
     "name": "Pickles",
     "rarity": "C",
@@ -757,7 +757,7 @@
     "lowPrice": 0.25,
     "midPrice": 0.99,
     "highPrice": 15.0,
-    "marketPrice": 0.75,
+    "marketPrice": 0.78,
     "directLowPrice": null,
     "name": "Kalifa",
     "rarity": "C",
@@ -1015,7 +1015,7 @@
   },
   "OP07-OP07-103 normal": {
     "lowPrice": 0.99,
-    "midPrice": 1.08,
+    "midPrice": 1.15,
     "highPrice": 7.99,
     "marketPrice": 1.24,
     "directLowPrice": null,
@@ -1041,7 +1041,7 @@
   },
   "OP07-OP07-106 normal": {
     "lowPrice": 0.19,
-    "midPrice": 0.37,
+    "midPrice": 0.36,
     "highPrice": 50.0,
     "marketPrice": 0.27,
     "directLowPrice": null,
@@ -1066,10 +1066,10 @@
     "groupId": 23512
   },
   "OP07-OP07-108 normal": {
-    "lowPrice": 0.38,
+    "lowPrice": 0.37,
     "midPrice": 0.61,
     "highPrice": 4.99,
-    "marketPrice": 0.45,
+    "marketPrice": 0.44,
     "directLowPrice": null,
     "name": "Vega Force 01",
     "rarity": "C",
@@ -1171,9 +1171,9 @@
   },
   "OP07-OP07-008 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.6,
+    "midPrice": 0.7,
     "highPrice": 50.0,
-    "marketPrice": 0.48,
+    "marketPrice": 0.45,
     "directLowPrice": null,
     "name": "Mr. Tanaka",
     "rarity": "UC",
@@ -1355,7 +1355,7 @@
     "lowPrice": 3.0,
     "midPrice": 8.56,
     "highPrice": 13.99,
-    "marketPrice": 10.56,
+    "marketPrice": 10.93,
     "directLowPrice": null,
     "name": "Roronoa Zoro (034)",
     "rarity": "UC",
@@ -1405,7 +1405,7 @@
   },
   "OP07-OP07-040 normal": {
     "lowPrice": 5.0,
-    "midPrice": 12.51,
+    "midPrice": 12.69,
     "highPrice": 14.3,
     "marketPrice": 11.94,
     "directLowPrice": null,
@@ -1508,8 +1508,8 @@
     "groupId": 23512
   },
   "OP07-OP07-056 normal": {
-    "lowPrice": 22.0,
-    "midPrice": 24.5,
+    "lowPrice": 21.99,
+    "midPrice": 24.0,
     "highPrice": 30.0,
     "marketPrice": 6.79,
     "directLowPrice": null,
@@ -1612,8 +1612,8 @@
     "groupId": 23512
   },
   "OP07-OP07-070 normal": {
-    "lowPrice": 1.19,
-    "midPrice": 1.4,
+    "lowPrice": 1.2,
+    "midPrice": 1.39,
     "highPrice": 9.99,
     "marketPrice": 1.41,
     "directLowPrice": null,
@@ -1638,8 +1638,8 @@
     "groupId": 23512
   },
   "OP07-OP07-075 normal": {
-    "lowPrice": 3.0,
-    "midPrice": 3.9,
+    "lowPrice": 3.9,
+    "midPrice": 4.1,
     "highPrice": 4.3,
     "marketPrice": 2.59,
     "directLowPrice": null,
@@ -1716,7 +1716,7 @@
     "groupId": 23512
   },
   "OP07-OP07-088 normal": {
-    "lowPrice": 0.93,
+    "lowPrice": 1.0,
     "midPrice": 1.26,
     "highPrice": 2.5,
     "marketPrice": 1.22,
@@ -1847,7 +1847,7 @@
   },
   "OP07-OP07-104 normal": {
     "lowPrice": 25.0,
-    "midPrice": 27.98,
+    "midPrice": 27.95,
     "highPrice": 31.0,
     "marketPrice": 26.71,
     "directLowPrice": null,
@@ -1899,9 +1899,9 @@
   },
   "OP07-OP07-113 normal": {
     "lowPrice": 4.2,
-    "midPrice": 8.15,
+    "midPrice": 8.13,
     "highPrice": 50.0,
-    "marketPrice": 8.58,
+    "marketPrice": 8.38,
     "directLowPrice": null,
     "name": "Roronoa Zoro (113)",
     "rarity": "UC",

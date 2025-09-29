@@ -1,7 +1,7 @@
 {
   "OP01-OP01-001 normal": {
-    "lowPrice": 3.38,
-    "midPrice": 3.67,
+    "lowPrice": 3.4,
+    "midPrice": 3.69,
     "highPrice": 5.0,
     "marketPrice": 3.41,
     "directLowPrice": null,
@@ -27,7 +27,7 @@
   },
   "P-P-001 normal": {
     "lowPrice": 1.21,
-    "midPrice": 2.36,
+    "midPrice": 2.3,
     "highPrice": 14.99,
     "marketPrice": 1.21,
     "directLowPrice": null,
@@ -79,8 +79,8 @@
   },
   "OP01-OP01-005 normal": {
     "lowPrice": 0.19,
-    "midPrice": 0.38,
-    "highPrice": 4.5,
+    "midPrice": 0.37,
+    "highPrice": 0.5,
     "marketPrice": 0.31,
     "directLowPrice": null,
     "name": "Uta",
@@ -105,8 +105,8 @@
   },
   "OP01-OP01-011 normal": {
     "lowPrice": 0.22,
-    "midPrice": 1.25,
-    "highPrice": 2.5,
+    "midPrice": 1.0,
+    "highPrice": 1.69,
     "marketPrice": null,
     "directLowPrice": null,
     "name": "Gordon",
@@ -131,9 +131,9 @@
   },
   "OP01-OP01-013 normal": {
     "lowPrice": 3.0,
-    "midPrice": 4.27,
+    "midPrice": 4.32,
     "highPrice": 11.19,
-    "marketPrice": 3.33,
+    "marketPrice": 3.36,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "R",
@@ -157,7 +157,7 @@
   },
   "OP01-OP01-016 normal": {
     "lowPrice": 2.06,
-    "midPrice": 3.11,
+    "midPrice": 3.02,
     "highPrice": 5.0,
     "marketPrice": 3.04,
     "directLowPrice": null,
@@ -183,8 +183,8 @@
   },
   "OP01-OP01-021 normal": {
     "lowPrice": 0.52,
-    "midPrice": 0.98,
-    "highPrice": 2.5,
+    "midPrice": 0.94,
+    "highPrice": 1.82,
     "marketPrice": null,
     "directLowPrice": null,
     "name": "Franky (021)",
@@ -209,8 +209,8 @@
   },
   "OP02-OP02-015 normal": {
     "lowPrice": 0.47,
-    "midPrice": 1.65,
-    "highPrice": 2.5,
+    "midPrice": 1.6,
+    "highPrice": 1.79,
     "marketPrice": 0.59,
     "directLowPrice": null,
     "name": "Makino",
@@ -236,7 +236,7 @@
   "ST01-ST01-005 normal": {
     "lowPrice": 1.0,
     "midPrice": 1.5,
-    "highPrice": 2.5,
+    "highPrice": 2.33,
     "marketPrice": 1.33,
     "directLowPrice": null,
     "name": "Jinbe",
@@ -262,7 +262,7 @@
   "ST01-ST01-006 normal": {
     "lowPrice": 0.09,
     "midPrice": 0.5,
-    "highPrice": 2.5,
+    "highPrice": 1.59,
     "marketPrice": 0.26,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper (006)",
@@ -288,7 +288,7 @@
   "ST01-ST01-008 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.35,
-    "highPrice": 3.84,
+    "highPrice": 3.75,
     "marketPrice": 0.32,
     "directLowPrice": null,
     "name": "Nico Robin",
@@ -312,8 +312,8 @@
     "groupId": 23907
   },
   "ST01-ST01-011 normal": {
-    "lowPrice": 0.72,
-    "midPrice": 0.84,
+    "lowPrice": 0.71,
+    "midPrice": 0.83,
     "highPrice": 5.99,
     "marketPrice": 0.84,
     "directLowPrice": null,
@@ -365,7 +365,7 @@
   },
   "ST01-ST01-015 normal": {
     "lowPrice": 0.99,
-    "midPrice": 1.19,
+    "midPrice": 1.15,
     "highPrice": 5.0,
     "marketPrice": 1.05,
     "directLowPrice": null,
@@ -417,7 +417,7 @@
   },
   "OP01-OP01-003 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.61,
+    "midPrice": 0.62,
     "highPrice": 6.25,
     "marketPrice": 0.6,
     "directLowPrice": null,
@@ -443,7 +443,7 @@
   },
   "OP01-OP01-012 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.7,
+    "midPrice": 0.72,
     "highPrice": 4.9,
     "marketPrice": 0.68,
     "directLowPrice": null,
@@ -521,7 +521,7 @@
   },
   "OP01-OP01-008 normal": {
     "lowPrice": 0.29,
-    "midPrice": 0.68,
+    "midPrice": 0.67,
     "highPrice": 5.0,
     "marketPrice": 0.6,
     "directLowPrice": null,
@@ -547,7 +547,7 @@
   },
   "OP01-OP01-019 normal": {
     "lowPrice": 0.34,
-    "midPrice": 0.83,
+    "midPrice": 0.89,
     "highPrice": 9.99,
     "marketPrice": 0.7,
     "directLowPrice": null,

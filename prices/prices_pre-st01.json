@@ -78,8 +78,8 @@
     "groupId": 17659
   },
   "ST01-ST01-004 normal": {
-    "lowPrice": 2.29,
-    "midPrice": 3.94,
+    "lowPrice": 2.27,
+    "midPrice": 4.22,
     "highPrice": 15.0,
     "marketPrice": 2.43,
     "directLowPrice": null,
@@ -131,7 +131,7 @@
   },
   "ST01-ST01-006 normal": {
     "lowPrice": 9.97,
-    "midPrice": 10.5,
+    "midPrice": 10.99,
     "highPrice": 14.99,
     "marketPrice": 4.42,
     "directLowPrice": null,
@@ -286,10 +286,10 @@
     "groupId": 17659
   },
   "ST01-ST01-012 normal": {
-    "lowPrice": 44.01,
-    "midPrice": 45.75,
+    "lowPrice": 45.0,
+    "midPrice": 52.65,
     "highPrice": 60.0,
-    "marketPrice": 27.64,
+    "marketPrice": 31.6,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (012)",
     "rarity": "SR",
@@ -311,35 +311,9 @@
     "description": "[Rush] <em>(This card can attack on the turn in which it is played.)</em>\r\n<br>[DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
     "groupId": 17659
   },
-  "ST01-ST01-013 normal": {
-    "lowPrice": 19.59,
-    "midPrice": 19.59,
-    "highPrice": 19.59,
-    "marketPrice": 6.42,
-    "directLowPrice": null,
-    "name": "Roronoa Zoro",
-    "rarity": "SR",
-    "power": "5000",
-    "cost": "3",
-    "life": null,
-    "category": "Character",
-    "colors": "Red",
-    "attributes": "Slash",
-    "types": "Straw Hat Crew;Supernovas",
-    "effect": null,
-    "trigger": null,
-    "counter": null,
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/419388_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Character",
-    "description": "[DON!! x1] This Character gains +1000 power.",
-    "groupId": 17659
-  },
   "ST01-ST01-014 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.28,
+    "midPrice": 1.33,
     "highPrice": 15.0,
     "marketPrice": 0.95,
     "directLowPrice": null,
@@ -391,7 +365,7 @@
   },
   "ST01-ST01-016 normal": {
     "lowPrice": 3.0,
-    "midPrice": 4.5,
+    "midPrice": 4.42,
     "highPrice": 19.95,
     "marketPrice": 3.57,
     "directLowPrice": null,
@@ -416,10 +390,10 @@
     "groupId": 17659
   },
   "ST01-ST01-017 normal": {
-    "lowPrice": 1.86,
-    "midPrice": 2.12,
+    "lowPrice": 1.92,
+    "midPrice": 2.16,
     "highPrice": 3.56,
-    "marketPrice": 2.19,
+    "marketPrice": 2.26,
     "directLowPrice": null,
     "name": "Thousand Sunny",
     "rarity": "C",

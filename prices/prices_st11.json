@@ -1,6 +1,6 @@
 {
   "ST11-ST11-001 normal": {
-    "lowPrice": 0.85,
+    "lowPrice": 0.05,
     "midPrice": 1.0,
     "highPrice": 5.0,
     "marketPrice": 0.93,
@@ -26,10 +26,10 @@
     "groupId": 23250
   },
   "ST11-ST11-002 normal": {
-    "lowPrice": 0.74,
-    "midPrice": 1.99,
+    "lowPrice": 0.75,
+    "midPrice": 2.0,
     "highPrice": 10.0,
-    "marketPrice": 1.16,
+    "marketPrice": 1.14,
     "directLowPrice": null,
     "name": "Uta (002)",
     "rarity": "SR",
@@ -78,7 +78,7 @@
     "groupId": 23250
   },
   "ST11-ST11-004 normal": {
-    "lowPrice": 0.1,
+    "lowPrice": 0.17,
     "midPrice": 0.5,
     "highPrice": 6.5,
     "marketPrice": 0.3,

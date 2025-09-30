@@ -27,7 +27,7 @@
   },
   "P-P-057 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.18,
+    "midPrice": 0.15,
     "highPrice": 2.99,
     "marketPrice": 0.1,
     "directLowPrice": null,
@@ -79,7 +79,7 @@
   },
   "P-P-059 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.17,
+    "midPrice": 0.15,
     "highPrice": 2.99,
     "marketPrice": 0.12,
     "directLowPrice": null,
@@ -131,9 +131,9 @@
   },
   "P-P-061 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.3,
+    "midPrice": 0.28,
     "highPrice": 2.0,
-    "marketPrice": 0.3,
+    "marketPrice": 0.28,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (P-061)",
     "rarity": "PR",
@@ -156,10 +156,10 @@
     "groupId": 23491
   },
   "ST11-ST11-001 normal": {
-    "lowPrice": 0.19,
+    "lowPrice": 0.05,
     "midPrice": 0.5,
     "highPrice": 2.99,
-    "marketPrice": 0.52,
+    "marketPrice": 0.5,
     "directLowPrice": null,
     "name": "Uta (ST11-001)",
     "rarity": "L",
@@ -183,7 +183,7 @@
   },
   "ST11-ST11-003 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.2,
+    "midPrice": 0.19,
     "highPrice": 5.99,
     "marketPrice": 0.1,
     "directLowPrice": null,
@@ -287,9 +287,9 @@
   },
   "ST16-ST16-002 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.19,
+    "midPrice": 0.18,
     "highPrice": 2.49,
-    "marketPrice": 0.06,
+    "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Gordon",
     "rarity": "C",
@@ -315,7 +315,7 @@
     "lowPrice": 0.04,
     "midPrice": 0.2,
     "highPrice": 2.48,
-    "marketPrice": 0.11,
+    "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Charlotte Katakuri",
     "rarity": "C",
@@ -338,10 +338,10 @@
     "groupId": 23491
   },
   "ST16-ST16-004 normal": {
-    "lowPrice": 1.88,
-    "midPrice": 3.54,
+    "lowPrice": 1.89,
+    "midPrice": 3.49,
     "highPrice": 10.0,
-    "marketPrice": 2.35,
+    "marketPrice": 2.14,
     "directLowPrice": null,
     "name": "Shanks",
     "rarity": "SR",
@@ -366,8 +366,8 @@
   "ST16-ST16-005 normal": {
     "lowPrice": 0.22,
     "midPrice": 0.35,
-    "highPrice": 2.9,
-    "marketPrice": 0.28,
+    "highPrice": 2.5,
+    "marketPrice": 0.29,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (ST16-005)",
     "rarity": "C",

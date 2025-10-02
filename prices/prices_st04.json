@@ -52,7 +52,7 @@
     "groupId": 3190
   },
   "ST04-ST04-003 normal": {
-    "lowPrice": 0.09,
+    "lowPrice": 0.1,
     "midPrice": 0.5,
     "highPrice": 12.0,
     "marketPrice": 0.32,
@@ -79,7 +79,7 @@
   },
   "ST04-ST04-004 normal": {
     "lowPrice": 0.19,
-    "midPrice": 0.57,
+    "midPrice": 0.58,
     "highPrice": 25.0,
     "marketPrice": 0.45,
     "directLowPrice": null,
@@ -104,8 +104,8 @@
     "groupId": 3190
   },
   "ST04-ST04-005 normal": {
-    "lowPrice": 0.1,
-    "midPrice": 0.35,
+    "lowPrice": 0.09,
+    "midPrice": 0.37,
     "highPrice": 40.0,
     "marketPrice": 0.22,
     "directLowPrice": null,
@@ -131,7 +131,7 @@
   },
   "ST04-ST04-006 normal": {
     "lowPrice": 0.04,
-    "midPrice": 0.2,
+    "midPrice": 0.19,
     "highPrice": 1.35,
     "marketPrice": 0.14,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "ST04-ST04-008 normal": {
     "lowPrice": 0.04,
-    "midPrice": 0.23,
+    "midPrice": 0.22,
     "highPrice": 2.0,
     "marketPrice": 0.17,
     "directLowPrice": null,
@@ -208,7 +208,7 @@
     "groupId": 3190
   },
   "ST04-ST04-009 normal": {
-    "lowPrice": 0.01,
+    "lowPrice": 0.02,
     "midPrice": 0.15,
     "highPrice": 1.32,
     "marketPrice": 0.09,
@@ -235,7 +235,7 @@
   },
   "ST04-ST04-010 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.21,
+    "midPrice": 0.2,
     "highPrice": 1.32,
     "marketPrice": 0.11,
     "directLowPrice": null,
@@ -338,7 +338,7 @@
     "groupId": 3190
   },
   "ST04-ST04-014 normal": {
-    "lowPrice": 0.25,
+    "lowPrice": 0.24,
     "midPrice": 1.0,
     "highPrice": 7.65,
     "marketPrice": 0.83,
@@ -393,7 +393,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 8.4,
-    "marketPrice": 0.12,
+    "marketPrice": 0.13,
     "directLowPrice": null,
     "name": "Blast Breath",
     "rarity": "C",

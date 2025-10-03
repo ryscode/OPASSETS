@@ -1,7 +1,7 @@
 {
   "ST04-ST04-001 normal": {
-    "lowPrice": 48.0,
-    "midPrice": 79.95,
+    "lowPrice": 40.0,
+    "midPrice": 70.98,
     "highPrice": 100.0,
     "marketPrice": 34.68,
     "directLowPrice": null,
@@ -27,7 +27,7 @@
   },
   "ST04-ST04-002 normal": {
     "lowPrice": 0.99,
-    "midPrice": 1.7,
+    "midPrice": 1.74,
     "highPrice": 9.99,
     "marketPrice": 1.65,
     "directLowPrice": null,
@@ -52,10 +52,10 @@
     "groupId": 17661
   },
   "ST04-ST04-003 normal": {
-    "lowPrice": 0.69,
-    "midPrice": 2.28,
+    "lowPrice": 0.75,
+    "midPrice": 2.4,
     "highPrice": 30.0,
-    "marketPrice": 1.48,
+    "marketPrice": 1.41,
     "directLowPrice": null,
     "name": "Kaido (003)",
     "rarity": "SR",
@@ -79,9 +79,9 @@
   },
   "ST04-ST04-004 normal": {
     "lowPrice": 1.62,
-    "midPrice": 2.5,
+    "midPrice": 2.8,
     "highPrice": 30.0,
-    "marketPrice": 1.92,
+    "marketPrice": 1.9,
     "directLowPrice": null,
     "name": "King",
     "rarity": "SR",
@@ -105,7 +105,7 @@
   },
   "ST04-ST04-005 normal": {
     "lowPrice": 0.95,
-    "midPrice": 2.78,
+    "midPrice": 2.82,
     "highPrice": 75.0,
     "marketPrice": 1.83,
     "directLowPrice": null,
@@ -131,7 +131,7 @@
   },
   "ST04-ST04-006 normal": {
     "lowPrice": 0.13,
-    "midPrice": 0.31,
+    "midPrice": 0.32,
     "highPrice": 2.99,
     "marketPrice": 0.29,
     "directLowPrice": null,
@@ -289,7 +289,7 @@
     "lowPrice": 0.34,
     "midPrice": 0.93,
     "highPrice": 9.99,
-    "marketPrice": 0.56,
+    "marketPrice": 0.55,
     "directLowPrice": null,
     "name": "Page One",
     "rarity": "C",
@@ -339,9 +339,9 @@
   },
   "ST04-ST04-014 normal": {
     "lowPrice": 2.0,
-    "midPrice": 3.19,
+    "midPrice": 3.25,
     "highPrice": 14.99,
-    "marketPrice": 3.35,
+    "marketPrice": 3.15,
     "directLowPrice": null,
     "name": "Lead Performer \"Disaster\"",
     "rarity": "C",
@@ -364,8 +364,8 @@
     "groupId": 17661
   },
   "ST04-ST04-015 normal": {
-    "lowPrice": 1.32,
-    "midPrice": 2.15,
+    "lowPrice": 1.28,
+    "midPrice": 2.12,
     "highPrice": 19.9,
     "marketPrice": 2.56,
     "directLowPrice": null,
@@ -417,7 +417,7 @@
   },
   "ST04-ST04-017 normal": {
     "lowPrice": 0.98,
-    "midPrice": 1.24,
+    "midPrice": 1.25,
     "highPrice": 13.0,
     "marketPrice": 1.19,
     "directLowPrice": null,

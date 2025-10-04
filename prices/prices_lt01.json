@@ -1,7 +1,7 @@
 {
   "OP12-OP12-028 normal": {
-    "lowPrice": 0.4,
-    "midPrice": 0.4,
+    "lowPrice": 0.24,
+    "midPrice": 0.25,
     "highPrice": 0.4,
     "marketPrice": null,
     "directLowPrice": null,
@@ -26,9 +26,9 @@
     "groupId": 24306
   },
   "OP01-OP01-037 normal": {
-    "lowPrice": 0.3,
+    "lowPrice": 0.29,
     "midPrice": 0.3,
-    "highPrice": 0.3,
+    "highPrice": 0.5,
     "marketPrice": null,
     "directLowPrice": null,
     "name": "Kawamatsu (Zoro Deck)",
@@ -52,7 +52,7 @@
     "groupId": 24306
   },
   "OP12-OP12-027 normal": {
-    "lowPrice": 0.5,
+    "lowPrice": 0.49,
     "midPrice": 0.5,
     "highPrice": 0.5,
     "marketPrice": null,
@@ -78,7 +78,7 @@
     "groupId": 24306
   },
   "OP12-OP12-029 normal": {
-    "lowPrice": 0.5,
+    "lowPrice": 0.49,
     "midPrice": 0.5,
     "highPrice": 0.5,
     "marketPrice": null,
@@ -104,9 +104,9 @@
     "groupId": 24306
   },
   "EB02-EB02-019 normal": {
-    "lowPrice": 0.3,
-    "midPrice": 0.3,
-    "highPrice": 0.3,
+    "lowPrice": 0.24,
+    "midPrice": 0.28,
+    "highPrice": 0.5,
     "marketPrice": null,
     "directLowPrice": null,
     "name": "Roronoa Zoro - EB02-019 (Zoro Deck)",
@@ -130,9 +130,9 @@
     "groupId": 24306
   },
   "OP06-OP06-036 normal": {
-    "lowPrice": 0.4,
+    "lowPrice": 0.39,
     "midPrice": 0.4,
-    "highPrice": 0.4,
+    "highPrice": 0.5,
     "marketPrice": null,
     "directLowPrice": null,
     "name": "Ryuma (Zoro Deck)",
@@ -156,7 +156,7 @@
     "groupId": 24306
   },
   "OP12-OP12-036 normal": {
-    "lowPrice": 0.3,
+    "lowPrice": 0.29,
     "midPrice": 0.3,
     "highPrice": 0.3,
     "marketPrice": null,
@@ -181,37 +181,11 @@
     "description": "This card in your hand cannot be played by effects.<br>\r\nIf your Leader has the (Slash) attribute, this Character cannot be K.O.'d in battle by (Slash) attribute cards and gains +1000 power.",
     "groupId": 24306
   },
-  "EB01-EB01-012 normal": {
-    "lowPrice": 5.0,
-    "midPrice": 5.0,
-    "highPrice": 5.0,
-    "marketPrice": 5.0,
-    "directLowPrice": null,
-    "name": "Cavendish (Zoro Deck)",
-    "rarity": "SR",
-    "power": "6000",
-    "cost": "5",
-    "life": null,
-    "category": "Character",
-    "colors": "Green",
-    "attributes": "Slash",
-    "types": "Beautiful Pirates;Supernovas",
-    "effect": "yes",
-    "trigger": null,
-    "counter": "1000",
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/656644_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Character",
-    "description": "[On Play]/[When Attacking] If your Leader has the [Supernovas] type and you have no other [Cavendish] Characters, set up to 2 of your DON!! cards as active.",
-    "groupId": 24306
-  },
   "OP10-OP10-030 normal": {
-    "lowPrice": 3.0,
+    "lowPrice": 2.99,
     "midPrice": 3.0,
     "highPrice": 3.0,
-    "marketPrice": null,
+    "marketPrice": 2.99,
     "directLowPrice": null,
     "name": "Smoker (Zoro Deck)",
     "rarity": "SR",
@@ -234,9 +208,9 @@
     "groupId": 24306
   },
   "OP12-OP12-031 normal": {
-    "lowPrice": 0.3,
-    "midPrice": 0.3,
-    "highPrice": 0.3,
+    "lowPrice": 0.24,
+    "midPrice": 0.28,
+    "highPrice": 0.5,
     "marketPrice": null,
     "directLowPrice": null,
     "name": "Tashigi (Zoro Deck)",
@@ -260,9 +234,9 @@
     "groupId": 24306
   },
   "OP12-OP12-025 normal": {
-    "lowPrice": 0.3,
+    "lowPrice": 0.29,
     "midPrice": 0.3,
-    "highPrice": 0.3,
+    "highPrice": 0.5,
     "marketPrice": null,
     "directLowPrice": null,
     "name": "Kin'emon (Zoro Deck)",
@@ -286,9 +260,9 @@
     "groupId": 24306
   },
   "OP12-OP12-032 normal": {
-    "lowPrice": 0.3,
+    "lowPrice": 0.29,
     "midPrice": 0.3,
-    "highPrice": 0.3,
+    "highPrice": 0.5,
     "marketPrice": null,
     "directLowPrice": null,
     "name": "Nekomamushi (Zoro Deck)",
@@ -312,9 +286,9 @@
     "groupId": 24306
   },
   "OP06-OP06-038 normal": {
-    "lowPrice": 0.3,
+    "lowPrice": 0.29,
     "midPrice": 0.3,
-    "highPrice": 0.3,
+    "highPrice": 0.5,
     "marketPrice": null,
     "directLowPrice": null,
     "name": "The Billion-fold World Trichiliocosm (Zoro Deck)",
@@ -338,8 +312,8 @@
     "groupId": 24306
   },
   "OP12-OP12-039 normal": {
-    "lowPrice": 0.4,
-    "midPrice": 0.4,
+    "lowPrice": 0.24,
+    "midPrice": 0.25,
     "highPrice": 0.4,
     "marketPrice": null,
     "directLowPrice": null,
@@ -364,10 +338,10 @@
     "groupId": 24306
   },
   "P-P-069 normal": {
-    "lowPrice": 0.4,
+    "lowPrice": 0.39,
     "midPrice": 0.4,
     "highPrice": 0.4,
-    "marketPrice": 0.4,
+    "marketPrice": 0.45,
     "directLowPrice": null,
     "name": "Koala (Luffy Deck)",
     "rarity": "PR",
@@ -389,11 +363,37 @@
     "description": "[Activate:Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
     "groupId": 24306
   },
+  "ST21-ST21-001 normal": {
+    "lowPrice": 9.99,
+    "midPrice": 9.99,
+    "highPrice": 9.99,
+    "marketPrice": null,
+    "directLowPrice": null,
+    "name": "Monkey.D.Luffy - ST21-001 (Luffy Deck)",
+    "rarity": "L",
+    "power": "5000",
+    "cost": null,
+    "life": "5",
+    "category": "Leader",
+    "colors": "Red",
+    "attributes": "Strike",
+    "types": "Straw Hat Crew;The Four Emperors",
+    "effect": "yes",
+    "trigger": null,
+    "counter": null,
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/656655_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Leader",
+    "description": "[DON!! x1] [Activate: Main] [Once Per Turn] Give up to 2 rested DON!! cards to 1 of your Characters.",
+    "groupId": 24306
+  },
   "OP01-OP01-016 normal": {
     "lowPrice": 0.5,
     "midPrice": 0.5,
     "highPrice": 0.5,
-    "marketPrice": null,
+    "marketPrice": 0.37,
     "directLowPrice": null,
     "name": "Nami - OP01-016 (Luffy Deck)",
     "rarity": "R",
@@ -416,9 +416,9 @@
     "groupId": 24306
   },
   "ST21-ST21-003 normal": {
-    "lowPrice": 0.3,
-    "midPrice": 0.3,
-    "highPrice": 0.3,
+    "lowPrice": 0.24,
+    "midPrice": 0.28,
+    "highPrice": 0.5,
     "marketPrice": null,
     "directLowPrice": null,
     "name": "Sanji - ST21-003 (Luffy Deck)",
@@ -442,9 +442,9 @@
     "groupId": 24306
   },
   "ST21-ST21-010 normal": {
-    "lowPrice": 0.3,
-    "midPrice": 0.3,
-    "highPrice": 0.3,
+    "lowPrice": 0.24,
+    "midPrice": 0.28,
+    "highPrice": 0.99,
     "marketPrice": null,
     "directLowPrice": null,
     "name": "Nico Robin - ST21-010 (Luffy Deck)",
@@ -468,8 +468,8 @@
     "groupId": 24306
   },
   "OP10-OP10-011 normal": {
-    "lowPrice": 1.0,
-    "midPrice": 1.0,
+    "lowPrice": 0.99,
+    "midPrice": 0.99,
     "highPrice": 1.0,
     "marketPrice": null,
     "directLowPrice": null,
@@ -494,9 +494,9 @@
     "groupId": 24306
   },
   "ST21-ST21-008 normal": {
-    "lowPrice": 0.3,
+    "lowPrice": 0.29,
     "midPrice": 0.3,
-    "highPrice": 0.3,
+    "highPrice": 0.5,
     "marketPrice": null,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper - ST21-008 (Luffy Deck)",
@@ -520,10 +520,10 @@
     "groupId": 24306
   },
   "ST21-ST21-015 normal": {
-    "lowPrice": 2.0,
-    "midPrice": 2.0,
+    "lowPrice": 1.5,
+    "midPrice": 1.75,
     "highPrice": 2.0,
-    "marketPrice": null,
+    "marketPrice": 1.49,
     "directLowPrice": null,
     "name": "Roronoa Zoro - ST21-015 (Luffy Deck)",
     "rarity": "SR",
@@ -546,9 +546,9 @@
     "groupId": 24306
   },
   "OP09-OP09-005 normal": {
-    "lowPrice": 0.3,
-    "midPrice": 0.3,
-    "highPrice": 0.3,
+    "lowPrice": 0.24,
+    "midPrice": 0.28,
+    "highPrice": 0.5,
     "marketPrice": null,
     "directLowPrice": null,
     "name": "Silvers Rayleigh (Luffy Deck)",
@@ -572,7 +572,7 @@
     "groupId": 24306
   },
   "OP10-OP10-013 normal": {
-    "lowPrice": 0.3,
+    "lowPrice": 0.29,
     "midPrice": 0.3,
     "highPrice": 0.3,
     "marketPrice": null,
@@ -598,9 +598,9 @@
     "groupId": 24306
   },
   "OP11-OP11-003 normal": {
-    "lowPrice": 0.3,
+    "lowPrice": 0.29,
     "midPrice": 0.3,
-    "highPrice": 0.3,
+    "highPrice": 0.5,
     "marketPrice": null,
     "directLowPrice": null,
     "name": "Usopp - OP11-003 (Luffy Deck)",
@@ -624,9 +624,9 @@
     "groupId": 24306
   },
   "OP11-OP11-016 normal": {
-    "lowPrice": 0.3,
+    "lowPrice": 0.29,
     "midPrice": 0.3,
-    "highPrice": 0.3,
+    "highPrice": 0.5,
     "marketPrice": null,
     "directLowPrice": null,
     "name": "Roronoa Zoro - OP11-016 (Luffy Deck)",
@@ -650,8 +650,8 @@
     "groupId": 24306
   },
   "ST21-ST21-014 normal": {
-    "lowPrice": 2.0,
-    "midPrice": 2.0,
+    "lowPrice": 1.99,
+    "midPrice": 1.99,
     "highPrice": 2.0,
     "marketPrice": null,
     "directLowPrice": null,
@@ -676,10 +676,10 @@
     "groupId": 24306
   },
   "OP10-OP10-019 normal": {
-    "lowPrice": 1.0,
-    "midPrice": 1.0,
+    "lowPrice": 0.5,
+    "midPrice": 0.75,
     "highPrice": 1.0,
-    "marketPrice": null,
+    "marketPrice": 0.99,
     "directLowPrice": null,
     "name": "Divine Departure (Luffy Deck)",
     "rarity": "R",
@@ -702,8 +702,8 @@
     "groupId": 24306
   },
   "OP06-OP06-018 normal": {
-    "lowPrice": 0.5,
-    "midPrice": 0.5,
+    "lowPrice": 0.24,
+    "midPrice": 0.38,
     "highPrice": 0.5,
     "marketPrice": null,
     "directLowPrice": null,
@@ -728,9 +728,9 @@
     "groupId": 24306
   },
   "ST21-ST21-017 normal": {
-    "lowPrice": 0.3,
-    "midPrice": 0.3,
-    "highPrice": 0.3,
+    "lowPrice": 4.99,
+    "midPrice": 4.99,
+    "highPrice": 4.99,
     "marketPrice": 0.3,
     "directLowPrice": null,
     "name": "Gum-Gum Mole Pistol (Luffy Deck)",
@@ -754,9 +754,9 @@
     "groupId": 24306
   },
   "OP11-OP11-048 normal": {
-    "lowPrice": 0.3,
-    "midPrice": 0.3,
-    "highPrice": 0.3,
+    "lowPrice": 0.24,
+    "midPrice": 0.28,
+    "highPrice": 0.5,
     "marketPrice": null,
     "directLowPrice": null,
     "name": "Capone\"Gang\"Bege (Nami Deck)",
@@ -780,9 +780,9 @@
     "groupId": 24306
   },
   "OP11-OP11-105 normal": {
-    "lowPrice": 0.3,
+    "lowPrice": 0.24,
     "midPrice": 0.3,
-    "highPrice": 0.3,
+    "highPrice": 0.5,
     "marketPrice": null,
     "directLowPrice": null,
     "name": "Charlotte Chiffon (Nami Deck)",
@@ -806,8 +806,8 @@
     "groupId": 24306
   },
   "OP11-OP11-052 normal": {
-    "lowPrice": 0.3,
-    "midPrice": 0.3,
+    "lowPrice": 0.24,
+    "midPrice": 0.25,
     "highPrice": 0.3,
     "marketPrice": null,
     "directLowPrice": null,
@@ -832,8 +832,8 @@
     "groupId": 24306
   },
   "P-P-056 normal": {
-    "lowPrice": 2.0,
-    "midPrice": 2.0,
+    "lowPrice": 1.99,
+    "midPrice": 1.99,
     "highPrice": 2.0,
     "marketPrice": null,
     "directLowPrice": null,
@@ -858,8 +858,8 @@
     "groupId": 24306
   },
   "EB02-EB02-022 normal": {
-    "lowPrice": 1.0,
-    "midPrice": 1.0,
+    "lowPrice": 0.25,
+    "midPrice": 0.99,
     "highPrice": 1.0,
     "marketPrice": null,
     "directLowPrice": null,
@@ -884,9 +884,9 @@
     "groupId": 24306
   },
   "OP11-OP11-056 normal": {
-    "lowPrice": 0.3,
-    "midPrice": 0.3,
-    "highPrice": 0.3,
+    "lowPrice": 0.24,
+    "midPrice": 0.28,
+    "highPrice": 0.5,
     "marketPrice": null,
     "directLowPrice": null,
     "name": "Brook (Nami Deck)",
@@ -910,7 +910,7 @@
     "groupId": 24306
   },
   "P-P-053 normal": {
-    "lowPrice": 0.5,
+    "lowPrice": 0.49,
     "midPrice": 0.5,
     "highPrice": 0.5,
     "marketPrice": null,
@@ -936,7 +936,7 @@
     "groupId": 24306
   },
   "OP11-OP11-054 normal": {
-    "lowPrice": 2.0,
+    "lowPrice": 1.99,
     "midPrice": 2.0,
     "highPrice": 2.0,
     "marketPrice": null,
@@ -962,9 +962,9 @@
     "groupId": 24306
   },
   "OP11-OP11-053 normal": {
-    "lowPrice": 0.3,
+    "lowPrice": 0.29,
     "midPrice": 0.3,
-    "highPrice": 0.3,
+    "highPrice": 0.5,
     "marketPrice": null,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper - OP11-053 (Nami Deck)",
@@ -988,9 +988,9 @@
     "groupId": 24306
   },
   "OP11-OP11-058 normal": {
-    "lowPrice": 0.3,
+    "lowPrice": 0.29,
     "midPrice": 0.3,
-    "highPrice": 0.3,
+    "highPrice": 0.5,
     "marketPrice": null,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy - OP11-058 (Nami Deck)",
@@ -1014,8 +1014,8 @@
     "groupId": 24306
   },
   "OP09-OP09-107 normal": {
-    "lowPrice": 1.0,
-    "midPrice": 1.0,
+    "lowPrice": 0.49,
+    "midPrice": 0.5,
     "highPrice": 1.0,
     "marketPrice": null,
     "directLowPrice": null,
@@ -1040,8 +1040,8 @@
     "groupId": 24306
   },
   "OP11-OP11-051 normal": {
-    "lowPrice": 2.0,
-    "midPrice": 2.0,
+    "lowPrice": 1.99,
+    "midPrice": 1.99,
     "highPrice": 2.0,
     "marketPrice": null,
     "directLowPrice": null,
@@ -1066,10 +1066,10 @@
     "groupId": 24306
   },
   "OP11-OP11-118 normal": {
-    "lowPrice": 2.0,
-    "midPrice": 2.0,
-    "highPrice": 2.0,
-    "marketPrice": null,
+    "lowPrice": 2.49,
+    "midPrice": 3.24,
+    "highPrice": 3.99,
+    "marketPrice": 2.0,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy - OP11-118 (Nami Deck)",
     "rarity": "SEC",
@@ -1092,8 +1092,8 @@
     "groupId": 24306
   },
   "OP11-OP11-114 normal": {
-    "lowPrice": 1.0,
-    "midPrice": 1.0,
+    "lowPrice": 0.24,
+    "midPrice": 0.38,
     "highPrice": 1.0,
     "marketPrice": null,
     "directLowPrice": null,
@@ -1118,8 +1118,8 @@
     "groupId": 24306
   },
   "OP11-OP11-060 normal": {
-    "lowPrice": 1.0,
-    "midPrice": 1.0,
+    "lowPrice": 0.24,
+    "midPrice": 0.62,
     "highPrice": 1.0,
     "marketPrice": null,
     "directLowPrice": null,

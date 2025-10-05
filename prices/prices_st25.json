@@ -1,9 +1,9 @@
 {
   "OP09-OP09-042 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.46,
+    "midPrice": 0.45,
     "highPrice": 111.0,
-    "marketPrice": 0.46,
+    "marketPrice": 0.47,
     "directLowPrice": null,
     "name": "Buggy (OP09-042)",
     "rarity": "L",
@@ -26,10 +26,10 @@
     "groupId": 24284
   },
   "ST25-ST25-003 normal": {
-    "lowPrice": 1.74,
-    "midPrice": 2.86,
+    "lowPrice": 0.75,
+    "midPrice": 2.75,
     "highPrice": 111.0,
-    "marketPrice": 2.23,
+    "marketPrice": 2.2,
     "directLowPrice": null,
     "name": "Crocodile & Mihawk",
     "rarity": "SR",
@@ -55,7 +55,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.99,
     "highPrice": 111.0,
-    "marketPrice": 0.69,
+    "marketPrice": 0.71,
     "directLowPrice": null,
     "name": "Buggy",
     "rarity": "SR",
@@ -78,7 +78,7 @@
     "groupId": 24284
   },
   "OP09-OP09-043 normal": {
-    "lowPrice": 0.01,
+    "lowPrice": 0.02,
     "midPrice": 0.15,
     "highPrice": 111.0,
     "marketPrice": 0.13,
@@ -133,7 +133,7 @@
     "lowPrice": 0.02,
     "midPrice": 0.15,
     "highPrice": 111.0,
-    "marketPrice": 0.11,
+    "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Buggy (Reprint)",
     "rarity": "R",
@@ -286,10 +286,10 @@
     "groupId": 24284
   },
   "ST25-ST25-001 normal": {
-    "lowPrice": 0.99,
-    "midPrice": 1.49,
+    "lowPrice": 0.98,
+    "midPrice": 1.4,
     "highPrice": 111.0,
-    "marketPrice": 1.1,
+    "marketPrice": 1.11,
     "directLowPrice": null,
     "name": "Alvida",
     "rarity": "C",
@@ -313,7 +313,7 @@
   },
   "ST25-ST25-002 normal": {
     "lowPrice": 0.13,
-    "midPrice": 0.21,
+    "midPrice": 0.22,
     "highPrice": 111.0,
     "marketPrice": 0.17,
     "directLowPrice": null,
@@ -339,9 +339,9 @@
   },
   "ST25-ST25-005 normal": {
     "lowPrice": 0.11,
-    "midPrice": 0.22,
+    "midPrice": 0.23,
     "highPrice": 111.0,
-    "marketPrice": 0.14,
+    "marketPrice": 0.15,
     "directLowPrice": null,
     "name": "Mohji",
     "rarity": "C",

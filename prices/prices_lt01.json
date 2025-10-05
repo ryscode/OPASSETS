@@ -1,4 +1,30 @@
 {
+  "OP12-OP12-020 normal": {
+    "lowPrice": 54.99,
+    "midPrice": 54.99,
+    "highPrice": 54.99,
+    "marketPrice": 3.49,
+    "directLowPrice": null,
+    "name": "Roronoa Zoro - OP12-020 (Zoro Deck)",
+    "rarity": "L",
+    "power": "5000",
+    "cost": null,
+    "life": "5",
+    "category": "Leader",
+    "colors": "Green",
+    "attributes": "Slash",
+    "types": "Straw Hat Crew;Supernovas",
+    "effect": "yes",
+    "trigger": null,
+    "counter": null,
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/656631_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Leader",
+    "description": "[DON!! x3] [Activate: Main] [Once Per Turn] If this Leader battles your opponent's Character during this turn, set this Leader as active. Then, this Leader cannot attack your opponent's Characters with a base cost of 7 or less during this turn.",
+    "groupId": 24306
+  },
   "OP12-OP12-028 normal": {
     "lowPrice": 0.24,
     "midPrice": 0.25,
@@ -105,9 +131,9 @@
   },
   "EB02-EB02-019 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.28,
+    "midPrice": 0.3,
     "highPrice": 0.5,
-    "marketPrice": null,
+    "marketPrice": 0.25,
     "directLowPrice": null,
     "name": "Roronoa Zoro - EB02-019 (Zoro Deck)",
     "rarity": "R",
@@ -182,8 +208,8 @@
     "groupId": 24306
   },
   "OP10-OP10-030 normal": {
-    "lowPrice": 2.99,
-    "midPrice": 3.0,
+    "lowPrice": 2.95,
+    "midPrice": 2.97,
     "highPrice": 3.0,
     "marketPrice": 2.99,
     "directLowPrice": null,
@@ -339,7 +365,7 @@
   },
   "P-P-069 normal": {
     "lowPrice": 0.39,
-    "midPrice": 0.4,
+    "midPrice": 0.39,
     "highPrice": 0.4,
     "marketPrice": 0.45,
     "directLowPrice": null,
@@ -364,9 +390,9 @@
     "groupId": 24306
   },
   "ST21-ST21-001 normal": {
-    "lowPrice": 9.99,
+    "lowPrice": 5.0,
     "midPrice": 9.99,
-    "highPrice": 9.99,
+    "highPrice": 54.99,
     "marketPrice": null,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy - ST21-001 (Luffy Deck)",
@@ -390,10 +416,10 @@
     "groupId": 24306
   },
   "OP01-OP01-016 normal": {
-    "lowPrice": 0.5,
-    "midPrice": 0.5,
+    "lowPrice": 0.35,
+    "midPrice": 0.43,
     "highPrice": 0.5,
-    "marketPrice": 0.37,
+    "marketPrice": 0.41,
     "directLowPrice": null,
     "name": "Nami - OP01-016 (Luffy Deck)",
     "rarity": "R",
@@ -442,10 +468,10 @@
     "groupId": 24306
   },
   "ST21-ST21-010 normal": {
-    "lowPrice": 0.24,
-    "midPrice": 0.28,
+    "lowPrice": 0.25,
+    "midPrice": 0.3,
     "highPrice": 0.99,
-    "marketPrice": null,
+    "marketPrice": 0.24,
     "directLowPrice": null,
     "name": "Nico Robin - ST21-010 (Luffy Deck)",
     "rarity": "C",
@@ -468,7 +494,7 @@
     "groupId": 24306
   },
   "OP10-OP10-011 normal": {
-    "lowPrice": 0.99,
+    "lowPrice": 0.95,
     "midPrice": 0.99,
     "highPrice": 1.0,
     "marketPrice": null,
@@ -520,8 +546,8 @@
     "groupId": 24306
   },
   "ST21-ST21-015 normal": {
-    "lowPrice": 1.5,
-    "midPrice": 1.75,
+    "lowPrice": 1.45,
+    "midPrice": 1.48,
     "highPrice": 2.0,
     "marketPrice": 1.49,
     "directLowPrice": null,
@@ -676,8 +702,8 @@
     "groupId": 24306
   },
   "OP10-OP10-019 normal": {
-    "lowPrice": 0.5,
-    "midPrice": 0.75,
+    "lowPrice": 0.45,
+    "midPrice": 0.5,
     "highPrice": 1.0,
     "marketPrice": 0.99,
     "directLowPrice": null,
@@ -728,8 +754,8 @@
     "groupId": 24306
   },
   "ST21-ST21-017 normal": {
-    "lowPrice": 4.99,
-    "midPrice": 4.99,
+    "lowPrice": 4.0,
+    "midPrice": 4.5,
     "highPrice": 4.99,
     "marketPrice": 0.3,
     "directLowPrice": null,
@@ -753,9 +779,35 @@
     "description": "[Main] Give up to 1 of your opponent's Characters 5000 power during this turn. Then, if you have a Character with 6000 power or more, K.O. up to 1 of your opponent's Characters with 2000 power or less.<br>\r\n[Trigger] Activate this card's [Main] effect.",
     "groupId": 24306
   },
+  "OP11-OP11-041 normal": {
+    "lowPrice": 54.99,
+    "midPrice": 54.99,
+    "highPrice": 54.99,
+    "marketPrice": 4.99,
+    "directLowPrice": null,
+    "name": "Nami - OP11-041 (Nami Deck)",
+    "rarity": "L",
+    "power": "5000",
+    "cost": null,
+    "life": "4",
+    "category": "Leader",
+    "colors": "Blue;Yellow",
+    "attributes": "Special",
+    "types": "Straw Hat Crew",
+    "effect": null,
+    "trigger": null,
+    "counter": null,
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/656678_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Leader",
+    "description": "[Your Turn] [Once Per Turn] This effect can be activated when a card is removed from your or your opponent's Life cards. If you have 7 or less cards in your hand, draw 1 card.<br>\r\n[DON!! x1] [On Your Opponent's Attack] [Once Per Turn] <strong>You may trash 1 card from your hand:</strong> This Leader gains +2000 power during this turn.",
+    "groupId": 24306
+  },
   "OP11-OP11-048 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.28,
+    "midPrice": 0.25,
     "highPrice": 0.5,
     "marketPrice": null,
     "directLowPrice": null,
@@ -781,7 +833,7 @@
   },
   "OP11-OP11-105 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.3,
+    "midPrice": 0.27,
     "highPrice": 0.5,
     "marketPrice": null,
     "directLowPrice": null,
@@ -859,7 +911,7 @@
   },
   "EB02-EB02-022 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.99,
+    "midPrice": 0.62,
     "highPrice": 1.0,
     "marketPrice": null,
     "directLowPrice": null,
@@ -885,7 +937,7 @@
   },
   "OP11-OP11-056 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.28,
+    "midPrice": 0.25,
     "highPrice": 0.5,
     "marketPrice": null,
     "directLowPrice": null,
@@ -911,7 +963,7 @@
   },
   "P-P-053 normal": {
     "lowPrice": 0.49,
-    "midPrice": 0.5,
+    "midPrice": 0.49,
     "highPrice": 0.5,
     "marketPrice": null,
     "directLowPrice": null,
@@ -936,8 +988,8 @@
     "groupId": 24306
   },
   "OP11-OP11-054 normal": {
-    "lowPrice": 1.99,
-    "midPrice": 2.0,
+    "lowPrice": 1.81,
+    "midPrice": 1.99,
     "highPrice": 2.0,
     "marketPrice": null,
     "directLowPrice": null,
@@ -1017,7 +1069,7 @@
     "lowPrice": 0.49,
     "midPrice": 0.5,
     "highPrice": 1.0,
-    "marketPrice": null,
+    "marketPrice": 0.49,
     "directLowPrice": null,
     "name": "Nico Robin - OP09-107 (Nami Deck)",
     "rarity": "R",
@@ -1066,10 +1118,10 @@
     "groupId": 24306
   },
   "OP11-OP11-118 normal": {
-    "lowPrice": 2.49,
-    "midPrice": 3.24,
+    "lowPrice": 1.99,
+    "midPrice": 2.0,
     "highPrice": 3.99,
-    "marketPrice": 2.0,
+    "marketPrice": 1.99,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy - OP11-118 (Nami Deck)",
     "rarity": "SEC",
@@ -1093,7 +1145,7 @@
   },
   "OP11-OP11-114 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.38,
+    "midPrice": 0.25,
     "highPrice": 1.0,
     "marketPrice": null,
     "directLowPrice": null,
@@ -1119,7 +1171,7 @@
   },
   "OP11-OP11-060 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.62,
+    "midPrice": 0.25,
     "highPrice": 1.0,
     "marketPrice": null,
     "directLowPrice": null,

@@ -27,7 +27,7 @@
   },
   "OP03-OP03-006 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.47,
+    "midPrice": 0.46,
     "highPrice": 3.14,
     "marketPrice": 0.31,
     "directLowPrice": null,
@@ -53,7 +53,7 @@
   },
   "OP03-OP03-007 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.51,
+    "midPrice": 0.5,
     "highPrice": 5.0,
     "marketPrice": 0.3,
     "directLowPrice": null,
@@ -78,7 +78,7 @@
     "groupId": 23232
   },
   "OP03-OP03-009 normal": {
-    "lowPrice": 0.78,
+    "lowPrice": 0.68,
     "midPrice": 1.06,
     "highPrice": 9.0,
     "marketPrice": 0.99,
@@ -184,7 +184,7 @@
   "OP03-OP03-023 normal": {
     "lowPrice": 0.15,
     "midPrice": 0.5,
-    "highPrice": 5.99,
+    "highPrice": 5.0,
     "marketPrice": 0.41,
     "directLowPrice": null,
     "name": "Alvida",
@@ -234,7 +234,7 @@
     "groupId": 23232
   },
   "OP03-OP03-031 normal": {
-    "lowPrice": 0.24,
+    "lowPrice": 0.15,
     "midPrice": 0.6,
     "highPrice": 4.0,
     "marketPrice": 0.27,
@@ -262,8 +262,8 @@
   "OP03-OP03-032 normal": {
     "lowPrice": 1.04,
     "midPrice": 2.53,
-    "highPrice": 9.99,
-    "marketPrice": 1.03,
+    "highPrice": 8.99,
+    "marketPrice": 1.02,
     "directLowPrice": null,
     "name": "Buggy (032)",
     "rarity": "C",
@@ -312,7 +312,7 @@
     "groupId": 23232
   },
   "OP03-OP03-036 normal": {
-    "lowPrice": 0.45,
+    "lowPrice": 0.35,
     "midPrice": 0.5,
     "highPrice": 4.99,
     "marketPrice": 0.47,
@@ -416,7 +416,7 @@
     "groupId": 23232
   },
   "OP03-OP03-046 normal": {
-    "lowPrice": 0.21,
+    "lowPrice": 0.15,
     "midPrice": 0.48,
     "highPrice": 4.99,
     "marketPrice": 0.32,
@@ -443,7 +443,7 @@
   },
   "OP03-OP03-052 normal": {
     "lowPrice": 0.21,
-    "midPrice": 0.36,
+    "midPrice": 0.32,
     "highPrice": 2.14,
     "marketPrice": 0.26,
     "directLowPrice": null,
@@ -520,8 +520,8 @@
     "groupId": 23232
   },
   "OP03-OP03-055 normal": {
-    "lowPrice": 0.7,
-    "midPrice": 1.65,
+    "lowPrice": 0.59,
+    "midPrice": 1.78,
     "highPrice": 4.99,
     "marketPrice": 0.73,
     "directLowPrice": null,
@@ -598,8 +598,8 @@
     "groupId": 23232
   },
   "OP03-OP03-065 normal": {
-    "lowPrice": 0.49,
-    "midPrice": 0.57,
+    "lowPrice": 0.39,
+    "midPrice": 0.55,
     "highPrice": 2.0,
     "marketPrice": 0.59,
     "directLowPrice": null,
@@ -676,7 +676,7 @@
     "groupId": 23232
   },
   "OP03-OP03-073 normal": {
-    "lowPrice": 0.16,
+    "lowPrice": 0.15,
     "midPrice": 0.5,
     "highPrice": 5.9,
     "marketPrice": 0.3,
@@ -728,7 +728,7 @@
     "groupId": 23232
   },
   "OP03-OP03-082 normal": {
-    "lowPrice": 0.49,
+    "lowPrice": 0.39,
     "midPrice": 1.03,
     "highPrice": 19.99,
     "marketPrice": 0.66,
@@ -780,7 +780,7 @@
     "groupId": 23232
   },
   "OP03-OP03-084 normal": {
-    "lowPrice": 0.24,
+    "lowPrice": 0.15,
     "midPrice": 0.49,
     "highPrice": 2.95,
     "marketPrice": 0.35,
@@ -832,7 +832,7 @@
     "groupId": 23232
   },
   "OP03-OP03-087 normal": {
-    "lowPrice": 0.33,
+    "lowPrice": 0.25,
     "midPrice": 0.48,
     "highPrice": 5.0,
     "marketPrice": 0.41,
@@ -938,7 +938,7 @@
   "OP03-OP03-101 normal": {
     "lowPrice": 0.5,
     "midPrice": 0.95,
-    "highPrice": 5.99,
+    "highPrice": 4.99,
     "marketPrice": 0.66,
     "directLowPrice": null,
     "name": "Camie",
@@ -962,9 +962,9 @@
     "groupId": 23232
   },
   "OP03-OP03-103 normal": {
-    "lowPrice": 0.25,
+    "lowPrice": 0.17,
     "midPrice": 0.5,
-    "highPrice": 5.99,
+    "highPrice": 4.99,
     "marketPrice": 0.33,
     "directLowPrice": null,
     "name": "Bobbin the Disposer",
@@ -1015,7 +1015,7 @@
   },
   "OP03-OP03-107 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.05,
+    "midPrice": 1.03,
     "highPrice": 3.67,
     "marketPrice": 0.88,
     "directLowPrice": null,
@@ -1040,7 +1040,7 @@
     "groupId": 23232
   },
   "OP03-OP03-109 normal": {
-    "lowPrice": 0.23,
+    "lowPrice": 0.15,
     "midPrice": 0.49,
     "highPrice": 5.0,
     "marketPrice": 0.34,
@@ -1145,7 +1145,7 @@
   },
   "OP03-OP03-100 normal": {
     "lowPrice": 0.49,
-    "midPrice": 1.41,
+    "midPrice": 1.42,
     "highPrice": 15.0,
     "marketPrice": 0.49,
     "directLowPrice": null,
@@ -1172,7 +1172,7 @@
   "OP03-OP03-002 normal": {
     "lowPrice": 0.6,
     "midPrice": 1.43,
-    "highPrice": 9.99,
+    "highPrice": 5.0,
     "marketPrice": 0.74,
     "directLowPrice": null,
     "name": "Adio",
@@ -1197,7 +1197,7 @@
   },
   "OP03-OP03-005 normal": {
     "lowPrice": 1.0,
-    "midPrice": 1.29,
+    "midPrice": 1.25,
     "highPrice": 3.0,
     "marketPrice": 1.03,
     "directLowPrice": null,
@@ -1222,9 +1222,9 @@
     "groupId": 23232
   },
   "OP03-OP03-008 normal": {
-    "lowPrice": 13.99,
-    "midPrice": 19.0,
-    "highPrice": 59.99,
+    "lowPrice": 12.69,
+    "midPrice": 18.3,
+    "highPrice": 34.99,
     "marketPrice": 8.78,
     "directLowPrice": null,
     "name": "Buggy (008)",
@@ -1248,8 +1248,8 @@
     "groupId": 23232
   },
   "OP03-OP03-011 normal": {
-    "lowPrice": 0.79,
-    "midPrice": 1.35,
+    "lowPrice": 0.69,
+    "midPrice": 1.32,
     "highPrice": 39.99,
     "marketPrice": 1.06,
     "directLowPrice": null,
@@ -1275,7 +1275,7 @@
   },
   "OP03-OP03-014 normal": {
     "lowPrice": 14.0,
-    "midPrice": 19.0,
+    "midPrice": 18.19,
     "highPrice": 19.36,
     "marketPrice": 19.23,
     "directLowPrice": null,
@@ -1326,10 +1326,10 @@
     "groupId": 23232
   },
   "OP03-OP03-017 normal": {
-    "lowPrice": 8.99,
-    "midPrice": 11.37,
+    "lowPrice": 8.89,
+    "midPrice": 10.32,
     "highPrice": 48.0,
-    "marketPrice": 12.08,
+    "marketPrice": 10.26,
     "directLowPrice": null,
     "name": "Cross Fire",
     "rarity": "UC",
@@ -1378,7 +1378,7 @@
     "groupId": 23232
   },
   "OP03-OP03-029 normal": {
-    "lowPrice": 2.75,
+    "lowPrice": 2.65,
     "midPrice": 3.0,
     "highPrice": 3.98,
     "marketPrice": 3.23,
@@ -1406,7 +1406,7 @@
   "OP03-OP03-034 normal": {
     "lowPrice": 1.25,
     "midPrice": 1.88,
-    "highPrice": 9.99,
+    "highPrice": 8.99,
     "marketPrice": 1.78,
     "directLowPrice": null,
     "name": "Buchi",
@@ -1508,7 +1508,7 @@
     "groupId": 23232
   },
   "OP03-OP03-049 normal": {
-    "lowPrice": 0.55,
+    "lowPrice": 0.45,
     "midPrice": 0.83,
     "highPrice": 7.13,
     "marketPrice": 0.82,
@@ -1536,7 +1536,7 @@
   "OP03-OP03-050 normal": {
     "lowPrice": 2.94,
     "midPrice": 3.15,
-    "highPrice": 16.99,
+    "highPrice": 10.99,
     "marketPrice": 2.96,
     "directLowPrice": null,
     "name": "Boodle",
@@ -1690,8 +1690,8 @@
     "groupId": 23232
   },
   "OP03-OP03-074 normal": {
-    "lowPrice": 14.73,
-    "midPrice": 18.84,
+    "lowPrice": 14.75,
+    "midPrice": 19.69,
     "highPrice": 50.0,
     "marketPrice": 17.05,
     "directLowPrice": null,
@@ -1743,7 +1743,7 @@
   },
   "OP03-OP03-088 normal": {
     "lowPrice": 2.74,
-    "midPrice": 4.03,
+    "midPrice": 4.02,
     "highPrice": 19.23,
     "marketPrice": 3.49,
     "directLowPrice": null,
@@ -1768,7 +1768,7 @@
     "groupId": 23232
   },
   "OP03-OP03-093 normal": {
-    "lowPrice": 0.75,
+    "lowPrice": 0.65,
     "midPrice": 1.0,
     "highPrice": 7.99,
     "marketPrice": 0.92,
@@ -1796,7 +1796,7 @@
   "OP03-OP03-094 normal": {
     "lowPrice": 7.99,
     "midPrice": 9.0,
-    "highPrice": 34.99,
+    "highPrice": 24.99,
     "marketPrice": 5.6,
     "directLowPrice": null,
     "name": "Air Door",
@@ -1821,8 +1821,8 @@
   },
   "OP03-OP03-096 normal": {
     "lowPrice": 6.45,
-    "midPrice": 7.81,
-    "highPrice": 9.16,
+    "midPrice": 7.44,
+    "highPrice": 8.43,
     "marketPrice": 6.53,
     "directLowPrice": null,
     "name": "Tempest Kick Sky Slicer",
@@ -1847,7 +1847,7 @@
   },
   "OP03-OP03-104 normal": {
     "lowPrice": 1.63,
-    "midPrice": 4.68,
+    "midPrice": 4.79,
     "highPrice": 17.0,
     "marketPrice": 2.13,
     "directLowPrice": null,
@@ -1898,7 +1898,7 @@
     "groupId": 23232
   },
   "OP03-OP03-116 normal": {
-    "lowPrice": 3.78,
+    "lowPrice": 3.68,
     "midPrice": 4.99,
     "highPrice": 10.87,
     "marketPrice": 4.3,

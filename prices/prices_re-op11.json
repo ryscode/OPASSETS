@@ -1,8 +1,8 @@
 {
   "OP11-OP11-002 normal": {
-    "lowPrice": 0.19,
-    "midPrice": 0.28,
-    "highPrice": 5.99,
+    "lowPrice": 0.15,
+    "midPrice": 0.27,
+    "highPrice": 4.99,
     "marketPrice": 0.28,
     "directLowPrice": null,
     "name": "Ain",
@@ -53,7 +53,7 @@
   },
   "OP11-OP11-005 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.52,
+    "midPrice": 0.51,
     "highPrice": 8.99,
     "marketPrice": 0.44,
     "directLowPrice": null,
@@ -107,7 +107,7 @@
     "lowPrice": 0.18,
     "midPrice": 0.51,
     "highPrice": 4.25,
-    "marketPrice": 0.42,
+    "marketPrice": 0.43,
     "directLowPrice": null,
     "name": "Tashigi",
     "rarity": "C",
@@ -131,7 +131,7 @@
   },
   "OP11-OP11-009 normal": {
     "lowPrice": 1.35,
-    "midPrice": 4.54,
+    "midPrice": 4.98,
     "highPrice": 15.0,
     "marketPrice": 1.75,
     "directLowPrice": null,
@@ -158,7 +158,7 @@
   "OP11-OP11-011 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.5,
-    "highPrice": 5.99,
+    "highPrice": 4.99,
     "marketPrice": 0.39,
     "directLowPrice": null,
     "name": "Bins",
@@ -183,7 +183,7 @@
   },
   "OP11-OP11-012 normal": {
     "lowPrice": 3.15,
-    "midPrice": 4.45,
+    "midPrice": 4.23,
     "highPrice": 15.45,
     "marketPrice": 3.28,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "OP11-OP11-016 normal": {
     "lowPrice": 1.88,
-    "midPrice": 3.0,
+    "midPrice": 2.99,
     "highPrice": 10.0,
     "marketPrice": 2.56,
     "directLowPrice": null,
@@ -260,9 +260,9 @@
     "groupId": 24242
   },
   "OP11-OP11-017 normal": {
-    "lowPrice": 5.42,
-    "midPrice": 5.42,
-    "highPrice": 5.42,
+    "lowPrice": 5.15,
+    "midPrice": 5.15,
+    "highPrice": 5.15,
     "marketPrice": 4.21,
     "directLowPrice": null,
     "name": "X.Drake",
@@ -287,7 +287,7 @@
   },
   "OP11-OP11-019 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.78,
+    "midPrice": 0.77,
     "highPrice": 11.3,
     "marketPrice": 0.79,
     "directLowPrice": null,
@@ -338,7 +338,7 @@
     "groupId": 24242
   },
   "OP11-OP11-024 normal": {
-    "lowPrice": 0.25,
+    "lowPrice": 0.15,
     "midPrice": 0.61,
     "highPrice": 16.46,
     "marketPrice": 0.59,
@@ -364,7 +364,7 @@
     "groupId": 24242
   },
   "OP11-OP11-025 normal": {
-    "lowPrice": 0.4,
+    "lowPrice": 0.29,
     "midPrice": 1.05,
     "highPrice": 9.99,
     "marketPrice": 1.05,
@@ -391,9 +391,9 @@
   },
   "OP11-OP11-026 normal": {
     "lowPrice": 0.54,
-    "midPrice": 1.06,
+    "midPrice": 1.49,
     "highPrice": 5.0,
-    "marketPrice": 0.76,
+    "marketPrice": 0.77,
     "directLowPrice": null,
     "name": "Scaled Neptunian",
     "rarity": "C",
@@ -417,7 +417,7 @@
   },
   "OP11-OP11-027 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.53,
+    "midPrice": 0.5,
     "highPrice": 12.0,
     "marketPrice": 0.38,
     "directLowPrice": null,
@@ -494,9 +494,9 @@
     "groupId": 24242
   },
   "OP11-OP11-033 normal": {
-    "lowPrice": 7.9,
-    "midPrice": 15.49,
-    "highPrice": 34.99,
+    "lowPrice": 15.49,
+    "midPrice": 27.74,
+    "highPrice": 39.99,
     "marketPrice": 2.81,
     "directLowPrice": null,
     "name": "Bird Neptunian",
@@ -547,7 +547,7 @@
   },
   "OP11-OP11-035 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.76,
+    "midPrice": 0.72,
     "highPrice": 5.0,
     "marketPrice": 0.56,
     "directLowPrice": null,
@@ -572,10 +572,10 @@
     "groupId": 24242
   },
   "OP11-OP11-036 normal": {
-    "lowPrice": 1.8,
-    "midPrice": 2.12,
+    "lowPrice": 2.0,
+    "midPrice": 2.15,
     "highPrice": 9.5,
-    "marketPrice": 1.95,
+    "marketPrice": 1.96,
     "directLowPrice": null,
     "name": "Spotted Neptunian",
     "rarity": "UC",
@@ -601,7 +601,7 @@
     "lowPrice": 2.63,
     "midPrice": 3.5,
     "highPrice": 13.1,
-    "marketPrice": 2.67,
+    "marketPrice": 2.7,
     "directLowPrice": null,
     "name": "Ancient Weapon Poseidon",
     "rarity": "UC",
@@ -624,10 +624,10 @@
     "groupId": 24242
   },
   "OP11-OP11-039 normal": {
-    "lowPrice": 0.5,
+    "lowPrice": 0.49,
     "midPrice": 1.49,
     "highPrice": 10.99,
-    "marketPrice": 1.49,
+    "marketPrice": 1.44,
     "directLowPrice": null,
     "name": "Vagabond Drill",
     "rarity": "C",
@@ -703,7 +703,7 @@
   },
   "OP11-OP11-044 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.47,
+    "midPrice": 0.46,
     "highPrice": 1.99,
     "marketPrice": 0.41,
     "directLowPrice": null,
@@ -755,7 +755,7 @@
   },
   "OP11-OP11-046 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.56,
+    "midPrice": 0.55,
     "highPrice": 4.99,
     "marketPrice": 0.47,
     "directLowPrice": null,
@@ -807,7 +807,7 @@
   },
   "OP11-OP11-052 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.54,
+    "midPrice": 0.53,
     "highPrice": 3.0,
     "marketPrice": 0.55,
     "directLowPrice": null,
@@ -860,7 +860,7 @@
   "OP11-OP11-055 normal": {
     "lowPrice": 0.75,
     "midPrice": 1.0,
-    "highPrice": 9.99,
+    "highPrice": 8.99,
     "marketPrice": 1.19,
     "directLowPrice": null,
     "name": "Bartolomeo",
@@ -885,7 +885,7 @@
   },
   "OP11-OP11-057 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.47,
+    "midPrice": 0.45,
     "highPrice": 2.99,
     "marketPrice": 0.38,
     "directLowPrice": null,
@@ -911,7 +911,7 @@
   },
   "OP11-OP11-058 normal": {
     "lowPrice": 0.96,
-    "midPrice": 1.79,
+    "midPrice": 1.87,
     "highPrice": 3.99,
     "marketPrice": 1.22,
     "directLowPrice": null,
@@ -962,8 +962,8 @@
     "groupId": 24242
   },
   "OP11-OP11-063 normal": {
-    "lowPrice": 0.24,
-    "midPrice": 0.46,
+    "lowPrice": 0.15,
+    "midPrice": 0.47,
     "highPrice": 4.99,
     "marketPrice": 0.37,
     "directLowPrice": null,
@@ -1066,7 +1066,7 @@
     "groupId": 24242
   },
   "OP11-OP11-072 normal": {
-    "lowPrice": 2.96,
+    "lowPrice": 2.95,
     "midPrice": 3.5,
     "highPrice": 12.0,
     "marketPrice": 4.7,
@@ -1092,8 +1092,8 @@
     "groupId": 24242
   },
   "OP11-OP11-074 normal": {
-    "lowPrice": 1.56,
-    "midPrice": 2.5,
+    "lowPrice": 1.54,
+    "midPrice": 2.47,
     "highPrice": 11.3,
     "marketPrice": 2.37,
     "directLowPrice": null,
@@ -1119,7 +1119,7 @@
   },
   "OP11-OP11-075 normal": {
     "lowPrice": 0.22,
-    "midPrice": 0.67,
+    "midPrice": 0.65,
     "highPrice": 18.99,
     "marketPrice": 0.56,
     "directLowPrice": null,
@@ -1170,8 +1170,8 @@
     "groupId": 24242
   },
   "OP11-OP11-077 normal": {
-    "lowPrice": 0.29,
-    "midPrice": 0.92,
+    "lowPrice": 0.19,
+    "midPrice": 0.89,
     "highPrice": 11.3,
     "marketPrice": 0.99,
     "directLowPrice": null,
@@ -1196,8 +1196,8 @@
     "groupId": 24242
   },
   "OP11-OP11-078 normal": {
-    "lowPrice": 0.4,
-    "midPrice": 0.7,
+    "lowPrice": 0.37,
+    "midPrice": 0.68,
     "highPrice": 3.5,
     "marketPrice": 0.72,
     "directLowPrice": null,
@@ -1274,7 +1274,7 @@
     "groupId": 24242
   },
   "OP11-OP11-085 normal": {
-    "lowPrice": 0.23,
+    "lowPrice": 0.15,
     "midPrice": 0.58,
     "highPrice": 3.25,
     "marketPrice": 0.57,
@@ -1327,7 +1327,7 @@
   },
   "OP11-OP11-087 normal": {
     "lowPrice": 0.25,
-    "midPrice": 1.4,
+    "midPrice": 1.32,
     "highPrice": 6.98,
     "marketPrice": 0.8,
     "directLowPrice": null,
@@ -1352,10 +1352,10 @@
     "groupId": 24242
   },
   "OP11-OP11-088 normal": {
-    "lowPrice": 0.2,
-    "midPrice": 1.41,
+    "lowPrice": 0.15,
+    "midPrice": 1.35,
     "highPrice": 11.3,
-    "marketPrice": 1.41,
+    "marketPrice": 1.28,
     "directLowPrice": null,
     "name": "Shu",
     "rarity": "C",
@@ -1380,7 +1380,7 @@
   "OP11-OP11-089 normal": {
     "lowPrice": 0.3,
     "midPrice": 0.58,
-    "highPrice": 5.99,
+    "highPrice": 4.99,
     "marketPrice": 0.53,
     "directLowPrice": null,
     "name": "Black Maria",
@@ -1457,8 +1457,8 @@
   },
   "OP11-OP11-093 normal": {
     "lowPrice": 0.97,
-    "midPrice": 1.49,
-    "highPrice": 9.99,
+    "midPrice": 1.48,
+    "highPrice": 8.99,
     "marketPrice": 1.4,
     "directLowPrice": null,
     "name": "Bogard",
@@ -1535,8 +1535,8 @@
   },
   "OP11-OP11-097 normal": {
     "lowPrice": 0.59,
-    "midPrice": 1.5,
-    "highPrice": 9.99,
+    "midPrice": 1.49,
+    "highPrice": 4.99,
     "marketPrice": 0.97,
     "directLowPrice": null,
     "name": "After All These Years I'm Losing My Edge!!!",
@@ -1561,8 +1561,8 @@
   },
   "OP11-OP11-098 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.65,
-    "highPrice": 5.99,
+    "midPrice": 0.64,
+    "highPrice": 4.99,
     "marketPrice": 0.47,
     "directLowPrice": null,
     "name": "Blue Hole",
@@ -1587,9 +1587,9 @@
   },
   "OP11-OP11-100 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.75,
+    "midPrice": 0.69,
     "highPrice": 3.99,
-    "marketPrice": 0.66,
+    "marketPrice": 0.72,
     "directLowPrice": null,
     "name": "Otohime",
     "rarity": "C",
@@ -1614,7 +1614,7 @@
   "OP11-OP11-102 normal": {
     "lowPrice": 1.0,
     "midPrice": 2.67,
-    "highPrice": 16.99,
+    "highPrice": 10.99,
     "marketPrice": 2.67,
     "directLowPrice": null,
     "name": "Camie",
@@ -1639,7 +1639,7 @@
   },
   "OP11-OP11-103 normal": {
     "lowPrice": 0.3,
-    "midPrice": 1.0,
+    "midPrice": 0.99,
     "highPrice": 3.5,
     "marketPrice": 0.74,
     "directLowPrice": null,
@@ -1693,7 +1693,7 @@
     "lowPrice": 0.4,
     "midPrice": 2.19,
     "highPrice": 8.0,
-    "marketPrice": 1.42,
+    "marketPrice": 1.46,
     "directLowPrice": null,
     "name": "Topknot Neptunian",
     "rarity": "C",
@@ -1743,7 +1743,7 @@
   },
   "OP11-OP11-110 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.81,
+    "midPrice": 0.8,
     "highPrice": 8.99,
     "marketPrice": 0.79,
     "directLowPrice": null,
@@ -1847,9 +1847,9 @@
   },
   "OP11-OP11-115 normal": {
     "lowPrice": 4.89,
-    "midPrice": 6.25,
+    "midPrice": 6.3,
     "highPrice": 18.49,
-    "marketPrice": 4.96,
+    "marketPrice": 5.05,
     "directLowPrice": null,
     "name": "You're Just Not My Type!",
     "rarity": "UC",
@@ -1899,7 +1899,7 @@
   },
   "OP11-OP11-117 normal": {
     "lowPrice": 0.28,
-    "midPrice": 1.12,
+    "midPrice": 1.06,
     "highPrice": 9.0,
     "marketPrice": 1.14,
     "directLowPrice": null,

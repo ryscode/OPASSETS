@@ -1,6 +1,6 @@
 {
   "ST05-ST05-001 normal": {
-    "lowPrice": 1.6,
+    "lowPrice": 1.5,
     "midPrice": 2.4,
     "highPrice": 14.5,
     "marketPrice": 1.83,
@@ -26,7 +26,7 @@
     "groupId": 17687
   },
   "ST05-ST05-004 normal": {
-    "lowPrice": 0.48,
+    "lowPrice": 0.4,
     "midPrice": 1.49,
     "highPrice": 32.0,
     "marketPrice": 0.73,
@@ -53,7 +53,7 @@
   },
   "ST05-ST05-005 normal": {
     "lowPrice": 0.33,
-    "midPrice": 0.45,
+    "midPrice": 0.44,
     "highPrice": 5.0,
     "marketPrice": 0.34,
     "directLowPrice": null,
@@ -78,7 +78,7 @@
     "groupId": 17687
   },
   "ST05-ST05-006 normal": {
-    "lowPrice": 0.48,
+    "lowPrice": 0.58,
     "midPrice": 1.25,
     "highPrice": 10.0,
     "marketPrice": 1.05,
@@ -391,8 +391,8 @@
   },
   "ST05-ST05-015 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.19,
-    "highPrice": 1.45,
+    "midPrice": 0.2,
+    "highPrice": 10.0,
     "marketPrice": 0.04,
     "directLowPrice": null,
     "name": "Dr. Indigo",

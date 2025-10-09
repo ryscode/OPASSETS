@@ -1,7 +1,7 @@
 {
   "ST03-ST03-001 normal": {
     "lowPrice": 68.0,
-    "midPrice": 98.0,
+    "midPrice": 76.99,
     "highPrice": 150.0,
     "marketPrice": 46.39,
     "directLowPrice": null,
@@ -27,9 +27,9 @@
   },
   "ST03-ST03-003 normal": {
     "lowPrice": 1.8,
-    "midPrice": 2.5,
+    "midPrice": 3.0,
     "highPrice": 8.59,
-    "marketPrice": 1.81,
+    "marketPrice": 1.84,
     "directLowPrice": null,
     "name": "Crocodile (003)",
     "rarity": "SR",
@@ -52,10 +52,10 @@
     "groupId": 17660
   },
   "ST03-ST03-009 normal": {
-    "lowPrice": 6.99,
-    "midPrice": 8.0,
+    "lowPrice": 7.0,
+    "midPrice": 10.45,
     "highPrice": 54.51,
-    "marketPrice": 7.13,
+    "marketPrice": 7.37,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo",
     "rarity": "SR",
@@ -391,9 +391,9 @@
   },
   "ST03-ST03-013 normal": {
     "lowPrice": 1.5,
-    "midPrice": 2.71,
+    "midPrice": 2.73,
     "highPrice": 10.0,
-    "marketPrice": 1.51,
+    "marketPrice": 1.52,
     "directLowPrice": null,
     "name": "Boa Hancock",
     "rarity": "C",
@@ -419,7 +419,7 @@
     "lowPrice": 0.25,
     "midPrice": 0.55,
     "highPrice": 50.0,
-    "marketPrice": 0.39,
+    "marketPrice": 0.38,
     "directLowPrice": null,
     "name": "Bartholomew Kuma",
     "rarity": "C",

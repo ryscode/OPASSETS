@@ -53,7 +53,7 @@
   },
   "OP11-OP11-005 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.53,
+    "midPrice": 0.52,
     "highPrice": 8.99,
     "marketPrice": 0.44,
     "directLowPrice": null,
@@ -131,9 +131,9 @@
   },
   "OP11-OP11-009 normal": {
     "lowPrice": 1.35,
-    "midPrice": 4.99,
+    "midPrice": 5.0,
     "highPrice": 15.0,
-    "marketPrice": 1.83,
+    "marketPrice": 1.89,
     "directLowPrice": null,
     "name": "Nico Robin",
     "rarity": "C",
@@ -182,7 +182,7 @@
     "groupId": 24242
   },
   "OP11-OP11-012 normal": {
-    "lowPrice": 3.61,
+    "lowPrice": 3.6,
     "midPrice": 3.79,
     "highPrice": 4.45,
     "marketPrice": 3.54,
@@ -209,7 +209,7 @@
   },
   "OP11-OP11-015 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.49,
+    "midPrice": 0.5,
     "highPrice": 2.99,
     "marketPrice": 0.36,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "OP11-OP11-016 normal": {
     "lowPrice": 1.69,
-    "midPrice": 2.62,
+    "midPrice": 2.69,
     "highPrice": 10.0,
     "marketPrice": 2.5,
     "directLowPrice": null,
@@ -259,9 +259,35 @@
     "description": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
     "groupId": 24242
   },
+  "OP11-OP11-017 normal": {
+    "lowPrice": 5.7,
+    "midPrice": 5.7,
+    "highPrice": 5.7,
+    "marketPrice": 4.33,
+    "directLowPrice": null,
+    "name": "X.Drake",
+    "rarity": "UC",
+    "power": "7000",
+    "cost": "6",
+    "life": null,
+    "category": "Character",
+    "colors": "Red",
+    "attributes": "Slash",
+    "types": "Drake Pirates;Navy;SWORD",
+    "effect": null,
+    "trigger": null,
+    "counter": "2000",
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/634457_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": null,
+    "groupId": 24242
+  },
   "OP11-OP11-019 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.76,
+    "midPrice": 0.77,
     "highPrice": 11.3,
     "marketPrice": 0.77,
     "directLowPrice": null,
@@ -495,7 +521,7 @@
   },
   "OP11-OP11-034 normal": {
     "lowPrice": 0.29,
-    "midPrice": 0.58,
+    "midPrice": 0.57,
     "highPrice": 2.5,
     "marketPrice": 0.53,
     "directLowPrice": null,
@@ -521,7 +547,7 @@
   },
   "OP11-OP11-035 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.68,
+    "midPrice": 0.69,
     "highPrice": 5.0,
     "marketPrice": 0.56,
     "directLowPrice": null,
@@ -547,7 +573,7 @@
   },
   "OP11-OP11-036 normal": {
     "lowPrice": 1.81,
-    "midPrice": 2.36,
+    "midPrice": 2.45,
     "highPrice": 9.5,
     "marketPrice": 1.96,
     "directLowPrice": null,
@@ -573,7 +599,7 @@
   },
   "OP11-OP11-037 normal": {
     "lowPrice": 2.61,
-    "midPrice": 3.2,
+    "midPrice": 3.16,
     "highPrice": 13.1,
     "marketPrice": 2.7,
     "directLowPrice": null,
@@ -651,7 +677,7 @@
   },
   "OP11-OP11-043 normal": {
     "lowPrice": 1.19,
-    "midPrice": 1.72,
+    "midPrice": 1.75,
     "highPrice": 2.99,
     "marketPrice": 1.4,
     "directLowPrice": null,
@@ -704,7 +730,7 @@
   "OP11-OP11-045 normal": {
     "lowPrice": 4.33,
     "midPrice": 5.32,
-    "highPrice": 5.49,
+    "highPrice": 6.65,
     "marketPrice": 4.25,
     "directLowPrice": null,
     "name": "Vinsmoke Niji",
@@ -729,7 +755,7 @@
   },
   "OP11-OP11-046 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.51,
+    "midPrice": 0.48,
     "highPrice": 4.99,
     "marketPrice": 0.47,
     "directLowPrice": null,
@@ -807,7 +833,7 @@
   },
   "OP11-OP11-053 normal": {
     "lowPrice": 2.78,
-    "midPrice": 4.13,
+    "midPrice": 4.44,
     "highPrice": 18.49,
     "marketPrice": 4.34,
     "directLowPrice": null,
@@ -835,7 +861,7 @@
     "lowPrice": 0.75,
     "midPrice": 1.0,
     "highPrice": 8.99,
-    "marketPrice": 1.19,
+    "marketPrice": 1.17,
     "directLowPrice": null,
     "name": "Bartolomeo",
     "rarity": "UC",
@@ -885,7 +911,7 @@
   },
   "OP11-OP11-058 normal": {
     "lowPrice": 0.96,
-    "midPrice": 1.7,
+    "midPrice": 1.66,
     "highPrice": 3.99,
     "marketPrice": 1.22,
     "directLowPrice": null,
@@ -963,7 +989,7 @@
   },
   "OP11-OP11-063 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.47,
+    "midPrice": 0.46,
     "highPrice": 4.99,
     "marketPrice": 0.37,
     "directLowPrice": null,
@@ -989,7 +1015,7 @@
   },
   "OP11-OP11-064 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.31,
+    "midPrice": 0.32,
     "highPrice": 2.5,
     "marketPrice": 0.25,
     "directLowPrice": null,
@@ -1015,9 +1041,9 @@
   },
   "OP11-OP11-065 normal": {
     "lowPrice": 3.98,
-    "midPrice": 3.99,
+    "midPrice": 6.0,
     "highPrice": 6.31,
-    "marketPrice": 3.8,
+    "marketPrice": 3.84,
     "directLowPrice": null,
     "name": "Charlotte Anana",
     "rarity": "UC",
@@ -1066,8 +1092,8 @@
     "groupId": 24242
   },
   "OP11-OP11-072 normal": {
-    "lowPrice": 2.92,
-    "midPrice": 3.43,
+    "lowPrice": 2.89,
+    "midPrice": 3.36,
     "highPrice": 12.0,
     "marketPrice": 4.7,
     "directLowPrice": null,
@@ -1092,10 +1118,10 @@
     "groupId": 24242
   },
   "OP11-OP11-074 normal": {
-    "lowPrice": 1.49,
+    "lowPrice": 1.47,
     "midPrice": 2.37,
     "highPrice": 11.3,
-    "marketPrice": 2.37,
+    "marketPrice": 2.18,
     "directLowPrice": null,
     "name": "Streusen",
     "rarity": "C",
@@ -1119,9 +1145,9 @@
   },
   "OP11-OP11-075 normal": {
     "lowPrice": 0.19,
-    "midPrice": 0.58,
+    "midPrice": 0.57,
     "highPrice": 18.99,
-    "marketPrice": 0.56,
+    "marketPrice": 0.51,
     "directLowPrice": null,
     "name": "Jaguar.D.Saul",
     "rarity": "C",
@@ -1249,7 +1275,7 @@
   },
   "OP11-OP11-081 normal": {
     "lowPrice": 0.13,
-    "midPrice": 0.32,
+    "midPrice": 0.34,
     "highPrice": 1.5,
     "marketPrice": 0.28,
     "directLowPrice": null,
@@ -1353,9 +1379,9 @@
   },
   "OP11-OP11-088 normal": {
     "lowPrice": 0.02,
-    "midPrice": 1.26,
+    "midPrice": 1.15,
     "highPrice": 11.3,
-    "marketPrice": 1.15,
+    "marketPrice": 1.01,
     "directLowPrice": null,
     "name": "Shu",
     "rarity": "C",
@@ -1587,7 +1613,7 @@
   },
   "OP11-OP11-100 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.7,
+    "midPrice": 0.68,
     "highPrice": 3.99,
     "marketPrice": 0.72,
     "directLowPrice": null,
@@ -1613,7 +1639,7 @@
   },
   "OP11-OP11-102 normal": {
     "lowPrice": 1.0,
-    "midPrice": 2.67,
+    "midPrice": 2.82,
     "highPrice": 10.99,
     "marketPrice": 2.82,
     "directLowPrice": null,
@@ -1638,8 +1664,8 @@
     "groupId": 24242
   },
   "OP11-OP11-103 normal": {
-    "lowPrice": 0.3,
-    "midPrice": 0.97,
+    "lowPrice": 0.29,
+    "midPrice": 0.96,
     "highPrice": 3.5,
     "marketPrice": 0.74,
     "directLowPrice": null,
@@ -1665,7 +1691,7 @@
   },
   "OP11-OP11-105 normal": {
     "lowPrice": 0.6,
-    "midPrice": 0.97,
+    "midPrice": 0.95,
     "highPrice": 9.89,
     "marketPrice": 1.0,
     "directLowPrice": null,
@@ -1691,7 +1717,7 @@
   },
   "OP11-OP11-107 normal": {
     "lowPrice": 0.4,
-    "midPrice": 1.66,
+    "midPrice": 1.63,
     "highPrice": 8.0,
     "marketPrice": 1.36,
     "directLowPrice": null,
@@ -1716,7 +1742,7 @@
     "groupId": 24242
   },
   "OP11-OP11-109 normal": {
-    "lowPrice": 0.18,
+    "lowPrice": 0.17,
     "midPrice": 0.5,
     "highPrice": 11.3,
     "marketPrice": 0.25,
@@ -1743,9 +1769,9 @@
   },
   "OP11-OP11-110 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.79,
+    "midPrice": 0.77,
     "highPrice": 8.99,
-    "marketPrice": 0.79,
+    "marketPrice": 0.76,
     "directLowPrice": null,
     "name": "Fukaboshi",
     "rarity": "C",
@@ -1769,9 +1795,9 @@
   },
   "OP11-OP11-111 normal": {
     "lowPrice": 0.1,
-    "midPrice": 1.08,
+    "midPrice": 1.05,
     "highPrice": 7.92,
-    "marketPrice": 1.08,
+    "marketPrice": 1.05,
     "directLowPrice": null,
     "name": "Mamboshi",
     "rarity": "UC",
@@ -1846,10 +1872,10 @@
     "groupId": 24242
   },
   "OP11-OP11-115 normal": {
-    "lowPrice": 4.81,
-    "midPrice": 6.2,
+    "lowPrice": 4.8,
+    "midPrice": 6.4,
     "highPrice": 18.49,
-    "marketPrice": 5.17,
+    "marketPrice": 5.13,
     "directLowPrice": null,
     "name": "You're Just Not My Type!",
     "rarity": "UC",

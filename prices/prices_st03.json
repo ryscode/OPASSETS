@@ -27,7 +27,7 @@
   },
   "ST03-ST03-002 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.15,
+    "midPrice": 0.13,
     "highPrice": 1.37,
     "marketPrice": 0.05,
     "directLowPrice": null,
@@ -107,7 +107,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 14.0,
-    "marketPrice": 0.1,
+    "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Dracule Mihawk",
     "rarity": "C",
@@ -131,7 +131,7 @@
   },
   "ST03-ST03-006 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.19,
+    "midPrice": 0.15,
     "highPrice": 1.35,
     "marketPrice": 0.09,
     "directLowPrice": null,
@@ -208,10 +208,10 @@
     "groupId": 3192
   },
   "ST03-ST03-009 normal": {
-    "lowPrice": 0.9,
-    "midPrice": 2.95,
+    "lowPrice": 0.86,
+    "midPrice": 2.9,
     "highPrice": 7.0,
-    "marketPrice": 2.21,
+    "marketPrice": 2.2,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo",
     "rarity": "SR",
@@ -260,7 +260,7 @@
     "groupId": 3192
   },
   "ST03-ST03-011 normal": {
-    "lowPrice": 0.02,
+    "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 4.99,
     "marketPrice": 0.12,
@@ -286,7 +286,7 @@
     "groupId": 3192
   },
   "ST03-ST03-012 normal": {
-    "lowPrice": 0.05,
+    "lowPrice": 0.04,
     "midPrice": 0.23,
     "highPrice": 1.5,
     "marketPrice": 0.13,
@@ -364,10 +364,10 @@
     "groupId": 3192
   },
   "ST03-ST03-015 normal": {
-    "lowPrice": 0.82,
-    "midPrice": 2.56,
-    "highPrice": 6.0,
-    "marketPrice": 1.0,
+    "lowPrice": 0.85,
+    "midPrice": 2.52,
+    "highPrice": 5.71,
+    "marketPrice": 0.99,
     "directLowPrice": null,
     "name": "Sables",
     "rarity": "C",
@@ -417,9 +417,9 @@
   },
   "ST03-ST03-017 normal": {
     "lowPrice": 3.0,
-    "midPrice": 5.41,
+    "midPrice": 5.45,
     "highPrice": 13.99,
-    "marketPrice": 4.66,
+    "marketPrice": 4.69,
     "directLowPrice": null,
     "name": "Love-Love Mellow",
     "rarity": "C",

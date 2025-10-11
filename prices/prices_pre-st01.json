@@ -26,7 +26,7 @@
     "groupId": 17659
   },
   "ST01-ST01-002 normal": {
-    "lowPrice": 0.24,
+    "lowPrice": 0.25,
     "midPrice": 0.5,
     "highPrice": 4.99,
     "marketPrice": 0.31,
@@ -78,10 +78,10 @@
     "groupId": 17659
   },
   "ST01-ST01-004 normal": {
-    "lowPrice": 2.15,
-    "midPrice": 4.24,
+    "lowPrice": 2.14,
+    "midPrice": 4.22,
     "highPrice": 15.0,
-    "marketPrice": 2.25,
+    "marketPrice": 2.24,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "C",
@@ -130,7 +130,7 @@
     "groupId": 17659
   },
   "ST01-ST01-006 normal": {
-    "lowPrice": 9.85,
+    "lowPrice": 9.84,
     "midPrice": 10.0,
     "highPrice": 14.99,
     "marketPrice": 5.07,
@@ -159,7 +159,7 @@
     "lowPrice": 8.72,
     "midPrice": 9.99,
     "highPrice": 22.79,
-    "marketPrice": 6.65,
+    "marketPrice": 6.88,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "C",
@@ -183,7 +183,7 @@
   },
   "ST01-ST01-008 normal": {
     "lowPrice": 4.99,
-    "midPrice": 5.99,
+    "midPrice": 5.98,
     "highPrice": 7.5,
     "marketPrice": 1.88,
     "directLowPrice": null,
@@ -260,8 +260,8 @@
     "groupId": 17659
   },
   "ST01-ST01-011 normal": {
-    "lowPrice": 9.99,
-    "midPrice": 14.25,
+    "lowPrice": 9.95,
+    "midPrice": 14.13,
     "highPrice": 29.99,
     "marketPrice": 3.12,
     "directLowPrice": null,
@@ -313,9 +313,9 @@
   },
   "ST01-ST01-013 normal": {
     "lowPrice": 18.0,
-    "midPrice": 39.99,
-    "highPrice": 49.99,
-    "marketPrice": 9.7,
+    "midPrice": 38.9,
+    "highPrice": 39.99,
+    "marketPrice": 11.15,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
     "rarity": "SR",
@@ -338,7 +338,7 @@
     "groupId": 17659
   },
   "ST01-ST01-014 normal": {
-    "lowPrice": 0.74,
+    "lowPrice": 0.75,
     "midPrice": 1.29,
     "highPrice": 15.0,
     "marketPrice": 0.97,
@@ -365,7 +365,7 @@
   },
   "ST01-ST01-015 normal": {
     "lowPrice": 0.74,
-    "midPrice": 1.41,
+    "midPrice": 1.43,
     "highPrice": 45.0,
     "marketPrice": 1.04,
     "directLowPrice": null,

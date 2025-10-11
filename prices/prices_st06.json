@@ -1,9 +1,9 @@
 {
   "ST06-ST06-001 normal": {
     "lowPrice": 0.7,
-    "midPrice": 0.88,
-    "highPrice": 17.05,
-    "marketPrice": 0.78,
+    "midPrice": 0.87,
+    "highPrice": 22.03,
+    "marketPrice": 0.81,
     "directLowPrice": null,
     "name": "Sakazuki",
     "rarity": "L",
@@ -53,7 +53,7 @@
   },
   "ST06-ST06-004 normal": {
     "lowPrice": 0.49,
-    "midPrice": 1.09,
+    "midPrice": 1.05,
     "highPrice": 8.0,
     "marketPrice": 0.79,
     "directLowPrice": null,
@@ -104,10 +104,10 @@
     "groupId": 17699
   },
   "ST06-ST06-006 normal": {
-    "lowPrice": 0.85,
-    "midPrice": 1.21,
+    "lowPrice": 0.84,
+    "midPrice": 1.22,
     "highPrice": 34.0,
-    "marketPrice": 1.01,
+    "marketPrice": 0.98,
     "directLowPrice": null,
     "name": "Tashigi",
     "rarity": "C",
@@ -130,10 +130,10 @@
     "groupId": 17699
   },
   "ST06-ST06-012 normal": {
-    "lowPrice": 0.5,
-    "midPrice": 1.29,
+    "lowPrice": 0.49,
+    "midPrice": 1.19,
     "highPrice": 9.45,
-    "marketPrice": 0.78,
+    "marketPrice": 0.77,
     "directLowPrice": null,
     "name": "Monkey.D.Garp",
     "rarity": "SR",
@@ -157,7 +157,7 @@
   },
   "ST06-ST06-015 normal": {
     "lowPrice": 0.18,
-    "midPrice": 1.1,
+    "midPrice": 1.08,
     "highPrice": 27.99,
     "marketPrice": 0.6,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "ST06-ST06-003 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.15,
+    "midPrice": 0.2,
     "highPrice": 1.4,
     "marketPrice": 0.09,
     "directLowPrice": null,
@@ -234,8 +234,8 @@
     "groupId": 17699
   },
   "ST06-ST06-007 normal": {
-    "lowPrice": 0.03,
-    "midPrice": 0.17,
+    "lowPrice": 0.02,
+    "midPrice": 0.18,
     "highPrice": 1.35,
     "marketPrice": 0.07,
     "directLowPrice": null,
@@ -260,10 +260,10 @@
     "groupId": 17699
   },
   "ST06-ST06-008 normal": {
-    "lowPrice": 2.44,
-    "midPrice": 4.75,
+    "lowPrice": 2.39,
+    "midPrice": 4.74,
     "highPrice": 19.98,
-    "marketPrice": 3.79,
+    "marketPrice": 3.69,
     "directLowPrice": null,
     "name": "Hina",
     "rarity": "C",
@@ -367,7 +367,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 11.0,
-    "marketPrice": 0.1,
+    "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Shockwave",
     "rarity": "C",
@@ -416,10 +416,10 @@
     "groupId": 17699
   },
   "ST06-ST06-017 normal": {
-    "lowPrice": 1.34,
+    "lowPrice": 1.35,
     "midPrice": 3.09,
     "highPrice": 20.0,
-    "marketPrice": 1.96,
+    "marketPrice": 1.88,
     "directLowPrice": null,
     "name": "Navy HQ",
     "rarity": "C",

@@ -1,9 +1,9 @@
 {
   "ST01-ST01-001 normal": {
-    "lowPrice": 1.3,
-    "midPrice": 1.49,
+    "lowPrice": 2.0,
+    "midPrice": 2.0,
     "highPrice": 2.0,
-    "marketPrice": 1.33,
+    "marketPrice": 1.37,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (001)",
     "rarity": "L",
@@ -79,9 +79,9 @@
   },
   "ST01-ST01-004 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.6,
+    "midPrice": 0.61,
     "highPrice": 2.0,
-    "marketPrice": 0.56,
+    "marketPrice": 0.55,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "C",
@@ -130,10 +130,10 @@
     "groupId": 3189
   },
   "ST01-ST01-006 normal": {
-    "lowPrice": 0.08,
+    "lowPrice": 0.07,
     "midPrice": 0.25,
     "highPrice": 4.99,
-    "marketPrice": 0.2,
+    "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper",
     "rarity": "C",
@@ -157,9 +157,9 @@
   },
   "ST01-ST01-007 normal": {
     "lowPrice": 0.29,
-    "midPrice": 0.52,
+    "midPrice": 0.5,
     "highPrice": 2.5,
-    "marketPrice": 0.41,
+    "marketPrice": 0.4,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "C",
@@ -263,7 +263,7 @@
     "lowPrice": 0.3,
     "midPrice": 1.5,
     "highPrice": 14.0,
-    "marketPrice": 0.95,
+    "marketPrice": 0.85,
     "directLowPrice": null,
     "name": "Brook",
     "rarity": "C",
@@ -286,7 +286,7 @@
     "groupId": 3189
   },
   "ST01-ST01-012 normal": {
-    "lowPrice": 0.59,
+    "lowPrice": 1.0,
     "midPrice": 3.0,
     "highPrice": 14.95,
     "marketPrice": 1.74,

@@ -1,7 +1,7 @@
 {
   "ST01-ST01-001 normal": {
     "lowPrice": 374.99,
-    "midPrice": 499.38,
+    "midPrice": 445.0,
     "highPrice": 2000.0,
     "marketPrice": 313.82,
     "directLowPrice": null,
@@ -26,7 +26,7 @@
     "groupId": 17659
   },
   "ST01-ST01-002 normal": {
-    "lowPrice": 0.25,
+    "lowPrice": 0.32,
     "midPrice": 0.5,
     "highPrice": 4.99,
     "marketPrice": 0.31,
@@ -53,7 +53,7 @@
   },
   "ST01-ST01-003 normal": {
     "lowPrice": 0.34,
-    "midPrice": 0.6,
+    "midPrice": 0.5,
     "highPrice": 2.99,
     "marketPrice": 0.37,
     "directLowPrice": null,
@@ -130,8 +130,8 @@
     "groupId": 17659
   },
   "ST01-ST01-006 normal": {
-    "lowPrice": 4.29,
-    "midPrice": 9.97,
+    "lowPrice": 6.49,
+    "midPrice": 9.92,
     "highPrice": 14.99,
     "marketPrice": 5.07,
     "directLowPrice": null,
@@ -157,9 +157,9 @@
   },
   "ST01-ST01-007 normal": {
     "lowPrice": 8.4,
-    "midPrice": 9.97,
+    "midPrice": 9.98,
     "highPrice": 22.79,
-    "marketPrice": 6.88,
+    "marketPrice": 7.03,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "C",
@@ -182,7 +182,7 @@
     "groupId": 17659
   },
   "ST01-ST01-008 normal": {
-    "lowPrice": 4.99,
+    "lowPrice": 5.5,
     "midPrice": 5.97,
     "highPrice": 7.5,
     "marketPrice": 2.28,
@@ -208,7 +208,7 @@
     "groupId": 17659
   },
   "ST01-ST01-009 normal": {
-    "lowPrice": 0.37,
+    "lowPrice": 0.35,
     "midPrice": 1.0,
     "highPrice": 2.5,
     "marketPrice": 0.64,
@@ -312,10 +312,10 @@
     "groupId": 17659
   },
   "ST01-ST01-013 normal": {
-    "lowPrice": 38.9,
-    "midPrice": 39.45,
+    "lowPrice": 18.0,
+    "midPrice": 38.9,
     "highPrice": 39.99,
-    "marketPrice": 11.15,
+    "marketPrice": 11.44,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
     "rarity": "SR",
@@ -339,7 +339,7 @@
   },
   "ST01-ST01-014 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.31,
+    "midPrice": 1.27,
     "highPrice": 15.0,
     "marketPrice": 0.92,
     "directLowPrice": null,
@@ -365,7 +365,7 @@
   },
   "ST01-ST01-015 normal": {
     "lowPrice": 0.74,
-    "midPrice": 1.36,
+    "midPrice": 1.33,
     "highPrice": 45.0,
     "marketPrice": 1.04,
     "directLowPrice": null,
@@ -416,10 +416,10 @@
     "groupId": 17659
   },
   "ST01-ST01-017 normal": {
-    "lowPrice": 2.01,
-    "midPrice": 2.36,
-    "highPrice": 3.56,
-    "marketPrice": 2.36,
+    "lowPrice": 2.03,
+    "midPrice": 2.38,
+    "highPrice": 3.07,
+    "marketPrice": 2.39,
     "directLowPrice": null,
     "name": "Thousand Sunny",
     "rarity": "C",

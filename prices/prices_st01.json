@@ -1,4 +1,30 @@
 {
+  "ST01-ST01-001 normal": {
+    "lowPrice": 1.62,
+    "midPrice": 1.62,
+    "highPrice": 1.62,
+    "marketPrice": 1.42,
+    "directLowPrice": null,
+    "name": "Monkey.D.Luffy (001)",
+    "rarity": "L",
+    "power": "5000",
+    "cost": null,
+    "life": "5",
+    "category": "Leader",
+    "colors": "Red",
+    "attributes": "Strike",
+    "types": "Straw Hat Crew;Supernovas",
+    "effect": "yes",
+    "trigger": null,
+    "counter": null,
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/288228_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Leader",
+    "description": "[Activate: Main] [Once Per Turn] Give this Leader or 1 of your Characters <span style=\"color:red\">up to</span> 1 rested DON!! card.\r\n<br><strong><span style=\"color:red\">Disclaimer: This card has been re-printed with new errata'd text as part of the Revision Pack cards series. This product page is for the original, pre-errata print of this card.</span></strong>",
+    "groupId": 3189
+  },
   "ST01-ST01-002 normal": {
     "lowPrice": 0.02,
     "midPrice": 0.15,
@@ -27,7 +53,7 @@
   },
   "ST01-ST01-003 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.19,
+    "midPrice": 0.17,
     "highPrice": 1.4,
     "marketPrice": 0.1,
     "directLowPrice": null,
@@ -104,10 +130,10 @@
     "groupId": 3189
   },
   "ST01-ST01-006 normal": {
-    "lowPrice": 0.07,
+    "lowPrice": 0.08,
     "midPrice": 0.25,
     "highPrice": 4.99,
-    "marketPrice": 0.17,
+    "marketPrice": 0.19,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper",
     "rarity": "C",
@@ -234,10 +260,10 @@
     "groupId": 3189
   },
   "ST01-ST01-011 normal": {
-    "lowPrice": 0.3,
+    "lowPrice": 0.38,
     "midPrice": 1.49,
     "highPrice": 14.0,
-    "marketPrice": 0.7,
+    "marketPrice": 0.64,
     "directLowPrice": null,
     "name": "Brook",
     "rarity": "C",
@@ -263,7 +289,7 @@
     "lowPrice": 1.0,
     "midPrice": 3.0,
     "highPrice": 14.95,
-    "marketPrice": 1.79,
+    "marketPrice": 1.56,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (012)",
     "rarity": "SR",
@@ -286,10 +312,10 @@
     "groupId": 3189
   },
   "ST01-ST01-013 normal": {
-    "lowPrice": 0.4,
+    "lowPrice": 0.45,
     "midPrice": 1.0,
     "highPrice": 6.0,
-    "marketPrice": 0.75,
+    "marketPrice": 0.77,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
     "rarity": "SR",
@@ -339,7 +365,7 @@
   },
   "ST01-ST01-015 normal": {
     "lowPrice": 0.14,
-    "midPrice": 0.39,
+    "midPrice": 0.38,
     "highPrice": 8.75,
     "marketPrice": 0.3,
     "directLowPrice": null,
@@ -364,8 +390,8 @@
     "groupId": 3189
   },
   "ST01-ST01-016 normal": {
-    "lowPrice": 0.65,
-    "midPrice": 1.25,
+    "lowPrice": 0.5,
+    "midPrice": 1.24,
     "highPrice": 15.0,
     "marketPrice": 1.05,
     "directLowPrice": null,

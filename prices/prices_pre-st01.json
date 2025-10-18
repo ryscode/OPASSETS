@@ -1,7 +1,7 @@
 {
   "ST01-ST01-001 normal": {
-    "lowPrice": 699.0,
-    "midPrice": 1000.0,
+    "lowPrice": 600.0,
+    "midPrice": 899.0,
     "highPrice": 2000.0,
     "marketPrice": 412.12,
     "directLowPrice": null,
@@ -26,8 +26,8 @@
     "groupId": 17659
   },
   "ST01-ST01-002 normal": {
-    "lowPrice": 0.28,
-    "midPrice": 0.5,
+    "lowPrice": 0.29,
+    "midPrice": 0.76,
     "highPrice": 4.99,
     "marketPrice": 0.31,
     "directLowPrice": null,
@@ -78,7 +78,7 @@
     "groupId": 17659
   },
   "ST01-ST01-004 normal": {
-    "lowPrice": 2.12,
+    "lowPrice": 2.13,
     "midPrice": 4.49,
     "highPrice": 15.0,
     "marketPrice": 2.36,
@@ -107,7 +107,7 @@
     "lowPrice": 0.22,
     "midPrice": 0.45,
     "highPrice": 2.0,
-    "marketPrice": 0.24,
+    "marketPrice": 0.25,
     "directLowPrice": null,
     "name": "Jinbe",
     "rarity": "C",
@@ -131,7 +131,7 @@
   },
   "ST01-ST01-006 normal": {
     "lowPrice": 9.97,
-    "midPrice": 10.99,
+    "midPrice": 11.5,
     "highPrice": 14.99,
     "marketPrice": 6.68,
     "directLowPrice": null,
@@ -208,10 +208,10 @@
     "groupId": 17659
   },
   "ST01-ST01-009 normal": {
-    "lowPrice": 0.37,
+    "lowPrice": 0.35,
     "midPrice": 1.1,
     "highPrice": 2.5,
-    "marketPrice": 0.9,
+    "marketPrice": 0.89,
     "directLowPrice": null,
     "name": "Nefeltari Vivi",
     "rarity": "C",
@@ -235,9 +235,9 @@
   },
   "ST01-ST01-010 normal": {
     "lowPrice": 1.08,
-    "midPrice": 2.44,
+    "midPrice": 2.45,
     "highPrice": 7.0,
-    "marketPrice": 1.08,
+    "marketPrice": 1.13,
     "directLowPrice": null,
     "name": "Franky",
     "rarity": "C",
@@ -260,8 +260,8 @@
     "groupId": 17659
   },
   "ST01-ST01-011 normal": {
-    "lowPrice": 8.49,
-    "midPrice": 14.0,
+    "lowPrice": 9.0,
+    "midPrice": 14.13,
     "highPrice": 24.99,
     "marketPrice": 3.12,
     "directLowPrice": null,
@@ -287,9 +287,9 @@
   },
   "ST01-ST01-012 normal": {
     "lowPrice": 45.0,
-    "midPrice": 49.94,
-    "highPrice": 65.0,
-    "marketPrice": 43.22,
+    "midPrice": 49.89,
+    "highPrice": 60.0,
+    "marketPrice": 43.5,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (012)",
     "rarity": "SR",
@@ -315,7 +315,7 @@
     "lowPrice": 18.0,
     "midPrice": 42.99,
     "highPrice": 50.0,
-    "marketPrice": 15.25,
+    "marketPrice": 16.67,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
     "rarity": "SR",
@@ -338,10 +338,10 @@
     "groupId": 17659
   },
   "ST01-ST01-014 normal": {
-    "lowPrice": 0.74,
-    "midPrice": 1.27,
+    "lowPrice": 0.75,
+    "midPrice": 1.29,
     "highPrice": 15.0,
-    "marketPrice": 0.92,
+    "marketPrice": 0.9,
     "directLowPrice": null,
     "name": "Guard Point",
     "rarity": "C",
@@ -365,7 +365,7 @@
   },
   "ST01-ST01-015 normal": {
     "lowPrice": 0.74,
-    "midPrice": 1.33,
+    "midPrice": 1.43,
     "highPrice": 45.0,
     "marketPrice": 1.04,
     "directLowPrice": null,

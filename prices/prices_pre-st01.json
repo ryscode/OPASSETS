@@ -1,9 +1,9 @@
 {
   "ST01-ST01-001 normal": {
-    "lowPrice": 550.0,
-    "midPrice": 699.49,
-    "highPrice": 2000.0,
-    "marketPrice": 412.12,
+    "lowPrice": 650.0,
+    "midPrice": 799.49,
+    "highPrice": 1999.0,
+    "marketPrice": 451.22,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (001)",
     "rarity": "L",
@@ -26,10 +26,10 @@
     "groupId": 17659
   },
   "ST01-ST01-002 normal": {
-    "lowPrice": 0.29,
-    "midPrice": 0.76,
+    "lowPrice": 0.95,
+    "midPrice": 1.06,
     "highPrice": 4.99,
-    "marketPrice": 0.31,
+    "marketPrice": 0.75,
     "directLowPrice": null,
     "name": "Usopp",
     "rarity": "C",
@@ -53,7 +53,7 @@
   },
   "ST01-ST01-003 normal": {
     "lowPrice": 0.34,
-    "midPrice": 0.6,
+    "midPrice": 0.55,
     "highPrice": 2.99,
     "marketPrice": 0.38,
     "directLowPrice": null,
@@ -79,7 +79,7 @@
   },
   "ST01-ST01-004 normal": {
     "lowPrice": 2.17,
-    "midPrice": 4.37,
+    "midPrice": 4.5,
     "highPrice": 15.0,
     "marketPrice": 2.36,
     "directLowPrice": null,
@@ -104,10 +104,10 @@
     "groupId": 17659
   },
   "ST01-ST01-005 normal": {
-    "lowPrice": 0.22,
-    "midPrice": 0.45,
-    "highPrice": 2.0,
-    "marketPrice": 0.25,
+    "lowPrice": 1.06,
+    "midPrice": 1.23,
+    "highPrice": 1.99,
+    "marketPrice": 0.59,
     "directLowPrice": null,
     "name": "Jinbe",
     "rarity": "C",
@@ -153,32 +153,6 @@
     "finish": null,
     "cardType": "Character",
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
-    "groupId": 17659
-  },
-  "ST01-ST01-007 normal": {
-    "lowPrice": 16.38,
-    "midPrice": 19.59,
-    "highPrice": 22.79,
-    "marketPrice": 9.0,
-    "directLowPrice": null,
-    "name": "Nami",
-    "rarity": "C",
-    "power": "1000",
-    "cost": "1",
-    "life": null,
-    "category": "Character",
-    "colors": "Red",
-    "attributes": "Special",
-    "types": "Straw Hat Crew",
-    "effect": "yes",
-    "trigger": null,
-    "counter": "1000",
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/416939_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Character",
-    "description": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
     "groupId": 17659
   },
   "ST01-ST01-008 normal": {
@@ -234,10 +208,10 @@
     "groupId": 17659
   },
   "ST01-ST01-010 normal": {
-    "lowPrice": 1.11,
-    "midPrice": 2.45,
-    "highPrice": 7.0,
-    "marketPrice": 1.13,
+    "lowPrice": 2.67,
+    "midPrice": 3.12,
+    "highPrice": 14.5,
+    "marketPrice": 2.04,
     "directLowPrice": null,
     "name": "Franky",
     "rarity": "C",
@@ -260,8 +234,8 @@
     "groupId": 17659
   },
   "ST01-ST01-011 normal": {
-    "lowPrice": 9.0,
-    "midPrice": 14.13,
+    "lowPrice": 7.69,
+    "midPrice": 14.0,
     "highPrice": 24.99,
     "marketPrice": 3.12,
     "directLowPrice": null,
@@ -287,9 +261,9 @@
   },
   "ST01-ST01-012 normal": {
     "lowPrice": 45.0,
-    "midPrice": 49.89,
+    "midPrice": 49.88,
     "highPrice": 79.99,
-    "marketPrice": 43.94,
+    "marketPrice": 45.57,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (012)",
     "rarity": "SR",
@@ -313,9 +287,9 @@
   },
   "ST01-ST01-013 normal": {
     "lowPrice": 42.13,
-    "midPrice": 46.07,
+    "midPrice": 51.06,
     "highPrice": 59.99,
-    "marketPrice": 16.67,
+    "marketPrice": 19.82,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
     "rarity": "SR",
@@ -365,7 +339,7 @@
   },
   "ST01-ST01-015 normal": {
     "lowPrice": 0.74,
-    "midPrice": 1.43,
+    "midPrice": 1.26,
     "highPrice": 45.0,
     "marketPrice": 1.04,
     "directLowPrice": null,

@@ -1,9 +1,9 @@
 {
   "OP12-OP12-020 normal": {
-    "lowPrice": 4.13,
-    "midPrice": 7.74,
+    "lowPrice": 4.0,
+    "midPrice": 6.48,
     "highPrice": 45.0,
-    "marketPrice": 5.27,
+    "marketPrice": 4.85,
     "directLowPrice": null,
     "name": "Roronoa Zoro - OP12-020 (Zoro Deck)",
     "rarity": "L",
@@ -29,7 +29,7 @@
     "lowPrice": 0.16,
     "midPrice": 0.24,
     "highPrice": 0.5,
-    "marketPrice": 0.24,
+    "marketPrice": 0.27,
     "directLowPrice": null,
     "name": "Kouzuki Hiyori (Zoro Deck)",
     "rarity": "R",
@@ -53,9 +53,9 @@
   },
   "OP12-OP12-023 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.25,
+    "midPrice": 0.26,
     "highPrice": 0.5,
-    "marketPrice": 0.26,
+    "marketPrice": 0.27,
     "directLowPrice": null,
     "name": "Kawamatsu (Zoro Deck)",
     "rarity": "UC",
@@ -78,7 +78,7 @@
     "groupId": 24306
   },
   "OP12-OP12-027 normal": {
-    "lowPrice": 0.4,
+    "lowPrice": 0.39,
     "midPrice": 0.44,
     "highPrice": 0.5,
     "marketPrice": 0.44,
@@ -104,7 +104,7 @@
     "groupId": 24306
   },
   "OP12-OP12-029 normal": {
-    "lowPrice": 0.35,
+    "lowPrice": 0.34,
     "midPrice": 0.45,
     "highPrice": 0.53,
     "marketPrice": 0.47,
@@ -209,9 +209,9 @@
   },
   "EB01-EB01-012 normal": {
     "lowPrice": 5.66,
-    "midPrice": 7.26,
+    "midPrice": 7.24,
     "highPrice": 18.99,
-    "marketPrice": 6.89,
+    "marketPrice": 6.85,
     "directLowPrice": null,
     "name": "Cavendish (Zoro Deck)",
     "rarity": "SR",
@@ -235,7 +235,7 @@
   },
   "OP10-OP10-030 normal": {
     "lowPrice": 1.23,
-    "midPrice": 1.96,
+    "midPrice": 1.95,
     "highPrice": 3.29,
     "marketPrice": 1.91,
     "directLowPrice": null,
@@ -261,9 +261,9 @@
   },
   "OP12-OP12-031 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.2,
+    "midPrice": 0.21,
     "highPrice": 1.0,
-    "marketPrice": 0.2,
+    "marketPrice": 0.21,
     "directLowPrice": null,
     "name": "Tashigi (Zoro Deck)",
     "rarity": "R",
@@ -339,7 +339,7 @@
   },
   "OP06-OP06-038 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.18,
+    "midPrice": 0.13,
     "highPrice": 0.75,
     "marketPrice": null,
     "directLowPrice": null,
@@ -365,7 +365,7 @@
   },
   "OP12-OP12-039 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.17,
+    "midPrice": 0.23,
     "highPrice": 1.0,
     "marketPrice": null,
     "directLowPrice": null,
@@ -390,7 +390,7 @@
     "groupId": 24306
   },
   "P-P-069 normal": {
-    "lowPrice": 0.2,
+    "lowPrice": 0.15,
     "midPrice": 0.3,
     "highPrice": 1.0,
     "marketPrice": 0.3,
@@ -419,7 +419,7 @@
     "lowPrice": 3.78,
     "midPrice": 5.05,
     "highPrice": 45.0,
-    "marketPrice": 5.05,
+    "marketPrice": 4.97,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy - ST21-001 (Luffy Deck)",
     "rarity": "L",
@@ -469,7 +469,7 @@
   },
   "ST21-ST21-003 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.24,
+    "midPrice": 0.23,
     "highPrice": 2.0,
     "marketPrice": null,
     "directLowPrice": null,
@@ -494,7 +494,7 @@
     "groupId": 24306
   },
   "ST21-ST21-010 normal": {
-    "lowPrice": 0.15,
+    "lowPrice": 0.1,
     "midPrice": 0.2,
     "highPrice": 1.0,
     "marketPrice": 0.2,
@@ -598,7 +598,7 @@
     "groupId": 24306
   },
   "OP09-OP09-005 normal": {
-    "lowPrice": 0.09,
+    "lowPrice": 0.05,
     "midPrice": 0.17,
     "highPrice": 1.0,
     "marketPrice": null,
@@ -650,7 +650,7 @@
     "groupId": 24306
   },
   "OP11-OP11-003 normal": {
-    "lowPrice": 0.09,
+    "lowPrice": 0.05,
     "midPrice": 0.1,
     "highPrice": 1.0,
     "marketPrice": null,
@@ -676,8 +676,8 @@
     "groupId": 24306
   },
   "OP11-OP11-016 normal": {
-    "lowPrice": 0.09,
-    "midPrice": 0.11,
+    "lowPrice": 0.05,
+    "midPrice": 0.1,
     "highPrice": 1.0,
     "marketPrice": null,
     "directLowPrice": null,
@@ -703,7 +703,7 @@
   },
   "ST21-ST21-014 normal": {
     "lowPrice": 1.41,
-    "midPrice": 1.68,
+    "midPrice": 1.67,
     "highPrice": 3.0,
     "marketPrice": 1.63,
     "directLowPrice": null,
@@ -755,7 +755,7 @@
   },
   "OP06-OP06-018 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.24,
+    "midPrice": 0.23,
     "highPrice": 1.0,
     "marketPrice": 0.1,
     "directLowPrice": null,
@@ -780,10 +780,10 @@
     "groupId": 24306
   },
   "ST21-ST21-017 normal": {
-    "lowPrice": 1.71,
-    "midPrice": 2.7,
+    "lowPrice": 1.7,
+    "midPrice": 2.5,
     "highPrice": 4.99,
-    "marketPrice": 2.24,
+    "marketPrice": 1.97,
     "directLowPrice": null,
     "name": "Gum-Gum Mole Pistol (Luffy Deck)",
     "rarity": "C",
@@ -806,10 +806,10 @@
     "groupId": 24306
   },
   "OP11-OP11-041 normal": {
-    "lowPrice": 5.59,
-    "midPrice": 9.75,
+    "lowPrice": 5.2,
+    "midPrice": 9.47,
     "highPrice": 40.0,
-    "marketPrice": 8.99,
+    "marketPrice": 8.6,
     "directLowPrice": null,
     "name": "Nami - OP11-041 (Nami Deck)",
     "rarity": "L",
@@ -859,7 +859,7 @@
   },
   "P-P-056 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.51,
+    "midPrice": 1.5,
     "highPrice": 2.49,
     "marketPrice": 1.71,
     "directLowPrice": null,
@@ -937,7 +937,7 @@
   },
   "P-P-053 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.45,
+    "midPrice": 0.35,
     "highPrice": 1.0,
     "marketPrice": 0.15,
     "directLowPrice": null,
@@ -962,8 +962,8 @@
     "groupId": 24306
   },
   "OP09-OP09-107 normal": {
-    "lowPrice": 0.4,
-    "midPrice": 0.46,
+    "lowPrice": 0.39,
+    "midPrice": 0.47,
     "highPrice": 1.25,
     "marketPrice": 0.47,
     "directLowPrice": null,
@@ -1015,7 +1015,7 @@
   },
   "OP11-OP11-118 normal": {
     "lowPrice": 0.68,
-    "midPrice": 1.58,
+    "midPrice": 1.59,
     "highPrice": 2.5,
     "marketPrice": 1.65,
     "directLowPrice": null,

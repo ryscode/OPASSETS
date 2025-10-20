@@ -1,8 +1,8 @@
 {
   "ST04-ST04-001 normal": {
-    "lowPrice": 39.0,
-    "midPrice": 84.95,
-    "highPrice": 100.0,
+    "lowPrice": 62.0,
+    "midPrice": 84.98,
+    "highPrice": 250.0,
     "marketPrice": 43.82,
     "directLowPrice": null,
     "name": "Kaido (001)",
@@ -52,10 +52,10 @@
     "groupId": 17661
   },
   "ST04-ST04-003 normal": {
-    "lowPrice": 1.27,
-    "midPrice": 3.49,
+    "lowPrice": 1.37,
+    "midPrice": 4.1,
     "highPrice": 30.0,
-    "marketPrice": 1.43,
+    "marketPrice": 1.41,
     "directLowPrice": null,
     "name": "Kaido (003)",
     "rarity": "SR",
@@ -79,7 +79,7 @@
   },
   "ST04-ST04-004 normal": {
     "lowPrice": 19.99,
-    "midPrice": 22.79,
+    "midPrice": 24.99,
     "highPrice": 30.0,
     "marketPrice": 2.92,
     "directLowPrice": null,
@@ -131,7 +131,7 @@
   },
   "ST04-ST04-006 normal": {
     "lowPrice": 0.12,
-    "midPrice": 0.35,
+    "midPrice": 0.34,
     "highPrice": 2.99,
     "marketPrice": 0.29,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "ST04-ST04-008 normal": {
     "lowPrice": 0.29,
-    "midPrice": 0.47,
+    "midPrice": 0.5,
     "highPrice": 4.99,
     "marketPrice": 0.38,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "ST04-ST04-010 normal": {
     "lowPrice": 0.14,
-    "midPrice": 0.29,
+    "midPrice": 0.3,
     "highPrice": 6.35,
     "marketPrice": 0.25,
     "directLowPrice": null,
@@ -261,7 +261,7 @@
   },
   "ST04-ST04-011 normal": {
     "lowPrice": 0.14,
-    "midPrice": 0.33,
+    "midPrice": 0.35,
     "highPrice": 5.8,
     "marketPrice": 0.28,
     "directLowPrice": null,
@@ -287,7 +287,7 @@
   },
   "ST04-ST04-012 normal": {
     "lowPrice": 0.27,
-    "midPrice": 0.93,
+    "midPrice": 0.92,
     "highPrice": 4.95,
     "marketPrice": 0.51,
     "directLowPrice": null,
@@ -338,10 +338,10 @@
     "groupId": 17661
   },
   "ST04-ST04-014 normal": {
-    "lowPrice": 2.3,
-    "midPrice": 3.87,
+    "lowPrice": 2.99,
+    "midPrice": 4.0,
     "highPrice": 14.99,
-    "marketPrice": 3.0,
+    "marketPrice": 2.99,
     "directLowPrice": null,
     "name": "Lead Performer \"Disaster\"",
     "rarity": "C",
@@ -364,7 +364,7 @@
     "groupId": 17661
   },
   "ST04-ST04-015 normal": {
-    "lowPrice": 0.86,
+    "lowPrice": 0.84,
     "midPrice": 2.0,
     "highPrice": 19.9,
     "marketPrice": 2.35,

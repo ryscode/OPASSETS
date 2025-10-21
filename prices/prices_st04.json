@@ -1,7 +1,7 @@
 {
   "ST04-ST04-001 normal": {
     "lowPrice": 0.39,
-    "midPrice": 0.59,
+    "midPrice": 0.6,
     "highPrice": 2.99,
     "marketPrice": 0.48,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "ST04-ST04-009 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.15,
+    "midPrice": 0.18,
     "highPrice": 1.33,
     "marketPrice": 0.09,
     "directLowPrice": null,
@@ -338,10 +338,10 @@
     "groupId": 3190
   },
   "ST04-ST04-014 normal": {
-    "lowPrice": 0.25,
-    "midPrice": 1.0,
+    "lowPrice": 0.5,
+    "midPrice": 1.1,
     "highPrice": 7.65,
-    "marketPrice": 0.61,
+    "marketPrice": 0.6,
     "directLowPrice": null,
     "name": "Lead Performer \"Disaster\"",
     "rarity": "C",

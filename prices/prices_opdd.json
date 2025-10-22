@@ -1,9 +1,9 @@
 {
   "OP01-OP01-001 normal": {
-    "lowPrice": 2.64,
-    "midPrice": 3.52,
+    "lowPrice": 2.49,
+    "midPrice": 3.5,
     "highPrice": 5.0,
-    "marketPrice": 3.42,
+    "marketPrice": 3.43,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
     "rarity": "L",
@@ -53,9 +53,9 @@
   },
   "OP01-OP01-004 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.41,
+    "midPrice": 0.4,
     "highPrice": 25.0,
-    "marketPrice": 0.36,
+    "marketPrice": 0.38,
     "directLowPrice": null,
     "name": "Usopp",
     "rarity": "R",
@@ -79,7 +79,7 @@
   },
   "OP01-OP01-005 normal": {
     "lowPrice": 0.19,
-    "midPrice": 0.35,
+    "midPrice": 0.4,
     "highPrice": 4.5,
     "marketPrice": 0.3,
     "directLowPrice": null,
@@ -131,9 +131,9 @@
   },
   "OP01-OP01-013 normal": {
     "lowPrice": 3.0,
-    "midPrice": 4.35,
+    "midPrice": 4.43,
     "highPrice": 10.0,
-    "marketPrice": 3.23,
+    "marketPrice": 3.15,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "R",
@@ -157,9 +157,9 @@
   },
   "OP01-OP01-016 normal": {
     "lowPrice": 2.0,
-    "midPrice": 3.09,
+    "midPrice": 3.08,
     "highPrice": 4.99,
-    "marketPrice": 3.26,
+    "marketPrice": 3.29,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "R",
@@ -182,8 +182,8 @@
     "groupId": 23907
   },
   "OP01-OP01-021 normal": {
-    "lowPrice": 0.52,
-    "midPrice": 0.89,
+    "lowPrice": 0.35,
+    "midPrice": 0.84,
     "highPrice": 2.5,
     "marketPrice": null,
     "directLowPrice": null,
@@ -289,7 +289,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.35,
     "highPrice": 3.84,
-    "marketPrice": 0.31,
+    "marketPrice": 0.32,
     "directLowPrice": null,
     "name": "Nico Robin",
     "rarity": "C",
@@ -417,9 +417,9 @@
   },
   "OP01-OP01-003 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.75,
+    "midPrice": 0.74,
     "highPrice": 6.25,
-    "marketPrice": 0.42,
+    "marketPrice": 0.43,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (003)",
     "rarity": "L",
@@ -546,8 +546,8 @@
     "groupId": 23907
   },
   "OP01-OP01-019 normal": {
-    "lowPrice": 0.32,
-    "midPrice": 0.71,
+    "lowPrice": 0.3,
+    "midPrice": 0.7,
     "highPrice": 4.99,
     "marketPrice": 0.7,
     "directLowPrice": null,
@@ -573,9 +573,9 @@
   },
   "ST01-ST01-010 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.55,
+    "midPrice": 0.54,
     "highPrice": 5.0,
-    "marketPrice": 0.53,
+    "marketPrice": 0.5,
     "directLowPrice": null,
     "name": "Franky (010)",
     "rarity": "C",

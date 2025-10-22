@@ -1,7 +1,7 @@
 {
   "ST11-ST11-001 normal": {
     "lowPrice": 0.05,
-    "midPrice": 1.0,
+    "midPrice": 1.03,
     "highPrice": 5.0,
     "marketPrice": 0.96,
     "directLowPrice": null,
@@ -26,10 +26,10 @@
     "groupId": 23250
   },
   "ST11-ST11-002 normal": {
-    "lowPrice": 0.96,
-    "midPrice": 2.17,
+    "lowPrice": 0.95,
+    "midPrice": 2.19,
     "highPrice": 10.0,
-    "marketPrice": 1.11,
+    "marketPrice": 1.1,
     "directLowPrice": null,
     "name": "Uta (002)",
     "rarity": "SR",
@@ -81,7 +81,7 @@
     "lowPrice": 0.15,
     "midPrice": 0.5,
     "highPrice": 6.5,
-    "marketPrice": 0.31,
+    "marketPrice": 0.32,
     "directLowPrice": null,
     "name": "New Genesis",
     "rarity": "SR",

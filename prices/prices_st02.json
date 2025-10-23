@@ -1,7 +1,7 @@
 {
   "ST02-ST02-001 normal": {
-    "lowPrice": 0.49,
-    "midPrice": 1.49,
+    "lowPrice": 0.5,
+    "midPrice": 1.5,
     "highPrice": 19.95,
     "marketPrice": 0.74,
     "directLowPrice": null,
@@ -27,7 +27,7 @@
   },
   "ST02-ST02-002 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.15,
+    "midPrice": 0.17,
     "highPrice": 2.0,
     "marketPrice": 0.1,
     "directLowPrice": null,
@@ -315,7 +315,7 @@
     "lowPrice": 0.49,
     "midPrice": 1.0,
     "highPrice": 11.45,
-    "marketPrice": 0.76,
+    "marketPrice": 0.7,
     "directLowPrice": null,
     "name": "Eustass\"Captain\"Kid (013)",
     "rarity": "SR",
@@ -367,7 +367,7 @@
     "lowPrice": 0.06,
     "midPrice": 0.25,
     "highPrice": 2.0,
-    "marketPrice": 0.17,
+    "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Scalpel",
     "rarity": "C",
@@ -416,10 +416,10 @@
     "groupId": 3191
   },
   "ST02-ST02-017 normal": {
-    "lowPrice": 0.98,
+    "lowPrice": 0.97,
     "midPrice": 1.75,
     "highPrice": 5.0,
-    "marketPrice": 1.54,
+    "marketPrice": 1.51,
     "directLowPrice": null,
     "name": "Straw Sword",
     "rarity": "C",

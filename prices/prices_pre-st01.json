@@ -1,7 +1,7 @@
 {
   "ST01-ST01-001 normal": {
-    "lowPrice": 589.99,
-    "midPrice": 649.5,
+    "lowPrice": 574.99,
+    "midPrice": 599.99,
     "highPrice": 1999.0,
     "marketPrice": 451.22,
     "directLowPrice": null,
@@ -26,8 +26,8 @@
     "groupId": 17659
   },
   "ST01-ST01-002 normal": {
-    "lowPrice": 2.53,
-    "midPrice": 3.99,
+    "lowPrice": 0.9,
+    "midPrice": 4.0,
     "highPrice": 5.0,
     "marketPrice": 0.79,
     "directLowPrice": null,
@@ -53,7 +53,7 @@
   },
   "ST01-ST01-003 normal": {
     "lowPrice": 0.34,
-    "midPrice": 0.59,
+    "midPrice": 0.63,
     "highPrice": 2.99,
     "marketPrice": 0.38,
     "directLowPrice": null,
@@ -103,32 +103,6 @@
     "description": "[DON!! x2] This Character gains [Rush]. <em>(This card can attack on the turn in which it is played.)</em>",
     "groupId": 17659
   },
-  "ST01-ST01-005 normal": {
-    "lowPrice": 1.22,
-    "midPrice": 1.38,
-    "highPrice": 1.99,
-    "marketPrice": 0.7,
-    "directLowPrice": null,
-    "name": "Jinbe",
-    "rarity": "C",
-    "power": "5000",
-    "cost": "3",
-    "life": null,
-    "category": "Character",
-    "colors": "Red",
-    "attributes": "Strike",
-    "types": "Fish-Man;Straw Hat Crew",
-    "effect": "yes",
-    "trigger": null,
-    "counter": null,
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/416474_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Character",
-    "description": "[DON!! x1] [When Attacking] Up to 1 of your Leader or Character cards other than this card gains +1000 power during this turn.",
-    "groupId": 17659
-  },
   "ST01-ST01-006 normal": {
     "lowPrice": 8.66,
     "midPrice": 10.95,
@@ -156,9 +130,9 @@
     "groupId": 17659
   },
   "ST01-ST01-007 normal": {
-    "lowPrice": 50.0,
-    "midPrice": 50.0,
-    "highPrice": 50.0,
+    "lowPrice": 45.0,
+    "midPrice": 45.0,
+    "highPrice": 45.0,
     "marketPrice": 11.49,
     "directLowPrice": null,
     "name": "Nami",
@@ -209,9 +183,9 @@
   },
   "ST01-ST01-009 normal": {
     "lowPrice": 0.35,
-    "midPrice": 1.24,
+    "midPrice": 1.12,
     "highPrice": 2.5,
-    "marketPrice": 0.98,
+    "marketPrice": 1.05,
     "directLowPrice": null,
     "name": "Nefeltari Vivi",
     "rarity": "C",
@@ -235,9 +209,9 @@
   },
   "ST01-ST01-010 normal": {
     "lowPrice": 2.67,
-    "midPrice": 8.53,
+    "midPrice": 13.94,
     "highPrice": 14.95,
-    "marketPrice": 2.12,
+    "marketPrice": 2.08,
     "directLowPrice": null,
     "name": "Franky",
     "rarity": "C",
@@ -286,10 +260,10 @@
     "groupId": 17659
   },
   "ST01-ST01-012 normal": {
-    "lowPrice": 45.99,
-    "midPrice": 49.99,
+    "lowPrice": 40.0,
+    "midPrice": 49.88,
     "highPrice": 79.99,
-    "marketPrice": 46.13,
+    "marketPrice": 45.41,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (012)",
     "rarity": "SR",
@@ -313,8 +287,8 @@
   },
   "ST01-ST01-013 normal": {
     "lowPrice": 33.25,
-    "midPrice": 56.48,
-    "highPrice": 59.99,
+    "midPrice": 54.95,
+    "highPrice": 75.0,
     "marketPrice": 22.2,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
@@ -339,7 +313,7 @@
   },
   "ST01-ST01-014 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.39,
+    "midPrice": 1.37,
     "highPrice": 15.0,
     "marketPrice": 0.93,
     "directLowPrice": null,
@@ -364,8 +338,8 @@
     "groupId": 17659
   },
   "ST01-ST01-015 normal": {
-    "lowPrice": 0.74,
-    "midPrice": 1.18,
+    "lowPrice": 0.7,
+    "midPrice": 1.26,
     "highPrice": 45.0,
     "marketPrice": 1.04,
     "directLowPrice": null,
@@ -391,7 +365,7 @@
   },
   "ST01-ST01-016 normal": {
     "lowPrice": 3.0,
-    "midPrice": 4.0,
+    "midPrice": 4.34,
     "highPrice": 19.95,
     "marketPrice": 3.55,
     "directLowPrice": null,

@@ -1,7 +1,7 @@
 {
   "ST10-ST10-001 normal": {
     "lowPrice": 2.29,
-    "midPrice": 3.0,
+    "midPrice": 2.95,
     "highPrice": 14.99,
     "marketPrice": 2.29,
     "directLowPrice": null,
@@ -27,9 +27,9 @@
   },
   "ST10-ST10-002 normal": {
     "lowPrice": 2.99,
-    "midPrice": 4.45,
+    "midPrice": 4.47,
     "highPrice": 9.99,
-    "marketPrice": 3.99,
+    "marketPrice": 4.0,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (002)",
     "rarity": "L",
@@ -53,9 +53,9 @@
   },
   "ST10-ST10-003 normal": {
     "lowPrice": 0.89,
-    "midPrice": 1.51,
+    "midPrice": 1.52,
     "highPrice": 8.99,
-    "marketPrice": 1.28,
+    "marketPrice": 1.27,
     "directLowPrice": null,
     "name": "Eustass\"Captain\"Kid (003)",
     "rarity": "L",
@@ -105,7 +105,7 @@
   },
   "ST10-ST10-005 normal": {
     "lowPrice": 0.58,
-    "midPrice": 0.77,
+    "midPrice": 0.76,
     "highPrice": 5.0,
     "marketPrice": 0.73,
     "directLowPrice": null,
@@ -130,10 +130,10 @@
     "groupId": 23243
   },
   "ST10-ST10-006 normal": {
-    "lowPrice": 0.7,
-    "midPrice": 1.05,
+    "lowPrice": 0.75,
+    "midPrice": 1.04,
     "highPrice": 5.0,
-    "marketPrice": 0.98,
+    "marketPrice": 0.99,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (006)",
     "rarity": "SR",
@@ -237,7 +237,7 @@
     "lowPrice": 0.5,
     "midPrice": 2.0,
     "highPrice": 15.0,
-    "marketPrice": 1.78,
+    "marketPrice": 1.77,
     "directLowPrice": null,
     "name": "Trafalgar Law (010)",
     "rarity": "SR",
@@ -315,7 +315,7 @@
     "lowPrice": 0.45,
     "midPrice": 1.4,
     "highPrice": 21.95,
-    "marketPrice": 0.67,
+    "marketPrice": 0.68,
     "directLowPrice": null,
     "name": "Eustass\"Captain\"Kid (013)",
     "rarity": "SR",
@@ -416,7 +416,7 @@
     "groupId": 23243
   },
   "ST10-ST10-017 normal": {
-    "lowPrice": 0.1,
+    "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 2.0,
     "marketPrice": 0.25,

@@ -27,9 +27,9 @@
   },
   "ST06-ST06-002 normal": {
     "lowPrice": 0.13,
-    "midPrice": 0.28,
+    "midPrice": 0.27,
     "highPrice": 1.39,
-    "marketPrice": 0.26,
+    "marketPrice": 0.25,
     "directLowPrice": null,
     "name": "Koby",
     "rarity": "C",
@@ -53,8 +53,8 @@
   },
   "ST06-ST06-004 normal": {
     "lowPrice": 0.59,
-    "midPrice": 1.15,
-    "highPrice": 19.99,
+    "midPrice": 1.13,
+    "highPrice": 8.0,
     "marketPrice": 0.96,
     "directLowPrice": null,
     "name": "Smoker",
@@ -79,7 +79,7 @@
   },
   "ST06-ST06-010 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.21,
+    "midPrice": 0.2,
     "highPrice": 3.99,
     "marketPrice": 0.2,
     "directLowPrice": null,
@@ -130,10 +130,10 @@
     "groupId": 17699
   },
   "ST06-ST06-012 normal": {
-    "lowPrice": 0.43,
-    "midPrice": 1.17,
+    "lowPrice": 0.39,
+    "midPrice": 1.11,
     "highPrice": 9.45,
-    "marketPrice": 0.59,
+    "marketPrice": 0.62,
     "directLowPrice": null,
     "name": "Monkey.D.Garp",
     "rarity": "SR",
@@ -157,7 +157,7 @@
   },
   "ST06-ST06-015 normal": {
     "lowPrice": 0.3,
-    "midPrice": 1.2,
+    "midPrice": 1.22,
     "highPrice": 27.99,
     "marketPrice": 0.56,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "ST06-ST06-003 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.17,
+    "midPrice": 0.15,
     "highPrice": 1.4,
     "marketPrice": 0.09,
     "directLowPrice": null,
@@ -208,7 +208,7 @@
     "groupId": 17699
   },
   "ST06-ST06-005 normal": {
-    "lowPrice": 0.09,
+    "lowPrice": 0.05,
     "midPrice": 0.24,
     "highPrice": 1.5,
     "marketPrice": 0.13,
@@ -261,8 +261,8 @@
   },
   "ST06-ST06-008 normal": {
     "lowPrice": 1.29,
-    "midPrice": 4.09,
-    "highPrice": 39.99,
+    "midPrice": 4.01,
+    "highPrice": 19.98,
     "marketPrice": 2.95,
     "directLowPrice": null,
     "name": "Hina",
@@ -391,7 +391,7 @@
   },
   "ST06-ST06-016 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.23,
+    "midPrice": 0.22,
     "highPrice": 1.32,
     "marketPrice": 0.12,
     "directLowPrice": null,
@@ -416,8 +416,8 @@
     "groupId": 17699
   },
   "ST06-ST06-017 normal": {
-    "lowPrice": 1.33,
-    "midPrice": 2.75,
+    "lowPrice": 1.25,
+    "midPrice": 2.71,
     "highPrice": 20.0,
     "marketPrice": 1.78,
     "directLowPrice": null,

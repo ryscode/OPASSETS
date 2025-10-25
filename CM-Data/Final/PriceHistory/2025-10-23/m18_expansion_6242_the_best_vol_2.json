@@ -3,7 +3,7 @@
   "market": 18,
   "expansionId": 6242,
   "expansionName": "The Best Vol.2",
-  "count": 409,
+  "count": 410,
   "priceGuides": [
     {
       "idProduct": 840412,
@@ -7366,6 +7366,18 @@
       "avg30-foil": null,
       "productName": "Sanji (ST21-003)",
       "productCategoryName": "One Piece Single"
+    },
+    {
+      "idProduct": 855015,
+      "idCategory": 1622,
+      "avg": null,
+      "low": null,
+      "trend": null,
+      "avg1": null,
+      "avg7": null,
+      "avg30": null,
+      "productName": "The Best Vol.2 Sleeved Booster",
+      "productCategoryName": "One Piece Booster"
     }
   ]
 }

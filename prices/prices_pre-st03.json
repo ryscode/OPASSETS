@@ -1,7 +1,7 @@
 {
   "ST03-ST03-001 normal": {
     "lowPrice": 74.0,
-    "midPrice": 99.99,
+    "midPrice": 99.95,
     "highPrice": 119.65,
     "marketPrice": 69.44,
     "directLowPrice": null,
@@ -27,8 +27,8 @@
   },
   "ST03-ST03-003 normal": {
     "lowPrice": 7.74,
-    "midPrice": 8.24,
-    "highPrice": 28.95,
+    "midPrice": 8.58,
+    "highPrice": 749.0,
     "marketPrice": 2.69,
     "directLowPrice": null,
     "name": "Crocodile (003)",
@@ -53,9 +53,9 @@
   },
   "ST03-ST03-009 normal": {
     "lowPrice": 7.0,
-    "midPrice": 13.78,
-    "highPrice": 54.51,
-    "marketPrice": 8.19,
+    "midPrice": 15.5,
+    "highPrice": 100.0,
+    "marketPrice": 8.4,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo",
     "rarity": "SR",
@@ -79,8 +79,8 @@
   },
   "ST03-ST03-008 normal": {
     "lowPrice": 0.64,
-    "midPrice": 1.41,
-    "highPrice": 3.0,
+    "midPrice": 1.45,
+    "highPrice": 10.0,
     "marketPrice": 0.9,
     "directLowPrice": null,
     "name": "Trafalgar Law",
@@ -106,7 +106,7 @@
   "ST03-ST03-016 normal": {
     "lowPrice": 0.15,
     "midPrice": 0.25,
-    "highPrice": 2.0,
+    "highPrice": 25.0,
     "marketPrice": 0.24,
     "directLowPrice": null,
     "name": "Thrust Pad Cannon",
@@ -131,8 +131,8 @@
   },
   "ST03-ST03-007 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.4,
-    "highPrice": 4.0,
+    "midPrice": 0.42,
+    "highPrice": 10.0,
     "marketPrice": 0.28,
     "directLowPrice": null,
     "name": "Sentomaru",
@@ -156,7 +156,7 @@
     "groupId": 17660
   },
   "ST03-ST03-015 normal": {
-    "lowPrice": 2.41,
+    "lowPrice": 2.37,
     "midPrice": 4.44,
     "highPrice": 50.0,
     "marketPrice": 4.35,
@@ -183,8 +183,8 @@
   },
   "ST03-ST03-012 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.3,
-    "highPrice": 5.0,
+    "midPrice": 0.31,
+    "highPrice": 10.0,
     "marketPrice": 0.16,
     "directLowPrice": null,
     "name": "Pacifista",
@@ -210,7 +210,7 @@
   "ST03-ST03-014 normal": {
     "lowPrice": 0.39,
     "midPrice": 0.75,
-    "highPrice": 14.0,
+    "highPrice": 25.0,
     "marketPrice": 0.58,
     "directLowPrice": null,
     "name": "Marshall.D.Teach",
@@ -234,9 +234,9 @@
     "groupId": 17660
   },
   "ST03-ST03-017 normal": {
-    "lowPrice": 3.52,
-    "midPrice": 7.01,
-    "highPrice": 58.0,
+    "lowPrice": 3.54,
+    "midPrice": 6.98,
+    "highPrice": 100.0,
     "marketPrice": 6.56,
     "directLowPrice": null,
     "name": "Love-Love Mellow",
@@ -261,8 +261,8 @@
   },
   "ST03-ST03-006 normal": {
     "lowPrice": 0.14,
-    "midPrice": 0.34,
-    "highPrice": 2.0,
+    "midPrice": 0.35,
+    "highPrice": 10.0,
     "marketPrice": 0.25,
     "directLowPrice": null,
     "name": "Jinbe",
@@ -287,8 +287,8 @@
   },
   "ST03-ST03-004 normal": {
     "lowPrice": 0.84,
-    "midPrice": 1.01,
-    "highPrice": 21.95,
+    "midPrice": 1.05,
+    "highPrice": 25.0,
     "marketPrice": 0.95,
     "directLowPrice": null,
     "name": "Gecko Moria",
@@ -313,9 +313,9 @@
   },
   "ST03-ST03-002 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.29,
-    "highPrice": 2.0,
-    "marketPrice": 0.19,
+    "midPrice": 0.3,
+    "highPrice": 10.0,
+    "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Edward Weevil",
     "rarity": "C",
@@ -340,7 +340,7 @@
   "ST03-ST03-005 normal": {
     "lowPrice": 1.45,
     "midPrice": 2.08,
-    "highPrice": 18.95,
+    "highPrice": 50.0,
     "marketPrice": 1.79,
     "directLowPrice": null,
     "name": "Dracule Mihawk",
@@ -366,8 +366,8 @@
   "ST03-ST03-011 normal": {
     "lowPrice": 0.3,
     "midPrice": 1.0,
-    "highPrice": 2.99,
-    "marketPrice": 0.34,
+    "highPrice": 10.0,
+    "marketPrice": 0.33,
     "directLowPrice": null,
     "name": "Buggy",
     "rarity": "C",
@@ -392,7 +392,7 @@
   "ST03-ST03-013 normal": {
     "lowPrice": 9.0,
     "midPrice": 12.99,
-    "highPrice": 14.99,
+    "highPrice": 50.0,
     "marketPrice": 6.59,
     "directLowPrice": null,
     "name": "Boa Hancock",
@@ -417,7 +417,7 @@
   },
   "ST03-ST03-010 normal": {
     "lowPrice": 0.33,
-    "midPrice": 0.57,
+    "midPrice": 0.59,
     "highPrice": 50.0,
     "marketPrice": 0.39,
     "directLowPrice": null,

@@ -26,10 +26,10 @@
     "groupId": 23490
   },
   "OP02-OP02-008 normal": {
-    "lowPrice": 0.07,
+    "lowPrice": 0.18,
     "midPrice": 0.26,
     "highPrice": 1.53,
-    "marketPrice": 0.25,
+    "marketPrice": 0.24,
     "directLowPrice": null,
     "name": "Jozu",
     "rarity": "R",
@@ -53,7 +53,7 @@
   },
   "OP02-OP02-018 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.13,
+    "midPrice": 0.12,
     "highPrice": 1.32,
     "marketPrice": 0.11,
     "directLowPrice": null,
@@ -79,9 +79,9 @@
   },
   "OP02-OP02-019 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.15,
+    "midPrice": 0.13,
     "highPrice": 1.43,
-    "marketPrice": 0.06,
+    "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Rakuyo",
     "rarity": "UC",
@@ -105,7 +105,7 @@
   },
   "OP03-OP03-003 normal": {
     "lowPrice": 0.04,
-    "midPrice": 0.17,
+    "midPrice": 0.15,
     "highPrice": 1.35,
     "marketPrice": 0.11,
     "directLowPrice": null,
@@ -234,10 +234,10 @@
     "groupId": 23490
   },
   "ST15-ST15-002 normal": {
-    "lowPrice": 0.74,
-    "midPrice": 1.63,
-    "highPrice": 9.89,
-    "marketPrice": 0.92,
+    "lowPrice": 0.75,
+    "midPrice": 1.79,
+    "highPrice": 502.93,
+    "marketPrice": 0.89,
     "directLowPrice": null,
     "name": "Edward.Newgate (ST15-002)",
     "rarity": "SR",
@@ -286,10 +286,10 @@
     "groupId": 23490
   },
   "ST15-ST15-004 normal": {
-    "lowPrice": 3.25,
+    "lowPrice": 2.0,
     "midPrice": 3.95,
     "highPrice": 9.97,
-    "marketPrice": 3.62,
+    "marketPrice": 3.72,
     "directLowPrice": null,
     "name": "Thatch",
     "rarity": "C",
@@ -313,9 +313,9 @@
   },
   "ST15-ST15-005 normal": {
     "lowPrice": 0.5,
-    "midPrice": 1.56,
-    "highPrice": 9.0,
-    "marketPrice": 1.06,
+    "midPrice": 1.57,
+    "highPrice": 501.5,
+    "marketPrice": 1.01,
     "directLowPrice": null,
     "name": "Portgas.D.Ace",
     "rarity": "SR",

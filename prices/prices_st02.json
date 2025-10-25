@@ -1,7 +1,7 @@
 {
   "ST02-ST02-001 normal": {
     "lowPrice": 0.5,
-    "midPrice": 1.49,
+    "midPrice": 1.5,
     "highPrice": 19.95,
     "marketPrice": 0.74,
     "directLowPrice": null,
@@ -27,7 +27,7 @@
   },
   "ST02-ST02-002 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.17,
+    "midPrice": 0.15,
     "highPrice": 2.0,
     "marketPrice": 0.1,
     "directLowPrice": null,
@@ -133,7 +133,7 @@
     "lowPrice": 0.03,
     "midPrice": 0.2,
     "highPrice": 2.0,
-    "marketPrice": 0.15,
+    "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Koby",
     "rarity": "C",
@@ -209,9 +209,9 @@
   },
   "ST02-ST02-009 normal": {
     "lowPrice": 3.16,
-    "midPrice": 5.4,
+    "midPrice": 5.32,
     "highPrice": 10.54,
-    "marketPrice": 4.92,
+    "marketPrice": 4.89,
     "directLowPrice": null,
     "name": "Trafalgar Law",
     "rarity": "SR",

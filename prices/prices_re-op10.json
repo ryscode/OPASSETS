@@ -28,7 +28,7 @@
   "OP10-OP10-006 normal": {
     "lowPrice": 0.8,
     "midPrice": 1.1,
-    "highPrice": 6.99,
+    "highPrice": 5.0,
     "marketPrice": 1.07,
     "directLowPrice": null,
     "name": "Caesar Clown (006)",
@@ -53,7 +53,7 @@
   },
   "OP10-OP10-007 normal": {
     "lowPrice": 0.5,
-    "midPrice": 1.27,
+    "midPrice": 1.26,
     "highPrice": 5.0,
     "marketPrice": 0.84,
     "directLowPrice": null,
@@ -131,7 +131,7 @@
   },
   "OP10-OP10-013 normal": {
     "lowPrice": 0.4,
-    "midPrice": 1.04,
+    "midPrice": 1.18,
     "highPrice": 8.68,
     "marketPrice": 0.68,
     "directLowPrice": null,
@@ -156,7 +156,7 @@
     "groupId": 24068
   },
   "OP10-OP10-014 normal": {
-    "lowPrice": 1.78,
+    "lowPrice": 1.96,
     "midPrice": 4.99,
     "highPrice": 9.94,
     "marketPrice": 1.78,
@@ -234,8 +234,8 @@
     "groupId": 24068
   },
   "OP10-OP10-018 normal": {
-    "lowPrice": 1.3,
-    "midPrice": 2.22,
+    "lowPrice": 1.27,
+    "midPrice": 2.11,
     "highPrice": 6.69,
     "marketPrice": 2.02,
     "directLowPrice": null,
@@ -260,8 +260,8 @@
     "groupId": 24068
   },
   "OP10-OP10-020 normal": {
-    "lowPrice": 0.9,
-    "midPrice": 1.17,
+    "lowPrice": 0.89,
+    "midPrice": 1.19,
     "highPrice": 3.0,
     "marketPrice": 0.98,
     "directLowPrice": null,
@@ -339,7 +339,7 @@
   },
   "OP10-OP10-024 normal": {
     "lowPrice": 1.16,
-    "midPrice": 2.75,
+    "midPrice": 2.77,
     "highPrice": 9.9,
     "marketPrice": 1.36,
     "directLowPrice": null,
@@ -365,7 +365,7 @@
   },
   "OP10-OP10-026 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.84,
+    "midPrice": 0.86,
     "highPrice": 7.95,
     "marketPrice": 0.52,
     "directLowPrice": null,
@@ -417,9 +417,9 @@
   },
   "OP10-OP10-028 normal": {
     "lowPrice": 0.3,
-    "midPrice": 1.12,
+    "midPrice": 1.06,
     "highPrice": 8.48,
-    "marketPrice": 0.63,
+    "marketPrice": 0.73,
     "directLowPrice": null,
     "name": "Kouzuki Momonosuke (028)",
     "rarity": "UC",
@@ -469,7 +469,7 @@
   },
   "OP10-OP10-033 normal": {
     "lowPrice": 14.5,
-    "midPrice": 17.54,
+    "midPrice": 16.97,
     "highPrice": 39.99,
     "marketPrice": 14.58,
     "directLowPrice": null,
@@ -495,7 +495,7 @@
   },
   "OP10-OP10-034 normal": {
     "lowPrice": 0.33,
-    "midPrice": 0.78,
+    "midPrice": 0.8,
     "highPrice": 10.0,
     "marketPrice": 0.67,
     "directLowPrice": null,
@@ -521,7 +521,7 @@
   },
   "OP10-OP10-035 normal": {
     "lowPrice": 0.33,
-    "midPrice": 0.62,
+    "midPrice": 0.65,
     "highPrice": 5.0,
     "marketPrice": 0.45,
     "directLowPrice": null,
@@ -677,7 +677,7 @@
   },
   "OP10-OP10-044 normal": {
     "lowPrice": 0.29,
-    "midPrice": 0.53,
+    "midPrice": 0.52,
     "highPrice": 8.68,
     "marketPrice": 0.47,
     "directLowPrice": null,
@@ -703,7 +703,7 @@
   },
   "OP10-OP10-047 normal": {
     "lowPrice": 0.89,
-    "midPrice": 1.55,
+    "midPrice": 1.57,
     "highPrice": 9.99,
     "marketPrice": 1.55,
     "directLowPrice": null,
@@ -807,7 +807,7 @@
   },
   "OP10-OP10-052 normal": {
     "lowPrice": 0.29,
-    "midPrice": 0.5,
+    "midPrice": 0.49,
     "highPrice": 8.68,
     "marketPrice": 0.39,
     "directLowPrice": null,
@@ -859,8 +859,8 @@
   },
   "OP10-OP10-054 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.59,
-    "highPrice": 2.99,
+    "midPrice": 0.58,
+    "highPrice": 2.0,
     "marketPrice": 0.36,
     "directLowPrice": null,
     "name": "Blue Gilly",
@@ -886,7 +886,7 @@
   "OP10-OP10-056 normal": {
     "lowPrice": 0.56,
     "midPrice": 0.75,
-    "highPrice": 3.99,
+    "highPrice": 4.24,
     "marketPrice": 0.66,
     "directLowPrice": null,
     "name": "Mansherry",
@@ -913,7 +913,7 @@
     "lowPrice": 0.39,
     "midPrice": 0.58,
     "highPrice": 5.0,
-    "marketPrice": 0.49,
+    "marketPrice": 0.48,
     "directLowPrice": null,
     "name": "Barrier-Barrier Pistol",
     "rarity": "C",
@@ -963,7 +963,7 @@
   },
   "OP10-OP10-064 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.58,
+    "midPrice": 0.57,
     "highPrice": 8.68,
     "marketPrice": 0.41,
     "directLowPrice": null,
@@ -989,9 +989,9 @@
   },
   "OP10-OP10-066 normal": {
     "lowPrice": 1.93,
-    "midPrice": 2.9,
+    "midPrice": 2.47,
     "highPrice": 3.6,
-    "marketPrice": 2.24,
+    "marketPrice": 2.4,
     "directLowPrice": null,
     "name": "Giolla",
     "rarity": "UC",
@@ -1042,7 +1042,7 @@
   "OP10-OP10-069 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.35,
-    "highPrice": 3.49,
+    "highPrice": 3.74,
     "marketPrice": 0.24,
     "directLowPrice": null,
     "name": "Fighting Fish",
@@ -1067,7 +1067,7 @@
   },
   "OP10-OP10-070 normal": {
     "lowPrice": 0.13,
-    "midPrice": 0.46,
+    "midPrice": 0.45,
     "highPrice": 9.99,
     "marketPrice": 0.17,
     "directLowPrice": null,
@@ -1171,7 +1171,7 @@
   },
   "OP10-OP10-076 normal": {
     "lowPrice": 2.95,
-    "midPrice": 4.28,
+    "midPrice": 4.19,
     "highPrice": 24.99,
     "marketPrice": 3.58,
     "directLowPrice": null,
@@ -1223,9 +1223,9 @@
   },
   "OP10-OP10-079 normal": {
     "lowPrice": 4.99,
-    "midPrice": 5.99,
-    "highPrice": 12.57,
-    "marketPrice": 11.43,
+    "midPrice": 6.45,
+    "highPrice": 12.09,
+    "marketPrice": 10.99,
     "directLowPrice": null,
     "name": "God Thread",
     "rarity": "UC",
@@ -1249,7 +1249,7 @@
   },
   "OP10-OP10-080 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.68,
+    "midPrice": 0.69,
     "highPrice": 4.99,
     "marketPrice": 0.53,
     "directLowPrice": null,
@@ -1352,10 +1352,10 @@
     "groupId": 24068
   },
   "OP10-OP10-085 normal": {
-    "lowPrice": 0.47,
-    "midPrice": 1.27,
+    "lowPrice": 0.49,
+    "midPrice": 1.49,
     "highPrice": 9.99,
-    "marketPrice": 0.94,
+    "marketPrice": 0.92,
     "directLowPrice": null,
     "name": "Jesus Burgess",
     "rarity": "UC",
@@ -1379,7 +1379,7 @@
   },
   "OP10-OP10-087 normal": {
     "lowPrice": 2.2,
-    "midPrice": 2.79,
+    "midPrice": 2.78,
     "highPrice": 9.99,
     "marketPrice": 2.58,
     "directLowPrice": null,
@@ -1405,7 +1405,7 @@
   },
   "OP10-OP10-088 normal": {
     "lowPrice": 4.6,
-    "midPrice": 6.47,
+    "midPrice": 6.48,
     "highPrice": 9.49,
     "marketPrice": 3.89,
     "directLowPrice": null,
@@ -1431,7 +1431,7 @@
   },
   "OP10-OP10-089 normal": {
     "lowPrice": 1.34,
-    "midPrice": 5.35,
+    "midPrice": 5.39,
     "highPrice": 10.96,
     "marketPrice": 1.48,
     "directLowPrice": null,
@@ -1457,7 +1457,7 @@
   },
   "OP10-OP10-091 normal": {
     "lowPrice": 0.19,
-    "midPrice": 1.34,
+    "midPrice": 1.21,
     "highPrice": 9.5,
     "marketPrice": 0.65,
     "directLowPrice": null,
@@ -1483,7 +1483,7 @@
   },
   "OP10-OP10-092 normal": {
     "lowPrice": 1.0,
-    "midPrice": 3.14,
+    "midPrice": 2.98,
     "highPrice": 13.68,
     "marketPrice": 2.1,
     "directLowPrice": null,
@@ -1536,7 +1536,7 @@
   "OP10-OP10-094 normal": {
     "lowPrice": 3.86,
     "midPrice": 3.99,
-    "highPrice": 4.28,
+    "highPrice": 4.27,
     "marketPrice": 3.92,
     "directLowPrice": null,
     "name": "Ryuma",
@@ -1562,7 +1562,7 @@
   "OP10-OP10-096 normal": {
     "lowPrice": 0.7,
     "midPrice": 0.93,
-    "highPrice": 2.98,
+    "highPrice": 2.25,
     "marketPrice": 0.95,
     "directLowPrice": null,
     "name": "There's No Longer Any Need for the Seven Warlords of the Sea!!!",
@@ -1691,7 +1691,7 @@
   },
   "OP10-OP10-104 normal": {
     "lowPrice": 0.45,
-    "midPrice": 0.9,
+    "midPrice": 0.91,
     "highPrice": 5.0,
     "marketPrice": 0.63,
     "directLowPrice": null,
@@ -1769,8 +1769,8 @@
   },
   "OP10-OP10-107 normal": {
     "lowPrice": 14.99,
-    "midPrice": 14.99,
-    "highPrice": 15.0,
+    "midPrice": 15.0,
+    "highPrice": 18.75,
     "marketPrice": 7.75,
     "directLowPrice": null,
     "name": "Jewelry Bonney",
@@ -1795,7 +1795,7 @@
   },
   "OP10-OP10-108 normal": {
     "lowPrice": 3.55,
-    "midPrice": 4.86,
+    "midPrice": 4.68,
     "highPrice": 9.99,
     "marketPrice": 3.81,
     "directLowPrice": null,
@@ -1822,7 +1822,7 @@
   "OP10-OP10-110 normal": {
     "lowPrice": 0.09,
     "midPrice": 0.49,
-    "highPrice": 3.73,
+    "highPrice": 3.98,
     "marketPrice": 0.37,
     "directLowPrice": null,
     "name": "Heat & Wire",
@@ -1847,7 +1847,7 @@
   },
   "OP10-OP10-113 normal": {
     "lowPrice": 3.99,
-    "midPrice": 5.19,
+    "midPrice": 5.18,
     "highPrice": 9.5,
     "marketPrice": 4.53,
     "directLowPrice": null,
@@ -1873,7 +1873,7 @@
   },
   "OP10-OP10-114 normal": {
     "lowPrice": 7.98,
-    "midPrice": 8.67,
+    "midPrice": 8.59,
     "highPrice": 10.19,
     "marketPrice": 8.15,
     "directLowPrice": null,
@@ -1899,7 +1899,7 @@
   },
   "OP10-OP10-115 normal": {
     "lowPrice": 0.45,
-    "midPrice": 0.99,
+    "midPrice": 0.96,
     "highPrice": 5.0,
     "marketPrice": 0.73,
     "directLowPrice": null,

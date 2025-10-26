@@ -2,8 +2,8 @@
   "OP09-OP09-001 normal": {
     "lowPrice": 0.19,
     "midPrice": 0.5,
-    "highPrice": 501.5,
-    "marketPrice": 0.45,
+    "highPrice": 2.0,
+    "marketPrice": 0.44,
     "directLowPrice": null,
     "name": "Shanks (Reprint)",
     "rarity": "L",
@@ -26,10 +26,10 @@
     "groupId": 24282
   },
   "ST23-ST23-001 normal": {
-    "lowPrice": 6.98,
-    "midPrice": 8.25,
+    "lowPrice": 7.0,
+    "midPrice": 8.24,
     "highPrice": 12.99,
-    "marketPrice": 7.6,
+    "marketPrice": 7.14,
     "directLowPrice": null,
     "name": "Uta",
     "rarity": "SR",
@@ -53,9 +53,9 @@
   },
   "ST23-ST23-002 normal": {
     "lowPrice": 0.01,
-    "midPrice": 1.13,
+    "midPrice": 1.1,
     "highPrice": 7.99,
-    "marketPrice": 0.69,
+    "marketPrice": 0.7,
     "directLowPrice": null,
     "name": "Shanks (002)",
     "rarity": "SR",
@@ -80,7 +80,7 @@
   "ST23-ST23-003 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.25,
-    "highPrice": 2.99,
+    "highPrice": 1.99,
     "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Benn.Beckman",
@@ -184,7 +184,7 @@
   "OP09-OP09-010 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Bonk Punch (Reprint)",

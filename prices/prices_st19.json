@@ -210,7 +210,7 @@
   "OP03-OP03-089 normal": {
     "lowPrice": 0.17,
     "midPrice": 0.25,
-    "highPrice": 2.99,
+    "highPrice": 1.51,
     "marketPrice": 0.24,
     "directLowPrice": null,
     "name": "Brannew",
@@ -287,9 +287,9 @@
   },
   "ST19-ST19-003 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.99,
+    "midPrice": 0.83,
     "highPrice": 12.5,
-    "marketPrice": 0.63,
+    "marketPrice": 0.66,
     "directLowPrice": null,
     "name": "Tashigi",
     "rarity": "SR",
@@ -313,9 +313,9 @@
   },
   "ST19-ST19-004 normal": {
     "lowPrice": 0.9,
-    "midPrice": 1.65,
-    "highPrice": 5.0,
-    "marketPrice": 1.2,
+    "midPrice": 1.55,
+    "highPrice": 9999.0,
+    "marketPrice": 1.21,
     "directLowPrice": null,
     "name": "Hina",
     "rarity": "SR",

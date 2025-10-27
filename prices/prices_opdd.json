@@ -1,9 +1,9 @@
 {
   "OP01-OP01-001 normal": {
-    "lowPrice": 1.99,
-    "midPrice": 3.44,
+    "lowPrice": 2.0,
+    "midPrice": 3.49,
     "highPrice": 5.0,
-    "marketPrice": 3.42,
+    "marketPrice": 3.32,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
     "rarity": "L",
@@ -27,9 +27,9 @@
   },
   "P-P-001 normal": {
     "lowPrice": 1.23,
-    "midPrice": 2.0,
+    "midPrice": 2.5,
     "highPrice": 14.99,
-    "marketPrice": 1.38,
+    "marketPrice": 1.39,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (001)",
     "rarity": "PR",
@@ -130,10 +130,10 @@
     "groupId": 23907
   },
   "OP01-OP01-013 normal": {
-    "lowPrice": 3.0,
-    "midPrice": 4.38,
+    "lowPrice": 3.49,
+    "midPrice": 4.67,
     "highPrice": 10.0,
-    "marketPrice": 3.14,
+    "marketPrice": 3.37,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "R",
@@ -157,7 +157,7 @@
   },
   "OP01-OP01-016 normal": {
     "lowPrice": 2.0,
-    "midPrice": 3.25,
+    "midPrice": 3.19,
     "highPrice": 4.99,
     "marketPrice": 3.29,
     "directLowPrice": null,
@@ -367,7 +367,7 @@
     "lowPrice": 0.99,
     "midPrice": 1.15,
     "highPrice": 5.0,
-    "marketPrice": 1.05,
+    "marketPrice": 1.03,
     "directLowPrice": null,
     "name": "Gum-Gum Jet Pistol",
     "rarity": "C",
@@ -417,9 +417,9 @@
   },
   "OP01-OP01-003 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.83,
+    "midPrice": 0.93,
     "highPrice": 6.25,
-    "marketPrice": 0.43,
+    "marketPrice": 0.42,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (003)",
     "rarity": "L",
@@ -547,7 +547,7 @@
   },
   "OP01-OP01-019 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.7,
+    "midPrice": 0.54,
     "highPrice": 4.0,
     "marketPrice": 0.46,
     "directLowPrice": null,

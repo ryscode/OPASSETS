@@ -1,7 +1,7 @@
 {
   "OP07-OP07-006 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.44,
+    "midPrice": 0.43,
     "highPrice": 10.0,
     "marketPrice": 0.34,
     "directLowPrice": null,
@@ -133,7 +133,7 @@
     "lowPrice": 0.2,
     "midPrice": 0.44,
     "highPrice": 2.0,
-    "marketPrice": 0.43,
+    "marketPrice": 0.45,
     "directLowPrice": null,
     "name": "Keep Out",
     "rarity": "C",
@@ -183,7 +183,7 @@
   },
   "OP07-OP07-024 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.39,
+    "midPrice": 0.37,
     "highPrice": 10.0,
     "marketPrice": 0.26,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "OP07-OP07-025 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.34,
+    "midPrice": 0.33,
     "highPrice": 4.99,
     "marketPrice": 0.22,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "OP07-OP07-027 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.45,
+    "midPrice": 0.46,
     "highPrice": 4.99,
     "marketPrice": 0.41,
     "directLowPrice": null,
@@ -313,7 +313,7 @@
   },
   "OP07-OP07-035 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.49,
+    "midPrice": 0.5,
     "highPrice": 2.0,
     "marketPrice": 0.47,
     "directLowPrice": null,
@@ -364,8 +364,8 @@
     "groupId": 23512
   },
   "OP07-OP07-042 normal": {
-    "lowPrice": 0.1,
-    "midPrice": 0.4,
+    "lowPrice": 0.05,
+    "midPrice": 0.39,
     "highPrice": 50.0,
     "marketPrice": 0.28,
     "directLowPrice": null,
@@ -443,7 +443,7 @@
   },
   "OP07-OP07-050 normal": {
     "lowPrice": 0.74,
-    "midPrice": 0.98,
+    "midPrice": 0.95,
     "highPrice": 2.99,
     "marketPrice": 0.83,
     "directLowPrice": null,
@@ -523,7 +523,7 @@
     "lowPrice": 0.21,
     "midPrice": 0.5,
     "highPrice": 4.99,
-    "marketPrice": 0.48,
+    "marketPrice": 0.5,
     "directLowPrice": null,
     "name": "Island of Women",
     "rarity": "C",
@@ -625,7 +625,7 @@
   },
   "OP07-OP07-067 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.36,
+    "midPrice": 0.35,
     "highPrice": 2.0,
     "marketPrice": 0.19,
     "directLowPrice": null,
@@ -650,8 +650,8 @@
     "groupId": 23512
   },
   "OP07-OP07-069 normal": {
-    "lowPrice": 0.5,
-    "midPrice": 0.6,
+    "lowPrice": 0.25,
+    "midPrice": 0.55,
     "highPrice": 1.28,
     "marketPrice": 1.16,
     "directLowPrice": null,
@@ -729,7 +729,7 @@
   },
   "OP07-OP07-078 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.97,
+    "midPrice": 0.99,
     "highPrice": 4.99,
     "marketPrice": 0.89,
     "directLowPrice": null,
@@ -755,9 +755,9 @@
   },
   "OP07-OP07-081 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.98,
+    "midPrice": 0.99,
     "highPrice": 15.0,
-    "marketPrice": 0.73,
+    "marketPrice": 0.71,
     "directLowPrice": null,
     "name": "Kalifa",
     "rarity": "C",
@@ -807,7 +807,7 @@
   },
   "OP07-OP07-086 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.5,
+    "midPrice": 0.6,
     "highPrice": 10.0,
     "marketPrice": 0.74,
     "directLowPrice": null,
@@ -833,7 +833,7 @@
   },
   "OP07-OP07-087 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.49,
+    "midPrice": 0.47,
     "highPrice": 3.0,
     "marketPrice": 0.28,
     "directLowPrice": null,
@@ -1067,7 +1067,7 @@
   },
   "OP07-OP07-108 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.54,
+    "midPrice": 0.52,
     "highPrice": 4.99,
     "marketPrice": 0.47,
     "directLowPrice": null,
@@ -1093,7 +1093,7 @@
   },
   "OP07-OP07-110 normal": {
     "lowPrice": 0.76,
-    "midPrice": 0.86,
+    "midPrice": 0.85,
     "highPrice": 3.0,
     "marketPrice": 1.07,
     "directLowPrice": null,
@@ -1352,10 +1352,10 @@
     "groupId": 23512
   },
   "OP07-OP07-034 normal": {
-    "lowPrice": 6.5,
-    "midPrice": 12.24,
+    "lowPrice": 6.25,
+    "midPrice": 11.99,
     "highPrice": 13.99,
-    "marketPrice": 10.22,
+    "marketPrice": 10.46,
     "directLowPrice": null,
     "name": "Roronoa Zoro (034)",
     "rarity": "UC",
@@ -1615,7 +1615,7 @@
     "lowPrice": 1.8,
     "midPrice": 1.8,
     "highPrice": 1.8,
-    "marketPrice": 2.8,
+    "marketPrice": 2.74,
     "directLowPrice": null,
     "name": "Slow-Slow Beam",
     "rarity": "UC",
@@ -1639,7 +1639,7 @@
   },
   "OP07-OP07-082 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.82,
+    "midPrice": 0.79,
     "highPrice": 11.02,
     "marketPrice": 0.93,
     "directLowPrice": null,
@@ -1692,7 +1692,7 @@
   "OP07-OP07-088 normal": {
     "lowPrice": 0.92,
     "midPrice": 1.25,
-    "highPrice": 2.24,
+    "highPrice": 2.23,
     "marketPrice": 1.22,
     "directLowPrice": null,
     "name": "Hattori",
@@ -1794,8 +1794,8 @@
     "groupId": 23512
   },
   "OP07-OP07-101 normal": {
-    "lowPrice": 7.99,
-    "midPrice": 11.1,
+    "lowPrice": 8.75,
+    "midPrice": 10.55,
     "highPrice": 100.0,
     "marketPrice": 11.74,
     "directLowPrice": null,

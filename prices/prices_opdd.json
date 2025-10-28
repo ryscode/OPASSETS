@@ -27,7 +27,7 @@
   },
   "P-P-001 normal": {
     "lowPrice": 1.23,
-    "midPrice": 2.5,
+    "midPrice": 2.7,
     "highPrice": 14.99,
     "marketPrice": 1.39,
     "directLowPrice": null,
@@ -79,7 +79,7 @@
   },
   "OP01-OP01-005 normal": {
     "lowPrice": 0.19,
-    "midPrice": 0.4,
+    "midPrice": 0.35,
     "highPrice": 4.5,
     "marketPrice": 0.3,
     "directLowPrice": null,
@@ -105,7 +105,7 @@
   },
   "OP01-OP01-011 normal": {
     "lowPrice": 0.22,
-    "midPrice": 1.25,
+    "midPrice": 1.0,
     "highPrice": 2.5,
     "marketPrice": null,
     "directLowPrice": null,
@@ -130,10 +130,10 @@
     "groupId": 23907
   },
   "OP01-OP01-013 normal": {
-    "lowPrice": 3.49,
-    "midPrice": 4.67,
+    "lowPrice": 3.5,
+    "midPrice": 4.66,
     "highPrice": 10.0,
-    "marketPrice": 3.37,
+    "marketPrice": 3.4,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "R",
@@ -157,7 +157,7 @@
   },
   "OP01-OP01-016 normal": {
     "lowPrice": 2.0,
-    "midPrice": 3.19,
+    "midPrice": 3.04,
     "highPrice": 4.99,
     "marketPrice": 3.29,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "OP02-OP02-015 normal": {
     "lowPrice": 0.47,
-    "midPrice": 1.63,
+    "midPrice": 1.6,
     "highPrice": 3.99,
     "marketPrice": 0.59,
     "directLowPrice": null,
@@ -365,7 +365,7 @@
   },
   "ST01-ST01-015 normal": {
     "lowPrice": 0.99,
-    "midPrice": 1.15,
+    "midPrice": 1.19,
     "highPrice": 5.0,
     "marketPrice": 1.03,
     "directLowPrice": null,
@@ -417,7 +417,7 @@
   },
   "OP01-OP01-003 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.93,
+    "midPrice": 0.97,
     "highPrice": 6.25,
     "marketPrice": 0.42,
     "directLowPrice": null,
@@ -522,7 +522,7 @@
   "OP01-OP01-008 normal": {
     "lowPrice": 0.29,
     "midPrice": 0.55,
-    "highPrice": 5.0,
+    "highPrice": 3.95,
     "marketPrice": 0.5,
     "directLowPrice": null,
     "name": "Cavendish",
@@ -574,7 +574,7 @@
   "ST01-ST01-010 normal": {
     "lowPrice": 0.2,
     "midPrice": 0.53,
-    "highPrice": 5.0,
+    "highPrice": 4.5,
     "marketPrice": 0.5,
     "directLowPrice": null,
     "name": "Franky (010)",

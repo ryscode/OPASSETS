@@ -1,9 +1,9 @@
 {
   "ST10-ST10-001 normal": {
-    "lowPrice": 2.63,
+    "lowPrice": 1.4,
     "midPrice": 4.49,
     "highPrice": 14.99,
-    "marketPrice": 2.65,
+    "marketPrice": 2.75,
     "directLowPrice": null,
     "name": "Trafalgar Law (001)",
     "rarity": "L",
@@ -27,7 +27,7 @@
   },
   "ST10-ST10-002 normal": {
     "lowPrice": 2.99,
-    "midPrice": 4.58,
+    "midPrice": 4.43,
     "highPrice": 9.99,
     "marketPrice": 4.04,
     "directLowPrice": null,
@@ -53,9 +53,9 @@
   },
   "ST10-ST10-003 normal": {
     "lowPrice": 0.89,
-    "midPrice": 1.56,
-    "highPrice": 8.99,
-    "marketPrice": 1.27,
+    "midPrice": 1.52,
+    "highPrice": 25.0,
+    "marketPrice": 1.32,
     "directLowPrice": null,
     "name": "Eustass\"Captain\"Kid (003)",
     "rarity": "L",
@@ -80,7 +80,7 @@
   "ST10-ST10-004 normal": {
     "lowPrice": 0.14,
     "midPrice": 0.37,
-    "highPrice": 2.5,
+    "highPrice": 5.0,
     "marketPrice": 0.32,
     "directLowPrice": null,
     "name": "Sanji",
@@ -106,7 +106,7 @@
   "ST10-ST10-005 normal": {
     "lowPrice": 0.58,
     "midPrice": 0.76,
-    "highPrice": 5.0,
+    "highPrice": 10.0,
     "marketPrice": 0.73,
     "directLowPrice": null,
     "name": "Jinbe",
@@ -130,10 +130,10 @@
     "groupId": 23243
   },
   "ST10-ST10-006 normal": {
-    "lowPrice": 0.75,
-    "midPrice": 1.14,
-    "highPrice": 5.0,
-    "marketPrice": 1.1,
+    "lowPrice": 0.5,
+    "midPrice": 1.16,
+    "highPrice": 50.0,
+    "marketPrice": 1.05,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (006)",
     "rarity": "SR",
@@ -182,7 +182,7 @@
     "groupId": 23243
   },
   "ST10-ST10-008 normal": {
-    "lowPrice": 0.09,
+    "lowPrice": 0.08,
     "midPrice": 0.3,
     "highPrice": 20.0,
     "marketPrice": 0.25,
@@ -209,7 +209,7 @@
   },
   "ST10-ST10-009 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.23,
+    "midPrice": 0.21,
     "highPrice": 2.0,
     "marketPrice": 0.2,
     "directLowPrice": null,
@@ -234,10 +234,10 @@
     "groupId": 23243
   },
   "ST10-ST10-010 normal": {
-    "lowPrice": 0.65,
+    "lowPrice": 0.64,
     "midPrice": 2.0,
-    "highPrice": 15.0,
-    "marketPrice": 1.77,
+    "highPrice": 50.0,
+    "marketPrice": 1.75,
     "directLowPrice": null,
     "name": "Trafalgar Law (010)",
     "rarity": "SR",
@@ -313,7 +313,7 @@
   },
   "ST10-ST10-013 normal": {
     "lowPrice": 0.45,
-    "midPrice": 1.43,
+    "midPrice": 1.39,
     "highPrice": 9999.0,
     "marketPrice": 0.73,
     "directLowPrice": null,
@@ -392,7 +392,7 @@
   "ST10-ST10-016 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.25,
-    "highPrice": 2.0,
+    "highPrice": 25.0,
     "marketPrice": 0.24,
     "directLowPrice": null,
     "name": "Gum-Gum Kong Gatling",
@@ -418,7 +418,7 @@
   "ST10-ST10-017 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.25,
-    "highPrice": 2.0,
+    "highPrice": 25.0,
     "marketPrice": 0.25,
     "directLowPrice": null,
     "name": "Punk Vise",

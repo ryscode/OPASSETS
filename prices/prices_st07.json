@@ -1,8 +1,8 @@
 {
   "ST07-ST07-001 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.12,
-    "highPrice": 5.0,
+    "midPrice": 1.05,
+    "highPrice": 25.0,
     "marketPrice": 1.06,
     "directLowPrice": null,
     "name": "Charlotte Linlin",
@@ -52,9 +52,9 @@
     "groupId": 22930
   },
   "ST07-ST07-003 normal": {
-    "lowPrice": 0.7,
-    "midPrice": 1.11,
-    "highPrice": 5.0,
+    "lowPrice": 0.3,
+    "midPrice": 1.09,
+    "highPrice": 25.0,
     "marketPrice": 0.92,
     "directLowPrice": null,
     "name": "Charlotte Katakuri",
@@ -105,7 +105,7 @@
   },
   "ST07-ST07-005 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.23,
+    "midPrice": 0.2,
     "highPrice": 1.45,
     "marketPrice": 0.13,
     "directLowPrice": null,
@@ -157,7 +157,7 @@
   },
   "ST07-ST07-007 normal": {
     "lowPrice": 0.07,
-    "midPrice": 0.39,
+    "midPrice": 0.4,
     "highPrice": 14.99,
     "marketPrice": 0.4,
     "directLowPrice": null,
@@ -365,9 +365,9 @@
   },
   "ST07-ST07-015 normal": {
     "lowPrice": 0.5,
-    "midPrice": 1.16,
+    "midPrice": 1.11,
     "highPrice": 13.46,
-    "marketPrice": 0.78,
+    "marketPrice": 0.79,
     "directLowPrice": null,
     "name": "Soul Pocus",
     "rarity": "C",
@@ -392,7 +392,7 @@
   "ST07-ST07-016 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.25,
-    "highPrice": 1.48,
+    "highPrice": 10.0,
     "marketPrice": 0.22,
     "directLowPrice": null,
     "name": "Power Mochi",
@@ -418,7 +418,7 @@
   "ST07-ST07-017 normal": {
     "lowPrice": 0.34,
     "midPrice": 0.7,
-    "highPrice": 5.95,
+    "highPrice": 25.0,
     "marketPrice": 0.55,
     "directLowPrice": null,
     "name": "Queen Mama Chanter",

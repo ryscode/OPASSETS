@@ -26,7 +26,7 @@
     "groupId": 23489
   },
   "ST14-ST14-002 normal": {
-    "lowPrice": 0.05,
+    "lowPrice": 0.08,
     "midPrice": 0.15,
     "highPrice": 1.32,
     "marketPrice": 0.14,
@@ -52,10 +52,10 @@
     "groupId": 23489
   },
   "ST14-ST14-003 normal": {
-    "lowPrice": 4.0,
-    "midPrice": 6.1,
+    "lowPrice": 3.99,
+    "midPrice": 6.0,
     "highPrice": 50.0,
-    "marketPrice": 5.05,
+    "marketPrice": 5.03,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "SR",
@@ -130,10 +130,10 @@
     "groupId": 23489
   },
   "ST14-ST14-006 normal": {
-    "lowPrice": 0.73,
+    "lowPrice": 1.0,
     "midPrice": 1.43,
     "highPrice": 9999.0,
-    "marketPrice": 1.32,
+    "marketPrice": 1.26,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "SR",
@@ -393,7 +393,7 @@
     "lowPrice": 0.09,
     "midPrice": 0.4,
     "highPrice": 10.0,
-    "marketPrice": 0.34,
+    "marketPrice": 0.33,
     "directLowPrice": null,
     "name": "I Have My Crew!!",
     "rarity": "C",

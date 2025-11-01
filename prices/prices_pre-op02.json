@@ -1,7 +1,7 @@
 {
   "OP02-OP02-003 normal": {
     "lowPrice": 1.87,
-    "midPrice": 2.46,
+    "midPrice": 2.47,
     "highPrice": 7.99,
     "marketPrice": 2.12,
     "directLowPrice": null,
@@ -104,7 +104,7 @@
     "groupId": 22934
   },
   "OP02-OP02-053 normal": {
-    "lowPrice": 1.77,
+    "lowPrice": 0.25,
     "midPrice": 3.5,
     "highPrice": 9.99,
     "marketPrice": 3.05,
@@ -287,7 +287,7 @@
   },
   "OP02-OP02-055 normal": {
     "lowPrice": 1.5,
-    "midPrice": 3.49,
+    "midPrice": 3.55,
     "highPrice": 6.0,
     "marketPrice": 1.68,
     "directLowPrice": null,
@@ -313,7 +313,7 @@
   },
   "OP02-OP02-039 normal": {
     "lowPrice": 2.75,
-    "midPrice": 9.99,
+    "midPrice": 8.18,
     "highPrice": 31.0,
     "marketPrice": 3.05,
     "directLowPrice": null,
@@ -339,7 +339,7 @@
   },
   "OP02-OP02-111 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.97,
+    "midPrice": 0.96,
     "highPrice": 5.0,
     "marketPrice": 0.38,
     "directLowPrice": null,
@@ -417,7 +417,7 @@
   },
   "OP02-OP02-066 normal": {
     "lowPrice": 7.09,
-    "midPrice": 12.99,
+    "midPrice": 12.98,
     "highPrice": 50.0,
     "marketPrice": 12.56,
     "directLowPrice": null,
@@ -495,7 +495,7 @@
   },
   "OP02-OP02-033 normal": {
     "lowPrice": 0.99,
-    "midPrice": 1.22,
+    "midPrice": 1.16,
     "highPrice": 3.5,
     "marketPrice": 1.07,
     "directLowPrice": null,
@@ -755,7 +755,7 @@
   },
   "OP02-OP02-043 normal": {
     "lowPrice": 7.65,
-    "midPrice": 12.93,
+    "midPrice": 13.65,
     "highPrice": 36.0,
     "marketPrice": 7.01,
     "directLowPrice": null,
@@ -833,7 +833,7 @@
   },
   "OP02-OP02-077 normal": {
     "lowPrice": 0.88,
-    "midPrice": 1.12,
+    "midPrice": 1.1,
     "highPrice": 5.0,
     "marketPrice": 1.0,
     "directLowPrice": null,
@@ -885,7 +885,7 @@
   },
   "OP02-OP02-101 normal": {
     "lowPrice": 0.44,
-    "midPrice": 0.62,
+    "midPrice": 0.67,
     "highPrice": 15.99,
     "marketPrice": 0.54,
     "directLowPrice": null,
@@ -911,7 +911,7 @@
   },
   "OP02-OP02-105 normal": {
     "lowPrice": 0.45,
-    "midPrice": 0.96,
+    "midPrice": 0.98,
     "highPrice": 13.18,
     "marketPrice": 0.84,
     "directLowPrice": null,
@@ -937,7 +937,7 @@
   },
   "OP02-OP02-007 normal": {
     "lowPrice": 2.89,
-    "midPrice": 4.16,
+    "midPrice": 4.09,
     "highPrice": 25.0,
     "marketPrice": 3.17,
     "directLowPrice": null,
@@ -1145,8 +1145,8 @@
   },
   "OP02-OP02-023 normal": {
     "lowPrice": 0.98,
-    "midPrice": 1.57,
-    "highPrice": 8.6,
+    "midPrice": 1.65,
+    "highPrice": 28.95,
     "marketPrice": 1.21,
     "directLowPrice": null,
     "name": "You May Be a Fool...but I Still Love You",
@@ -1327,7 +1327,7 @@
   },
   "OP02-OP02-078 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.73,
+    "midPrice": 0.72,
     "highPrice": 22.0,
     "marketPrice": 0.36,
     "directLowPrice": null,
@@ -1379,7 +1379,7 @@
   },
   "OP02-OP02-056 normal": {
     "lowPrice": 0.99,
-    "midPrice": 1.75,
+    "midPrice": 1.71,
     "highPrice": 5.0,
     "marketPrice": 1.14,
     "directLowPrice": null,
@@ -1431,9 +1431,9 @@
   },
   "OP02-OP02-113 normal": {
     "lowPrice": 0.74,
-    "midPrice": 0.97,
+    "midPrice": 0.99,
     "highPrice": 15.95,
-    "marketPrice": 0.87,
+    "marketPrice": 0.85,
     "directLowPrice": null,
     "name": "Helmeppo",
     "rarity": "UC",
@@ -1457,7 +1457,7 @@
   },
   "OP02-OP02-090 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.54,
+    "midPrice": 0.51,
     "highPrice": 4.99,
     "marketPrice": 0.51,
     "directLowPrice": null,
@@ -1483,9 +1483,9 @@
   },
   "OP02-OP02-117 normal": {
     "lowPrice": 4.98,
-    "midPrice": 5.7,
+    "midPrice": 5.74,
     "highPrice": 100.0,
-    "marketPrice": 5.7,
+    "marketPrice": 5.62,
     "directLowPrice": null,
     "name": "Ice Age",
     "rarity": "UC",
@@ -1534,7 +1534,7 @@
     "groupId": 22934
   },
   "OP02-OP02-094 normal": {
-    "lowPrice": 0.99,
+    "lowPrice": 0.83,
     "midPrice": 1.44,
     "highPrice": 25.0,
     "marketPrice": 1.25,
@@ -1561,7 +1561,7 @@
   },
   "OP02-OP02-031 normal": {
     "lowPrice": 0.5,
-    "midPrice": 1.14,
+    "midPrice": 1.17,
     "highPrice": 16.0,
     "marketPrice": 1.02,
     "directLowPrice": null,
@@ -1587,7 +1587,7 @@
   },
   "OP02-OP02-015 normal": {
     "lowPrice": 4.9,
-    "midPrice": 6.89,
+    "midPrice": 6.88,
     "highPrice": 20.75,
     "marketPrice": 6.89,
     "directLowPrice": null,
@@ -1666,7 +1666,7 @@
   "OP02-OP02-061 normal": {
     "lowPrice": 0.3,
     "midPrice": 0.54,
-    "highPrice": 7.0,
+    "highPrice": 11.95,
     "marketPrice": 0.51,
     "directLowPrice": null,
     "name": "Morley",
@@ -1717,7 +1717,7 @@
   },
   "OP02-OP02-037 normal": {
     "lowPrice": 17.0,
-    "midPrice": 20.07,
+    "midPrice": 20.0,
     "highPrice": 80.0,
     "marketPrice": 19.77,
     "directLowPrice": null,
@@ -1769,7 +1769,7 @@
   },
   "OP02-OP02-019 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.77,
+    "midPrice": 0.76,
     "highPrice": 8.0,
     "marketPrice": 0.72,
     "directLowPrice": null,
@@ -1795,7 +1795,7 @@
   },
   "OP02-OP02-032 normal": {
     "lowPrice": 2.49,
-    "midPrice": 3.17,
+    "midPrice": 3.01,
     "highPrice": 278.42,
     "marketPrice": 2.67,
     "directLowPrice": null,
@@ -1873,7 +1873,7 @@
   },
   "OP02-OP02-106 normal": {
     "lowPrice": 2.47,
-    "midPrice": 3.95,
+    "midPrice": 3.98,
     "highPrice": 5.89,
     "marketPrice": 3.33,
     "directLowPrice": null,
@@ -1899,7 +1899,7 @@
   },
   "OP02-OP02-022 normal": {
     "lowPrice": 3.34,
-    "midPrice": 3.77,
+    "midPrice": 3.76,
     "highPrice": 25.93,
     "marketPrice": 3.53,
     "directLowPrice": null,
@@ -1925,7 +1925,7 @@
   },
   "OP02-OP02-014 normal": {
     "lowPrice": 0.74,
-    "midPrice": 0.86,
+    "midPrice": 0.92,
     "highPrice": 2.78,
     "marketPrice": 0.78,
     "directLowPrice": null,

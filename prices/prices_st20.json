@@ -1,7 +1,7 @@
 {
   "OP03-OP03-099 normal": {
-    "lowPrice": 0.25,
-    "midPrice": 0.57,
+    "lowPrice": 0.3,
+    "midPrice": 0.56,
     "highPrice": 25.0,
     "marketPrice": 0.46,
     "directLowPrice": null,
@@ -29,7 +29,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 1.99,
-    "marketPrice": 0.07,
+    "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Charlotte Opera",
     "rarity": "C",
@@ -79,7 +79,7 @@
   },
   "OP03-OP03-110 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.13,
+    "midPrice": 0.12,
     "highPrice": 1.36,
     "marketPrice": 0.1,
     "directLowPrice": null,
@@ -133,7 +133,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 4.99,
-    "marketPrice": 0.09,
+    "marketPrice": 0.08,
     "directLowPrice": null,
     "name": "Charlotte Daifuku",
     "rarity": "C",
@@ -157,7 +157,7 @@
   },
   "ST20-ST20-001 normal": {
     "lowPrice": 0.39,
-    "midPrice": 1.11,
+    "midPrice": 1.1,
     "highPrice": 10.0,
     "marketPrice": 0.58,
     "directLowPrice": null,
@@ -234,7 +234,7 @@
     "groupId": 23495
   },
   "ST20-ST20-004 normal": {
-    "lowPrice": 0.09,
+    "lowPrice": 0.08,
     "midPrice": 0.24,
     "highPrice": 2.99,
     "marketPrice": 0.21,
@@ -261,7 +261,7 @@
   },
   "ST20-ST20-005 normal": {
     "lowPrice": 0.66,
-    "midPrice": 1.74,
+    "midPrice": 1.73,
     "highPrice": 9999.0,
     "marketPrice": 0.92,
     "directLowPrice": null,

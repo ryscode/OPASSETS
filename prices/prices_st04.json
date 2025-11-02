@@ -1,8 +1,8 @@
 {
   "ST04-ST04-001 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.65,
-    "highPrice": 14.4,
+    "midPrice": 0.68,
+    "highPrice": 14.26,
     "marketPrice": 0.55,
     "directLowPrice": null,
     "name": "Kaido (001)",
@@ -79,7 +79,7 @@
   },
   "ST04-ST04-004 normal": {
     "lowPrice": 0.19,
-    "midPrice": 0.57,
+    "midPrice": 0.56,
     "highPrice": 25.0,
     "marketPrice": 0.41,
     "directLowPrice": null,
@@ -104,8 +104,8 @@
     "groupId": 3190
   },
   "ST04-ST04-005 normal": {
-    "lowPrice": 0.09,
-    "midPrice": 0.3,
+    "lowPrice": 0.1,
+    "midPrice": 0.31,
     "highPrice": 20.0,
     "marketPrice": 0.23,
     "directLowPrice": null,
@@ -131,7 +131,7 @@
   },
   "ST04-ST04-006 normal": {
     "lowPrice": 0.04,
-    "midPrice": 0.19,
+    "midPrice": 0.17,
     "highPrice": 1.35,
     "marketPrice": 0.14,
     "directLowPrice": null,
@@ -183,9 +183,9 @@
   },
   "ST04-ST04-008 normal": {
     "lowPrice": 0.04,
-    "midPrice": 0.21,
+    "midPrice": 0.22,
     "highPrice": 2.0,
-    "marketPrice": 0.17,
+    "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Jack",
     "rarity": "C",
@@ -287,7 +287,7 @@
   },
   "ST04-ST04-012 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.28,
+    "midPrice": 0.27,
     "highPrice": 3.5,
     "marketPrice": 0.27,
     "directLowPrice": null,
@@ -313,7 +313,7 @@
   },
   "ST04-ST04-013 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.19,
+    "midPrice": 0.18,
     "highPrice": 1.35,
     "marketPrice": 0.11,
     "directLowPrice": null,
@@ -338,8 +338,8 @@
     "groupId": 3190
   },
   "ST04-ST04-014 normal": {
-    "lowPrice": 0.55,
-    "midPrice": 1.19,
+    "lowPrice": 0.57,
+    "midPrice": 1.0,
     "highPrice": 7.65,
     "marketPrice": 0.67,
     "directLowPrice": null,
@@ -392,8 +392,8 @@
   "ST04-ST04-016 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
-    "highPrice": 8.4,
-    "marketPrice": 0.13,
+    "highPrice": 6.97,
+    "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Blast Breath",
     "rarity": "C",

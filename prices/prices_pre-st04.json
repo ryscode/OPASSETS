@@ -52,7 +52,7 @@
     "groupId": 17661
   },
   "ST04-ST04-003 normal": {
-    "lowPrice": 1.0,
+    "lowPrice": 1.5,
     "midPrice": 4.99,
     "highPrice": 30.0,
     "marketPrice": 1.7,
@@ -104,7 +104,7 @@
     "groupId": 17661
   },
   "ST04-ST04-005 normal": {
-    "lowPrice": 0.5,
+    "lowPrice": 0.25,
     "midPrice": 2.82,
     "highPrice": 75.0,
     "marketPrice": 1.48,
@@ -131,9 +131,9 @@
   },
   "ST04-ST04-006 normal": {
     "lowPrice": 0.12,
-    "midPrice": 0.35,
+    "midPrice": 0.32,
     "highPrice": 2.99,
-    "marketPrice": 0.26,
+    "marketPrice": 0.27,
     "directLowPrice": null,
     "name": "Sasaki",
     "rarity": "C",
@@ -183,9 +183,9 @@
   },
   "ST04-ST04-008 normal": {
     "lowPrice": 0.27,
-    "midPrice": 0.5,
+    "midPrice": 0.59,
     "highPrice": 4.99,
-    "marketPrice": 0.39,
+    "marketPrice": 0.4,
     "directLowPrice": null,
     "name": "Jack",
     "rarity": "C",
@@ -211,7 +211,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 2.0,
-    "marketPrice": 0.17,
+    "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "Ginrummy",
     "rarity": "C",
@@ -315,7 +315,7 @@
     "lowPrice": 0.15,
     "midPrice": 0.45,
     "highPrice": 5.95,
-    "marketPrice": 0.39,
+    "marketPrice": 0.38,
     "directLowPrice": null,
     "name": "X.Drake",
     "rarity": "C",
@@ -364,7 +364,7 @@
     "groupId": 17661
   },
   "ST04-ST04-015 normal": {
-    "lowPrice": 0.57,
+    "lowPrice": 0.55,
     "midPrice": 1.87,
     "highPrice": 19.9,
     "marketPrice": 1.77,
@@ -416,7 +416,7 @@
     "groupId": 17661
   },
   "ST04-ST04-017 normal": {
-    "lowPrice": 0.79,
+    "lowPrice": 0.77,
     "midPrice": 1.19,
     "highPrice": 13.0,
     "marketPrice": 1.06,

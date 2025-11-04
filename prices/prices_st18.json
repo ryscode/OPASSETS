@@ -1,6 +1,6 @@
 {
   "OP05-OP05-060 normal": {
-    "lowPrice": 0.3,
+    "lowPrice": 0.29,
     "midPrice": 0.61,
     "highPrice": 50.0,
     "marketPrice": 0.61,
@@ -26,8 +26,8 @@
     "groupId": 23493
   },
   "OP05-OP05-061 normal": {
-    "lowPrice": 0.03,
-    "midPrice": 0.2,
+    "lowPrice": 0.05,
+    "midPrice": 0.19,
     "highPrice": 5.0,
     "marketPrice": 0.14,
     "directLowPrice": null,
@@ -107,7 +107,7 @@
     "lowPrice": 0.11,
     "midPrice": 0.25,
     "highPrice": 5.0,
-    "marketPrice": 0.23,
+    "marketPrice": 0.24,
     "directLowPrice": null,
     "name": "Zoro-Juurou (OP05-067)",
     "rarity": "R",
@@ -211,7 +211,7 @@
     "lowPrice": 0.04,
     "midPrice": 0.26,
     "highPrice": 25.0,
-    "marketPrice": 0.25,
+    "marketPrice": 0.24,
     "directLowPrice": null,
     "name": "When You're at Sea You Fight against Pirates!!",
     "rarity": "R",
@@ -235,9 +235,9 @@
   },
   "P-P-041 normal": {
     "lowPrice": 0.23,
-    "midPrice": 1.67,
+    "midPrice": 1.99,
     "highPrice": 25.0,
-    "marketPrice": 0.97,
+    "marketPrice": 1.01,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (P-041)",
     "rarity": "PR",
@@ -261,9 +261,9 @@
   },
   "ST18-ST18-001 normal": {
     "lowPrice": 1.19,
-    "midPrice": 3.7,
+    "midPrice": 3.49,
     "highPrice": 25.0,
-    "marketPrice": 1.33,
+    "marketPrice": 1.43,
     "directLowPrice": null,
     "name": "Uso-Hachi (ST18-001)",
     "rarity": "C",
@@ -287,7 +287,7 @@
   },
   "ST18-ST18-002 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.35,
+    "midPrice": 0.34,
     "highPrice": 5.0,
     "marketPrice": 0.21,
     "directLowPrice": null,
@@ -313,7 +313,7 @@
   },
   "ST18-ST18-003 normal": {
     "lowPrice": 0.06,
-    "midPrice": 0.25,
+    "midPrice": 0.24,
     "highPrice": 1.75,
     "marketPrice": 0.18,
     "directLowPrice": null,
@@ -365,9 +365,9 @@
   },
   "ST18-ST18-005 normal": {
     "lowPrice": 1.66,
-    "midPrice": 2.52,
+    "midPrice": 2.55,
     "highPrice": 25.0,
-    "marketPrice": 2.53,
+    "marketPrice": 2.39,
     "directLowPrice": null,
     "name": "Luffy-Tarou",
     "rarity": "SR",

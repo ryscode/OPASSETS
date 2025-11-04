@@ -1,9 +1,9 @@
 {
   "ST13-ST13-001 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.95,
+    "midPrice": 0.96,
     "highPrice": 25.0,
-    "marketPrice": 0.69,
+    "marketPrice": 0.72,
     "directLowPrice": null,
     "name": "Sabo (001)",
     "rarity": "L",
@@ -27,7 +27,7 @@
   },
   "ST13-ST13-002 normal": {
     "lowPrice": 0.05,
-    "midPrice": 1.15,
+    "midPrice": 1.14,
     "highPrice": 25.0,
     "marketPrice": 1.06,
     "directLowPrice": null,
@@ -53,7 +53,7 @@
   },
   "ST13-ST13-003 normal": {
     "lowPrice": 1.0,
-    "midPrice": 2.0,
+    "midPrice": 2.11,
     "highPrice": 50.0,
     "marketPrice": 1.77,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "ST13-ST13-008 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.97,
+    "midPrice": 0.95,
     "highPrice": 10.0,
     "marketPrice": 0.46,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "ST13-ST13-009 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.22,
+    "midPrice": 0.21,
     "highPrice": 2.0,
     "marketPrice": 0.18,
     "directLowPrice": null,
@@ -260,10 +260,10 @@
     "groupId": 23349
   },
   "ST13-ST13-011 normal": {
-    "lowPrice": 3.49,
-    "midPrice": 5.73,
+    "lowPrice": 3.5,
+    "midPrice": 5.66,
     "highPrice": 50.0,
-    "marketPrice": 4.67,
+    "marketPrice": 4.53,
     "directLowPrice": null,
     "name": "Portgas.D.Ace (011)",
     "rarity": "SR",
@@ -312,10 +312,10 @@
     "groupId": 23349
   },
   "ST13-ST13-013 normal": {
-    "lowPrice": 0.99,
-    "midPrice": 4.92,
+    "lowPrice": 1.63,
+    "midPrice": 4.98,
     "highPrice": 50.0,
-    "marketPrice": 3.63,
+    "marketPrice": 3.21,
     "directLowPrice": null,
     "name": "Monkey.D.Garp",
     "rarity": "SR",
@@ -365,9 +365,9 @@
   },
   "ST13-ST13-015 normal": {
     "lowPrice": 1.3,
-    "midPrice": 2.9,
+    "midPrice": 2.87,
     "highPrice": 50.0,
-    "marketPrice": 2.27,
+    "marketPrice": 2.21,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (015)",
     "rarity": "SR",
@@ -391,7 +391,7 @@
   },
   "ST13-ST13-016 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.26,
+    "midPrice": 0.25,
     "highPrice": 5.0,
     "marketPrice": 0.25,
     "directLowPrice": null,
@@ -417,9 +417,9 @@
   },
   "ST13-ST13-017 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.83,
+    "midPrice": 0.88,
     "highPrice": 25.0,
-    "marketPrice": 0.85,
+    "marketPrice": 0.87,
     "directLowPrice": null,
     "name": "Flame Dragon King",
     "rarity": "C",
@@ -494,7 +494,7 @@
     "groupId": 23349
   },
   "ST13-ST13-001 parallel": {
-    "lowPrice": 8.45,
+    "lowPrice": 8.44,
     "midPrice": 9.33,
     "highPrice": 50.0,
     "marketPrice": 8.49,
@@ -549,7 +549,7 @@
     "lowPrice": 17.49,
     "midPrice": 25.0,
     "highPrice": 127.5,
-    "marketPrice": 18.56,
+    "marketPrice": 18.69,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (003) (Parallel)",
     "rarity": "L",
@@ -575,7 +575,7 @@
     "lowPrice": 0.9,
     "midPrice": 1.64,
     "highPrice": 16.43,
-    "marketPrice": 1.23,
+    "marketPrice": 1.26,
     "directLowPrice": null,
     "name": "Edward.Newgate (Parallel)",
     "rarity": "C",
@@ -599,7 +599,7 @@
   },
   "ST13-ST13-005 parallel": {
     "lowPrice": 1.18,
-    "midPrice": 2.14,
+    "midPrice": 2.01,
     "highPrice": 20.0,
     "marketPrice": 1.62,
     "directLowPrice": null,
@@ -624,8 +624,8 @@
     "groupId": 23349
   },
   "ST13-ST13-006 parallel": {
-    "lowPrice": 0.23,
-    "midPrice": 0.52,
+    "lowPrice": 0.15,
+    "midPrice": 0.51,
     "highPrice": 5.98,
     "marketPrice": 0.53,
     "directLowPrice": null,
@@ -651,7 +651,7 @@
   },
   "ST13-ST13-007 parallel": {
     "lowPrice": 3.5,
-    "midPrice": 5.47,
+    "midPrice": 5.56,
     "highPrice": 21.0,
     "marketPrice": 5.14,
     "directLowPrice": null,
@@ -677,9 +677,9 @@
   },
   "ST13-ST13-008 parallel": {
     "lowPrice": 2.98,
-    "midPrice": 4.66,
+    "midPrice": 4.43,
     "highPrice": 21.88,
-    "marketPrice": 3.45,
+    "marketPrice": 3.48,
     "directLowPrice": null,
     "name": "Sabo (008) (Parallel)",
     "rarity": "SR",
@@ -729,7 +729,7 @@
   },
   "ST13-ST13-010 parallel": {
     "lowPrice": 8.2,
-    "midPrice": 11.15,
+    "midPrice": 11.0,
     "highPrice": 26.25,
     "marketPrice": 10.42,
     "directLowPrice": null,
@@ -755,9 +755,9 @@
   },
   "ST13-ST13-011 parallel": {
     "lowPrice": 12.0,
-    "midPrice": 16.29,
+    "midPrice": 16.21,
     "highPrice": 44.0,
-    "marketPrice": 14.81,
+    "marketPrice": 14.73,
     "directLowPrice": null,
     "name": "Portgas.D.Ace (011) (Parallel)",
     "rarity": "SR",
@@ -781,7 +781,7 @@
   },
   "ST13-ST13-012 parallel": {
     "lowPrice": 0.88,
-    "midPrice": 1.96,
+    "midPrice": 1.95,
     "highPrice": 9.0,
     "marketPrice": 1.37,
     "directLowPrice": null,
@@ -807,7 +807,7 @@
   },
   "ST13-ST13-013 parallel": {
     "lowPrice": 11.01,
-    "midPrice": 13.03,
+    "midPrice": 13.0,
     "highPrice": 22.0,
     "marketPrice": 12.88,
     "directLowPrice": null,
@@ -833,9 +833,9 @@
   },
   "ST13-ST13-014 parallel": {
     "lowPrice": 6.0,
-    "midPrice": 10.7,
+    "midPrice": 10.35,
     "highPrice": 22.94,
-    "marketPrice": 8.24,
+    "marketPrice": 8.26,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (014) (Parallel)",
     "rarity": "C",
@@ -858,8 +858,8 @@
     "groupId": 23349
   },
   "ST13-ST13-015 parallel": {
-    "lowPrice": 9.0,
-    "midPrice": 11.99,
+    "lowPrice": 8.4,
+    "midPrice": 11.97,
     "highPrice": 70.0,
     "marketPrice": 10.4,
     "directLowPrice": null,
@@ -885,9 +885,9 @@
   },
   "ST13-ST13-016 parallel": {
     "lowPrice": 3.67,
-    "midPrice": 6.57,
+    "midPrice": 6.6,
     "highPrice": 49.99,
-    "marketPrice": 6.03,
+    "marketPrice": 6.13,
     "directLowPrice": null,
     "name": "Yamato (Parallel)",
     "rarity": "C",

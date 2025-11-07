@@ -1,7 +1,7 @@
 {
   "OP02-OP02-001 normal": {
     "lowPrice": 0.16,
-    "midPrice": 0.41,
+    "midPrice": 0.42,
     "highPrice": 25.0,
     "marketPrice": 0.4,
     "directLowPrice": null,
@@ -26,10 +26,10 @@
     "groupId": 23490
   },
   "OP02-OP02-008 normal": {
-    "lowPrice": 0.19,
-    "midPrice": 0.5,
+    "lowPrice": 0.21,
+    "midPrice": 0.52,
     "highPrice": 10.0,
-    "marketPrice": 0.65,
+    "marketPrice": 0.66,
     "directLowPrice": null,
     "name": "Jozu",
     "rarity": "R",
@@ -235,9 +235,9 @@
   },
   "ST15-ST15-002 normal": {
     "lowPrice": 0.49,
-    "midPrice": 1.19,
+    "midPrice": 1.18,
     "highPrice": 9999.0,
-    "marketPrice": 0.9,
+    "marketPrice": 0.88,
     "directLowPrice": null,
     "name": "Edward.Newgate (ST15-002)",
     "rarity": "SR",
@@ -262,8 +262,8 @@
   "ST15-ST15-003 normal": {
     "lowPrice": 0.03,
     "midPrice": 0.15,
-    "highPrice": 1.34,
-    "marketPrice": 0.12,
+    "highPrice": 2.0,
+    "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Kingdew",
     "rarity": "C",
@@ -286,10 +286,10 @@
     "groupId": 23490
   },
   "ST15-ST15-004 normal": {
-    "lowPrice": 8.44,
-    "midPrice": 9.99,
+    "lowPrice": 8.18,
+    "midPrice": 9.97,
     "highPrice": 25.0,
-    "marketPrice": 8.66,
+    "marketPrice": 8.95,
     "directLowPrice": null,
     "name": "Thatch",
     "rarity": "C",
@@ -315,7 +315,7 @@
     "lowPrice": 0.5,
     "midPrice": 1.55,
     "highPrice": 99.0,
-    "marketPrice": 0.9,
+    "marketPrice": 0.87,
     "directLowPrice": null,
     "name": "Portgas.D.Ace",
     "rarity": "SR",

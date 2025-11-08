@@ -1,7 +1,7 @@
 {
   "ST14-ST14-001 normal": {
     "lowPrice": 0.95,
-    "midPrice": 1.25,
+    "midPrice": 1.35,
     "highPrice": 50.0,
     "marketPrice": 1.02,
     "directLowPrice": null,
@@ -130,10 +130,10 @@
     "groupId": 23489
   },
   "ST14-ST14-006 normal": {
-    "lowPrice": 0.98,
-    "midPrice": 1.47,
+    "lowPrice": 1.0,
+    "midPrice": 1.68,
     "highPrice": 9999.0,
-    "marketPrice": 1.13,
+    "marketPrice": 1.11,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "SR",
@@ -157,7 +157,7 @@
   },
   "ST14-ST14-007 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.47,
+    "midPrice": 0.5,
     "highPrice": 5.0,
     "marketPrice": 0.53,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "ST14-ST14-008 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.11,
+    "midPrice": 0.12,
     "highPrice": 1.33,
     "marketPrice": 0.09,
     "directLowPrice": null,

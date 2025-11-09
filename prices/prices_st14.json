@@ -1,7 +1,7 @@
 {
   "ST14-ST14-001 normal": {
     "lowPrice": 0.95,
-    "midPrice": 1.35,
+    "midPrice": 1.45,
     "highPrice": 50.0,
     "marketPrice": 1.02,
     "directLowPrice": null,
@@ -52,10 +52,10 @@
     "groupId": 23489
   },
   "ST14-ST14-003 normal": {
-    "lowPrice": 3.84,
-    "midPrice": 5.78,
+    "lowPrice": 3.5,
+    "midPrice": 5.79,
     "highPrice": 50.0,
-    "marketPrice": 4.59,
+    "marketPrice": 4.65,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "SR",
@@ -107,7 +107,7 @@
     "lowPrice": 0.02,
     "midPrice": 0.17,
     "highPrice": 1.0,
-    "marketPrice": 0.16,
+    "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper",
     "rarity": "C",
@@ -130,10 +130,10 @@
     "groupId": 23489
   },
   "ST14-ST14-006 normal": {
-    "lowPrice": 1.0,
-    "midPrice": 1.68,
+    "lowPrice": 0.75,
+    "midPrice": 1.47,
     "highPrice": 9999.0,
-    "marketPrice": 1.11,
+    "marketPrice": 1.13,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "SR",

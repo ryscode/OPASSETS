@@ -1,8 +1,8 @@
 {
   "ST02-ST02-001 normal": {
     "lowPrice": 0.31,
-    "midPrice": 1.45,
-    "highPrice": 9999.0,
+    "midPrice": 1.41,
+    "highPrice": 25.0,
     "marketPrice": 0.77,
     "directLowPrice": null,
     "name": "Eustass\"Captain\"Kid (001)",
@@ -209,9 +209,9 @@
   },
   "ST02-ST02-009 normal": {
     "lowPrice": 4.0,
-    "midPrice": 5.19,
-    "highPrice": 9999.0,
-    "marketPrice": 4.95,
+    "midPrice": 5.03,
+    "highPrice": 10.54,
+    "marketPrice": 4.97,
     "directLowPrice": null,
     "name": "Trafalgar Law",
     "rarity": "SR",
@@ -338,7 +338,7 @@
     "groupId": 3191
   },
   "ST02-ST02-014 normal": {
-    "lowPrice": 0.19,
+    "lowPrice": 0.15,
     "midPrice": 0.3,
     "highPrice": 5.0,
     "marketPrice": 0.25,
@@ -417,7 +417,7 @@
   },
   "ST02-ST02-017 normal": {
     "lowPrice": 0.94,
-    "midPrice": 1.71,
+    "midPrice": 1.75,
     "highPrice": 5.0,
     "marketPrice": 1.46,
     "directLowPrice": null,

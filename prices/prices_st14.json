@@ -3,7 +3,7 @@
     "lowPrice": 0.95,
     "midPrice": 1.35,
     "highPrice": 50.0,
-    "marketPrice": 1.01,
+    "marketPrice": 1.0,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (001)",
     "rarity": "L",
@@ -52,10 +52,10 @@
     "groupId": 23489
   },
   "ST14-ST14-003 normal": {
-    "lowPrice": 3.5,
-    "midPrice": 5.9,
+    "lowPrice": 3.48,
+    "midPrice": 5.78,
     "highPrice": 50.0,
-    "marketPrice": 4.76,
+    "marketPrice": 4.78,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "SR",
@@ -131,8 +131,8 @@
   },
   "ST14-ST14-006 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.46,
-    "highPrice": 9999.0,
+    "midPrice": 1.38,
+    "highPrice": 50.0,
     "marketPrice": 1.19,
     "directLowPrice": null,
     "name": "Nami",
@@ -156,7 +156,7 @@
     "groupId": 23489
   },
   "ST14-ST14-007 normal": {
-    "lowPrice": 0.2,
+    "lowPrice": 0.19,
     "midPrice": 0.5,
     "highPrice": 5.0,
     "marketPrice": 0.53,
@@ -183,7 +183,7 @@
   },
   "ST14-ST14-008 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.15,
+    "midPrice": 0.14,
     "highPrice": 1.33,
     "marketPrice": 0.09,
     "directLowPrice": null,
@@ -391,9 +391,9 @@
   },
   "ST14-ST14-016 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.39,
+    "midPrice": 0.38,
     "highPrice": 10.0,
-    "marketPrice": 0.3,
+    "marketPrice": 0.31,
     "directLowPrice": null,
     "name": "I Have My Crew!!",
     "rarity": "C",
@@ -419,7 +419,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.38,
     "highPrice": 10.0,
-    "marketPrice": 0.33,
+    "marketPrice": 0.34,
     "directLowPrice": null,
     "name": "Thousand Sunny",
     "rarity": "C",

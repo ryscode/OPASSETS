@@ -1,7 +1,7 @@
 {
   "ST04-ST04-001 normal": {
     "lowPrice": 42.0,
-    "midPrice": 51.72,
+    "midPrice": 52.7,
     "highPrice": 200.0,
     "marketPrice": 47.1,
     "directLowPrice": null,
@@ -27,7 +27,7 @@
   },
   "ST04-ST04-002 normal": {
     "lowPrice": 0.94,
-    "midPrice": 1.63,
+    "midPrice": 1.62,
     "highPrice": 5.95,
     "marketPrice": 1.42,
     "directLowPrice": null,
@@ -52,10 +52,10 @@
     "groupId": 17661
   },
   "ST04-ST04-003 normal": {
-    "lowPrice": 1.64,
+    "lowPrice": 1.0,
     "midPrice": 5.0,
     "highPrice": 30.0,
-    "marketPrice": 1.77,
+    "marketPrice": 1.79,
     "directLowPrice": null,
     "name": "Kaido (003)",
     "rarity": "SR",
@@ -78,8 +78,8 @@
     "groupId": 17661
   },
   "ST04-ST04-004 normal": {
-    "lowPrice": 3.28,
-    "midPrice": 17.91,
+    "lowPrice": 3.08,
+    "midPrice": 17.24,
     "highPrice": 30.0,
     "marketPrice": 5.65,
     "directLowPrice": null,
@@ -105,7 +105,7 @@
   },
   "ST04-ST04-005 normal": {
     "lowPrice": 0.4,
-    "midPrice": 2.92,
+    "midPrice": 2.84,
     "highPrice": 75.0,
     "marketPrice": 1.41,
     "directLowPrice": null,
@@ -287,7 +287,7 @@
   },
   "ST04-ST04-012 normal": {
     "lowPrice": 0.28,
-    "midPrice": 0.98,
+    "midPrice": 0.96,
     "highPrice": 4.95,
     "marketPrice": 0.44,
     "directLowPrice": null,
@@ -313,7 +313,7 @@
   },
   "ST04-ST04-013 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.43,
+    "midPrice": 0.41,
     "highPrice": 5.95,
     "marketPrice": 0.4,
     "directLowPrice": null,
@@ -365,9 +365,9 @@
   },
   "ST04-ST04-015 normal": {
     "lowPrice": 0.34,
-    "midPrice": 1.72,
+    "midPrice": 1.71,
     "highPrice": 19.9,
-    "marketPrice": 1.69,
+    "marketPrice": 1.61,
     "directLowPrice": null,
     "name": "Brachio Bomber",
     "rarity": "C",

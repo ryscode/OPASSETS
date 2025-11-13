@@ -29,7 +29,7 @@
     "lowPrice": 0.15,
     "midPrice": 0.47,
     "highPrice": 3.14,
-    "marketPrice": 0.28,
+    "marketPrice": 0.29,
     "directLowPrice": null,
     "name": "Speed Jil",
     "rarity": "C",
@@ -53,7 +53,7 @@
   },
   "OP03-OP03-007 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.56,
+    "midPrice": 0.57,
     "highPrice": 5.0,
     "marketPrice": 0.34,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "OP03-OP03-031 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.81,
+    "midPrice": 0.67,
     "highPrice": 4.0,
     "marketPrice": 0.26,
     "directLowPrice": null,
@@ -287,7 +287,7 @@
   },
   "OP03-OP03-035 normal": {
     "lowPrice": 0.45,
-    "midPrice": 0.75,
+    "midPrice": 0.73,
     "highPrice": 5.0,
     "marketPrice": 0.53,
     "directLowPrice": null,
@@ -339,7 +339,7 @@
   },
   "OP03-OP03-037 normal": {
     "lowPrice": 0.19,
-    "midPrice": 0.52,
+    "midPrice": 0.5,
     "highPrice": 7.13,
     "marketPrice": 0.28,
     "directLowPrice": null,
@@ -469,7 +469,7 @@
   },
   "OP03-OP03-053 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.91,
+    "midPrice": 0.79,
     "highPrice": 3.56,
     "marketPrice": 0.43,
     "directLowPrice": null,
@@ -495,7 +495,7 @@
   },
   "OP03-OP03-054 normal": {
     "lowPrice": 2.82,
-    "midPrice": 5.46,
+    "midPrice": 5.42,
     "highPrice": 16.5,
     "marketPrice": 5.46,
     "directLowPrice": null,
@@ -573,7 +573,7 @@
   },
   "OP03-OP03-064 normal": {
     "lowPrice": 0.96,
-    "midPrice": 1.44,
+    "midPrice": 1.42,
     "highPrice": 25.0,
     "marketPrice": 1.44,
     "directLowPrice": null,
@@ -599,7 +599,7 @@
   },
   "OP03-OP03-065 normal": {
     "lowPrice": 0.48,
-    "midPrice": 0.5,
+    "midPrice": 0.52,
     "highPrice": 2.0,
     "marketPrice": 0.54,
     "directLowPrice": null,
@@ -677,7 +677,7 @@
   },
   "OP03-OP03-073 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.52,
+    "midPrice": 0.5,
     "highPrice": 5.9,
     "marketPrice": 0.3,
     "directLowPrice": null,
@@ -702,8 +702,8 @@
     "groupId": 23232
   },
   "OP03-OP03-075 normal": {
-    "lowPrice": 2.3,
-    "midPrice": 2.82,
+    "lowPrice": 2.25,
+    "midPrice": 2.66,
     "highPrice": 39.0,
     "marketPrice": 2.83,
     "directLowPrice": null,
@@ -1092,8 +1092,8 @@
     "groupId": 23232
   },
   "OP03-OP03-120 normal": {
-    "lowPrice": 3.14,
-    "midPrice": 5.0,
+    "lowPrice": 2.94,
+    "midPrice": 4.99,
     "highPrice": 14.99,
     "marketPrice": 5.0,
     "directLowPrice": null,
@@ -1147,7 +1147,7 @@
     "lowPrice": 0.49,
     "midPrice": 1.61,
     "highPrice": 32.45,
-    "marketPrice": 0.56,
+    "marketPrice": 0.58,
     "directLowPrice": null,
     "name": "Kingbaum",
     "rarity": "C",
@@ -1171,7 +1171,7 @@
   },
   "OP03-OP03-002 normal": {
     "lowPrice": 0.6,
-    "midPrice": 1.29,
+    "midPrice": 1.23,
     "highPrice": 5.0,
     "marketPrice": 0.7,
     "directLowPrice": null,
@@ -1403,9 +1403,35 @@
     "description": "[On Play] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.\r\n<br>\r\n[Trigger] Play this card.",
     "groupId": 23232
   },
+  "OP03-OP03-033 normal": {
+    "lowPrice": 6.67,
+    "midPrice": 6.67,
+    "highPrice": 6.67,
+    "marketPrice": 2.89,
+    "directLowPrice": null,
+    "name": "Hatchan",
+    "rarity": "UC",
+    "power": "4000",
+    "cost": "4",
+    "life": null,
+    "category": "Character",
+    "colors": "Green",
+    "attributes": "Slash",
+    "types": "Fish-Man;Arlong Pirates;East Blue",
+    "effect": null,
+    "trigger": "yes",
+    "counter": "2000",
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/501704_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[Trigger] If your Leader has the [East Blue] type, play this card.",
+    "groupId": 23232
+  },
   "OP03-OP03-034 normal": {
     "lowPrice": 1.4,
-    "midPrice": 1.73,
+    "midPrice": 1.74,
     "highPrice": 7.49,
     "marketPrice": 1.52,
     "directLowPrice": null,
@@ -1482,7 +1508,7 @@
     "groupId": 23232
   },
   "OP03-OP03-048 normal": {
-    "lowPrice": 35.0,
+    "lowPrice": 32.28,
     "midPrice": 37.0,
     "highPrice": 60.0,
     "marketPrice": 32.28,
@@ -1509,7 +1535,7 @@
   },
   "OP03-OP03-049 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.83,
+    "midPrice": 0.84,
     "highPrice": 7.13,
     "marketPrice": 0.82,
     "directLowPrice": null,

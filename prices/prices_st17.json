@@ -1,7 +1,7 @@
 {
   "OP01-OP01-060 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.53,
+    "midPrice": 0.52,
     "highPrice": 50.0,
     "marketPrice": 0.46,
     "directLowPrice": null,
@@ -54,7 +54,7 @@
   "OP02-OP02-054 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 1.32,
+    "highPrice": 1.0,
     "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Gecko Moria (OP02-054)",
@@ -107,7 +107,7 @@
     "lowPrice": 0.04,
     "midPrice": 0.25,
     "highPrice": 5.0,
-    "marketPrice": 0.22,
+    "marketPrice": 0.21,
     "directLowPrice": null,
     "name": "Jinbe",
     "rarity": "PR",
@@ -183,7 +183,7 @@
   },
   "ST17-ST17-003 normal": {
     "lowPrice": 0.08,
-    "midPrice": 0.78,
+    "midPrice": 0.88,
     "highPrice": 10.0,
     "marketPrice": 0.2,
     "directLowPrice": null,
@@ -209,9 +209,9 @@
   },
   "ST17-ST17-004 normal": {
     "lowPrice": 0.91,
-    "midPrice": 4.42,
+    "midPrice": 4.59,
     "highPrice": 50.0,
-    "marketPrice": 3.97,
+    "marketPrice": 3.86,
     "directLowPrice": null,
     "name": "Boa Hancock",
     "rarity": "SR",
@@ -237,7 +237,7 @@
     "lowPrice": 0.2,
     "midPrice": 0.5,
     "highPrice": 5.0,
-    "marketPrice": 0.22,
+    "marketPrice": 0.23,
     "directLowPrice": null,
     "name": "Marshall.D.Teach",
     "rarity": "C",

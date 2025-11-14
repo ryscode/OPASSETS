@@ -1,7 +1,7 @@
 {
   "P-P-029 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.2,
+    "midPrice": 0.19,
     "highPrice": 5.0,
     "marketPrice": 0.16,
     "directLowPrice": null,
@@ -130,7 +130,7 @@
     "groupId": 23491
   },
   "P-P-061 normal": {
-    "lowPrice": 0.1,
+    "lowPrice": 0.09,
     "midPrice": 0.29,
     "highPrice": 5.0,
     "marketPrice": 0.29,
@@ -236,7 +236,7 @@
   "ST11-ST11-005 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.15,
-    "highPrice": 1.44,
+    "highPrice": 1.39,
     "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "I'm invincible",
@@ -263,7 +263,7 @@
     "lowPrice": 0.2,
     "midPrice": 0.5,
     "highPrice": 9.9,
-    "marketPrice": 0.42,
+    "marketPrice": 0.43,
     "directLowPrice": null,
     "name": "Uta (ST16-001)",
     "rarity": "SR",
@@ -315,7 +315,7 @@
     "lowPrice": 0.04,
     "midPrice": 0.2,
     "highPrice": 2.48,
-    "marketPrice": 0.1,
+    "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Charlotte Katakuri",
     "rarity": "C",
@@ -339,9 +339,9 @@
   },
   "ST16-ST16-004 normal": {
     "lowPrice": 1.0,
-    "midPrice": 2.55,
+    "midPrice": 2.35,
     "highPrice": 10.0,
-    "marketPrice": 1.45,
+    "marketPrice": 1.46,
     "directLowPrice": null,
     "name": "Shanks",
     "rarity": "SR",
@@ -367,7 +367,7 @@
     "lowPrice": 0.08,
     "midPrice": 0.33,
     "highPrice": 2.5,
-    "marketPrice": 0.17,
+    "marketPrice": 0.19,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (ST16-005)",
     "rarity": "C",

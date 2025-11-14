@@ -1,9 +1,9 @@
 {
   "OP02-OP02-093 normal": {
-    "lowPrice": 0.23,
-    "midPrice": 0.48,
+    "lowPrice": 0.22,
+    "midPrice": 0.5,
     "highPrice": 50.0,
-    "marketPrice": 0.35,
+    "marketPrice": 0.36,
     "directLowPrice": null,
     "name": "Smoker (OP02-093)",
     "rarity": "L",
@@ -27,7 +27,7 @@
   },
   "OP02-OP02-098 normal": {
     "lowPrice": 0.07,
-    "midPrice": 0.23,
+    "midPrice": 0.22,
     "highPrice": 1.53,
     "marketPrice": 0.18,
     "directLowPrice": null,
@@ -79,8 +79,8 @@
   },
   "OP02-OP02-108 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.12,
-    "highPrice": 1.36,
+    "midPrice": 0.11,
+    "highPrice": 1.0,
     "marketPrice": 0.08,
     "directLowPrice": null,
     "name": "Donquixote Rosinante",
@@ -105,7 +105,7 @@
   },
   "OP02-OP02-109 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.11,
+    "midPrice": 0.1,
     "highPrice": 1.45,
     "marketPrice": 0.08,
     "directLowPrice": null,
@@ -131,8 +131,8 @@
   },
   "OP02-OP02-113 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.13,
-    "highPrice": 1.36,
+    "midPrice": 0.12,
+    "highPrice": 1.0,
     "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Helmeppo",
@@ -235,7 +235,7 @@
   },
   "ST19-ST19-001 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.19,
+    "midPrice": 0.18,
     "highPrice": 7.5,
     "marketPrice": 0.16,
     "directLowPrice": null,
@@ -261,9 +261,9 @@
   },
   "ST19-ST19-002 normal": {
     "lowPrice": 0.4,
-    "midPrice": 1.56,
+    "midPrice": 1.61,
     "highPrice": 10.0,
-    "marketPrice": 0.53,
+    "marketPrice": 0.55,
     "directLowPrice": null,
     "name": "Sengoku",
     "rarity": "C",
@@ -312,10 +312,10 @@
     "groupId": 23494
   },
   "ST19-ST19-004 normal": {
-    "lowPrice": 0.8,
+    "lowPrice": 0.85,
     "midPrice": 1.5,
     "highPrice": 149.0,
-    "marketPrice": 1.2,
+    "marketPrice": 1.19,
     "directLowPrice": null,
     "name": "Hina",
     "rarity": "SR",
@@ -339,7 +339,7 @@
   },
   "ST19-ST19-005 normal": {
     "lowPrice": 0.11,
-    "midPrice": 0.24,
+    "midPrice": 0.23,
     "highPrice": 3.0,
     "marketPrice": 0.17,
     "directLowPrice": null,

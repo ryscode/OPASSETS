@@ -183,7 +183,7 @@
   },
   "OP03-OP03-023 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.5,
+    "midPrice": 0.52,
     "highPrice": 6.49,
     "marketPrice": 0.38,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "OP03-OP03-027 normal": {
     "lowPrice": 0.44,
-    "midPrice": 0.79,
+    "midPrice": 0.78,
     "highPrice": 5.0,
     "marketPrice": 0.56,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "OP03-OP03-031 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.79,
+    "midPrice": 0.91,
     "highPrice": 4.0,
     "marketPrice": 0.26,
     "directLowPrice": null,
@@ -261,7 +261,7 @@
   },
   "OP03-OP03-032 normal": {
     "lowPrice": 25.0,
-    "midPrice": 27.81,
+    "midPrice": 27.52,
     "highPrice": 30.03,
     "marketPrice": 1.24,
     "directLowPrice": null,
@@ -287,7 +287,7 @@
   },
   "OP03-OP03-035 normal": {
     "lowPrice": 0.45,
-    "midPrice": 0.73,
+    "midPrice": 0.75,
     "highPrice": 5.0,
     "marketPrice": 0.53,
     "directLowPrice": null,
@@ -469,7 +469,7 @@
   },
   "OP03-OP03-053 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.75,
+    "midPrice": 0.71,
     "highPrice": 3.56,
     "marketPrice": 0.43,
     "directLowPrice": null,
@@ -495,7 +495,7 @@
   },
   "OP03-OP03-054 normal": {
     "lowPrice": 2.82,
-    "midPrice": 5.38,
+    "midPrice": 5.41,
     "highPrice": 16.5,
     "marketPrice": 5.44,
     "directLowPrice": null,
@@ -573,7 +573,7 @@
   },
   "OP03-OP03-064 normal": {
     "lowPrice": 0.96,
-    "midPrice": 1.42,
+    "midPrice": 1.44,
     "highPrice": 25.0,
     "marketPrice": 1.44,
     "directLowPrice": null,
@@ -937,8 +937,8 @@
   },
   "OP03-OP03-101 normal": {
     "lowPrice": 0.52,
-    "midPrice": 0.95,
-    "highPrice": 4.95,
+    "midPrice": 1.11,
+    "highPrice": 4.99,
     "marketPrice": 0.66,
     "directLowPrice": null,
     "name": "Camie",
@@ -963,7 +963,7 @@
   },
   "OP03-OP03-103 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.47,
+    "midPrice": 0.48,
     "highPrice": 3.9,
     "marketPrice": 0.32,
     "directLowPrice": null,
@@ -1015,7 +1015,7 @@
   },
   "OP03-OP03-107 normal": {
     "lowPrice": 0.7,
-    "midPrice": 0.98,
+    "midPrice": 1.01,
     "highPrice": 3.67,
     "marketPrice": 0.87,
     "directLowPrice": null,
@@ -1041,7 +1041,7 @@
   },
   "OP03-OP03-109 normal": {
     "lowPrice": 0.22,
-    "midPrice": 0.46,
+    "midPrice": 0.47,
     "highPrice": 5.0,
     "marketPrice": 0.35,
     "directLowPrice": null,
@@ -1092,7 +1092,7 @@
     "groupId": 23232
   },
   "OP03-OP03-120 normal": {
-    "lowPrice": 2.84,
+    "lowPrice": 2.83,
     "midPrice": 5.0,
     "highPrice": 14.99,
     "marketPrice": 5.0,
@@ -1171,7 +1171,7 @@
   },
   "OP03-OP03-002 normal": {
     "lowPrice": 0.6,
-    "midPrice": 1.29,
+    "midPrice": 1.34,
     "highPrice": 5.0,
     "marketPrice": 0.7,
     "directLowPrice": null,
@@ -1248,8 +1248,8 @@
     "groupId": 23232
   },
   "OP03-OP03-011 normal": {
-    "lowPrice": 0.74,
-    "midPrice": 1.23,
+    "lowPrice": 0.71,
+    "midPrice": 1.35,
     "highPrice": 39.99,
     "marketPrice": 0.83,
     "directLowPrice": null,
@@ -1274,8 +1274,8 @@
     "groupId": 23232
   },
   "OP03-OP03-014 normal": {
-    "lowPrice": 9.89,
-    "midPrice": 18.0,
+    "lowPrice": 9.99,
+    "midPrice": 18.19,
     "highPrice": 19.24,
     "marketPrice": 18.01,
     "directLowPrice": null,
@@ -1301,7 +1301,7 @@
   },
   "OP03-OP03-015 normal": {
     "lowPrice": 1.09,
-    "midPrice": 3.1,
+    "midPrice": 3.14,
     "highPrice": 6.0,
     "marketPrice": 2.78,
     "directLowPrice": null,
@@ -1401,32 +1401,6 @@
     "finish": null,
     "cardType": "Character",
     "description": "[On Play] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.\r\n<br>\r\n[Trigger] Play this card.",
-    "groupId": 23232
-  },
-  "OP03-OP03-033 normal": {
-    "lowPrice": 6.67,
-    "midPrice": 6.67,
-    "highPrice": 6.67,
-    "marketPrice": 2.89,
-    "directLowPrice": null,
-    "name": "Hatchan",
-    "rarity": "UC",
-    "power": "4000",
-    "cost": "4",
-    "life": null,
-    "category": "Character",
-    "colors": "Green",
-    "attributes": "Slash",
-    "types": "Fish-Man;Arlong Pirates;East Blue",
-    "effect": null,
-    "trigger": "yes",
-    "counter": "2000",
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/501704_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Character",
-    "description": "[Trigger] If your Leader has the [East Blue] type, play this card.",
     "groupId": 23232
   },
   "OP03-OP03-034 normal": {
@@ -1534,10 +1508,10 @@
     "groupId": 23232
   },
   "OP03-OP03-049 normal": {
-    "lowPrice": 0.35,
-    "midPrice": 0.86,
+    "lowPrice": 0.45,
+    "midPrice": 0.89,
     "highPrice": 7.13,
-    "marketPrice": 0.82,
+    "marketPrice": 0.74,
     "directLowPrice": null,
     "name": "Patty",
     "rarity": "UC",
@@ -1927,7 +1901,7 @@
     "lowPrice": 10.0,
     "midPrice": 10.0,
     "highPrice": 30.0,
-    "marketPrice": 4.5,
+    "marketPrice": 4.48,
     "directLowPrice": null,
     "name": "Shirahoshi",
     "rarity": "UC",
@@ -1976,8 +1950,8 @@
     "groupId": 23232
   },
   "OP03-OP03-118 normal": {
-    "lowPrice": 3.8,
-    "midPrice": 5.78,
+    "lowPrice": 3.6,
+    "midPrice": 5.58,
     "highPrice": 20.0,
     "marketPrice": 4.83,
     "directLowPrice": null,

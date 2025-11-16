@@ -1,7 +1,7 @@
 {
   "ST01-ST01-001 normal": {
     "lowPrice": 14.0,
-    "midPrice": 16.35,
+    "midPrice": 15.97,
     "highPrice": 24.99,
     "marketPrice": 16.63,
     "directLowPrice": null,
@@ -26,8 +26,8 @@
     "groupId": 23890
   },
   "ST04-ST04-017 normal": {
-    "lowPrice": 0.44,
-    "midPrice": 0.82,
+    "lowPrice": 0.36,
+    "midPrice": 0.8,
     "highPrice": 1.99,
     "marketPrice": 0.65,
     "directLowPrice": null,
@@ -53,7 +53,7 @@
   },
   "ST01-ST01-005 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.2,
+    "midPrice": 0.21,
     "highPrice": 1.5,
     "marketPrice": 0.16,
     "directLowPrice": null,
@@ -106,8 +106,8 @@
   "ST01-ST01-007 normal": {
     "lowPrice": 2.2,
     "midPrice": 3.4,
-    "highPrice": 5.0,
-    "marketPrice": 2.87,
+    "highPrice": 7.97,
+    "marketPrice": 2.99,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "C",
@@ -183,7 +183,7 @@
   },
   "ST01-ST01-015 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.59,
+    "midPrice": 0.58,
     "highPrice": 3.49,
     "marketPrice": 0.53,
     "directLowPrice": null,
@@ -209,8 +209,8 @@
   },
   "ST01-ST01-016 normal": {
     "lowPrice": 0.96,
-    "midPrice": 1.72,
-    "highPrice": 6.26,
+    "midPrice": 1.71,
+    "highPrice": 6.0,
     "marketPrice": 1.03,
     "directLowPrice": null,
     "name": "Diable Jambe",
@@ -235,7 +235,7 @@
   },
   "ST04-ST04-014 normal": {
     "lowPrice": 1.4,
-    "midPrice": 4.49,
+    "midPrice": 4.25,
     "highPrice": 13.0,
     "marketPrice": 2.14,
     "directLowPrice": null,
@@ -364,8 +364,8 @@
     "groupId": 23890
   },
   "ST04-ST04-004 normal": {
-    "lowPrice": 0.54,
-    "midPrice": 0.99,
+    "lowPrice": 0.55,
+    "midPrice": 0.96,
     "highPrice": 4.99,
     "marketPrice": 0.69,
     "directLowPrice": null,
@@ -390,10 +390,10 @@
     "groupId": 23890
   },
   "ST02-ST02-007 normal": {
-    "lowPrice": 0.5,
-    "midPrice": 3.14,
+    "lowPrice": 0.6,
+    "midPrice": 3.02,
     "highPrice": 8.99,
-    "marketPrice": 1.71,
+    "marketPrice": 1.64,
     "directLowPrice": null,
     "name": "Jewelry Bonney",
     "rarity": "C",
@@ -417,7 +417,7 @@
   },
   "ST02-ST02-008 normal": {
     "lowPrice": 0.24,
-    "midPrice": 1.0,
+    "midPrice": 0.99,
     "highPrice": 3.95,
     "marketPrice": 0.54,
     "directLowPrice": null,
@@ -522,7 +522,7 @@
   "ST04-ST04-001 normal": {
     "lowPrice": 2.0,
     "midPrice": 2.0,
-    "highPrice": 2.0,
+    "highPrice": 2.78,
     "marketPrice": 1.19,
     "directLowPrice": null,
     "name": "Kaido (001)",
@@ -547,7 +547,7 @@
   },
   "ST02-ST02-015 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.56,
+    "midPrice": 0.6,
     "highPrice": 1.17,
     "marketPrice": 0.52,
     "directLowPrice": null,
@@ -573,7 +573,7 @@
   },
   "ST02-ST02-016 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.33,
+    "midPrice": 0.34,
     "highPrice": 1.55,
     "marketPrice": 0.31,
     "directLowPrice": null,
@@ -599,9 +599,9 @@
   },
   "ST03-ST03-017 normal": {
     "lowPrice": 3.54,
-    "midPrice": 5.83,
+    "midPrice": 5.69,
     "highPrice": 10.85,
-    "marketPrice": 5.2,
+    "marketPrice": 5.22,
     "directLowPrice": null,
     "name": "Love-Love Mellow",
     "rarity": "C",
@@ -781,9 +781,9 @@
   },
   "ST03-ST03-004 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.43,
+    "midPrice": 0.44,
     "highPrice": 4.99,
-    "marketPrice": 0.3,
+    "marketPrice": 0.29,
     "directLowPrice": null,
     "name": "Gecko Moria",
     "rarity": "C",
@@ -833,8 +833,8 @@
   },
   "ST03-ST03-001 normal": {
     "lowPrice": 2.0,
-    "midPrice": 2.0,
-    "highPrice": 2.0,
+    "midPrice": 2.2,
+    "highPrice": 2.4,
     "marketPrice": 2.0,
     "directLowPrice": null,
     "name": "Crocodile (001)",

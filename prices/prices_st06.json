@@ -1,6 +1,6 @@
 {
   "ST06-ST06-001 normal": {
-    "lowPrice": 0.7,
+    "lowPrice": 0.75,
     "midPrice": 0.99,
     "highPrice": 25.0,
     "marketPrice": 0.89,
@@ -53,9 +53,9 @@
   },
   "ST06-ST06-004 normal": {
     "lowPrice": 0.25,
-    "midPrice": 1.08,
+    "midPrice": 1.04,
     "highPrice": 25.0,
-    "marketPrice": 0.91,
+    "marketPrice": 0.9,
     "directLowPrice": null,
     "name": "Smoker",
     "rarity": "SR",
@@ -133,7 +133,7 @@
     "lowPrice": 0.25,
     "midPrice": 1.0,
     "highPrice": 10.0,
-    "marketPrice": 0.52,
+    "marketPrice": 0.51,
     "directLowPrice": null,
     "name": "Monkey.D.Garp",
     "rarity": "SR",
@@ -261,9 +261,9 @@
   },
   "ST06-ST06-008 normal": {
     "lowPrice": 0.98,
-    "midPrice": 2.95,
+    "midPrice": 2.85,
     "highPrice": 19.98,
-    "marketPrice": 1.89,
+    "marketPrice": 1.81,
     "directLowPrice": null,
     "name": "Hina",
     "rarity": "C",
@@ -287,7 +287,7 @@
   },
   "ST06-ST06-009 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.12,
+    "midPrice": 0.14,
     "highPrice": 1.4,
     "marketPrice": 0.08,
     "directLowPrice": null,
@@ -416,10 +416,10 @@
     "groupId": 17699
   },
   "ST06-ST06-017 normal": {
-    "lowPrice": 1.25,
-    "midPrice": 2.65,
+    "lowPrice": 1.23,
+    "midPrice": 2.61,
     "highPrice": 25.0,
-    "marketPrice": 1.59,
+    "marketPrice": 1.56,
     "directLowPrice": null,
     "name": "Navy HQ",
     "rarity": "C",

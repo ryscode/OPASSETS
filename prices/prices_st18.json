@@ -27,7 +27,7 @@
   },
   "OP05-OP05-061 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.19,
+    "midPrice": 0.2,
     "highPrice": 5.0,
     "marketPrice": 0.11,
     "directLowPrice": null,
@@ -211,7 +211,7 @@
     "lowPrice": 0.04,
     "midPrice": 0.26,
     "highPrice": 25.0,
-    "marketPrice": 0.26,
+    "marketPrice": 0.25,
     "directLowPrice": null,
     "name": "When You're at Sea You Fight against Pirates!!",
     "rarity": "R",
@@ -235,9 +235,9 @@
   },
   "P-P-041 normal": {
     "lowPrice": 0.53,
-    "midPrice": 1.85,
+    "midPrice": 1.69,
     "highPrice": 25.0,
-    "marketPrice": 1.45,
+    "marketPrice": 1.44,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (P-041)",
     "rarity": "PR",
@@ -261,7 +261,7 @@
   },
   "ST18-ST18-001 normal": {
     "lowPrice": 0.65,
-    "midPrice": 4.25,
+    "midPrice": 3.9,
     "highPrice": 25.0,
     "marketPrice": 1.63,
     "directLowPrice": null,
@@ -286,10 +286,10 @@
     "groupId": 23493
   },
   "ST18-ST18-002 normal": {
-    "lowPrice": 0.09,
-    "midPrice": 0.34,
+    "lowPrice": 0.1,
+    "midPrice": 0.33,
     "highPrice": 5.0,
-    "marketPrice": 0.18,
+    "marketPrice": 0.21,
     "directLowPrice": null,
     "name": "O-Nami",
     "rarity": "C",
@@ -313,7 +313,7 @@
   },
   "ST18-ST18-003 normal": {
     "lowPrice": 0.06,
-    "midPrice": 0.24,
+    "midPrice": 0.25,
     "highPrice": 1.75,
     "marketPrice": 0.17,
     "directLowPrice": null,
@@ -339,9 +339,9 @@
   },
   "ST18-ST18-004 normal": {
     "lowPrice": 1.25,
-    "midPrice": 2.99,
+    "midPrice": 2.85,
     "highPrice": 25.0,
-    "marketPrice": 2.22,
+    "marketPrice": 2.2,
     "directLowPrice": null,
     "name": "Zoro-Juurou (ST18-004)",
     "rarity": "SR",
@@ -364,10 +364,10 @@
     "groupId": 23493
   },
   "ST18-ST18-005 normal": {
-    "lowPrice": 1.49,
-    "midPrice": 2.44,
+    "lowPrice": 1.44,
+    "midPrice": 2.43,
     "highPrice": 25.0,
-    "marketPrice": 2.11,
+    "marketPrice": 2.08,
     "directLowPrice": null,
     "name": "Luffy-Tarou",
     "rarity": "SR",

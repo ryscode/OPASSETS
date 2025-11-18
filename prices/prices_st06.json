@@ -1,6 +1,6 @@
 {
   "ST06-ST06-001 normal": {
-    "lowPrice": 0.75,
+    "lowPrice": 0.58,
     "midPrice": 0.99,
     "highPrice": 25.0,
     "marketPrice": 0.89,
@@ -53,9 +53,9 @@
   },
   "ST06-ST06-004 normal": {
     "lowPrice": 0.25,
-    "midPrice": 1.04,
+    "midPrice": 1.1,
     "highPrice": 25.0,
-    "marketPrice": 0.9,
+    "marketPrice": 0.94,
     "directLowPrice": null,
     "name": "Smoker",
     "rarity": "SR",
@@ -105,7 +105,7 @@
   },
   "ST06-ST06-006 normal": {
     "lowPrice": 0.95,
-    "midPrice": 1.22,
+    "midPrice": 1.16,
     "highPrice": 34.0,
     "marketPrice": 0.99,
     "directLowPrice": null,
@@ -235,9 +235,9 @@
   },
   "ST06-ST06-007 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.18,
+    "midPrice": 0.17,
     "highPrice": 1.35,
-    "marketPrice": 0.08,
+    "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Tsuru",
     "rarity": "C",
@@ -261,7 +261,7 @@
   },
   "ST06-ST06-008 normal": {
     "lowPrice": 0.98,
-    "midPrice": 2.85,
+    "midPrice": 2.58,
     "highPrice": 19.98,
     "marketPrice": 1.81,
     "directLowPrice": null,
@@ -287,7 +287,7 @@
   },
   "ST06-ST06-009 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.14,
+    "midPrice": 0.12,
     "highPrice": 1.4,
     "marketPrice": 0.08,
     "directLowPrice": null,
@@ -365,7 +365,7 @@
   },
   "ST06-ST06-014 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.16,
+    "midPrice": 0.17,
     "highPrice": 11.0,
     "marketPrice": 0.12,
     "directLowPrice": null,
@@ -391,7 +391,7 @@
   },
   "ST06-ST06-016 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.23,
+    "midPrice": 0.22,
     "highPrice": 1.25,
     "marketPrice": 0.14,
     "directLowPrice": null,
@@ -416,8 +416,8 @@
     "groupId": 17699
   },
   "ST06-ST06-017 normal": {
-    "lowPrice": 1.23,
-    "midPrice": 2.61,
+    "lowPrice": 1.21,
+    "midPrice": 2.6,
     "highPrice": 25.0,
     "marketPrice": 1.56,
     "directLowPrice": null,

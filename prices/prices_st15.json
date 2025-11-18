@@ -29,7 +29,7 @@
     "lowPrice": 0.2,
     "midPrice": 0.5,
     "highPrice": 10.0,
-    "marketPrice": 0.42,
+    "marketPrice": 0.4,
     "directLowPrice": null,
     "name": "Jozu",
     "rarity": "R",
@@ -234,7 +234,7 @@
     "groupId": 23490
   },
   "ST15-ST15-002 normal": {
-    "lowPrice": 0.4,
+    "lowPrice": 0.27,
     "midPrice": 1.11,
     "highPrice": 25.0,
     "marketPrice": 0.63,
@@ -286,10 +286,10 @@
     "groupId": 23490
   },
   "ST15-ST15-004 normal": {
-    "lowPrice": 4.0,
-    "midPrice": 6.29,
+    "lowPrice": 3.5,
+    "midPrice": 6.0,
     "highPrice": 25.0,
-    "marketPrice": 4.74,
+    "marketPrice": 4.65,
     "directLowPrice": null,
     "name": "Thatch",
     "rarity": "C",
@@ -312,10 +312,10 @@
     "groupId": 23490
   },
   "ST15-ST15-005 normal": {
-    "lowPrice": 0.5,
-    "midPrice": 1.5,
+    "lowPrice": 0.59,
+    "midPrice": 1.48,
     "highPrice": 99.0,
-    "marketPrice": 0.92,
+    "marketPrice": 0.89,
     "directLowPrice": null,
     "name": "Portgas.D.Ace",
     "rarity": "SR",

@@ -28,7 +28,7 @@
   "ST14-ST14-002 normal": {
     "lowPrice": 0.08,
     "midPrice": 0.15,
-    "highPrice": 1.0,
+    "highPrice": 1.32,
     "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Usopp",
@@ -53,7 +53,7 @@
   },
   "ST14-ST14-003 normal": {
     "lowPrice": 3.75,
-    "midPrice": 5.69,
+    "midPrice": 5.71,
     "highPrice": 50.0,
     "marketPrice": 4.66,
     "directLowPrice": null,
@@ -80,7 +80,7 @@
   "ST14-ST14-004 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.12,
-    "highPrice": 1.0,
+    "highPrice": 1.32,
     "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Jinbe",
@@ -131,9 +131,9 @@
   },
   "ST14-ST14-006 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.42,
+    "midPrice": 1.4,
     "highPrice": 50.0,
-    "marketPrice": 1.19,
+    "marketPrice": 1.23,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "SR",
@@ -183,8 +183,8 @@
   },
   "ST14-ST14-008 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.15,
-    "highPrice": 1.0,
+    "midPrice": 0.11,
+    "highPrice": 1.33,
     "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Haredas",
@@ -209,8 +209,8 @@
   },
   "ST14-ST14-009 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.16,
-    "highPrice": 1.0,
+    "midPrice": 0.15,
+    "highPrice": 1.34,
     "marketPrice": 0.13,
     "directLowPrice": null,
     "name": "Franky",
@@ -261,8 +261,8 @@
   },
   "ST14-ST14-011 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.12,
-    "highPrice": 1.0,
+    "midPrice": 0.11,
+    "highPrice": 1.33,
     "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Heracles",
@@ -314,7 +314,7 @@
   "ST14-ST14-013 normal": {
     "lowPrice": 0.02,
     "midPrice": 0.19,
-    "highPrice": 1.1,
+    "highPrice": 1.33,
     "marketPrice": 0.19,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
@@ -417,7 +417,7 @@
   },
   "ST14-ST14-017 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.38,
+    "midPrice": 0.37,
     "highPrice": 10.0,
     "marketPrice": 0.34,
     "directLowPrice": null,

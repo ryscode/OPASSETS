@@ -1,0 +1,145 @@
+{
+  "OP02-OP02-001 normal": {
+    "name": "Edward.Newgate (OP02-001)",
+    "groupId": 23490,
+    "prices": {
+      "low": 0.16,
+      "mid": 0.44,
+      "high": 25.0,
+      "market": 0.38,
+      "directLow": null
+    }
+  },
+  "OP02-OP02-008 normal": {
+    "name": "Jozu",
+    "groupId": 23490,
+    "prices": {
+      "low": 0.2,
+      "mid": 0.5,
+      "high": 10.0,
+      "market": 0.45,
+      "directLow": null
+    }
+  },
+  "OP02-OP02-018 normal": {
+    "name": "Marco",
+    "groupId": 23490,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.12,
+      "high": 1.33,
+      "market": 0.09,
+      "directLow": null
+    }
+  },
+  "OP02-OP02-019 normal": {
+    "name": "Rakuyo",
+    "groupId": 23490,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.54,
+      "market": 0.06,
+      "directLow": null
+    }
+  },
+  "OP03-OP03-003 normal": {
+    "name": "Izo",
+    "groupId": 23490,
+    "prices": {
+      "low": 0.02,
+      "mid": 0.16,
+      "high": 1.35,
+      "market": 0.14,
+      "directLow": null
+    }
+  },
+  "OP03-OP03-006 normal": {
+    "name": "Speed Jil",
+    "groupId": 23490,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.38,
+      "market": 0.02,
+      "directLow": null
+    }
+  },
+  "OP03-OP03-007 normal": {
+    "name": "Namule",
+    "groupId": 23490,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.38,
+      "market": 0.05,
+      "directLow": null
+    }
+  },
+  "OP03-OP03-010 normal": {
+    "name": "Fossa",
+    "groupId": 23490,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.38,
+      "market": 0.04,
+      "directLow": null
+    }
+  },
+  "ST15-ST15-001 normal": {
+    "name": "Atmos",
+    "groupId": 23490,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 2.99,
+      "market": 0.1,
+      "directLow": null
+    }
+  },
+  "ST15-ST15-002 normal": {
+    "name": "Edward.Newgate (ST15-002)",
+    "groupId": 23490,
+    "prices": {
+      "low": 0.27,
+      "mid": 1.11,
+      "high": 25.0,
+      "market": 0.67,
+      "directLow": null
+    }
+  },
+  "ST15-ST15-003 normal": {
+    "name": "Kingdew",
+    "groupId": 23490,
+    "prices": {
+      "low": 0.03,
+      "mid": 0.15,
+      "high": 2.0,
+      "market": 0.11,
+      "directLow": null
+    }
+  },
+  "ST15-ST15-004 normal": {
+    "name": "Thatch",
+    "groupId": 23490,
+    "prices": {
+      "low": 3.5,
+      "mid": 6.0,
+      "high": 25.0,
+      "market": 4.39,
+      "directLow": null
+    }
+  },
+  "ST15-ST15-005 normal": {
+    "name": "Portgas.D.Ace",
+    "groupId": 23490,
+    "prices": {
+      "low": 0.59,
+      "mid": 1.48,
+      "high": 99.0,
+      "market": 0.9,
+      "directLow": null
+    }
+  }
+}

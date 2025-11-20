@@ -1,6 +1,6 @@
 {
   "ST06-ST06-001 normal": {
-    "lowPrice": 0.57,
+    "lowPrice": 0.75,
     "midPrice": 0.99,
     "highPrice": 25.0,
     "marketPrice": 0.89,
@@ -131,7 +131,7 @@
   },
   "ST06-ST06-012 normal": {
     "lowPrice": 0.25,
-    "midPrice": 1.0,
+    "midPrice": 0.99,
     "highPrice": 10.0,
     "marketPrice": 0.52,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "ST06-ST06-007 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.16,
+    "midPrice": 0.17,
     "highPrice": 1.35,
     "marketPrice": 0.09,
     "directLowPrice": null,
@@ -261,9 +261,9 @@
   },
   "ST06-ST06-008 normal": {
     "lowPrice": 0.97,
-    "midPrice": 2.68,
+    "midPrice": 2.51,
     "highPrice": 19.98,
-    "marketPrice": 1.77,
+    "marketPrice": 1.7,
     "directLowPrice": null,
     "name": "Hina",
     "rarity": "C",
@@ -416,8 +416,8 @@
     "groupId": 17699
   },
   "ST06-ST06-017 normal": {
-    "lowPrice": 1.19,
-    "midPrice": 2.6,
+    "lowPrice": 1.15,
+    "midPrice": 2.58,
     "highPrice": 25.0,
     "marketPrice": 1.54,
     "directLowPrice": null,

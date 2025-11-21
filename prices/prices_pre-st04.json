@@ -1,7 +1,7 @@
 {
   "ST04-ST04-001 normal": {
-    "lowPrice": 42.0,
-    "midPrice": 46.57,
+    "lowPrice": 39.99,
+    "midPrice": 45.0,
     "highPrice": 200.0,
     "marketPrice": 46.7,
     "directLowPrice": null,
@@ -53,9 +53,9 @@
   },
   "ST04-ST04-003 normal": {
     "lowPrice": 1.0,
-    "midPrice": 4.99,
+    "midPrice": 5.0,
     "highPrice": 30.0,
-    "marketPrice": 2.07,
+    "marketPrice": 2.1,
     "directLowPrice": null,
     "name": "Kaido (003)",
     "rarity": "SR",
@@ -78,8 +78,8 @@
     "groupId": 17661
   },
   "ST04-ST04-004 normal": {
-    "lowPrice": 2.9,
-    "midPrice": 13.62,
+    "lowPrice": 3.37,
+    "midPrice": 17.91,
     "highPrice": 30.0,
     "marketPrice": 5.65,
     "directLowPrice": null,
@@ -105,7 +105,7 @@
   },
   "ST04-ST04-005 normal": {
     "lowPrice": 0.4,
-    "midPrice": 2.82,
+    "midPrice": 2.84,
     "highPrice": 75.0,
     "marketPrice": 1.41,
     "directLowPrice": null,
@@ -131,7 +131,7 @@
   },
   "ST04-ST04-006 normal": {
     "lowPrice": 0.13,
-    "midPrice": 0.35,
+    "midPrice": 0.33,
     "highPrice": 25.0,
     "marketPrice": 0.26,
     "directLowPrice": null,
@@ -237,7 +237,7 @@
     "lowPrice": 0.14,
     "midPrice": 0.3,
     "highPrice": 6.35,
-    "marketPrice": 0.27,
+    "marketPrice": 0.28,
     "directLowPrice": null,
     "name": "Who's.Who",
     "rarity": "C",
@@ -339,7 +339,7 @@
   },
   "ST04-ST04-014 normal": {
     "lowPrice": 1.3,
-    "midPrice": 3.81,
+    "midPrice": 2.99,
     "highPrice": 14.99,
     "marketPrice": 2.93,
     "directLowPrice": null,
@@ -365,7 +365,7 @@
   },
   "ST04-ST04-015 normal": {
     "lowPrice": 0.34,
-    "midPrice": 1.71,
+    "midPrice": 1.69,
     "highPrice": 19.9,
     "marketPrice": 1.55,
     "directLowPrice": null,
@@ -390,7 +390,7 @@
     "groupId": 17661
   },
   "ST04-ST04-016 normal": {
-    "lowPrice": 0.42,
+    "lowPrice": 0.43,
     "midPrice": 0.5,
     "highPrice": 25.0,
     "marketPrice": 0.5,
@@ -417,7 +417,7 @@
   },
   "ST04-ST04-017 normal": {
     "lowPrice": 0.74,
-    "midPrice": 1.15,
+    "midPrice": 1.17,
     "highPrice": 25.0,
     "marketPrice": 0.98,
     "directLowPrice": null,

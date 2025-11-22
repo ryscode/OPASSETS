@@ -1,7 +1,7 @@
 {
   "OP01-OP01-060 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.6,
+    "midPrice": 0.61,
     "highPrice": 50.0,
     "marketPrice": 0.5,
     "directLowPrice": null,
@@ -107,7 +107,7 @@
     "lowPrice": 0.04,
     "midPrice": 0.25,
     "highPrice": 5.0,
-    "marketPrice": 0.24,
+    "marketPrice": 0.21,
     "directLowPrice": null,
     "name": "Jinbe",
     "rarity": "PR",
@@ -157,9 +157,9 @@
   },
   "ST17-ST17-002 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.92,
+    "midPrice": 0.89,
     "highPrice": 25.0,
-    "marketPrice": 0.41,
+    "marketPrice": 0.4,
     "directLowPrice": null,
     "name": "Trafalgar Law (ST17-002)",
     "rarity": "SR",
@@ -183,7 +183,7 @@
   },
   "ST17-ST17-003 normal": {
     "lowPrice": 0.08,
-    "midPrice": 0.99,
+    "midPrice": 0.96,
     "highPrice": 10.0,
     "marketPrice": 0.24,
     "directLowPrice": null,
@@ -208,10 +208,10 @@
     "groupId": 23492
   },
   "ST17-ST17-004 normal": {
-    "lowPrice": 4.75,
-    "midPrice": 8.35,
+    "lowPrice": 5.0,
+    "midPrice": 10.0,
     "highPrice": 50.0,
-    "marketPrice": 4.98,
+    "marketPrice": 5.1,
     "directLowPrice": null,
     "name": "Boa Hancock",
     "rarity": "SR",

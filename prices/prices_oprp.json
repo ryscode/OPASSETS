@@ -1,7 +1,7 @@
 {
   "ST01-ST01-001 normal": {
     "lowPrice": 13.5,
-    "midPrice": 14.57,
+    "midPrice": 14.83,
     "highPrice": 24.99,
     "marketPrice": 16.19,
     "directLowPrice": null,
@@ -27,7 +27,7 @@
   },
   "ST04-ST04-017 normal": {
     "lowPrice": 0.36,
-    "midPrice": 0.82,
+    "midPrice": 0.81,
     "highPrice": 1.99,
     "marketPrice": 0.66,
     "directLowPrice": null,
@@ -53,7 +53,7 @@
   },
   "ST01-ST01-005 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.22,
+    "midPrice": 0.23,
     "highPrice": 1.51,
     "marketPrice": 0.16,
     "directLowPrice": null,
@@ -81,7 +81,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.25,
     "highPrice": 5.0,
-    "marketPrice": 0.19,
+    "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "Blast Breath",
     "rarity": "C",
@@ -105,9 +105,9 @@
   },
   "ST01-ST01-007 normal": {
     "lowPrice": 1.77,
-    "midPrice": 4.69,
+    "midPrice": 5.0,
     "highPrice": 500.0,
-    "marketPrice": 4.22,
+    "marketPrice": 4.06,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "C",
@@ -183,7 +183,7 @@
   },
   "ST01-ST01-015 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.58,
+    "midPrice": 0.59,
     "highPrice": 3.49,
     "marketPrice": 0.52,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "ST01-ST01-016 normal": {
     "lowPrice": 0.97,
-    "midPrice": 2.07,
+    "midPrice": 2.37,
     "highPrice": 6.26,
     "marketPrice": 1.38,
     "directLowPrice": null,
@@ -261,9 +261,9 @@
   },
   "ST01-ST01-017 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.69,
+    "midPrice": 0.68,
     "highPrice": 2.59,
-    "marketPrice": 0.63,
+    "marketPrice": 0.62,
     "directLowPrice": null,
     "name": "Thousand Sunny",
     "rarity": "C",
@@ -547,7 +547,7 @@
   },
   "ST02-ST02-015 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.58,
+    "midPrice": 0.59,
     "highPrice": 1.17,
     "marketPrice": 0.51,
     "directLowPrice": null,
@@ -598,8 +598,8 @@
     "groupId": 23890
   },
   "ST03-ST03-017 normal": {
-    "lowPrice": 3.0,
-    "midPrice": 5.45,
+    "lowPrice": 3.46,
+    "midPrice": 5.47,
     "highPrice": 10.85,
     "marketPrice": 4.5,
     "directLowPrice": null,
@@ -651,9 +651,9 @@
   },
   "ST03-ST03-015 normal": {
     "lowPrice": 0.8,
-    "midPrice": 2.38,
+    "midPrice": 2.42,
     "highPrice": 5.5,
-    "marketPrice": 1.63,
+    "marketPrice": 1.42,
     "directLowPrice": null,
     "name": "Sables",
     "rarity": "C",
@@ -705,7 +705,7 @@
     "lowPrice": 0.94,
     "midPrice": 2.5,
     "highPrice": 6.99,
-    "marketPrice": 2.24,
+    "marketPrice": 2.19,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo",
     "rarity": "SR",
@@ -757,7 +757,7 @@
     "lowPrice": 1.0,
     "midPrice": 2.09,
     "highPrice": 4.99,
-    "marketPrice": 1.85,
+    "marketPrice": 1.81,
     "directLowPrice": null,
     "name": "Straw Sword",
     "rarity": "C",
@@ -781,7 +781,7 @@
   },
   "ST03-ST03-004 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.45,
+    "midPrice": 0.43,
     "highPrice": 4.99,
     "marketPrice": 0.29,
     "directLowPrice": null,
@@ -833,8 +833,8 @@
   },
   "ST03-ST03-001 normal": {
     "lowPrice": 2.0,
-    "midPrice": 2.44,
-    "highPrice": 2.88,
+    "midPrice": 2.2,
+    "highPrice": 2.4,
     "marketPrice": 2.0,
     "directLowPrice": null,
     "name": "Crocodile (001)",

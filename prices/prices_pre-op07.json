@@ -1,7 +1,7 @@
 {
   "OP07-OP07-006 normal": {
     "lowPrice": 0.17,
-    "midPrice": 0.46,
+    "midPrice": 0.43,
     "highPrice": 50.0,
     "marketPrice": 0.33,
     "directLowPrice": null,
@@ -158,7 +158,7 @@
   "OP07-OP07-020 normal": {
     "lowPrice": 0.25,
     "midPrice": 0.64,
-    "highPrice": 4.99,
+    "highPrice": 2.3,
     "marketPrice": 0.58,
     "directLowPrice": null,
     "name": "Aladine",
@@ -183,7 +183,7 @@
   },
   "OP07-OP07-024 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.39,
+    "midPrice": 0.4,
     "highPrice": 10.0,
     "marketPrice": 0.28,
     "directLowPrice": null,
@@ -391,7 +391,7 @@
   },
   "OP07-OP07-044 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.6,
+    "midPrice": 0.59,
     "highPrice": 10.0,
     "marketPrice": 0.47,
     "directLowPrice": null,
@@ -417,7 +417,7 @@
   },
   "OP07-OP07-049 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.49,
+    "midPrice": 0.45,
     "highPrice": 10.0,
     "marketPrice": 0.3,
     "directLowPrice": null,
@@ -443,8 +443,8 @@
   },
   "OP07-OP07-050 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.0,
-    "highPrice": 10.99,
+    "midPrice": 0.95,
+    "highPrice": 2.0,
     "marketPrice": 1.11,
     "directLowPrice": null,
     "name": "Boa Sandersonia",
@@ -495,7 +495,7 @@
   },
   "OP07-OP07-055 normal": {
     "lowPrice": 1.8,
-    "midPrice": 3.1,
+    "midPrice": 3.04,
     "highPrice": 6.03,
     "marketPrice": 2.92,
     "directLowPrice": null,
@@ -600,7 +600,7 @@
   "OP07-OP07-063 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.5,
-    "highPrice": 2.99,
+    "highPrice": 2.0,
     "marketPrice": 0.41,
     "directLowPrice": null,
     "name": "Capote",
@@ -702,7 +702,7 @@
     "groupId": 23512
   },
   "OP07-OP07-076 normal": {
-    "lowPrice": 3.27,
+    "lowPrice": 3.23,
     "midPrice": 3.8,
     "highPrice": 8.99,
     "marketPrice": 3.84,
@@ -755,9 +755,9 @@
   },
   "OP07-OP07-081 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.99,
+    "midPrice": 0.97,
     "highPrice": 15.0,
-    "marketPrice": 0.6,
+    "marketPrice": 0.67,
     "directLowPrice": null,
     "name": "Kalifa",
     "rarity": "C",
@@ -781,7 +781,7 @@
   },
   "OP07-OP07-084 normal": {
     "lowPrice": 0.11,
-    "midPrice": 0.42,
+    "midPrice": 0.4,
     "highPrice": 2.0,
     "marketPrice": 0.26,
     "directLowPrice": null,
@@ -833,7 +833,7 @@
   },
   "OP07-OP07-087 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.49,
+    "midPrice": 0.47,
     "highPrice": 3.0,
     "marketPrice": 0.24,
     "directLowPrice": null,
@@ -963,9 +963,9 @@
   },
   "OP07-OP07-100 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.95,
+    "midPrice": 0.92,
     "highPrice": 3.0,
-    "marketPrice": 0.75,
+    "marketPrice": 0.76,
     "directLowPrice": null,
     "name": "Edison",
     "rarity": "C",
@@ -989,7 +989,7 @@
   },
   "OP07-OP07-102 normal": {
     "lowPrice": 0.69,
-    "midPrice": 0.99,
+    "midPrice": 0.98,
     "highPrice": 4.99,
     "marketPrice": 0.94,
     "directLowPrice": null,
@@ -1014,8 +1014,8 @@
     "groupId": 23512
   },
   "OP07-OP07-103 normal": {
-    "lowPrice": 7.99,
-    "midPrice": 7.99,
+    "lowPrice": 5.0,
+    "midPrice": 6.5,
     "highPrice": 7.99,
     "marketPrice": 2.9,
     "directLowPrice": null,
@@ -1041,7 +1041,7 @@
   },
   "OP07-OP07-106 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.4,
+    "midPrice": 0.39,
     "highPrice": 50.0,
     "marketPrice": 0.24,
     "directLowPrice": null,
@@ -1277,7 +1277,7 @@
     "lowPrice": 0.2,
     "midPrice": 0.5,
     "highPrice": 4.99,
-    "marketPrice": 0.48,
+    "marketPrice": 0.44,
     "directLowPrice": null,
     "name": "Caribou",
     "rarity": "UC",
@@ -1404,10 +1404,10 @@
     "groupId": 23512
   },
   "OP07-OP07-041 normal": {
-    "lowPrice": 3.6,
-    "midPrice": 7.28,
+    "lowPrice": 3.83,
+    "midPrice": 26.92,
     "highPrice": 50.0,
-    "marketPrice": 3.27,
+    "marketPrice": 3.48,
     "directLowPrice": null,
     "name": "Gloriosa (Grandma Nyon)",
     "rarity": "UC",
@@ -1588,7 +1588,7 @@
   "OP07-OP07-070 normal": {
     "lowPrice": 1.0,
     "midPrice": 1.38,
-    "highPrice": 6.99,
+    "highPrice": 3.0,
     "marketPrice": 1.31,
     "directLowPrice": null,
     "name": "Big Bun",
@@ -1613,8 +1613,8 @@
   },
   "OP07-OP07-082 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.85,
-    "highPrice": 4.99,
+    "midPrice": 0.8,
+    "highPrice": 1.25,
     "marketPrice": 1.0,
     "directLowPrice": null,
     "name": "Captain John",
@@ -1717,9 +1717,9 @@
   },
   "OP07-OP07-094 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.5,
+    "midPrice": 0.58,
     "highPrice": 2.0,
-    "marketPrice": 0.35,
+    "marketPrice": 0.37,
     "directLowPrice": null,
     "name": "Shave",
     "rarity": "UC",
@@ -1769,7 +1769,7 @@
   },
   "OP07-OP07-101 normal": {
     "lowPrice": 7.0,
-    "midPrice": 9.85,
+    "midPrice": 9.92,
     "highPrice": 100.0,
     "marketPrice": 11.11,
     "directLowPrice": null,
@@ -1797,7 +1797,7 @@
     "lowPrice": 28.02,
     "midPrice": 28.02,
     "highPrice": 28.02,
-    "marketPrice": 28.09,
+    "marketPrice": 27.96,
     "directLowPrice": null,
     "name": "Nico Robin",
     "rarity": "UC",
@@ -1821,7 +1821,7 @@
   },
   "OP07-OP07-105 normal": {
     "lowPrice": 11.4,
-    "midPrice": 15.0,
+    "midPrice": 21.84,
     "highPrice": 29.99,
     "marketPrice": 8.69,
     "directLowPrice": null,

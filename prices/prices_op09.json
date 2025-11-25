@@ -1,9 +1,9 @@
 {
   "OP04-OP04-119 normal": {
     "lowPrice": 80.0,
-    "midPrice": 94.0,
-    "highPrice": 169.99,
-    "marketPrice": 72.87,
+    "midPrice": 89.99,
+    "highPrice": 149.69,
+    "marketPrice": 73.87,
     "directLowPrice": null,
     "name": "Donquixote Rosinante (SP)",
     "rarity": "SEC",
@@ -28,7 +28,7 @@
   "OP05-OP05-067 normal": {
     "lowPrice": 449.0,
     "midPrice": 449.45,
-    "highPrice": 499.99,
+    "highPrice": 750.0,
     "marketPrice": 242.22,
     "directLowPrice": null,
     "name": "Zoro-Juurou (SP)",
@@ -53,8 +53,8 @@
   },
   "OP05-OP05-093 normal": {
     "lowPrice": 59.61,
-    "midPrice": 76.56,
-    "highPrice": 149.99,
+    "midPrice": 73.92,
+    "highPrice": 116.3,
     "marketPrice": 65.99,
     "directLowPrice": null,
     "name": "Rob Lucci (SP)",
@@ -79,7 +79,7 @@
   },
   "OP05-OP05-119 normal": {
     "lowPrice": 280.0,
-    "midPrice": 377.5,
+    "midPrice": 380.0,
     "highPrice": 1200.0,
     "marketPrice": 318.2,
     "directLowPrice": null,
@@ -104,10 +104,10 @@
     "groupId": 23589
   },
   "OP07-OP07-015 normal": {
-    "lowPrice": 95.0,
-    "midPrice": 135.25,
+    "lowPrice": 100.53,
+    "midPrice": 130.0,
     "highPrice": 210.0,
-    "marketPrice": 110.24,
+    "marketPrice": 110.53,
     "directLowPrice": null,
     "name": "Monkey.D.Dragon (SP)",
     "rarity": "SR",
@@ -131,7 +131,7 @@
   },
   "OP07-OP07-051 normal": {
     "lowPrice": 600.0,
-    "midPrice": 674.0,
+    "midPrice": 656.5,
     "highPrice": 777.0,
     "marketPrice": 406.11,
     "directLowPrice": null,
@@ -157,8 +157,8 @@
   },
   "OP08-OP08-106 normal": {
     "lowPrice": 499.68,
-    "midPrice": 530.0,
-    "highPrice": 777.0,
+    "midPrice": 510.0,
+    "highPrice": 950.0,
     "marketPrice": 441.33,
     "directLowPrice": null,
     "name": "Nami (SP)",
@@ -183,8 +183,8 @@
   },
   "OP09-OP09-001 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.18,
-    "highPrice": 2.99,
+    "midPrice": 0.17,
+    "highPrice": 2.73,
     "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Shanks (001)",
@@ -208,10 +208,10 @@
     "groupId": 23589
   },
   "OP09-OP09-001 parallel": {
-    "lowPrice": 18.69,
-    "midPrice": 28.92,
+    "lowPrice": 19.01,
+    "midPrice": 28.8,
     "highPrice": 155.0,
-    "marketPrice": 21.57,
+    "marketPrice": 21.21,
     "directLowPrice": null,
     "name": "Shanks (001) (Parallel)",
     "rarity": "L",
@@ -236,7 +236,7 @@
   "OP09-OP09-002 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.28,
-    "highPrice": 2.99,
+    "highPrice": 2.8,
     "marketPrice": 0.24,
     "directLowPrice": null,
     "name": "Uta",
@@ -263,7 +263,7 @@
     "lowPrice": 3.0,
     "midPrice": 6.84,
     "highPrice": 35.0,
-    "marketPrice": 3.78,
+    "marketPrice": 3.71,
     "directLowPrice": null,
     "name": "Uta (Parallel)",
     "rarity": "R",
@@ -288,7 +288,7 @@
   "OP09-OP09-003 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.04,
     "directLowPrice": null,
     "name": "Shachi & Penguin",
@@ -313,9 +313,9 @@
   },
   "OP09-OP09-004 normal": {
     "lowPrice": 0.35,
-    "midPrice": 1.66,
+    "midPrice": 1.69,
     "highPrice": 85.0,
-    "marketPrice": 1.52,
+    "marketPrice": 1.42,
     "directLowPrice": null,
     "name": "Shanks (004)",
     "rarity": "SR",
@@ -364,10 +364,10 @@
     "groupId": 23589
   },
   "OP09-OP09-004 alt2": {
-    "lowPrice": 24.0,
-    "midPrice": 34.08,
+    "lowPrice": 22.32,
+    "midPrice": 33.36,
     "highPrice": 50.0,
-    "marketPrice": 25.18,
+    "marketPrice": 24.38,
     "directLowPrice": null,
     "name": "Shanks (004) (Alternate Art)",
     "rarity": "SR",
@@ -391,8 +391,8 @@
   },
   "OP09-OP09-004 alt3": {
     "lowPrice": 170.0,
-    "midPrice": 188.6,
-    "highPrice": 349.99,
+    "midPrice": 187.0,
+    "highPrice": 250.0,
     "marketPrice": 169.23,
     "directLowPrice": null,
     "name": "Shanks (004) (Wanted Poster)",
@@ -418,7 +418,7 @@
   "OP09-OP09-005 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
-    "highPrice": 2.99,
+    "highPrice": 2.04,
     "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Silvers Rayleigh",
@@ -444,7 +444,7 @@
   "OP09-OP09-006 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.35,
     "marketPrice": 0.03,
     "directLowPrice": null,
     "name": "Howling Gab",
@@ -494,9 +494,9 @@
     "groupId": 23589
   },
   "OP09-OP09-008 normal": {
-    "lowPrice": 0.08,
+    "lowPrice": 0.09,
     "midPrice": 0.2,
-    "highPrice": 2.99,
+    "highPrice": 1.41,
     "marketPrice": 0.15,
     "directLowPrice": null,
     "name": "Building Snake",
@@ -523,7 +523,7 @@
     "lowPrice": 0.24,
     "midPrice": 1.0,
     "highPrice": 10.0,
-    "marketPrice": 0.46,
+    "marketPrice": 0.53,
     "directLowPrice": null,
     "name": "Benn.Beckman",
     "rarity": "SR",
@@ -547,9 +547,9 @@
   },
   "OP09-OP09-009 parallel": {
     "lowPrice": 4.5,
-    "midPrice": 7.05,
+    "midPrice": 7.5,
     "highPrice": 35.0,
-    "marketPrice": 5.25,
+    "marketPrice": 5.15,
     "directLowPrice": null,
     "name": "Benn.Beckman (Parallel)",
     "rarity": "SR",
@@ -574,7 +574,7 @@
   "OP09-OP09-010 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.04,
     "directLowPrice": null,
     "name": "Bonk Punch",
@@ -599,8 +599,8 @@
   },
   "OP09-OP09-011 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.16,
-    "highPrice": 2.99,
+    "midPrice": 0.15,
+    "highPrice": 1.39,
     "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Hongo",
@@ -653,7 +653,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 30.0,
-    "marketPrice": 0.07,
+    "marketPrice": 0.08,
     "directLowPrice": null,
     "name": "Yasopp",
     "rarity": "R",
@@ -678,7 +678,7 @@
   "OP09-OP09-014 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.18,
-    "highPrice": 2.99,
+    "highPrice": 1.4,
     "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Limejuice",
@@ -782,7 +782,7 @@
   "OP09-OP09-018 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.11,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Get Out of Here!",
@@ -808,7 +808,7 @@
   "OP09-OP09-019 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.08,
     "directLowPrice": null,
     "name": "Nobody Hurts a Friend of Mine!!!!",
@@ -834,8 +834,8 @@
   "OP09-OP09-020 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.16,
-    "highPrice": 2.99,
-    "marketPrice": 0.09,
+    "highPrice": 2.0,
+    "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Come On!! We'll Fight You!!",
     "rarity": "R",
@@ -886,7 +886,7 @@
   "OP09-OP09-022 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 2.99,
+    "highPrice": 1.49,
     "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Lim (022)",
@@ -911,9 +911,9 @@
   },
   "OP09-OP09-022 parallel": {
     "lowPrice": 12.5,
-    "midPrice": 16.55,
+    "midPrice": 16.49,
     "highPrice": 149.99,
-    "marketPrice": 14.39,
+    "marketPrice": 14.4,
     "directLowPrice": null,
     "name": "Lim (022) (Parallel)",
     "rarity": "L",
@@ -939,7 +939,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.26,
     "highPrice": 5.0,
-    "marketPrice": 0.2,
+    "marketPrice": 0.21,
     "directLowPrice": null,
     "name": "Adio",
     "rarity": "SR",
@@ -962,9 +962,9 @@
     "groupId": 23589
   },
   "OP09-OP09-023 parallel": {
-    "lowPrice": 0.71,
+    "lowPrice": 0.74,
     "midPrice": 1.99,
-    "highPrice": 39.99,
+    "highPrice": 30.0,
     "marketPrice": 1.2,
     "directLowPrice": null,
     "name": "Adio (Parallel)",
@@ -990,7 +990,7 @@
   "OP09-OP09-024 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.05,
     "directLowPrice": null,
     "name": "Usopp (024)",
@@ -1016,7 +1016,7 @@
   "OP09-OP09-025 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Crocodile (025)",
@@ -1042,7 +1042,7 @@
   "OP09-OP09-026 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 2.99,
+    "highPrice": 2.08,
     "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Sakazuki",
@@ -1068,7 +1068,7 @@
   "OP09-OP09-027 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 2.99,
+    "highPrice": 1.38,
     "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Sabo (027)",
@@ -1094,8 +1094,8 @@
   "OP09-OP09-028 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
-    "marketPrice": 0.05,
+    "highPrice": 2.06,
+    "marketPrice": 0.04,
     "directLowPrice": null,
     "name": "Sanji (028)",
     "rarity": "C",
@@ -1120,7 +1120,7 @@
   "OP09-OP09-029 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper",
@@ -1146,7 +1146,7 @@
   "OP09-OP09-030 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.12,
-    "highPrice": 2.99,
+    "highPrice": 1.98,
     "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Trafalgar Law",
@@ -1172,8 +1172,8 @@
   "OP09-OP09-031 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
-    "highPrice": 2.99,
-    "marketPrice": 0.18,
+    "highPrice": 2.76,
+    "marketPrice": 0.19,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo",
     "rarity": "R",
@@ -1198,7 +1198,7 @@
   "OP09-OP09-032 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 2.99,
+    "highPrice": 1.33,
     "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Donquixote Rosinante (032)",
@@ -1224,7 +1224,7 @@
   "OP09-OP09-033 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Nico Robin (033)",
@@ -1250,7 +1250,7 @@
   "OP09-OP09-034 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
-    "highPrice": 2.99,
+    "highPrice": 1.53,
     "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Perona",
@@ -1274,8 +1274,8 @@
     "groupId": 23589
   },
   "OP09-OP09-034 parallel": {
-    "lowPrice": 2.0,
-    "midPrice": 4.0,
+    "lowPrice": 1.75,
+    "midPrice": 4.5,
     "highPrice": 25.0,
     "marketPrice": 3.24,
     "directLowPrice": null,
@@ -1302,7 +1302,7 @@
   "OP09-OP09-035 normal": {
     "lowPrice": 0.02,
     "midPrice": 0.15,
-    "highPrice": 2.99,
+    "highPrice": 1.34,
     "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Portgas.D.Ace",
@@ -1328,7 +1328,7 @@
   "OP09-OP09-036 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (036)",
@@ -1379,9 +1379,9 @@
   },
   "OP09-OP09-037 parallel": {
     "lowPrice": 2.7,
-    "midPrice": 5.59,
-    "highPrice": 29.99,
-    "marketPrice": 4.08,
+    "midPrice": 5.52,
+    "highPrice": 27.57,
+    "marketPrice": 4.1,
     "directLowPrice": null,
     "name": "Lim (037) (Parallel)",
     "rarity": "SR",
@@ -1406,7 +1406,7 @@
   "OP09-OP09-038 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.35,
     "marketPrice": 0.05,
     "directLowPrice": null,
     "name": "Rob Lucci (038)",
@@ -1432,8 +1432,8 @@
   "OP09-OP09-039 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 4.0,
-    "marketPrice": 0.08,
+    "highPrice": 2.0,
+    "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Gum-Gum Cuatro Jet Cross Shock Bazooka",
     "rarity": "R",
@@ -1458,7 +1458,7 @@
   "OP09-OP09-040 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Thunder Lance Flip Caliber Phoenix Shot",
@@ -1484,7 +1484,7 @@
   "OP09-OP09-041 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.34,
     "marketPrice": 0.04,
     "directLowPrice": null,
     "name": "Soul Franky Swing Arm Boxing Solid",
@@ -1510,8 +1510,8 @@
   "OP09-OP09-042 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.17,
-    "highPrice": 2.99,
-    "marketPrice": 0.18,
+    "highPrice": 1.99,
+    "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Buggy (042)",
     "rarity": "L",
@@ -1535,7 +1535,7 @@
   },
   "OP09-OP09-042 parallel": {
     "lowPrice": 18.0,
-    "midPrice": 22.2,
+    "midPrice": 22.19,
     "highPrice": 149.99,
     "marketPrice": 18.5,
     "directLowPrice": null,
@@ -1560,9 +1560,9 @@
     "groupId": 23589
   },
   "OP09-OP09-043 normal": {
-    "lowPrice": 0.01,
+    "lowPrice": 0.02,
     "midPrice": 0.12,
-    "highPrice": 2.99,
+    "highPrice": 1.33,
     "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Alvida",
@@ -1613,8 +1613,8 @@
   },
   "OP09-OP09-045 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.12,
-    "highPrice": 2.99,
+    "midPrice": 0.11,
+    "highPrice": 1.66,
     "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Cabaji",
@@ -1639,9 +1639,9 @@
   },
   "OP09-OP09-046 normal": {
     "lowPrice": 0.07,
-    "midPrice": 0.8,
+    "midPrice": 0.75,
     "highPrice": 5.0,
-    "marketPrice": 0.27,
+    "marketPrice": 0.28,
     "directLowPrice": null,
     "name": "Crocodile (046)",
     "rarity": "SR",
@@ -1665,9 +1665,9 @@
   },
   "OP09-OP09-046 parallel": {
     "lowPrice": 2.0,
-    "midPrice": 4.99,
+    "midPrice": 4.8,
     "highPrice": 35.0,
-    "marketPrice": 2.42,
+    "marketPrice": 2.29,
     "directLowPrice": null,
     "name": "Crocodile (046) (Parallel)",
     "rarity": "SR",
@@ -1716,10 +1716,10 @@
     "groupId": 23589
   },
   "OP09-OP09-048 normal": {
-    "lowPrice": 0.09,
+    "lowPrice": 0.05,
     "midPrice": 1.0,
     "highPrice": 5.0,
-    "marketPrice": 0.34,
+    "marketPrice": 0.35,
     "directLowPrice": null,
     "name": "Dracule Mihawk",
     "rarity": "SR",
@@ -1742,10 +1742,10 @@
     "groupId": 23589
   },
   "OP09-OP09-048 parallel": {
-    "lowPrice": 3.0,
-    "midPrice": 6.12,
+    "lowPrice": 3.6,
+    "midPrice": 6.23,
     "highPrice": 30.0,
-    "marketPrice": 4.61,
+    "marketPrice": 4.54,
     "directLowPrice": null,
     "name": "Dracule Mihawk (Parallel)",
     "rarity": "SR",
@@ -1770,7 +1770,7 @@
   "OP09-OP09-049 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.35,
     "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Jozu",
@@ -1797,7 +1797,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.25,
     "highPrice": 5.0,
-    "marketPrice": 0.21,
+    "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "Nami (050)",
     "rarity": "R",
@@ -1821,9 +1821,9 @@
   },
   "OP09-OP09-050 parallel": {
     "lowPrice": 4.0,
-    "midPrice": 9.47,
+    "midPrice": 9.75,
     "highPrice": 49.99,
-    "marketPrice": 5.25,
+    "marketPrice": 5.38,
     "directLowPrice": null,
     "name": "Nami (050) (Parallel)",
     "rarity": "R",
@@ -1848,7 +1848,7 @@
   "OP09-OP09-051 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
-    "highPrice": 2.99,
+    "highPrice": 2.77,
     "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "Buggy (051)",
@@ -1898,10 +1898,10 @@
     "groupId": 23589
   },
   "OP09-OP09-051 alt2": {
-    "lowPrice": 3.0,
+    "lowPrice": 4.25,
     "midPrice": 8.0,
     "highPrice": 30.0,
-    "marketPrice": 5.1,
+    "marketPrice": 4.93,
     "directLowPrice": null,
     "name": "Buggy (051) (Alternate Art)",
     "rarity": "R",
@@ -1925,9 +1925,9 @@
   },
   "OP09-OP09-051 alt3": {
     "lowPrice": 93.53,
-    "midPrice": 111.49,
-    "highPrice": 219.99,
-    "marketPrice": 98.78,
+    "midPrice": 107.99,
+    "highPrice": 130.0,
+    "marketPrice": 99.82,
     "directLowPrice": null,
     "name": "Buggy (051) (Wanted Poster)",
     "rarity": "R",
@@ -1977,8 +1977,8 @@
   },
   "OP09-OP09-053 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.11,
-    "highPrice": 2.99,
+    "midPrice": 0.1,
+    "highPrice": 1.41,
     "marketPrice": 0.04,
     "directLowPrice": null,
     "name": "Mohji",
@@ -2004,7 +2004,7 @@
   "OP09-OP09-054 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.05,
     "directLowPrice": null,
     "name": "Richie",
@@ -2056,7 +2056,7 @@
   "OP09-OP09-056 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 2.99,
+    "highPrice": 1.49,
     "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Mr.3(Galdino)",
@@ -2081,8 +2081,8 @@
   },
   "OP09-OP09-057 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.18,
-    "highPrice": 2.99,
+    "midPrice": 0.17,
+    "highPrice": 1.99,
     "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Cross Guild",
@@ -2108,8 +2108,8 @@
   "OP09-OP09-058 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
-    "marketPrice": 0.07,
+    "highPrice": 1.32,
+    "marketPrice": 0.08,
     "directLowPrice": null,
     "name": "Special Muggy Ball",
     "rarity": "C",
@@ -2134,7 +2134,7 @@
   "OP09-OP09-059 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.7,
     "marketPrice": 0.04,
     "directLowPrice": null,
     "name": "Murder at the Steam Bath",
@@ -2160,7 +2160,7 @@
   "OP09-OP09-060 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Emptee Bluffs Island",
@@ -2186,7 +2186,7 @@
   "OP09-OP09-061 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.17,
-    "highPrice": 2.99,
+    "highPrice": 2.74,
     "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (061)",
@@ -2210,10 +2210,10 @@
     "groupId": 23589
   },
   "OP09-OP09-061 parallel": {
-    "lowPrice": 37.72,
+    "lowPrice": 37.57,
     "midPrice": 46.0,
     "highPrice": 99.99,
-    "marketPrice": 42.32,
+    "marketPrice": 42.13,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (061) (Parallel)",
     "rarity": "L",
@@ -2237,8 +2237,8 @@
   },
   "OP09-OP09-062 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.17,
-    "highPrice": 2.99,
+    "midPrice": 0.18,
+    "highPrice": 1.35,
     "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Nico Robin (062)",
@@ -2263,9 +2263,9 @@
   },
   "OP09-OP09-062 parallel": {
     "lowPrice": 29.22,
-    "midPrice": 35.0,
+    "midPrice": 34.25,
     "highPrice": 149.99,
-    "marketPrice": 28.87,
+    "marketPrice": 28.84,
     "directLowPrice": null,
     "name": "Nico Robin (062) (Parallel)",
     "rarity": "L",
@@ -2290,7 +2290,7 @@
   "OP09-OP09-063 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.35,
     "marketPrice": 0.05,
     "directLowPrice": null,
     "name": "Usopp (063)",
@@ -2316,7 +2316,7 @@
   "OP09-OP09-064 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.05,
     "directLowPrice": null,
     "name": "Killer",
@@ -2341,9 +2341,9 @@
   },
   "OP09-OP09-065 normal": {
     "lowPrice": 0.25,
-    "midPrice": 1.4,
+    "midPrice": 1.25,
     "highPrice": 15.0,
-    "marketPrice": 0.44,
+    "marketPrice": 0.46,
     "directLowPrice": null,
     "name": "Sanji (065)",
     "rarity": "SR",
@@ -2366,10 +2366,10 @@
     "groupId": 23589
   },
   "OP09-OP09-065 parallel": {
-    "lowPrice": 5.65,
+    "lowPrice": 6.0,
     "midPrice": 9.99,
-    "highPrice": 49.99,
-    "marketPrice": 6.43,
+    "highPrice": 40.0,
+    "marketPrice": 6.35,
     "directLowPrice": null,
     "name": "Sanji (065) (Parallel)",
     "rarity": "SR",
@@ -2394,7 +2394,7 @@
   "OP09-OP09-066 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.35,
     "marketPrice": 0.04,
     "directLowPrice": null,
     "name": "Jean Bart",
@@ -2420,7 +2420,7 @@
   "OP09-OP09-067 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.35,
     "marketPrice": 0.04,
     "directLowPrice": null,
     "name": "Jinbe",
@@ -2446,7 +2446,7 @@
   "OP09-OP09-068 normal": {
     "lowPrice": 0.02,
     "midPrice": 0.12,
-    "highPrice": 2.99,
+    "highPrice": 1.33,
     "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper (068)",
@@ -2471,9 +2471,9 @@
   },
   "OP09-OP09-069 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.65,
+    "midPrice": 0.63,
     "highPrice": 5.0,
-    "marketPrice": 0.35,
+    "marketPrice": 0.36,
     "directLowPrice": null,
     "name": "Trafalgar Law (069)",
     "rarity": "R",
@@ -2497,7 +2497,7 @@
   },
   "OP09-OP09-069 parallel": {
     "lowPrice": 7.0,
-    "midPrice": 10.75,
+    "midPrice": 10.0,
     "highPrice": 39.99,
     "marketPrice": 7.33,
     "directLowPrice": null,
@@ -2524,8 +2524,8 @@
   "OP09-OP09-070 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 2.99,
-    "marketPrice": 0.12,
+    "highPrice": 1.33,
+    "marketPrice": 0.13,
     "directLowPrice": null,
     "name": "Nami (070)",
     "rarity": "UC",
@@ -2550,7 +2550,7 @@
   "OP09-OP09-071 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.14,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Nico Robin (071)",
@@ -2575,9 +2575,9 @@
   },
   "OP09-OP09-072 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.54,
+    "midPrice": 0.51,
     "highPrice": 5.5,
-    "marketPrice": 0.4,
+    "marketPrice": 0.35,
     "directLowPrice": null,
     "name": "Franky",
     "rarity": "SR",
@@ -2600,10 +2600,10 @@
     "groupId": 23589
   },
   "OP09-OP09-072 parallel": {
-    "lowPrice": 3.09,
-    "midPrice": 5.2,
+    "lowPrice": 3.08,
+    "midPrice": 5.04,
     "highPrice": 37.0,
-    "marketPrice": 3.66,
+    "marketPrice": 3.54,
     "directLowPrice": null,
     "name": "Franky (Parallel)",
     "rarity": "SR",
@@ -2628,7 +2628,7 @@
   "OP09-OP09-073 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Brook (073)",
@@ -2654,8 +2654,8 @@
   "OP09-OP09-074 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
-    "marketPrice": 0.06,
+    "highPrice": 1.32,
+    "marketPrice": 0.05,
     "directLowPrice": null,
     "name": "Bepo",
     "rarity": "C",
@@ -2680,7 +2680,7 @@
   "OP09-OP09-075 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.05,
     "directLowPrice": null,
     "name": "Eustass\"Captain\"Kid",
@@ -2706,8 +2706,8 @@
   "OP09-OP09-076 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
-    "highPrice": 2.99,
-    "marketPrice": 0.17,
+    "highPrice": 2.75,
+    "marketPrice": 0.16,
     "directLowPrice": null,
     "name": "Roronoa Zoro (076)",
     "rarity": "R",
@@ -2757,9 +2757,9 @@
   },
   "OP09-OP09-078 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.59,
+    "midPrice": 0.57,
     "highPrice": 7.0,
-    "marketPrice": 0.35,
+    "marketPrice": 0.33,
     "directLowPrice": null,
     "name": "Gum-Gum Giant",
     "rarity": "R",
@@ -2784,7 +2784,7 @@
   "OP09-OP09-079 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.05,
     "directLowPrice": null,
     "name": "Gum-Gum Jump Rope",
@@ -2810,7 +2810,7 @@
   "OP09-OP09-080 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.34,
     "marketPrice": 0.04,
     "directLowPrice": null,
     "name": "Thousand Sunny",
@@ -2836,7 +2836,7 @@
   "OP09-OP09-081 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 2.99,
+    "highPrice": 1.33,
     "marketPrice": 0.13,
     "directLowPrice": null,
     "name": "Marshall.D.Teach (081)",
@@ -2861,7 +2861,7 @@
   },
   "OP09-OP09-081 parallel": {
     "lowPrice": 19.0,
-    "midPrice": 23.24,
+    "midPrice": 23.74,
     "highPrice": 999.0,
     "marketPrice": 20.74,
     "directLowPrice": null,
@@ -2888,7 +2888,7 @@
   "OP09-OP09-082 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.4,
     "marketPrice": 0.04,
     "directLowPrice": null,
     "name": "Avalo Pizarro",
@@ -2914,7 +2914,7 @@
   "OP09-OP09-083 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
-    "highPrice": 2.99,
+    "highPrice": 1.99,
     "marketPrice": 0.08,
     "directLowPrice": null,
     "name": "Van Augur",
@@ -2940,7 +2940,7 @@
   "OP09-OP09-084 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 2.99,
+    "highPrice": 1.38,
     "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Catarina Devon",
@@ -2966,7 +2966,7 @@
   "OP09-OP09-085 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Gecko Moria",
@@ -2992,7 +2992,7 @@
   "OP09-OP09-086 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
-    "highPrice": 4.01,
+    "highPrice": 2.0,
     "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Jesus Burgess",
@@ -3018,7 +3018,7 @@
   "OP09-OP09-087 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.05,
     "directLowPrice": null,
     "name": "Charlotte Pudding",
@@ -3044,8 +3044,8 @@
   "OP09-OP09-088 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
-    "highPrice": 2.99,
-    "marketPrice": 0.07,
+    "highPrice": 1.33,
+    "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Shiryu",
     "rarity": "UC",
@@ -3070,7 +3070,7 @@
   "OP09-OP09-089 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
-    "highPrice": 2.99,
+    "highPrice": 1.35,
     "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Stronger",
@@ -3096,7 +3096,7 @@
   "OP09-OP09-090 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
-    "highPrice": 2.99,
+    "highPrice": 1.49,
     "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Doc Q",
@@ -3122,7 +3122,7 @@
   "OP09-OP09-091 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.04,
     "directLowPrice": null,
     "name": "Vasco Shot",
@@ -3148,7 +3148,7 @@
   "OP09-OP09-092 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.96,
     "marketPrice": 0.05,
     "directLowPrice": null,
     "name": "Marshall.D.Teach (092)",
@@ -3172,7 +3172,7 @@
     "groupId": 23589
   },
   "OP09-OP09-093 normal": {
-    "lowPrice": 0.17,
+    "lowPrice": 0.05,
     "midPrice": 1.0,
     "highPrice": 9.99,
     "marketPrice": 0.3,
@@ -3225,7 +3225,7 @@
   },
   "OP09-OP09-093 alt2": {
     "lowPrice": 7.0,
-    "midPrice": 10.91,
+    "midPrice": 10.27,
     "highPrice": 53.8,
     "marketPrice": 8.11,
     "directLowPrice": null,
@@ -3250,10 +3250,10 @@
     "groupId": 23589
   },
   "OP09-OP09-093 alt3": {
-    "lowPrice": 88.59,
-    "midPrice": 98.39,
-    "highPrice": 199.99,
-    "marketPrice": 96.66,
+    "lowPrice": 89.95,
+    "midPrice": 96.98,
+    "highPrice": 164.64,
+    "marketPrice": 94.53,
     "directLowPrice": null,
     "name": "Marshall.D.Teach (093) (Wanted Poster)",
     "rarity": "SR",
@@ -3304,7 +3304,7 @@
   "OP09-OP09-095 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.25,
-    "highPrice": 2.99,
+    "highPrice": 1.49,
     "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Laffitte",
@@ -3330,8 +3330,8 @@
   "OP09-OP09-096 normal": {
     "lowPrice": 0.09,
     "midPrice": 0.5,
-    "highPrice": 3.0,
-    "marketPrice": 0.51,
+    "highPrice": 2.99,
+    "marketPrice": 0.38,
     "directLowPrice": null,
     "name": "My Era...Begins!!",
     "rarity": "R",
@@ -3381,8 +3381,8 @@
   },
   "OP09-OP09-098 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.24,
-    "highPrice": 2.99,
+    "midPrice": 0.23,
+    "highPrice": 1.46,
     "marketPrice": 0.13,
     "directLowPrice": null,
     "name": "Black Hole",
@@ -3408,7 +3408,7 @@
   "OP09-OP09-099 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.04,
     "directLowPrice": null,
     "name": "Fullalead",
@@ -3486,7 +3486,7 @@
   "OP09-OP09-102 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 2.99,
+    "highPrice": 1.49,
     "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Professor Clover",
@@ -3510,10 +3510,10 @@
     "groupId": 23589
   },
   "OP09-OP09-103 normal": {
-    "lowPrice": 0.14,
-    "midPrice": 0.57,
+    "lowPrice": 0.1,
+    "midPrice": 0.55,
     "highPrice": 5.0,
-    "marketPrice": 0.46,
+    "marketPrice": 0.34,
     "directLowPrice": null,
     "name": "Koala",
     "rarity": "SR",
@@ -3536,10 +3536,10 @@
     "groupId": 23589
   },
   "OP09-OP09-103 parallel": {
-    "lowPrice": 1.69,
+    "lowPrice": 2.25,
     "midPrice": 4.49,
-    "highPrice": 29.99,
-    "marketPrice": 2.94,
+    "highPrice": 25.0,
+    "marketPrice": 2.91,
     "directLowPrice": null,
     "name": "Koala (Parallel)",
     "rarity": "SR",
@@ -3590,7 +3590,7 @@
   "OP09-OP09-105 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.11,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Sanji (105)",
@@ -3641,9 +3641,9 @@
   },
   "OP09-OP09-107 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.65,
-    "highPrice": 4.99,
-    "marketPrice": 0.6,
+    "midPrice": 0.7,
+    "highPrice": 3.21,
+    "marketPrice": 0.75,
     "directLowPrice": null,
     "name": "Nico Robin (107)",
     "rarity": "R",
@@ -3667,9 +3667,9 @@
   },
   "OP09-OP09-107 parallel": {
     "lowPrice": 18.0,
-    "midPrice": 33.39,
+    "midPrice": 33.54,
     "highPrice": 69.0,
-    "marketPrice": 22.8,
+    "marketPrice": 22.94,
     "directLowPrice": null,
     "name": "Nico Robin (107) (Parallel)",
     "rarity": "R",
@@ -3695,7 +3695,7 @@
     "lowPrice": 0.09,
     "midPrice": 0.3,
     "highPrice": 25.0,
-    "marketPrice": 0.34,
+    "marketPrice": 0.33,
     "directLowPrice": null,
     "name": "Bartholomew Kuma",
     "rarity": "UC",
@@ -3718,10 +3718,10 @@
     "groupId": 23589
   },
   "OP09-OP09-109 normal": {
-    "lowPrice": 0.01,
+    "lowPrice": 0.04,
     "midPrice": 0.14,
-    "highPrice": 2.99,
-    "marketPrice": 0.13,
+    "highPrice": 1.35,
+    "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Jaguar.D.Saul",
     "rarity": "UC",
@@ -3746,7 +3746,7 @@
   "OP09-OP09-110 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.34,
     "marketPrice": 0.04,
     "directLowPrice": null,
     "name": "Pierre",
@@ -3772,7 +3772,7 @@
   "OP09-OP09-111 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.04,
     "directLowPrice": null,
     "name": "Brook (111)",
@@ -3798,7 +3798,7 @@
   "OP09-OP09-112 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Belo Betty",
@@ -3824,7 +3824,7 @@
   "OP09-OP09-113 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.35,
     "marketPrice": 0.03,
     "directLowPrice": null,
     "name": "Morley",
@@ -3850,7 +3850,7 @@
   "OP09-OP09-114 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 2.99,
+    "highPrice": 1.32,
     "marketPrice": 0.04,
     "directLowPrice": null,
     "name": "Lindbergh",
@@ -3952,10 +3952,10 @@
     "groupId": 23589
   },
   "OP09-OP09-118 normal": {
-    "lowPrice": 25.35,
-    "midPrice": 30.29,
+    "lowPrice": 27.0,
+    "midPrice": 31.99,
     "highPrice": 59.99,
-    "marketPrice": 26.15,
+    "marketPrice": 28.16,
     "directLowPrice": null,
     "name": "Gol.D.Roger",
     "rarity": "SEC",
@@ -3978,10 +3978,10 @@
     "groupId": 23589
   },
   "OP09-OP09-118 alt2": {
-    "lowPrice": 56.68,
+    "lowPrice": 57.95,
     "midPrice": 65.0,
     "highPrice": 200.0,
-    "marketPrice": 58.03,
+    "marketPrice": 57.99,
     "directLowPrice": null,
     "name": "Gol.D.Roger (Alternate Art)",
     "rarity": "SEC",
@@ -4004,10 +4004,10 @@
     "groupId": 23589
   },
   "OP09-OP09-119 normal": {
-    "lowPrice": 6.0,
-    "midPrice": 9.5,
+    "lowPrice": 6.27,
+    "midPrice": 9.26,
     "highPrice": 49.99,
-    "marketPrice": 6.33,
+    "marketPrice": 6.42,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (119)",
     "rarity": "SEC",
@@ -4059,7 +4059,7 @@
     "lowPrice": 20.0,
     "midPrice": 30.0,
     "highPrice": 67.5,
-    "marketPrice": 22.63,
+    "marketPrice": 22.47,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (119) (Alternate Art)",
     "rarity": "SEC",
@@ -4083,9 +4083,9 @@
   },
   "ST18-ST18-004 normal": {
     "lowPrice": 21.88,
-    "midPrice": 39.99,
+    "midPrice": 45.6,
     "highPrice": 149.95,
-    "marketPrice": 30.78,
+    "marketPrice": 34.07,
     "directLowPrice": null,
     "name": "Zoro-Juurou (ST18-004)",
     "rarity": "SR",

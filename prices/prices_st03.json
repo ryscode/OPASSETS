@@ -53,7 +53,7 @@
   },
   "ST03-ST03-003 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.47,
+    "midPrice": 0.45,
     "highPrice": 5.0,
     "marketPrice": 0.33,
     "directLowPrice": null,
@@ -159,7 +159,7 @@
     "lowPrice": 0.04,
     "midPrice": 0.25,
     "highPrice": 2.0,
-    "marketPrice": 0.2,
+    "marketPrice": 0.21,
     "directLowPrice": null,
     "name": "Sentomaru",
     "rarity": "C",
@@ -209,9 +209,9 @@
   },
   "ST03-ST03-009 normal": {
     "lowPrice": 0.5,
-    "midPrice": 2.45,
+    "midPrice": 2.88,
     "highPrice": 7.0,
-    "marketPrice": 1.12,
+    "marketPrice": 1.0,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo",
     "rarity": "SR",
@@ -236,7 +236,7 @@
   "ST03-ST03-010 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.2,
-    "highPrice": 1.39,
+    "highPrice": 1.99,
     "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Bartholomew Kuma",
@@ -261,7 +261,7 @@
   },
   "ST03-ST03-011 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.2,
+    "midPrice": 0.19,
     "highPrice": 1.35,
     "marketPrice": 0.11,
     "directLowPrice": null,
@@ -315,7 +315,7 @@
     "lowPrice": 0.02,
     "midPrice": 0.18,
     "highPrice": 5.0,
-    "marketPrice": 0.14,
+    "marketPrice": 0.15,
     "directLowPrice": null,
     "name": "Boa Hancock",
     "rarity": "C",
@@ -364,9 +364,9 @@
     "groupId": 3192
   },
   "ST03-ST03-015 normal": {
-    "lowPrice": 0.86,
-    "midPrice": 1.26,
-    "highPrice": 6.01,
+    "lowPrice": 0.7,
+    "midPrice": 1.25,
+    "highPrice": 5.71,
     "marketPrice": 1.01,
     "directLowPrice": null,
     "name": "Sables",
@@ -416,10 +416,10 @@
     "groupId": 3192
   },
   "ST03-ST03-017 normal": {
-    "lowPrice": 2.99,
-    "midPrice": 4.72,
+    "lowPrice": 2.95,
+    "midPrice": 4.62,
     "highPrice": 13.99,
-    "marketPrice": 3.75,
+    "marketPrice": 3.57,
     "directLowPrice": null,
     "name": "Love-Love Mellow",
     "rarity": "C",

@@ -1,7 +1,7 @@
 {
   "ST06-ST06-001 normal": {
     "lowPrice": 0.74,
-    "midPrice": 0.99,
+    "midPrice": 1.0,
     "highPrice": 25.0,
     "marketPrice": 0.87,
     "directLowPrice": null,
@@ -53,9 +53,9 @@
   },
   "ST06-ST06-004 normal": {
     "lowPrice": 0.25,
-    "midPrice": 1.1,
+    "midPrice": 1.13,
     "highPrice": 25.0,
-    "marketPrice": 0.99,
+    "marketPrice": 0.93,
     "directLowPrice": null,
     "name": "Smoker",
     "rarity": "SR",
@@ -133,7 +133,7 @@
     "lowPrice": 0.25,
     "midPrice": 1.0,
     "highPrice": 10.0,
-    "marketPrice": 0.52,
+    "marketPrice": 0.53,
     "directLowPrice": null,
     "name": "Monkey.D.Garp",
     "rarity": "SR",
@@ -209,7 +209,7 @@
   },
   "ST06-ST06-005 normal": {
     "lowPrice": 0.04,
-    "midPrice": 0.22,
+    "midPrice": 0.23,
     "highPrice": 1.5,
     "marketPrice": 0.13,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "ST06-ST06-007 normal": {
     "lowPrice": 0.04,
-    "midPrice": 0.18,
+    "midPrice": 0.17,
     "highPrice": 1.35,
     "marketPrice": 0.09,
     "directLowPrice": null,
@@ -260,10 +260,10 @@
     "groupId": 17699
   },
   "ST06-ST06-008 normal": {
-    "lowPrice": 0.95,
-    "midPrice": 2.42,
+    "lowPrice": 0.94,
+    "midPrice": 2.44,
     "highPrice": 19.98,
-    "marketPrice": 1.64,
+    "marketPrice": 1.61,
     "directLowPrice": null,
     "name": "Hina",
     "rarity": "C",
@@ -339,7 +339,7 @@
   },
   "ST06-ST06-013 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.14,
+    "midPrice": 0.11,
     "highPrice": 1.4,
     "marketPrice": 0.09,
     "directLowPrice": null,
@@ -365,7 +365,7 @@
   },
   "ST06-ST06-014 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.17,
+    "midPrice": 0.16,
     "highPrice": 11.0,
     "marketPrice": 0.12,
     "directLowPrice": null,
@@ -391,7 +391,7 @@
   },
   "ST06-ST06-016 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.21,
+    "midPrice": 0.22,
     "highPrice": 1.32,
     "marketPrice": 0.14,
     "directLowPrice": null,
@@ -416,8 +416,8 @@
     "groupId": 17699
   },
   "ST06-ST06-017 normal": {
-    "lowPrice": 1.16,
-    "midPrice": 2.62,
+    "lowPrice": 1.14,
+    "midPrice": 2.61,
     "highPrice": 25.0,
     "marketPrice": 1.5,
     "directLowPrice": null,

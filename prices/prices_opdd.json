@@ -1,7 +1,7 @@
 {
   "OP01-OP01-001 normal": {
-    "lowPrice": 2.85,
-    "midPrice": 3.5,
+    "lowPrice": 2.84,
+    "midPrice": 3.36,
     "highPrice": 4.99,
     "marketPrice": 3.37,
     "directLowPrice": null,
@@ -27,7 +27,7 @@
   },
   "P-P-001 normal": {
     "lowPrice": 1.3,
-    "midPrice": 3.96,
+    "midPrice": 3.67,
     "highPrice": 14.99,
     "marketPrice": 1.66,
     "directLowPrice": null,
@@ -105,7 +105,7 @@
   },
   "OP01-OP01-011 normal": {
     "lowPrice": 0.22,
-    "midPrice": 0.76,
+    "midPrice": 0.52,
     "highPrice": 1.69,
     "marketPrice": null,
     "directLowPrice": null,
@@ -131,9 +131,9 @@
   },
   "OP01-OP01-013 normal": {
     "lowPrice": 2.99,
-    "midPrice": 4.68,
+    "midPrice": 4.76,
     "highPrice": 10.0,
-    "marketPrice": 4.4,
+    "marketPrice": 4.47,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "R",
@@ -157,7 +157,7 @@
   },
   "OP01-OP01-016 normal": {
     "lowPrice": 2.0,
-    "midPrice": 2.97,
+    "midPrice": 2.94,
     "highPrice": 4.99,
     "marketPrice": 3.34,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "OP01-OP01-021 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.82,
+    "midPrice": 0.75,
     "highPrice": 1.82,
     "marketPrice": null,
     "directLowPrice": null,
@@ -234,8 +234,8 @@
     "groupId": 23907
   },
   "ST01-ST01-005 normal": {
-    "lowPrice": 1.0,
-    "midPrice": 1.33,
+    "lowPrice": 0.9,
+    "midPrice": 1.26,
     "highPrice": 2.33,
     "marketPrice": null,
     "directLowPrice": null,
@@ -339,7 +339,7 @@
   },
   "ST01-ST01-014 normal": {
     "lowPrice": 0.13,
-    "midPrice": 0.41,
+    "midPrice": 0.39,
     "highPrice": 3.02,
     "marketPrice": 0.36,
     "directLowPrice": null,
@@ -364,8 +364,8 @@
     "groupId": 23907
   },
   "ST01-ST01-015 normal": {
-    "lowPrice": 0.99,
-    "midPrice": 1.05,
+    "lowPrice": 0.98,
+    "midPrice": 1.04,
     "highPrice": 5.0,
     "marketPrice": 0.99,
     "directLowPrice": null,
@@ -391,7 +391,7 @@
   },
   "ST01-ST01-017 normal": {
     "lowPrice": 1.0,
-    "midPrice": 1.75,
+    "midPrice": 1.83,
     "highPrice": 2.71,
     "marketPrice": 0.6,
     "directLowPrice": null,
@@ -416,7 +416,7 @@
     "groupId": 23907
   },
   "OP01-OP01-003 normal": {
-    "lowPrice": 0.3,
+    "lowPrice": 0.2,
     "midPrice": 1.0,
     "highPrice": 6.25,
     "marketPrice": 0.57,
@@ -469,7 +469,7 @@
   },
   "OP01-OP01-015 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.35,
+    "midPrice": 0.39,
     "highPrice": 4.0,
     "marketPrice": 0.29,
     "directLowPrice": null,

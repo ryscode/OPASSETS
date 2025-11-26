@@ -1,6 +1,6 @@
 {
   "ST01-ST01-001 normal": {
-    "lowPrice": 13.5,
+    "lowPrice": 13.99,
     "midPrice": 14.83,
     "highPrice": 24.99,
     "marketPrice": 16.19,
@@ -26,8 +26,8 @@
     "groupId": 23890
   },
   "ST04-ST04-017 normal": {
-    "lowPrice": 0.36,
-    "midPrice": 0.78,
+    "lowPrice": 0.44,
+    "midPrice": 0.9,
     "highPrice": 1.99,
     "marketPrice": 0.66,
     "directLowPrice": null,
@@ -53,7 +53,7 @@
   },
   "ST01-ST01-005 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.23,
+    "midPrice": 0.24,
     "highPrice": 1.51,
     "marketPrice": 0.16,
     "directLowPrice": null,
@@ -105,9 +105,9 @@
   },
   "ST01-ST01-007 normal": {
     "lowPrice": 3.4,
-    "midPrice": 7.45,
+    "midPrice": 7.95,
     "highPrice": 500.0,
-    "marketPrice": 4.26,
+    "marketPrice": 4.38,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "C",
@@ -183,7 +183,7 @@
   },
   "ST01-ST01-015 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.58,
+    "midPrice": 0.57,
     "highPrice": 3.49,
     "marketPrice": 0.52,
     "directLowPrice": null,
@@ -209,9 +209,9 @@
   },
   "ST01-ST01-016 normal": {
     "lowPrice": 0.97,
-    "midPrice": 2.52,
+    "midPrice": 2.85,
     "highPrice": 6.26,
-    "marketPrice": 1.42,
+    "marketPrice": 1.44,
     "directLowPrice": null,
     "name": "Diable Jambe",
     "rarity": "C",
@@ -235,7 +235,7 @@
   },
   "ST04-ST04-014 normal": {
     "lowPrice": 1.55,
-    "midPrice": 4.15,
+    "midPrice": 4.25,
     "highPrice": 13.0,
     "marketPrice": 2.05,
     "directLowPrice": null,
@@ -261,7 +261,7 @@
   },
   "ST01-ST01-017 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.67,
+    "midPrice": 0.68,
     "highPrice": 2.59,
     "marketPrice": 0.61,
     "directLowPrice": null,
@@ -313,7 +313,7 @@
   },
   "ST04-ST04-008 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.41,
+    "midPrice": 0.4,
     "highPrice": 1.53,
     "marketPrice": 0.34,
     "directLowPrice": null,
@@ -391,7 +391,7 @@
   },
   "ST02-ST02-007 normal": {
     "lowPrice": 0.95,
-    "midPrice": 2.89,
+    "midPrice": 2.7,
     "highPrice": 8.99,
     "marketPrice": 1.47,
     "directLowPrice": null,
@@ -419,7 +419,7 @@
     "lowPrice": 0.2,
     "midPrice": 0.99,
     "highPrice": 3.95,
-    "marketPrice": 0.46,
+    "marketPrice": 0.4,
     "directLowPrice": null,
     "name": "Scratchmen Apoo",
     "rarity": "C",
@@ -442,7 +442,7 @@
     "groupId": 23890
   },
   "ST04-ST04-003 normal": {
-    "lowPrice": 0.2,
+    "lowPrice": 0.15,
     "midPrice": 0.5,
     "highPrice": 4.99,
     "marketPrice": 0.37,
@@ -469,7 +469,7 @@
   },
   "ST02-ST02-009 normal": {
     "lowPrice": 3.99,
-    "midPrice": 5.94,
+    "midPrice": 5.97,
     "highPrice": 17.99,
     "marketPrice": 5.15,
     "directLowPrice": null,
@@ -495,7 +495,7 @@
   },
   "ST04-ST04-002 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.5,
+    "midPrice": 0.52,
     "highPrice": 3.99,
     "marketPrice": 0.42,
     "directLowPrice": null,
@@ -521,7 +521,7 @@
   },
   "ST04-ST04-001 normal": {
     "lowPrice": 1.19,
-    "midPrice": 2.0,
+    "midPrice": 1.6,
     "highPrice": 2.0,
     "marketPrice": 1.19,
     "directLowPrice": null,
@@ -573,7 +573,7 @@
   },
   "ST02-ST02-016 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.33,
+    "midPrice": 0.34,
     "highPrice": 1.55,
     "marketPrice": 0.31,
     "directLowPrice": null,
@@ -598,7 +598,7 @@
     "groupId": 23890
   },
   "ST03-ST03-017 normal": {
-    "lowPrice": 3.46,
+    "lowPrice": 3.42,
     "midPrice": 5.47,
     "highPrice": 10.85,
     "marketPrice": 4.5,
@@ -651,7 +651,7 @@
   },
   "ST03-ST03-015 normal": {
     "lowPrice": 0.8,
-    "midPrice": 2.44,
+    "midPrice": 2.4,
     "highPrice": 5.5,
     "marketPrice": 1.42,
     "directLowPrice": null,
@@ -703,9 +703,9 @@
   },
   "ST03-ST03-009 normal": {
     "lowPrice": 0.94,
-    "midPrice": 2.63,
+    "midPrice": 2.75,
     "highPrice": 6.99,
-    "marketPrice": 2.19,
+    "marketPrice": 2.11,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo",
     "rarity": "SR",
@@ -781,7 +781,7 @@
   },
   "ST03-ST03-004 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.44,
+    "midPrice": 0.46,
     "highPrice": 4.99,
     "marketPrice": 0.29,
     "directLowPrice": null,
@@ -833,7 +833,7 @@
   },
   "ST03-ST03-001 normal": {
     "lowPrice": 2.0,
-    "midPrice": 2.2,
+    "midPrice": 2.4,
     "highPrice": 2.4,
     "marketPrice": 2.0,
     "directLowPrice": null,

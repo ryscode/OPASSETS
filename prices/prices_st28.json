@@ -1,9 +1,9 @@
 {
   "OP06-OP06-022 normal": {
-    "lowPrice": 0.25,
-    "midPrice": 0.73,
+    "lowPrice": 0.41,
+    "midPrice": 0.75,
     "highPrice": 9.99,
-    "marketPrice": 0.5,
+    "marketPrice": 0.52,
     "directLowPrice": null,
     "name": "Yamato (OP06-022)",
     "rarity": "L",
@@ -81,7 +81,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.3,
     "highPrice": 4.99,
-    "marketPrice": 0.25,
+    "marketPrice": 0.27,
     "directLowPrice": null,
     "name": "Kikunojo (Reprint)",
     "rarity": "R",
@@ -209,9 +209,9 @@
   },
   "OP09-OP09-035 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.11,
+    "midPrice": 0.13,
     "highPrice": 4.99,
-    "marketPrice": 0.04,
+    "marketPrice": 0.05,
     "directLowPrice": null,
     "name": "Portgas.D.Ace (Reprint)",
     "rarity": "UC",
@@ -262,7 +262,7 @@
   "ST28-ST28-001 normal": {
     "lowPrice": 0.02,
     "midPrice": 0.19,
-    "highPrice": 1.37,
+    "highPrice": 1.0,
     "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Ashura Doji",
@@ -339,9 +339,9 @@
   },
   "ST28-ST28-004 normal": {
     "lowPrice": 0.39,
-    "midPrice": 1.13,
+    "midPrice": 1.12,
     "highPrice": 5.0,
-    "marketPrice": 0.55,
+    "marketPrice": 0.5,
     "directLowPrice": null,
     "name": "Kouzuki Momonosuke",
     "rarity": "SR",
@@ -364,10 +364,10 @@
     "groupId": 24287
   },
   "ST28-ST28-005 normal": {
-    "lowPrice": 1.54,
-    "midPrice": 2.53,
+    "lowPrice": 1.64,
+    "midPrice": 2.55,
     "highPrice": 5.0,
-    "marketPrice": 1.79,
+    "marketPrice": 1.72,
     "directLowPrice": null,
     "name": "Yamato",
     "rarity": "SR",

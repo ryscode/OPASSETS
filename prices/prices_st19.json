@@ -27,7 +27,7 @@
   },
   "OP02-OP02-098 normal": {
     "lowPrice": 0.07,
-    "midPrice": 0.23,
+    "midPrice": 0.21,
     "highPrice": 1.53,
     "marketPrice": 0.17,
     "directLowPrice": null,
@@ -78,9 +78,9 @@
     "groupId": 23494
   },
   "OP02-OP02-108 normal": {
-    "lowPrice": 0.03,
-    "midPrice": 0.11,
-    "highPrice": 1.36,
+    "lowPrice": 0.02,
+    "midPrice": 0.1,
+    "highPrice": 1.0,
     "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Donquixote Rosinante",
@@ -132,7 +132,7 @@
   "OP02-OP02-113 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.11,
-    "highPrice": 1.36,
+    "highPrice": 1.0,
     "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Helmeppo",
@@ -234,7 +234,7 @@
     "groupId": 23494
   },
   "ST19-ST19-001 normal": {
-    "lowPrice": 0.05,
+    "lowPrice": 0.04,
     "midPrice": 0.17,
     "highPrice": 7.5,
     "marketPrice": 0.15,
@@ -260,8 +260,8 @@
     "groupId": 23494
   },
   "ST19-ST19-002 normal": {
-    "lowPrice": 0.35,
-    "midPrice": 1.34,
+    "lowPrice": 0.34,
+    "midPrice": 1.02,
     "highPrice": 10.0,
     "marketPrice": 0.57,
     "directLowPrice": null,
@@ -287,9 +287,9 @@
   },
   "ST19-ST19-003 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.75,
+    "midPrice": 0.76,
     "highPrice": 12.5,
-    "marketPrice": 0.59,
+    "marketPrice": 0.54,
     "directLowPrice": null,
     "name": "Tashigi",
     "rarity": "SR",
@@ -315,7 +315,7 @@
     "lowPrice": 0.83,
     "midPrice": 1.47,
     "highPrice": 25.0,
-    "marketPrice": 1.29,
+    "marketPrice": 1.26,
     "directLowPrice": null,
     "name": "Hina",
     "rarity": "SR",

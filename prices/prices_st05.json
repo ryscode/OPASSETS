@@ -1,7 +1,7 @@
 {
   "ST05-ST05-001 normal": {
     "lowPrice": 1.7,
-    "midPrice": 2.34,
+    "midPrice": 2.35,
     "highPrice": 50.0,
     "marketPrice": 2.18,
     "directLowPrice": null,
@@ -27,9 +27,9 @@
   },
   "ST05-ST05-004 normal": {
     "lowPrice": 0.31,
-    "midPrice": 1.09,
+    "midPrice": 1.0,
     "highPrice": 32.0,
-    "marketPrice": 0.86,
+    "marketPrice": 0.7,
     "directLowPrice": null,
     "name": "Uta",
     "rarity": "SR",
@@ -78,8 +78,8 @@
     "groupId": 17687
   },
   "ST05-ST05-006 normal": {
-    "lowPrice": 0.58,
-    "midPrice": 1.1,
+    "lowPrice": 0.55,
+    "midPrice": 1.04,
     "highPrice": 25.0,
     "marketPrice": 1.0,
     "directLowPrice": null,
@@ -156,10 +156,10 @@
     "groupId": 17687
   },
   "ST05-ST05-011 normal": {
-    "lowPrice": 8.75,
-    "midPrice": 10.67,
+    "lowPrice": 8.65,
+    "midPrice": 10.49,
     "highPrice": 50.0,
-    "marketPrice": 9.61,
+    "marketPrice": 9.63,
     "directLowPrice": null,
     "name": "Douglas Bullet",
     "rarity": "SR",
@@ -182,10 +182,10 @@
     "groupId": 17687
   },
   "ST05-ST05-014 normal": {
-    "lowPrice": 0.35,
+    "lowPrice": 0.3,
     "midPrice": 1.0,
     "highPrice": 10.0,
-    "marketPrice": 1.01,
+    "marketPrice": 1.0,
     "directLowPrice": null,
     "name": "Buena Festa",
     "rarity": "C",
@@ -313,7 +313,7 @@
   },
   "ST05-ST05-009 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.2,
+    "midPrice": 0.18,
     "highPrice": 1.42,
     "marketPrice": 0.06,
     "directLowPrice": null,
@@ -391,7 +391,7 @@
   },
   "ST05-ST05-015 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.18,
+    "midPrice": 0.15,
     "highPrice": 10.0,
     "marketPrice": 0.05,
     "directLowPrice": null,

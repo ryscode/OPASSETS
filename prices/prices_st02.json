@@ -1,7 +1,7 @@
 {
   "ST02-ST02-001 normal": {
-    "lowPrice": 0.31,
-    "midPrice": 1.45,
+    "lowPrice": 0.3,
+    "midPrice": 1.33,
     "highPrice": 25.0,
     "marketPrice": 0.69,
     "directLowPrice": null,
@@ -26,7 +26,7 @@
     "groupId": 3191
   },
   "ST02-ST02-002 normal": {
-    "lowPrice": 0.02,
+    "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 2.0,
     "marketPrice": 0.1,
@@ -52,7 +52,7 @@
     "groupId": 3191
   },
   "ST02-ST02-003 normal": {
-    "lowPrice": 0.1,
+    "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 2.5,
     "marketPrice": 0.15,
@@ -130,7 +130,7 @@
     "groupId": 3191
   },
   "ST02-ST02-006 normal": {
-    "lowPrice": 0.03,
+    "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 2.0,
     "marketPrice": 0.14,
@@ -156,8 +156,8 @@
     "groupId": 3191
   },
   "ST02-ST02-007 normal": {
-    "lowPrice": 0.85,
-    "midPrice": 1.63,
+    "lowPrice": 0.75,
+    "midPrice": 1.52,
     "highPrice": 5.97,
     "marketPrice": 1.32,
     "directLowPrice": null,
@@ -211,7 +211,7 @@
     "lowPrice": 3.57,
     "midPrice": 5.0,
     "highPrice": 10.54,
-    "marketPrice": 4.56,
+    "marketPrice": 4.28,
     "directLowPrice": null,
     "name": "Trafalgar Law",
     "rarity": "SR",
@@ -260,7 +260,7 @@
     "groupId": 3191
   },
   "ST02-ST02-011 normal": {
-    "lowPrice": 0.02,
+    "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 2.0,
     "marketPrice": 0.11,
@@ -286,7 +286,7 @@
     "groupId": 3191
   },
   "ST02-ST02-012 normal": {
-    "lowPrice": 0.03,
+    "lowPrice": 0.02,
     "midPrice": 0.2,
     "highPrice": 2.0,
     "marketPrice": 0.14,
@@ -417,7 +417,7 @@
   },
   "ST02-ST02-017 normal": {
     "lowPrice": 0.9,
-    "midPrice": 1.62,
+    "midPrice": 1.55,
     "highPrice": 5.0,
     "marketPrice": 1.37,
     "directLowPrice": null,

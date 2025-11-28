@@ -1,7 +1,7 @@
 {
   "ST01-ST01-001 normal": {
     "lowPrice": 12.0,
-    "midPrice": 14.98,
+    "midPrice": 14.45,
     "highPrice": 24.99,
     "marketPrice": 16.19,
     "directLowPrice": null,
@@ -54,7 +54,7 @@
   "ST01-ST01-005 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.25,
-    "highPrice": 1.51,
+    "highPrice": 1.55,
     "marketPrice": 0.15,
     "directLowPrice": null,
     "name": "Jinbe",
@@ -79,7 +79,7 @@
   },
   "ST04-ST04-016 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.25,
+    "midPrice": 0.24,
     "highPrice": 5.0,
     "marketPrice": 0.19,
     "directLowPrice": null,
@@ -105,7 +105,7 @@
   },
   "ST01-ST01-007 normal": {
     "lowPrice": 3.4,
-    "midPrice": 6.93,
+    "midPrice": 6.91,
     "highPrice": 500.0,
     "marketPrice": 4.51,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "ST01-ST01-015 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.57,
+    "midPrice": 0.56,
     "highPrice": 3.49,
     "marketPrice": 0.5,
     "directLowPrice": null,
@@ -208,10 +208,10 @@
     "groupId": 23890
   },
   "ST01-ST01-016 normal": {
-    "lowPrice": 0.97,
-    "midPrice": 2.63,
+    "lowPrice": 0.99,
+    "midPrice": 2.97,
     "highPrice": 6.26,
-    "marketPrice": 1.44,
+    "marketPrice": 1.45,
     "directLowPrice": null,
     "name": "Diable Jambe",
     "rarity": "C",
@@ -234,8 +234,8 @@
     "groupId": 23890
   },
   "ST04-ST04-014 normal": {
-    "lowPrice": 1.55,
-    "midPrice": 4.15,
+    "lowPrice": 1.54,
+    "midPrice": 4.0,
     "highPrice": 13.0,
     "marketPrice": 2.05,
     "directLowPrice": null,
@@ -313,7 +313,7 @@
   },
   "ST04-ST04-008 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.4,
+    "midPrice": 0.41,
     "highPrice": 1.53,
     "marketPrice": 0.34,
     "directLowPrice": null,
@@ -340,7 +340,7 @@
   "ST02-ST02-005 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.25,
-    "highPrice": 1.54,
+    "highPrice": 1.44,
     "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Killer",
@@ -364,7 +364,7 @@
     "groupId": 23890
   },
   "ST04-ST04-004 normal": {
-    "lowPrice": 0.55,
+    "lowPrice": 0.3,
     "midPrice": 0.99,
     "highPrice": 4.99,
     "marketPrice": 0.66,
@@ -390,10 +390,10 @@
     "groupId": 23890
   },
   "ST02-ST02-007 normal": {
-    "lowPrice": 0.95,
-    "midPrice": 2.94,
+    "lowPrice": 0.94,
+    "midPrice": 3.0,
     "highPrice": 8.99,
-    "marketPrice": 1.37,
+    "marketPrice": 1.33,
     "directLowPrice": null,
     "name": "Jewelry Bonney",
     "rarity": "C",
@@ -417,7 +417,7 @@
   },
   "ST02-ST02-008 normal": {
     "lowPrice": 0.2,
-    "midPrice": 1.0,
+    "midPrice": 0.99,
     "highPrice": 3.95,
     "marketPrice": 0.38,
     "directLowPrice": null,
@@ -471,7 +471,7 @@
     "lowPrice": 3.99,
     "midPrice": 6.0,
     "highPrice": 17.99,
-    "marketPrice": 5.16,
+    "marketPrice": 5.22,
     "directLowPrice": null,
     "name": "Trafalgar Law",
     "rarity": "SR",
@@ -547,7 +547,7 @@
   },
   "ST02-ST02-015 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.6,
+    "midPrice": 0.56,
     "highPrice": 1.17,
     "marketPrice": 0.51,
     "directLowPrice": null,
@@ -573,7 +573,7 @@
   },
   "ST02-ST02-016 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.34,
+    "midPrice": 0.33,
     "highPrice": 1.55,
     "marketPrice": 0.31,
     "directLowPrice": null,
@@ -598,8 +598,8 @@
     "groupId": 23890
   },
   "ST03-ST03-017 normal": {
-    "lowPrice": 3.42,
-    "midPrice": 5.53,
+    "lowPrice": 3.39,
+    "midPrice": 5.5,
     "highPrice": 10.85,
     "marketPrice": 4.42,
     "directLowPrice": null,
@@ -626,8 +626,8 @@
   "ST03-ST03-016 normal": {
     "lowPrice": 0.03,
     "midPrice": 0.22,
-    "highPrice": 3.24,
-    "marketPrice": 0.16,
+    "highPrice": 3.65,
+    "marketPrice": 0.15,
     "directLowPrice": null,
     "name": "Thrust Pad Cannon",
     "rarity": "C",
@@ -650,10 +650,10 @@
     "groupId": 23890
   },
   "ST03-ST03-015 normal": {
-    "lowPrice": 0.78,
-    "midPrice": 2.38,
+    "lowPrice": 0.74,
+    "midPrice": 2.04,
     "highPrice": 5.5,
-    "marketPrice": 1.35,
+    "marketPrice": 1.28,
     "directLowPrice": null,
     "name": "Sables",
     "rarity": "C",
@@ -677,7 +677,7 @@
   },
   "ST03-ST03-014 normal": {
     "lowPrice": 0.12,
-    "midPrice": 0.28,
+    "midPrice": 0.27,
     "highPrice": 1.49,
     "marketPrice": 0.18,
     "directLowPrice": null,
@@ -702,7 +702,7 @@
     "groupId": 23890
   },
   "ST03-ST03-009 normal": {
-    "lowPrice": 1.71,
+    "lowPrice": 0.16,
     "midPrice": 2.84,
     "highPrice": 6.99,
     "marketPrice": 1.89,
@@ -781,7 +781,7 @@
   },
   "ST03-ST03-004 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.46,
+    "midPrice": 0.45,
     "highPrice": 4.99,
     "marketPrice": 0.29,
     "directLowPrice": null,

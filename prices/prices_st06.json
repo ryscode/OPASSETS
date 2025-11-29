@@ -55,7 +55,7 @@
     "lowPrice": 0.25,
     "midPrice": 1.1,
     "highPrice": 25.0,
-    "marketPrice": 0.96,
+    "marketPrice": 1.01,
     "directLowPrice": null,
     "name": "Smoker",
     "rarity": "SR",
@@ -107,7 +107,7 @@
     "lowPrice": 0.8,
     "midPrice": 1.22,
     "highPrice": 34.0,
-    "marketPrice": 0.99,
+    "marketPrice": 1.0,
     "directLowPrice": null,
     "name": "Tashigi",
     "rarity": "C",
@@ -157,9 +157,9 @@
   },
   "ST06-ST06-015 normal": {
     "lowPrice": 0.4,
-    "midPrice": 1.0,
+    "midPrice": 0.99,
     "highPrice": 27.99,
-    "marketPrice": 0.71,
+    "marketPrice": 0.72,
     "directLowPrice": null,
     "name": "Great Eruption",
     "rarity": "C",
@@ -261,7 +261,7 @@
   },
   "ST06-ST06-008 normal": {
     "lowPrice": 0.83,
-    "midPrice": 2.35,
+    "midPrice": 2.29,
     "highPrice": 19.98,
     "marketPrice": 1.61,
     "directLowPrice": null,
@@ -391,7 +391,7 @@
   },
   "ST06-ST06-016 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.21,
+    "midPrice": 0.2,
     "highPrice": 1.25,
     "marketPrice": 0.14,
     "directLowPrice": null,
@@ -416,8 +416,8 @@
     "groupId": 17699
   },
   "ST06-ST06-017 normal": {
-    "lowPrice": 0.98,
-    "midPrice": 2.59,
+    "lowPrice": 0.96,
+    "midPrice": 2.53,
     "highPrice": 25.0,
     "marketPrice": 1.5,
     "directLowPrice": null,

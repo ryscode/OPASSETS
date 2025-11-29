@@ -1,7 +1,7 @@
 {
   "ST08-ST08-005 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.56,
+    "midPrice": 0.57,
     "highPrice": 25.0,
     "marketPrice": 0.51,
     "directLowPrice": null,
@@ -27,9 +27,9 @@
   },
   "ST08-ST08-008 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.12,
+    "midPrice": 0.11,
     "highPrice": 1.38,
-    "marketPrice": 0.09,
+    "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Higuma",
     "rarity": "C",
@@ -54,7 +54,7 @@
   "ST08-ST08-004 normal": {
     "lowPrice": 0.09,
     "midPrice": 0.25,
-    "highPrice": 10.0,
+    "highPrice": 59.0,
     "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "Koby",
@@ -81,7 +81,7 @@
     "lowPrice": 1.5,
     "midPrice": 3.0,
     "highPrice": 50.0,
-    "marketPrice": 2.38,
+    "marketPrice": 2.33,
     "directLowPrice": null,
     "name": "Uta",
     "rarity": "SR",
@@ -105,7 +105,7 @@
   },
   "ST08-ST08-014 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.57,
+    "midPrice": 0.59,
     "highPrice": 10.0,
     "marketPrice": 0.34,
     "directLowPrice": null,
@@ -131,7 +131,7 @@
   },
   "ST08-ST08-007 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.3,
+    "midPrice": 0.31,
     "highPrice": 10.0,
     "marketPrice": 0.31,
     "directLowPrice": null,
@@ -182,10 +182,10 @@
     "groupId": 22956
   },
   "ST08-ST08-006 normal": {
-    "lowPrice": 1.15,
-    "midPrice": 2.38,
+    "lowPrice": 1.13,
+    "midPrice": 2.35,
     "highPrice": 25.0,
-    "marketPrice": 1.31,
+    "marketPrice": 1.25,
     "directLowPrice": null,
     "name": "Shirahoshi",
     "rarity": "C",
@@ -209,9 +209,9 @@
   },
   "ST08-ST08-015 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.3,
+    "midPrice": 0.29,
     "highPrice": 10.0,
-    "marketPrice": 0.25,
+    "marketPrice": 0.24,
     "directLowPrice": null,
     "name": "Gum-Gum Pistol",
     "rarity": "C",

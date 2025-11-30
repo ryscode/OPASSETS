@@ -1,9 +1,9 @@
 {
   "EB01-EB01-015 normal": {
-    "lowPrice": 0.04,
-    "midPrice": 0.24,
+    "lowPrice": 0.1,
+    "midPrice": 0.25,
     "highPrice": 10.0,
-    "marketPrice": 0.18,
+    "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Scratchmen Apoo (Reprint)",
     "rarity": "R",
@@ -27,9 +27,9 @@
   },
   "OP07-OP07-019 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.71,
+    "midPrice": 0.76,
     "highPrice": 3.68,
-    "marketPrice": 0.53,
+    "marketPrice": 0.56,
     "directLowPrice": null,
     "name": "Jewelry Bonney (OP07-019)",
     "rarity": "L",
@@ -159,7 +159,7 @@
     "lowPrice": 0.02,
     "midPrice": 0.12,
     "highPrice": 1.0,
-    "marketPrice": 0.1,
+    "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Reprint)",
     "rarity": "UC",
@@ -211,7 +211,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 10.0,
-    "marketPrice": 0.11,
+    "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Demonic Aura Nine-Sword Style Asura Demon Nine Flash (Reprint)",
     "rarity": "R",
@@ -287,9 +287,9 @@
   },
   "ST24-ST24-002 normal": {
     "lowPrice": 0.99,
-    "midPrice": 2.19,
+    "midPrice": 2.0,
     "highPrice": 25.0,
-    "marketPrice": 1.41,
+    "marketPrice": 1.44,
     "directLowPrice": null,
     "name": "Kid & Killer",
     "rarity": "SR",
@@ -312,7 +312,7 @@
     "groupId": 24283
   },
   "ST24-ST24-003 normal": {
-    "lowPrice": 0.15,
+    "lowPrice": 0.14,
     "midPrice": 0.34,
     "highPrice": 5.0,
     "marketPrice": 0.31,
@@ -338,10 +338,10 @@
     "groupId": 24283
   },
   "ST24-ST24-004 normal": {
-    "lowPrice": 4.51,
-    "midPrice": 5.75,
-    "highPrice": 30.0,
-    "marketPrice": 5.39,
+    "lowPrice": 4.5,
+    "midPrice": 5.99,
+    "highPrice": 12.0,
+    "marketPrice": 5.53,
     "directLowPrice": null,
     "name": "Law & Bepo",
     "rarity": "SR",
@@ -364,10 +364,10 @@
     "groupId": 24283
   },
   "ST24-ST24-005 normal": {
-    "lowPrice": 0.61,
+    "lowPrice": 0.57,
     "midPrice": 0.99,
     "highPrice": 59.0,
-    "marketPrice": 0.7,
+    "marketPrice": 0.68,
     "directLowPrice": null,
     "name": "X.Drake",
     "rarity": "C",

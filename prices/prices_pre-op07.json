@@ -1,7 +1,7 @@
 {
   "OP07-OP07-006 normal": {
     "lowPrice": 0.17,
-    "midPrice": 0.42,
+    "midPrice": 0.4,
     "highPrice": 50.0,
     "marketPrice": 0.33,
     "directLowPrice": null,
@@ -27,7 +27,7 @@
   },
   "OP07-OP07-007 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.32,
+    "midPrice": 0.35,
     "highPrice": 2.0,
     "marketPrice": 0.18,
     "directLowPrice": null,
@@ -79,7 +79,7 @@
   },
   "OP07-OP07-011 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.45,
+    "midPrice": 0.47,
     "highPrice": 4.99,
     "marketPrice": 0.16,
     "directLowPrice": null,
@@ -105,7 +105,7 @@
   },
   "OP07-OP07-012 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.39,
+    "midPrice": 0.4,
     "highPrice": 10.0,
     "marketPrice": 0.21,
     "directLowPrice": null,
@@ -133,7 +133,7 @@
     "lowPrice": 0.2,
     "midPrice": 0.45,
     "highPrice": 2.0,
-    "marketPrice": 0.45,
+    "marketPrice": 0.47,
     "directLowPrice": null,
     "name": "Keep Out",
     "rarity": "C",
@@ -157,8 +157,8 @@
   },
   "OP07-OP07-020 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.63,
-    "highPrice": 2.3,
+    "midPrice": 0.62,
+    "highPrice": 2.0,
     "marketPrice": 0.59,
     "directLowPrice": null,
     "name": "Aladine",
@@ -183,7 +183,7 @@
   },
   "OP07-OP07-024 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.4,
+    "midPrice": 0.49,
     "highPrice": 10.0,
     "marketPrice": 0.27,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "OP07-OP07-025 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.32,
+    "midPrice": 0.35,
     "highPrice": 4.99,
     "marketPrice": 0.23,
     "directLowPrice": null,
@@ -261,7 +261,7 @@
   },
   "OP07-OP07-028 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.38,
+    "midPrice": 0.39,
     "highPrice": 10.0,
     "marketPrice": 0.26,
     "directLowPrice": null,
@@ -287,7 +287,7 @@
   },
   "OP07-OP07-030 normal": {
     "lowPrice": 0.21,
-    "midPrice": 0.54,
+    "midPrice": 0.53,
     "highPrice": 2.0,
     "marketPrice": 0.51,
     "directLowPrice": null,
@@ -339,7 +339,7 @@
   },
   "OP07-OP07-039 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.52,
+    "midPrice": 0.5,
     "highPrice": 2.0,
     "marketPrice": 0.16,
     "directLowPrice": null,
@@ -365,7 +365,7 @@
   },
   "OP07-OP07-042 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.39,
+    "midPrice": 0.4,
     "highPrice": 50.0,
     "marketPrice": 0.28,
     "directLowPrice": null,
@@ -417,7 +417,7 @@
   },
   "OP07-OP07-049 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.45,
+    "midPrice": 0.41,
     "highPrice": 10.0,
     "marketPrice": 0.3,
     "directLowPrice": null,
@@ -443,7 +443,7 @@
   },
   "OP07-OP07-050 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.5,
+    "midPrice": 1.0,
     "highPrice": 15.69,
     "marketPrice": 1.01,
     "directLowPrice": null,
@@ -495,7 +495,7 @@
   },
   "OP07-OP07-055 normal": {
     "lowPrice": 1.8,
-    "midPrice": 3.03,
+    "midPrice": 3.04,
     "highPrice": 6.03,
     "marketPrice": 2.85,
     "directLowPrice": null,
@@ -572,10 +572,10 @@
     "groupId": 23512
   },
   "OP07-OP07-062 normal": {
-    "lowPrice": 0.31,
-    "midPrice": 0.47,
+    "lowPrice": 0.3,
+    "midPrice": 0.5,
     "highPrice": 4.99,
-    "marketPrice": 0.3,
+    "marketPrice": 0.32,
     "directLowPrice": null,
     "name": "Vinsmoke Reiju",
     "rarity": "C",
@@ -625,7 +625,7 @@
   },
   "OP07-OP07-067 normal": {
     "lowPrice": 0.14,
-    "midPrice": 0.35,
+    "midPrice": 0.36,
     "highPrice": 2.0,
     "marketPrice": 0.19,
     "directLowPrice": null,
@@ -859,9 +859,9 @@
   },
   "OP07-OP07-089 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.35,
+    "midPrice": 0.4,
     "highPrice": 2.0,
-    "marketPrice": 0.21,
+    "marketPrice": 0.22,
     "directLowPrice": null,
     "name": "Maha",
     "rarity": "C",
@@ -911,7 +911,7 @@
   },
   "OP07-OP07-095 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.4,
+    "midPrice": 0.43,
     "highPrice": 2.62,
     "marketPrice": 0.34,
     "directLowPrice": null,
@@ -989,9 +989,9 @@
   },
   "OP07-OP07-102 normal": {
     "lowPrice": 0.69,
-    "midPrice": 0.98,
+    "midPrice": 0.99,
     "highPrice": 4.99,
-    "marketPrice": 0.94,
+    "marketPrice": 0.93,
     "directLowPrice": null,
     "name": "Jinbe (102)",
     "rarity": "C",
@@ -1041,7 +1041,7 @@
   },
   "OP07-OP07-106 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.38,
+    "midPrice": 0.39,
     "highPrice": 50.0,
     "marketPrice": 0.24,
     "directLowPrice": null,
@@ -1067,7 +1067,7 @@
   },
   "OP07-OP07-108 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.53,
+    "midPrice": 0.5,
     "highPrice": 4.99,
     "marketPrice": 0.48,
     "directLowPrice": null,
@@ -1145,7 +1145,7 @@
   },
   "OP07-OP07-117 normal": {
     "lowPrice": 1.0,
-    "midPrice": 1.81,
+    "midPrice": 1.77,
     "highPrice": 4.5,
     "marketPrice": 1.57,
     "directLowPrice": null,
@@ -1301,7 +1301,7 @@
   },
   "OP07-OP07-031 normal": {
     "lowPrice": 4.98,
-    "midPrice": 5.86,
+    "midPrice": 5.61,
     "highPrice": 19.75,
     "marketPrice": 5.91,
     "directLowPrice": null,
@@ -1329,7 +1329,7 @@
     "lowPrice": 5.0,
     "midPrice": 9.77,
     "highPrice": 13.99,
-    "marketPrice": 9.77,
+    "marketPrice": 9.46,
     "directLowPrice": null,
     "name": "Roronoa Zoro (034)",
     "rarity": "UC",
@@ -1508,7 +1508,7 @@
     "groupId": 23512
   },
   "OP07-OP07-060 normal": {
-    "lowPrice": 1.22,
+    "lowPrice": 1.2,
     "midPrice": 3.0,
     "highPrice": 7.63,
     "marketPrice": 2.79,
@@ -1611,9 +1611,35 @@
     "description": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, play up to 1 [Foxy Pirates] type card with a cost of 4 or less from your hand.",
     "groupId": 23512
   },
+  "OP07-OP07-075 normal": {
+    "lowPrice": 2.74,
+    "midPrice": 3.37,
+    "highPrice": 4.0,
+    "marketPrice": 2.74,
+    "directLowPrice": null,
+    "name": "Slow-Slow Beam",
+    "rarity": "UC",
+    "power": null,
+    "cost": "1",
+    "life": null,
+    "category": "Event",
+    "colors": "Purple",
+    "attributes": null,
+    "types": "Foxy Pirates",
+    "effect": null,
+    "trigger": null,
+    "counter": null,
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/552119_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Event",
+    "description": "[Counter] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Give up to 1 each of your opponent's Leader and Character cards -2000 power during this turn.",
+    "groupId": 23512
+  },
   "OP07-OP07-082 normal": {
     "lowPrice": 0.71,
-    "midPrice": 0.87,
+    "midPrice": 0.81,
     "highPrice": 1.25,
     "marketPrice": 0.95,
     "directLowPrice": null,
@@ -1639,7 +1665,7 @@
   },
   "OP07-OP07-083 normal": {
     "lowPrice": 0.6,
-    "midPrice": 1.33,
+    "midPrice": 1.42,
     "highPrice": 4.99,
     "marketPrice": 0.94,
     "directLowPrice": null,
@@ -1664,8 +1690,8 @@
     "groupId": 23512
   },
   "OP07-OP07-088 normal": {
-    "lowPrice": 0.51,
-    "midPrice": 1.24,
+    "lowPrice": 0.49,
+    "midPrice": 1.25,
     "highPrice": 2.0,
     "marketPrice": 1.02,
     "directLowPrice": null,
@@ -1717,7 +1743,7 @@
   },
   "OP07-OP07-094 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.5,
+    "midPrice": 0.54,
     "highPrice": 2.0,
     "marketPrice": 0.37,
     "directLowPrice": null,
@@ -1743,7 +1769,7 @@
   },
   "OP07-OP07-101 normal": {
     "lowPrice": 7.0,
-    "midPrice": 10.49,
+    "midPrice": 9.99,
     "highPrice": 100.0,
     "marketPrice": 9.66,
     "directLowPrice": null,
@@ -1794,8 +1820,8 @@
     "groupId": 23512
   },
   "OP07-OP07-105 normal": {
-    "lowPrice": 7.6,
-    "midPrice": 9.9,
+    "lowPrice": 8.4,
+    "midPrice": 11.4,
     "highPrice": 15.0,
     "marketPrice": 8.4,
     "directLowPrice": null,
@@ -1849,7 +1875,7 @@
     "lowPrice": 4.25,
     "midPrice": 5.85,
     "highPrice": 20.0,
-    "marketPrice": 5.59,
+    "marketPrice": 5.36,
     "directLowPrice": null,
     "name": "He Possesses the World's Most Brilliant Mind",
     "rarity": "UC",

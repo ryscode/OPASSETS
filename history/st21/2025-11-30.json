@@ -1,0 +1,354 @@
+{
+  "ST21-ST21-001 normal": {
+    "name": "Monkey.D.Luffy (001)",
+    "groupId": 23991,
+    "prices": {
+      "low": 3.25,
+      "mid": 4.33,
+      "high": 5.0,
+      "market": 3.45,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-001 parallel": {
+    "name": "Monkey.D.Luffy (001) (Parallel)",
+    "groupId": 23991,
+    "prices": {
+      "low": 24.42,
+      "mid": 34.99,
+      "high": 63.51,
+      "market": 24.99,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-002 normal": {
+    "name": "Usopp",
+    "groupId": 23991,
+    "prices": {
+      "low": 0.03,
+      "mid": 0.2,
+      "high": 5.0,
+      "market": 0.14,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-002 parallel": {
+    "name": "Usopp (Parallel)",
+    "groupId": 23991,
+    "prices": {
+      "low": 0.34,
+      "mid": 0.99,
+      "high": 8.0,
+      "market": 0.76,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-003 normal": {
+    "name": "Sanji",
+    "groupId": 23991,
+    "prices": {
+      "low": 0.25,
+      "mid": 0.81,
+      "high": 10.0,
+      "market": 0.7,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-003 parallel": {
+    "name": "Sanji (Parallel)",
+    "groupId": 23991,
+    "prices": {
+      "low": 12.0,
+      "mid": 15.44,
+      "high": 19.99,
+      "market": 12.69,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-004 normal": {
+    "name": "Jewelry Bonney",
+    "groupId": 23991,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.16,
+      "high": 1.1,
+      "market": 0.15,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-004 parallel": {
+    "name": "Jewelry Bonney (Parallel)",
+    "groupId": 23991,
+    "prices": {
+      "low": 3.21,
+      "mid": 5.0,
+      "high": 17.0,
+      "market": 4.71,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-005 normal": {
+    "name": "Jinbe",
+    "groupId": 23991,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.14,
+      "high": 1.1,
+      "market": 0.06,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-005 parallel": {
+    "name": "Jinbe (Parallel)",
+    "groupId": 23991,
+    "prices": {
+      "low": 0.5,
+      "mid": 1.0,
+      "high": 15.0,
+      "market": 0.76,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-006 normal": {
+    "name": "Stussy",
+    "groupId": 23991,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 1.99,
+      "market": 0.08,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-006 parallel": {
+    "name": "Stussy (Parallel)",
+    "groupId": 23991,
+    "prices": {
+      "low": 0.9,
+      "mid": 2.18,
+      "high": 19.99,
+      "market": 1.95,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-007 normal": {
+    "name": "Sentomaru",
+    "groupId": 23991,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 1.53,
+      "market": 0.07,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-007 parallel": {
+    "name": "Sentomaru (Parallel)",
+    "groupId": 23991,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.65,
+      "high": 5.0,
+      "market": 0.63,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-008 normal": {
+    "name": "Tony Tony.Chopper",
+    "groupId": 23991,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 1.1,
+      "market": 0.1,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-008 parallel": {
+    "name": "Tony Tony.Chopper (Parallel)",
+    "groupId": 23991,
+    "prices": {
+      "low": 1.0,
+      "mid": 2.64,
+      "high": 13.62,
+      "market": 2.64,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-009 normal": {
+    "name": "Nami",
+    "groupId": 23991,
+    "prices": {
+      "low": 0.05,
+      "mid": 0.25,
+      "high": 5.0,
+      "market": 0.19,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-009 parallel": {
+    "name": "Nami (Parallel)",
+    "groupId": 23991,
+    "prices": {
+      "low": 6.7,
+      "mid": 10.6,
+      "high": 18.37,
+      "market": 9.07,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-010 normal": {
+    "name": "Nico Robin",
+    "groupId": 23991,
+    "prices": {
+      "low": 0.09,
+      "mid": 0.27,
+      "high": 10.0,
+      "market": 0.26,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-010 parallel": {
+    "name": "Nico Robin (Parallel)",
+    "groupId": 23991,
+    "prices": {
+      "low": 4.77,
+      "mid": 6.2,
+      "high": 15.0,
+      "market": 5.79,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-011 normal": {
+    "name": "Franky",
+    "groupId": 23991,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 1.1,
+      "market": 0.08,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-011 parallel": {
+    "name": "Franky (Parallel)",
+    "groupId": 23991,
+    "prices": {
+      "low": 0.25,
+      "mid": 0.98,
+      "high": 10.0,
+      "market": 0.73,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-012 normal": {
+    "name": "Brook",
+    "groupId": 23991,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 1.32,
+      "market": 0.08,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-012 parallel": {
+    "name": "Brook (Parallel)",
+    "groupId": 23991,
+    "prices": {
+      "low": 1.0,
+      "mid": 1.71,
+      "high": 9.0,
+      "market": 1.32,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-013 normal": {
+    "name": "Vegapunk",
+    "groupId": 23991,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.2,
+      "high": 2.0,
+      "market": 0.16,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-013 parallel": {
+    "name": "Vegapunk (Parallel)",
+    "groupId": 23991,
+    "prices": {
+      "low": 0.24,
+      "mid": 0.68,
+      "high": 5.0,
+      "market": 0.57,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-014 normal": {
+    "name": "Monkey.D.Luffy (014)",
+    "groupId": 23991,
+    "prices": {
+      "low": 0.67,
+      "mid": 2.31,
+      "high": 25.0,
+      "market": 1.0,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-014 parallel": {
+    "name": "Monkey.D.Luffy (014) (Parallel)",
+    "groupId": 23991,
+    "prices": {
+      "low": 7.19,
+      "mid": 12.61,
+      "high": 42.98,
+      "market": 9.5,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-015 normal": {
+    "name": "Roronoa Zoro",
+    "groupId": 23991,
+    "prices": {
+      "low": 0.35,
+      "mid": 1.0,
+      "high": 25.0,
+      "market": 0.7,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-015 parallel": {
+    "name": "Roronoa Zoro (Parallel)",
+    "groupId": 23991,
+    "prices": {
+      "low": 6.79,
+      "mid": 12.52,
+      "high": 35.0,
+      "market": 7.24,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-016 normal": {
+    "name": "Gum-Gum Dawn Whip",
+    "groupId": 23991,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.22,
+      "high": 10.0,
+      "market": 0.15,
+      "directLow": null
+    }
+  },
+  "ST21-ST21-017 normal": {
+    "name": "Gum-Gum Mole Pistol",
+    "groupId": 23991,
+    "prices": {
+      "low": 2.99,
+      "mid": 5.09,
+      "high": 25.0,
+      "market": 3.71,
+      "directLow": null
+    }
+  }
+}

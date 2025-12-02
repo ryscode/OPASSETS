@@ -1,7 +1,7 @@
 {
   "ST01-ST01-001 normal": {
     "lowPrice": 975.0,
-    "midPrice": 1000.0,
+    "midPrice": 1499.5,
     "highPrice": 2000.0,
     "marketPrice": 455.78,
     "directLowPrice": null,
@@ -26,7 +26,7 @@
     "groupId": 17659
   },
   "ST01-ST01-002 normal": {
-    "lowPrice": 2.13,
+    "lowPrice": 2.74,
     "midPrice": 4.99,
     "highPrice": 25.0,
     "marketPrice": 1.08,
@@ -52,8 +52,8 @@
     "groupId": 17659
   },
   "ST01-ST01-003 normal": {
-    "lowPrice": 0.34,
-    "midPrice": 0.59,
+    "lowPrice": 0.42,
+    "midPrice": 0.7,
     "highPrice": 10.0,
     "marketPrice": 0.42,
     "directLowPrice": null,
@@ -104,7 +104,7 @@
     "groupId": 17659
   },
   "ST01-ST01-005 normal": {
-    "lowPrice": 1.21,
+    "lowPrice": 1.32,
     "midPrice": 1.5,
     "highPrice": 25.0,
     "marketPrice": 0.98,
@@ -130,10 +130,10 @@
     "groupId": 17659
   },
   "ST01-ST01-006 normal": {
-    "lowPrice": 9.5,
+    "lowPrice": 8.12,
     "midPrice": 9.98,
     "highPrice": 50.0,
-    "marketPrice": 8.12,
+    "marketPrice": 8.16,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper",
     "rarity": "C",
@@ -158,8 +158,8 @@
   "ST01-ST01-007 normal": {
     "lowPrice": 19.99,
     "midPrice": 39.99,
-    "highPrice": 100.0,
-    "marketPrice": 14.68,
+    "highPrice": 125.0,
+    "marketPrice": 15.31,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "C",
@@ -182,10 +182,10 @@
     "groupId": 17659
   },
   "ST01-ST01-008 normal": {
-    "lowPrice": 15.0,
-    "midPrice": 32.5,
+    "lowPrice": 15.99,
+    "midPrice": 33.0,
     "highPrice": 50.0,
-    "marketPrice": 5.43,
+    "marketPrice": 5.88,
     "directLowPrice": null,
     "name": "Nico Robin",
     "rarity": "C",
@@ -209,7 +209,7 @@
   },
   "ST01-ST01-009 normal": {
     "lowPrice": 2.5,
-    "midPrice": 4.99,
+    "midPrice": 4.95,
     "highPrice": 25.0,
     "marketPrice": 2.11,
     "directLowPrice": null,
@@ -260,7 +260,7 @@
     "groupId": 17659
   },
   "ST01-ST01-011 normal": {
-    "lowPrice": 8.49,
+    "lowPrice": 8.89,
     "midPrice": 11.0,
     "highPrice": 22.79,
     "marketPrice": 4.19,
@@ -286,10 +286,10 @@
     "groupId": 17659
   },
   "ST01-ST01-012 normal": {
-    "lowPrice": 56.22,
-    "midPrice": 90.0,
-    "highPrice": 129.29,
-    "marketPrice": 44.38,
+    "lowPrice": 52.25,
+    "midPrice": 124.65,
+    "highPrice": 250.0,
+    "marketPrice": 47.24,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (012)",
     "rarity": "SR",
@@ -312,8 +312,8 @@
     "groupId": 17659
   },
   "ST01-ST01-013 normal": {
-    "lowPrice": 34.0,
-    "midPrice": 75.0,
+    "lowPrice": 33.25,
+    "midPrice": 57.97,
     "highPrice": 175.0,
     "marketPrice": 24.23,
     "directLowPrice": null,
@@ -339,7 +339,7 @@
   },
   "ST01-ST01-014 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.43,
+    "midPrice": 1.46,
     "highPrice": 15.0,
     "marketPrice": 0.89,
     "directLowPrice": null,
@@ -417,9 +417,9 @@
   },
   "ST01-ST01-017 normal": {
     "lowPrice": 2.0,
-    "midPrice": 2.48,
+    "midPrice": 2.45,
     "highPrice": 3.56,
-    "marketPrice": 2.44,
+    "marketPrice": 2.51,
     "directLowPrice": null,
     "name": "Thousand Sunny",
     "rarity": "C",

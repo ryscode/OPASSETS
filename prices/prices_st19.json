@@ -3,7 +3,7 @@
     "lowPrice": 0.24,
     "midPrice": 0.5,
     "highPrice": 50.0,
-    "marketPrice": 0.45,
+    "marketPrice": 0.46,
     "directLowPrice": null,
     "name": "Smoker (OP02-093)",
     "rarity": "L",
@@ -53,7 +53,7 @@
   },
   "OP02-OP02-106 normal": {
     "lowPrice": 0.08,
-    "midPrice": 0.2,
+    "midPrice": 0.22,
     "highPrice": 2.0,
     "marketPrice": 0.14,
     "directLowPrice": null,
@@ -79,8 +79,8 @@
   },
   "OP02-OP02-108 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.12,
-    "highPrice": 1.3,
+    "midPrice": 0.15,
+    "highPrice": 1.31,
     "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Donquixote Rosinante",
@@ -105,7 +105,7 @@
   },
   "OP02-OP02-109 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.1,
+    "midPrice": 0.13,
     "highPrice": 1.29,
     "marketPrice": 0.08,
     "directLowPrice": null,
@@ -131,8 +131,8 @@
   },
   "OP02-OP02-113 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.13,
-    "highPrice": 1.29,
+    "midPrice": 0.15,
+    "highPrice": 1.31,
     "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Helmeppo",
@@ -234,8 +234,8 @@
     "groupId": 23494
   },
   "ST19-ST19-001 normal": {
-    "lowPrice": 0.03,
-    "midPrice": 0.18,
+    "lowPrice": 0.04,
+    "midPrice": 0.2,
     "highPrice": 7.5,
     "marketPrice": 0.15,
     "directLowPrice": null,
@@ -260,10 +260,10 @@
     "groupId": 23494
   },
   "ST19-ST19-002 normal": {
-    "lowPrice": 0.29,
+    "lowPrice": 0.3,
     "midPrice": 1.0,
     "highPrice": 10.0,
-    "marketPrice": 0.56,
+    "marketPrice": 0.54,
     "directLowPrice": null,
     "name": "Sengoku",
     "rarity": "C",
@@ -287,9 +287,9 @@
   },
   "ST19-ST19-003 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.83,
+    "midPrice": 0.88,
     "highPrice": 99.0,
-    "marketPrice": 0.77,
+    "marketPrice": 0.76,
     "directLowPrice": null,
     "name": "Tashigi",
     "rarity": "SR",
@@ -312,10 +312,10 @@
     "groupId": 23494
   },
   "ST19-ST19-004 normal": {
-    "lowPrice": 0.83,
+    "lowPrice": 0.5,
     "midPrice": 1.41,
     "highPrice": 149.0,
-    "marketPrice": 1.22,
+    "marketPrice": 1.18,
     "directLowPrice": null,
     "name": "Hina",
     "rarity": "SR",
@@ -341,7 +341,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.23,
     "highPrice": 3.0,
-    "marketPrice": 0.19,
+    "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Monkey.D.Garp",
     "rarity": "C",

@@ -1,7 +1,7 @@
 {
   "ST03-ST03-001 normal": {
     "lowPrice": 61.0,
-    "midPrice": 74.99,
+    "midPrice": 75.0,
     "highPrice": 118.0,
     "marketPrice": 69.68,
     "directLowPrice": null,
@@ -26,10 +26,10 @@
     "groupId": 17660
   },
   "ST03-ST03-003 normal": {
-    "lowPrice": 3.74,
-    "midPrice": 5.11,
+    "lowPrice": 3.76,
+    "midPrice": 5.35,
     "highPrice": 50.0,
-    "marketPrice": 3.95,
+    "marketPrice": 4.03,
     "directLowPrice": null,
     "name": "Crocodile (003)",
     "rarity": "SR",
@@ -52,10 +52,10 @@
     "groupId": 17660
   },
   "ST03-ST03-009 normal": {
-    "lowPrice": 7.0,
-    "midPrice": 11.99,
+    "lowPrice": 7.25,
+    "midPrice": 15.5,
     "highPrice": 100.0,
-    "marketPrice": 9.48,
+    "marketPrice": 9.68,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo",
     "rarity": "SR",
@@ -79,7 +79,7 @@
   },
   "ST03-ST03-008 normal": {
     "lowPrice": 0.86,
-    "midPrice": 1.77,
+    "midPrice": 5.43,
     "highPrice": 10.0,
     "marketPrice": 1.46,
     "directLowPrice": null,
@@ -105,7 +105,7 @@
   },
   "ST03-ST03-016 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.28,
+    "midPrice": 0.29,
     "highPrice": 25.0,
     "marketPrice": 0.24,
     "directLowPrice": null,
@@ -156,7 +156,7 @@
     "groupId": 17660
   },
   "ST03-ST03-015 normal": {
-    "lowPrice": 0.67,
+    "lowPrice": 0.61,
     "midPrice": 3.88,
     "highPrice": 50.0,
     "marketPrice": 2.13,
@@ -235,7 +235,7 @@
   },
   "ST03-ST03-017 normal": {
     "lowPrice": 3.55,
-    "midPrice": 6.42,
+    "midPrice": 5.8,
     "highPrice": 100.0,
     "marketPrice": 4.47,
     "directLowPrice": null,
@@ -338,8 +338,8 @@
     "groupId": 17660
   },
   "ST03-ST03-005 normal": {
-    "lowPrice": 1.49,
-    "midPrice": 2.92,
+    "lowPrice": 0.81,
+    "midPrice": 3.0,
     "highPrice": 50.0,
     "marketPrice": 1.84,
     "directLowPrice": null,
@@ -364,10 +364,10 @@
     "groupId": 17660
   },
   "ST03-ST03-011 normal": {
-    "lowPrice": 0.49,
-    "midPrice": 0.99,
-    "highPrice": 10.0,
-    "marketPrice": 0.87,
+    "lowPrice": 9.99,
+    "midPrice": 10.5,
+    "highPrice": 15.0,
+    "marketPrice": 0.88,
     "directLowPrice": null,
     "name": "Buggy",
     "rarity": "C",

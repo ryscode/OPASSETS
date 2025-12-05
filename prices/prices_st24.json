@@ -1,6 +1,6 @@
 {
   "EB01-EB01-015 normal": {
-    "lowPrice": 0.1,
+    "lowPrice": 0.09,
     "midPrice": 0.25,
     "highPrice": 10.0,
     "marketPrice": 0.18,
@@ -235,9 +235,9 @@
   },
   "OP07-OP07-037 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.1,
+    "midPrice": 0.12,
     "highPrice": 8.0,
-    "marketPrice": 0.05,
+    "marketPrice": 0.04,
     "directLowPrice": null,
     "name": "More Pizza!! (Reprint)",
     "rarity": "UC",
@@ -338,10 +338,10 @@
     "groupId": 24283
   },
   "ST24-ST24-004 normal": {
-    "lowPrice": 3.39,
-    "midPrice": 4.95,
+    "lowPrice": 2.99,
+    "midPrice": 4.91,
     "highPrice": 12.0,
-    "marketPrice": 3.81,
+    "marketPrice": 3.74,
     "directLowPrice": null,
     "name": "Law & Bepo",
     "rarity": "SR",
@@ -367,7 +367,7 @@
     "lowPrice": 0.25,
     "midPrice": 0.76,
     "highPrice": 59.0,
-    "marketPrice": 0.57,
+    "marketPrice": 0.45,
     "directLowPrice": null,
     "name": "X.Drake",
     "rarity": "C",

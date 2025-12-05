@@ -1,9 +1,9 @@
 {
   "ST12-ST12-001 normal": {
-    "lowPrice": 4.99,
-    "midPrice": 5.61,
+    "lowPrice": 24.99,
+    "midPrice": 44.25,
     "highPrice": 100.0,
-    "marketPrice": 5.28,
+    "marketPrice": 5.84,
     "directLowPrice": null,
     "name": "Roronoa Zoro & Sanji",
     "rarity": "L",
@@ -29,7 +29,7 @@
     "lowPrice": 0.25,
     "midPrice": 0.73,
     "highPrice": 25.0,
-    "marketPrice": 0.62,
+    "marketPrice": 0.61,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
     "rarity": "C",
@@ -78,7 +78,7 @@
     "groupId": 23348
   },
   "ST12-ST12-016 normal": {
-    "lowPrice": 0.11,
+    "lowPrice": 0.14,
     "midPrice": 0.25,
     "highPrice": 10.0,
     "marketPrice": 0.22,
@@ -157,9 +157,9 @@
   },
   "ST12-ST12-003 normal": {
     "lowPrice": 9.95,
-    "midPrice": 14.09,
+    "midPrice": 13.85,
     "highPrice": 50.0,
-    "marketPrice": 12.28,
+    "marketPrice": 11.8,
     "directLowPrice": null,
     "name": "Dracule Mihawk",
     "rarity": "SR",
@@ -260,8 +260,8 @@
     "groupId": 23348
   },
   "ST12-ST12-007 normal": {
-    "lowPrice": 0.91,
-    "midPrice": 1.55,
+    "lowPrice": 0.87,
+    "midPrice": 1.59,
     "highPrice": 25.0,
     "marketPrice": 1.16,
     "directLowPrice": null,
@@ -312,8 +312,8 @@
     "groupId": 23348
   },
   "ST12-ST12-010 normal": {
-    "lowPrice": 0.99,
-    "midPrice": 2.25,
+    "lowPrice": 0.9,
+    "midPrice": 2.3,
     "highPrice": 25.0,
     "marketPrice": 1.18,
     "directLowPrice": null,
@@ -393,7 +393,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.21,
     "highPrice": 5.5,
-    "marketPrice": 0.15,
+    "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Duval",
     "rarity": "C",

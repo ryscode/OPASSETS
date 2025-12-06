@@ -1,7 +1,7 @@
 {
   "ST01-ST01-001 normal": {
-    "lowPrice": 919.99,
-    "midPrice": 975.0,
+    "lowPrice": 840.7,
+    "midPrice": 925.0,
     "highPrice": 2000.0,
     "marketPrice": 455.78,
     "directLowPrice": null,
@@ -27,9 +27,9 @@
   },
   "ST01-ST01-002 normal": {
     "lowPrice": 3.28,
-    "midPrice": 4.58,
+    "midPrice": 4.39,
     "highPrice": 25.0,
-    "marketPrice": 1.37,
+    "marketPrice": 1.42,
     "directLowPrice": null,
     "name": "Usopp",
     "rarity": "C",
@@ -53,9 +53,9 @@
   },
   "ST01-ST01-003 normal": {
     "lowPrice": 0.42,
-    "midPrice": 0.7,
+    "midPrice": 0.97,
     "highPrice": 10.0,
-    "marketPrice": 0.42,
+    "marketPrice": 0.49,
     "directLowPrice": null,
     "name": "Karoo",
     "rarity": "C",
@@ -79,7 +79,7 @@
   },
   "ST01-ST01-004 normal": {
     "lowPrice": 4.5,
-    "midPrice": 11.0,
+    "midPrice": 10.99,
     "highPrice": 50.0,
     "marketPrice": 4.43,
     "directLowPrice": null,
@@ -104,10 +104,10 @@
     "groupId": 17659
   },
   "ST01-ST01-005 normal": {
-    "lowPrice": 6.71,
-    "midPrice": 11.58,
+    "lowPrice": 8.25,
+    "midPrice": 9.99,
     "highPrice": 25.0,
-    "marketPrice": 1.08,
+    "marketPrice": 1.46,
     "directLowPrice": null,
     "name": "Jinbe",
     "rarity": "C",
@@ -131,9 +131,9 @@
   },
   "ST01-ST01-006 normal": {
     "lowPrice": 5.0,
-    "midPrice": 9.56,
+    "midPrice": 9.97,
     "highPrice": 50.0,
-    "marketPrice": 8.22,
+    "marketPrice": 8.17,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper",
     "rarity": "C",
@@ -157,9 +157,9 @@
   },
   "ST01-ST01-007 normal": {
     "lowPrice": 19.99,
-    "midPrice": 50.0,
+    "midPrice": 45.0,
     "highPrice": 125.0,
-    "marketPrice": 18.22,
+    "marketPrice": 20.36,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "C",
@@ -183,7 +183,7 @@
   },
   "ST01-ST01-008 normal": {
     "lowPrice": 14.0,
-    "midPrice": 41.0,
+    "midPrice": 40.5,
     "highPrice": 100.0,
     "marketPrice": 9.28,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "ST01-ST01-009 normal": {
     "lowPrice": 2.5,
-    "midPrice": 4.9,
+    "midPrice": 4.95,
     "highPrice": 25.0,
     "marketPrice": 2.58,
     "directLowPrice": null,
@@ -234,10 +234,10 @@
     "groupId": 17659
   },
   "ST01-ST01-010 normal": {
-    "lowPrice": 3.11,
-    "midPrice": 11.38,
+    "lowPrice": 9.0,
+    "midPrice": 14.35,
     "highPrice": 25.0,
-    "marketPrice": 3.92,
+    "marketPrice": 3.91,
     "directLowPrice": null,
     "name": "Franky",
     "rarity": "C",
@@ -260,10 +260,10 @@
     "groupId": 17659
   },
   "ST01-ST01-011 normal": {
-    "lowPrice": 2.41,
-    "midPrice": 9.93,
+    "lowPrice": 6.0,
+    "midPrice": 9.95,
     "highPrice": 14.98,
-    "marketPrice": 4.19,
+    "marketPrice": 4.39,
     "directLowPrice": null,
     "name": "Brook",
     "rarity": "C",
@@ -286,8 +286,8 @@
     "groupId": 17659
   },
   "ST01-ST01-012 normal": {
-    "lowPrice": 150.0,
-    "midPrice": 198.35,
+    "lowPrice": 148.0,
+    "midPrice": 180.0,
     "highPrice": 250.0,
     "marketPrice": 59.66,
     "directLowPrice": null,
@@ -312,10 +312,10 @@
     "groupId": 17659
   },
   "ST01-ST01-013 normal": {
-    "lowPrice": 59.99,
-    "midPrice": 74.97,
+    "lowPrice": 64.01,
+    "midPrice": 98.85,
     "highPrice": 175.0,
-    "marketPrice": 36.82,
+    "marketPrice": 43.52,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
     "rarity": "SR",
@@ -339,9 +339,9 @@
   },
   "ST01-ST01-014 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.49,
+    "midPrice": 1.86,
     "highPrice": 15.0,
-    "marketPrice": 0.9,
+    "marketPrice": 0.99,
     "directLowPrice": null,
     "name": "Guard Point",
     "rarity": "C",
@@ -367,7 +367,7 @@
     "lowPrice": 0.6,
     "midPrice": 1.36,
     "highPrice": 19.98,
-    "marketPrice": 0.8,
+    "marketPrice": 0.85,
     "directLowPrice": null,
     "name": "Gum-Gum Jet Pistol",
     "rarity": "C",
@@ -390,10 +390,10 @@
     "groupId": 17659
   },
   "ST01-ST01-016 normal": {
-    "lowPrice": 1.97,
+    "lowPrice": 1.31,
     "midPrice": 3.99,
     "highPrice": 19.95,
-    "marketPrice": 3.05,
+    "marketPrice": 3.0,
     "directLowPrice": null,
     "name": "Diable Jambe",
     "rarity": "C",
@@ -417,9 +417,9 @@
   },
   "ST01-ST01-017 normal": {
     "lowPrice": 2.0,
-    "midPrice": 2.5,
+    "midPrice": 2.43,
     "highPrice": 3.56,
-    "marketPrice": 2.42,
+    "marketPrice": 2.4,
     "directLowPrice": null,
     "name": "Thousand Sunny",
     "rarity": "C",

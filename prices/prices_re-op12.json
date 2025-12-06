@@ -1,7 +1,7 @@
 {
   "OP12-OP12-116 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.49,
+    "midPrice": 0.5,
     "highPrice": 7.0,
     "marketPrice": 0.38,
     "directLowPrice": null,
@@ -27,7 +27,7 @@
   },
   "OP12-OP12-111 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.92,
+    "midPrice": 0.91,
     "highPrice": 3.0,
     "marketPrice": 0.58,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "OP12-OP12-096 normal": {
     "lowPrice": 0.47,
-    "midPrice": 1.01,
+    "midPrice": 1.0,
     "highPrice": 9.99,
     "marketPrice": 0.91,
     "directLowPrice": null,
@@ -235,9 +235,9 @@
   },
   "OP12-OP12-091 normal": {
     "lowPrice": 0.33,
-    "midPrice": 1.05,
+    "midPrice": 1.04,
     "highPrice": 7.0,
-    "marketPrice": 1.08,
+    "marketPrice": 1.04,
     "directLowPrice": null,
     "name": "Poker",
     "rarity": "C",
@@ -417,7 +417,7 @@
   },
   "OP12-OP12-075 normal": {
     "lowPrice": 3.87,
-    "midPrice": 6.94,
+    "midPrice": 10.0,
     "highPrice": 10.0,
     "marketPrice": 3.08,
     "directLowPrice": null,
@@ -625,7 +625,7 @@
   },
   "OP12-OP12-054 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.52,
+    "midPrice": 0.5,
     "highPrice": 4.99,
     "marketPrice": 0.45,
     "directLowPrice": null,
@@ -676,10 +676,10 @@
     "groupId": 24406
   },
   "OP12-OP12-048 normal": {
-    "lowPrice": 0.5,
+    "lowPrice": 0.4,
     "midPrice": 1.89,
     "highPrice": 9.99,
-    "marketPrice": 1.73,
+    "marketPrice": 1.67,
     "directLowPrice": null,
     "name": "Donquixote Rosinante (048)",
     "rarity": "C",
@@ -702,8 +702,8 @@
     "groupId": 24406
   },
   "OP12-OP12-046 normal": {
-    "lowPrice": 1.15,
-    "midPrice": 1.48,
+    "lowPrice": 1.0,
+    "midPrice": 1.43,
     "highPrice": 8.0,
     "marketPrice": 1.25,
     "directLowPrice": null,
@@ -755,7 +755,7 @@
   },
   "OP12-OP12-042 normal": {
     "lowPrice": 0.35,
-    "midPrice": 1.15,
+    "midPrice": 1.13,
     "highPrice": 10.0,
     "marketPrice": 0.77,
     "directLowPrice": null,
@@ -781,7 +781,7 @@
   },
   "OP12-OP12-038 normal": {
     "lowPrice": 0.3,
-    "midPrice": 1.24,
+    "midPrice": 1.33,
     "highPrice": 14.99,
     "marketPrice": 0.76,
     "directLowPrice": null,
@@ -806,7 +806,7 @@
     "groupId": 24406
   },
   "OP12-OP12-036 normal": {
-    "lowPrice": 1.01,
+    "lowPrice": 1.0,
     "midPrice": 1.7,
     "highPrice": 5.99,
     "marketPrice": 1.45,
@@ -861,7 +861,7 @@
     "lowPrice": 0.02,
     "midPrice": 0.5,
     "highPrice": 4.99,
-    "marketPrice": 0.33,
+    "marketPrice": 0.35,
     "directLowPrice": null,
     "name": "Helmeppo",
     "rarity": "C",
@@ -1015,7 +1015,7 @@
   },
   "OP12-OP12-016 normal": {
     "lowPrice": 0.9,
-    "midPrice": 2.26,
+    "midPrice": 2.25,
     "highPrice": 9.89,
     "marketPrice": 1.58,
     "directLowPrice": null,
@@ -1119,9 +1119,9 @@
   },
   "OP12-OP12-007 normal": {
     "lowPrice": 0.87,
-    "midPrice": 1.89,
+    "midPrice": 1.99,
     "highPrice": 5.0,
-    "marketPrice": 1.32,
+    "marketPrice": 1.27,
     "directLowPrice": null,
     "name": "Shanks (007)",
     "rarity": "C",
@@ -1171,7 +1171,7 @@
   },
   "OP12-OP12-002 normal": {
     "lowPrice": 1.45,
-    "midPrice": 2.18,
+    "midPrice": 2.02,
     "highPrice": 3.05,
     "marketPrice": 2.34,
     "directLowPrice": null,
@@ -1275,7 +1275,7 @@
   },
   "OP12-OP12-017 normal": {
     "lowPrice": 11.5,
-    "midPrice": 12.9,
+    "midPrice": 12.8,
     "highPrice": 21.98,
     "marketPrice": 10.19,
     "directLowPrice": null,
@@ -1326,8 +1326,8 @@
     "groupId": 24406
   },
   "OP12-OP12-026 normal": {
-    "lowPrice": 6.93,
-    "midPrice": 8.78,
+    "lowPrice": 7.79,
+    "midPrice": 8.99,
     "highPrice": 14.92,
     "marketPrice": 8.27,
     "directLowPrice": null,
@@ -1378,8 +1378,8 @@
     "groupId": 24406
   },
   "OP12-OP12-029 normal": {
-    "lowPrice": 5.67,
-    "midPrice": 8.68,
+    "lowPrice": 4.99,
+    "midPrice": 7.23,
     "highPrice": 12.99,
     "marketPrice": 7.39,
     "directLowPrice": null,
@@ -1405,7 +1405,7 @@
   },
   "OP12-OP12-032 normal": {
     "lowPrice": 0.43,
-    "midPrice": 0.51,
+    "midPrice": 0.5,
     "highPrice": 2.0,
     "marketPrice": 0.57,
     "directLowPrice": null,
@@ -1509,7 +1509,7 @@
   },
   "OP12-OP12-055 normal": {
     "lowPrice": 0.9,
-    "midPrice": 1.77,
+    "midPrice": 1.75,
     "highPrice": 7.09,
     "marketPrice": 1.67,
     "directLowPrice": null,
@@ -1613,7 +1613,7 @@
   },
   "OP12-OP12-072 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.7,
+    "midPrice": 0.71,
     "highPrice": 5.0,
     "marketPrice": 0.71,
     "directLowPrice": null,
@@ -1769,7 +1769,7 @@
   },
   "OP12-OP12-093 normal": {
     "lowPrice": 3.74,
-    "midPrice": 9.45,
+    "midPrice": 9.9,
     "highPrice": 9.99,
     "marketPrice": 3.74,
     "directLowPrice": null,
@@ -1795,8 +1795,8 @@
   },
   "OP12-OP12-098 normal": {
     "lowPrice": 5.51,
-    "midPrice": 5.58,
-    "highPrice": 5.65,
+    "midPrice": 5.65,
+    "highPrice": 6.4,
     "marketPrice": 5.01,
     "directLowPrice": null,
     "name": "Hair Removal Fist",

@@ -79,7 +79,7 @@
   },
   "OP05-OP05-009 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.5,
+    "midPrice": 0.56,
     "highPrice": 2.99,
     "marketPrice": 0.28,
     "directLowPrice": null,
@@ -107,7 +107,7 @@
     "lowPrice": 184.68,
     "midPrice": 184.84,
     "highPrice": 185.0,
-    "marketPrice": 131.13,
+    "marketPrice": 137.08,
     "directLowPrice": null,
     "name": "Nico Robin",
     "rarity": "UC",
@@ -131,9 +131,9 @@
   },
   "OP05-OP05-011 normal": {
     "lowPrice": 17.9,
-    "midPrice": 19.02,
+    "midPrice": 18.97,
     "highPrice": 35.0,
-    "marketPrice": 19.05,
+    "marketPrice": 18.97,
     "directLowPrice": null,
     "name": "Bartholomew Kuma",
     "rarity": "C",
@@ -391,7 +391,7 @@
   },
   "OP05-OP05-027 normal": {
     "lowPrice": 13.0,
-    "midPrice": 27.45,
+    "midPrice": 27.4,
     "highPrice": 35.0,
     "marketPrice": 11.9,
     "directLowPrice": null,
@@ -419,7 +419,7 @@
     "lowPrice": 2.59,
     "midPrice": 3.56,
     "highPrice": 4.99,
-    "marketPrice": 2.67,
+    "marketPrice": 2.68,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo (028)",
     "rarity": "C",
@@ -469,7 +469,7 @@
   },
   "OP05-OP05-031 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.52,
+    "midPrice": 0.5,
     "highPrice": 7.88,
     "marketPrice": 0.52,
     "directLowPrice": null,
@@ -495,7 +495,7 @@
   },
   "OP05-OP05-033 normal": {
     "lowPrice": 0.92,
-    "midPrice": 1.05,
+    "midPrice": 1.04,
     "highPrice": 4.49,
     "marketPrice": 0.92,
     "directLowPrice": null,
@@ -572,10 +572,10 @@
     "groupId": 23368
   },
   "OP05-OP05-038 normal": {
-    "lowPrice": 5.44,
+    "lowPrice": 7.68,
     "midPrice": 11.0,
     "highPrice": 19.99,
-    "marketPrice": 3.2,
+    "marketPrice": 3.3,
     "directLowPrice": null,
     "name": "Charlestone",
     "rarity": "C",
@@ -651,7 +651,7 @@
   },
   "OP05-OP05-044 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.9,
+    "midPrice": 0.92,
     "highPrice": 8.8,
     "marketPrice": 0.5,
     "directLowPrice": null,
@@ -703,7 +703,7 @@
   },
   "OP05-OP05-046 normal": {
     "lowPrice": 1.02,
-    "midPrice": 1.83,
+    "midPrice": 1.81,
     "highPrice": 8.74,
     "marketPrice": 1.78,
     "directLowPrice": null,
@@ -806,8 +806,8 @@
     "groupId": 23368
   },
   "OP05-OP05-052 normal": {
-    "lowPrice": 1.96,
-    "midPrice": 2.69,
+    "lowPrice": 2.18,
+    "midPrice": 3.0,
     "highPrice": 50.0,
     "marketPrice": 2.64,
     "directLowPrice": null,
@@ -937,7 +937,7 @@
   },
   "OP05-OP05-059 normal": {
     "lowPrice": 3.45,
-    "midPrice": 4.82,
+    "midPrice": 4.7,
     "highPrice": 14.95,
     "marketPrice": 4.24,
     "directLowPrice": null,
@@ -962,10 +962,10 @@
     "groupId": 23368
   },
   "OP05-OP05-061 normal": {
-    "lowPrice": 15.99,
-    "midPrice": 16.0,
+    "lowPrice": 16.0,
+    "midPrice": 18.0,
     "highPrice": 20.0,
-    "marketPrice": 15.38,
+    "marketPrice": 15.46,
     "directLowPrice": null,
     "name": "Uso-Hachi",
     "rarity": "UC",
@@ -990,7 +990,7 @@
   "OP05-OP05-062 normal": {
     "lowPrice": 96.7,
     "midPrice": 98.69,
-    "highPrice": 128.5,
+    "highPrice": 128.2,
     "marketPrice": 73.4,
     "directLowPrice": null,
     "name": "O-Nami",
@@ -1015,9 +1015,9 @@
   },
   "OP05-OP05-063 normal": {
     "lowPrice": 39.0,
-    "midPrice": 44.0,
+    "midPrice": 45.0,
     "highPrice": 49.98,
-    "marketPrice": 35.39,
+    "marketPrice": 35.46,
     "directLowPrice": null,
     "name": "O-Robi",
     "rarity": "C",
@@ -1091,32 +1091,6 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>\r\n<br>\r\n[Opponent's Turn] If you have 10 DON!! cards on your field, this Character gains +1000 power.",
     "groupId": 23368
   },
-  "OP05-OP05-068 normal": {
-    "lowPrice": 6.21,
-    "midPrice": 6.67,
-    "highPrice": 7.13,
-    "marketPrice": 6.19,
-    "directLowPrice": null,
-    "name": "Chopa-Emon",
-    "rarity": "C",
-    "power": "3000",
-    "cost": "2",
-    "life": null,
-    "category": "Character",
-    "colors": "Purple",
-    "attributes": "Wisdom",
-    "types": "Animal;Straw Hat Crew",
-    "effect": "yes",
-    "trigger": null,
-    "counter": "1000",
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/530931_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Character",
-    "description": "[On Play] If you have 8 or more DON!! cards on your field, set up to 1 of your purple [Straw Hat Crew] type Characters with 6000 power or less as active.",
-    "groupId": 23368
-  },
   "OP05-OP05-070 normal": {
     "lowPrice": 30.0,
     "midPrice": 31.28,
@@ -1145,7 +1119,7 @@
   },
   "OP05-OP05-072 normal": {
     "lowPrice": 1.26,
-    "midPrice": 3.23,
+    "midPrice": 3.2,
     "highPrice": 7.24,
     "marketPrice": 2.11,
     "directLowPrice": null,
@@ -1170,7 +1144,7 @@
     "groupId": 23368
   },
   "OP05-OP05-073 normal": {
-    "lowPrice": 7.29,
+    "lowPrice": 5.93,
     "midPrice": 9.32,
     "highPrice": 39.99,
     "marketPrice": 9.64,
@@ -1196,8 +1170,8 @@
     "groupId": 23368
   },
   "OP05-OP05-075 normal": {
-    "lowPrice": 1.62,
-    "midPrice": 1.71,
+    "lowPrice": 1.5,
+    "midPrice": 1.68,
     "highPrice": 55.0,
     "marketPrice": 1.55,
     "directLowPrice": null,
@@ -1223,7 +1197,7 @@
   },
   "OP05-OP05-077 normal": {
     "lowPrice": 6.0,
-    "midPrice": 8.77,
+    "midPrice": 8.75,
     "highPrice": 20.0,
     "marketPrice": 8.95,
     "directLowPrice": null,
@@ -1326,8 +1300,8 @@
     "groupId": 23368
   },
   "OP05-OP05-081 normal": {
-    "lowPrice": 8.96,
-    "midPrice": 12.81,
+    "lowPrice": 8.49,
+    "midPrice": 12.54,
     "highPrice": 24.99,
     "marketPrice": 9.99,
     "directLowPrice": null,
@@ -1353,7 +1327,7 @@
   },
   "OP05-OP05-083 normal": {
     "lowPrice": 0.47,
-    "midPrice": 0.59,
+    "midPrice": 0.6,
     "highPrice": 3.49,
     "marketPrice": 0.54,
     "directLowPrice": null,
@@ -1407,7 +1381,7 @@
     "lowPrice": 8.7,
     "midPrice": 30.0,
     "highPrice": 48.99,
-    "marketPrice": 8.38,
+    "marketPrice": 9.14,
     "directLowPrice": null,
     "name": "Nefeltari Cobra",
     "rarity": "UC",
@@ -1509,7 +1483,7 @@
   },
   "OP05-OP05-092 normal": {
     "lowPrice": 2.0,
-    "midPrice": 3.46,
+    "midPrice": 3.36,
     "highPrice": 15.0,
     "marketPrice": 3.28,
     "directLowPrice": null,
@@ -1587,7 +1561,7 @@
   },
   "OP05-OP05-097 normal": {
     "lowPrice": 7.78,
-    "midPrice": 9.87,
+    "midPrice": 9.75,
     "highPrice": 19.99,
     "marketPrice": 10.08,
     "directLowPrice": null,
@@ -1691,7 +1665,7 @@
   },
   "OP05-OP05-107 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.52,
+    "midPrice": 0.5,
     "highPrice": 2.0,
     "marketPrice": 0.5,
     "directLowPrice": null,
@@ -1743,7 +1717,7 @@
   },
   "OP05-OP05-109 normal": {
     "lowPrice": 0.48,
-    "midPrice": 0.51,
+    "midPrice": 0.5,
     "highPrice": 0.99,
     "marketPrice": 0.43,
     "directLowPrice": null,
@@ -1795,7 +1769,7 @@
   },
   "OP05-OP05-111 normal": {
     "lowPrice": 1.13,
-    "midPrice": 1.46,
+    "midPrice": 1.49,
     "highPrice": 10.0,
     "marketPrice": 1.13,
     "directLowPrice": null,
@@ -1821,7 +1795,7 @@
   },
   "OP05-OP05-112 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.75,
+    "midPrice": 0.7,
     "highPrice": 2.94,
     "marketPrice": 0.56,
     "directLowPrice": null,
@@ -1872,7 +1846,7 @@
     "groupId": 23368
   },
   "OP05-OP05-114 normal": {
-    "lowPrice": 3.18,
+    "lowPrice": 3.14,
     "midPrice": 5.88,
     "highPrice": 19.0,
     "marketPrice": 5.76,

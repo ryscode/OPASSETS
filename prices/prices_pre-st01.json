@@ -1,9 +1,9 @@
 {
   "ST01-ST01-001 normal": {
-    "lowPrice": 840.7,
-    "midPrice": 925.0,
+    "lowPrice": 700.0,
+    "midPrice": 919.99,
     "highPrice": 2000.0,
-    "marketPrice": 455.78,
+    "marketPrice": 466.59,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (001)",
     "rarity": "L",
@@ -27,7 +27,7 @@
   },
   "ST01-ST01-002 normal": {
     "lowPrice": 3.28,
-    "midPrice": 4.39,
+    "midPrice": 4.2,
     "highPrice": 25.0,
     "marketPrice": 1.42,
     "directLowPrice": null,
@@ -52,10 +52,10 @@
     "groupId": 17659
   },
   "ST01-ST01-003 normal": {
-    "lowPrice": 0.42,
-    "midPrice": 0.97,
+    "lowPrice": 0.5,
+    "midPrice": 1.26,
     "highPrice": 10.0,
-    "marketPrice": 0.49,
+    "marketPrice": 0.52,
     "directLowPrice": null,
     "name": "Karoo",
     "rarity": "C",
@@ -79,9 +79,9 @@
   },
   "ST01-ST01-004 normal": {
     "lowPrice": 4.5,
-    "midPrice": 10.99,
+    "midPrice": 10.18,
     "highPrice": 50.0,
-    "marketPrice": 4.43,
+    "marketPrice": 4.78,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "C",
@@ -104,8 +104,8 @@
     "groupId": 17659
   },
   "ST01-ST01-005 normal": {
-    "lowPrice": 8.25,
-    "midPrice": 9.99,
+    "lowPrice": 8.0,
+    "midPrice": 9.4,
     "highPrice": 25.0,
     "marketPrice": 1.46,
     "directLowPrice": null,
@@ -131,7 +131,7 @@
   },
   "ST01-ST01-006 normal": {
     "lowPrice": 5.0,
-    "midPrice": 9.97,
+    "midPrice": 9.78,
     "highPrice": 50.0,
     "marketPrice": 8.17,
     "directLowPrice": null,
@@ -157,7 +157,7 @@
   },
   "ST01-ST01-007 normal": {
     "lowPrice": 19.99,
-    "midPrice": 45.0,
+    "midPrice": 39.99,
     "highPrice": 125.0,
     "marketPrice": 20.36,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "ST01-ST01-008 normal": {
     "lowPrice": 14.0,
-    "midPrice": 40.5,
+    "midPrice": 37.5,
     "highPrice": 100.0,
     "marketPrice": 9.28,
     "directLowPrice": null,
@@ -211,7 +211,7 @@
     "lowPrice": 2.5,
     "midPrice": 4.95,
     "highPrice": 25.0,
-    "marketPrice": 2.58,
+    "marketPrice": 2.93,
     "directLowPrice": null,
     "name": "Nefeltari Vivi",
     "rarity": "C",
@@ -234,8 +234,8 @@
     "groupId": 17659
   },
   "ST01-ST01-010 normal": {
-    "lowPrice": 9.0,
-    "midPrice": 14.35,
+    "lowPrice": 8.7,
+    "midPrice": 13.75,
     "highPrice": 25.0,
     "marketPrice": 3.91,
     "directLowPrice": null,
@@ -261,8 +261,8 @@
   },
   "ST01-ST01-011 normal": {
     "lowPrice": 6.0,
-    "midPrice": 9.95,
-    "highPrice": 14.98,
+    "midPrice": 8.99,
+    "highPrice": 22.79,
     "marketPrice": 4.39,
     "directLowPrice": null,
     "name": "Brook",
@@ -286,8 +286,8 @@
     "groupId": 17659
   },
   "ST01-ST01-012 normal": {
-    "lowPrice": 148.0,
-    "midPrice": 180.0,
+    "lowPrice": 60.0,
+    "midPrice": 150.0,
     "highPrice": 250.0,
     "marketPrice": 59.66,
     "directLowPrice": null,
@@ -312,8 +312,8 @@
     "groupId": 17659
   },
   "ST01-ST01-013 normal": {
-    "lowPrice": 64.01,
-    "midPrice": 98.85,
+    "lowPrice": 63.0,
+    "midPrice": 97.95,
     "highPrice": 175.0,
     "marketPrice": 43.52,
     "directLowPrice": null,
@@ -339,9 +339,9 @@
   },
   "ST01-ST01-014 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.86,
+    "midPrice": 1.65,
     "highPrice": 15.0,
-    "marketPrice": 0.99,
+    "marketPrice": 0.98,
     "directLowPrice": null,
     "name": "Guard Point",
     "rarity": "C",
@@ -366,7 +366,7 @@
   "ST01-ST01-015 normal": {
     "lowPrice": 0.6,
     "midPrice": 1.36,
-    "highPrice": 19.98,
+    "highPrice": 45.0,
     "marketPrice": 0.85,
     "directLowPrice": null,
     "name": "Gum-Gum Jet Pistol",
@@ -391,7 +391,7 @@
   },
   "ST01-ST01-016 normal": {
     "lowPrice": 1.31,
-    "midPrice": 3.99,
+    "midPrice": 3.7,
     "highPrice": 19.95,
     "marketPrice": 3.0,
     "directLowPrice": null,
@@ -416,10 +416,10 @@
     "groupId": 17659
   },
   "ST01-ST01-017 normal": {
-    "lowPrice": 2.0,
-    "midPrice": 2.43,
-    "highPrice": 3.56,
-    "marketPrice": 2.4,
+    "lowPrice": 2.2,
+    "midPrice": 2.31,
+    "highPrice": 2.42,
+    "marketPrice": 2.49,
     "directLowPrice": null,
     "name": "Thousand Sunny",
     "rarity": "C",

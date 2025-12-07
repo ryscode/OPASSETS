@@ -1,9 +1,9 @@
 {
   "ST14-ST14-001 normal": {
     "lowPrice": 0.95,
-    "midPrice": 1.77,
+    "midPrice": 3.0,
     "highPrice": 50.0,
-    "marketPrice": 1.4,
+    "marketPrice": 1.52,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (001)",
     "rarity": "L",
@@ -52,10 +52,10 @@
     "groupId": 23489
   },
   "ST14-ST14-003 normal": {
-    "lowPrice": 2.3,
-    "midPrice": 5.0,
+    "lowPrice": 2.49,
+    "midPrice": 4.95,
     "highPrice": 50.0,
-    "marketPrice": 4.03,
+    "marketPrice": 3.92,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "SR",
@@ -130,10 +130,10 @@
     "groupId": 23489
   },
   "ST14-ST14-006 normal": {
-    "lowPrice": 0.99,
-    "midPrice": 1.49,
+    "lowPrice": 0.98,
+    "midPrice": 1.5,
     "highPrice": 50.0,
-    "marketPrice": 1.26,
+    "marketPrice": 1.27,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "SR",
@@ -157,7 +157,7 @@
   },
   "ST14-ST14-007 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.47,
+    "midPrice": 0.48,
     "highPrice": 5.0,
     "marketPrice": 0.47,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "ST14-ST14-008 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.14,
+    "midPrice": 0.15,
     "highPrice": 1.29,
     "marketPrice": 0.1,
     "directLowPrice": null,
@@ -417,7 +417,7 @@
   },
   "ST14-ST14-017 normal": {
     "lowPrice": 0.08,
-    "midPrice": 0.36,
+    "midPrice": 0.35,
     "highPrice": 10.0,
     "marketPrice": 0.32,
     "directLowPrice": null,

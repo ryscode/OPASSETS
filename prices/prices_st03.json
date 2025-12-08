@@ -1,9 +1,9 @@
 {
   "ST03-ST03-001 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.6,
+    "midPrice": 0.59,
     "highPrice": 3.5,
-    "marketPrice": 0.55,
+    "marketPrice": 0.57,
     "directLowPrice": null,
     "name": "Crocodile (001)",
     "rarity": "L",
@@ -107,7 +107,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 14.0,
-    "marketPrice": 0.1,
+    "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Dracule Mihawk",
     "rarity": "C",
@@ -183,7 +183,7 @@
   },
   "ST03-ST03-008 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.18,
+    "midPrice": 0.19,
     "highPrice": 2.0,
     "marketPrice": 0.12,
     "directLowPrice": null,
@@ -211,7 +211,7 @@
     "lowPrice": 1.5,
     "midPrice": 3.65,
     "highPrice": 7.0,
-    "marketPrice": 2.73,
+    "marketPrice": 2.8,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo",
     "rarity": "SR",
@@ -315,7 +315,7 @@
     "lowPrice": 0.02,
     "midPrice": 0.2,
     "highPrice": 5.0,
-    "marketPrice": 0.15,
+    "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "Boa Hancock",
     "rarity": "C",
@@ -364,10 +364,10 @@
     "groupId": 3192
   },
   "ST03-ST03-015 normal": {
-    "lowPrice": 0.12,
-    "midPrice": 1.23,
+    "lowPrice": 0.25,
+    "midPrice": 1.16,
     "highPrice": 6.01,
-    "marketPrice": 0.93,
+    "marketPrice": 0.83,
     "directLowPrice": null,
     "name": "Sables",
     "rarity": "C",
@@ -416,8 +416,8 @@
     "groupId": 3192
   },
   "ST03-ST03-017 normal": {
-    "lowPrice": 2.99,
-    "midPrice": 4.71,
+    "lowPrice": 2.95,
+    "midPrice": 4.53,
     "highPrice": 13.99,
     "marketPrice": 3.36,
     "directLowPrice": null,

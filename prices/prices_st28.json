@@ -1,9 +1,9 @@
 {
   "OP06-OP06-022 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.85,
+    "midPrice": 0.84,
     "highPrice": 9.99,
-    "marketPrice": 0.68,
+    "marketPrice": 0.77,
     "directLowPrice": null,
     "name": "Yamato (OP06-022)",
     "rarity": "L",
@@ -79,7 +79,7 @@
   },
   "OP06-OP06-104 normal": {
     "lowPrice": 0.19,
-    "midPrice": 0.32,
+    "midPrice": 0.31,
     "highPrice": 4.99,
     "marketPrice": 0.28,
     "directLowPrice": null,
@@ -107,7 +107,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.12,
     "highPrice": 4.99,
-    "marketPrice": 0.08,
+    "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Denjiro (Reprint)",
     "rarity": "UC",
@@ -157,7 +157,7 @@
   },
   "OP06-OP06-112 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.11,
+    "midPrice": 0.1,
     "highPrice": 4.99,
     "marketPrice": 0.07,
     "directLowPrice": null,
@@ -312,10 +312,10 @@
     "groupId": 24287
   },
   "ST28-ST28-003 normal": {
-    "lowPrice": 0.45,
+    "lowPrice": 0.43,
     "midPrice": 0.73,
     "highPrice": 65.0,
-    "marketPrice": 0.56,
+    "marketPrice": 0.55,
     "directLowPrice": null,
     "name": "Kin'emon",
     "rarity": "C",
@@ -339,9 +339,9 @@
   },
   "ST28-ST28-004 normal": {
     "lowPrice": 0.2,
-    "midPrice": 1.12,
+    "midPrice": 1.11,
     "highPrice": 5.0,
-    "marketPrice": 0.45,
+    "marketPrice": 0.4,
     "directLowPrice": null,
     "name": "Kouzuki Momonosuke",
     "rarity": "SR",
@@ -364,10 +364,10 @@
     "groupId": 24287
   },
   "ST28-ST28-005 normal": {
-    "lowPrice": 1.5,
-    "midPrice": 2.69,
+    "lowPrice": 1.31,
+    "midPrice": 2.55,
     "highPrice": 5.99,
-    "marketPrice": 1.6,
+    "marketPrice": 1.59,
     "directLowPrice": null,
     "name": "Yamato",
     "rarity": "SR",

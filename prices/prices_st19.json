@@ -1,9 +1,9 @@
 {
   "OP02-OP02-093 normal": {
-    "lowPrice": 0.23,
-    "midPrice": 0.55,
+    "lowPrice": 0.22,
+    "midPrice": 0.54,
     "highPrice": 50.0,
-    "marketPrice": 0.55,
+    "marketPrice": 0.53,
     "directLowPrice": null,
     "name": "Smoker (OP02-093)",
     "rarity": "L",
@@ -27,7 +27,7 @@
   },
   "OP02-OP02-098 normal": {
     "lowPrice": 0.08,
-    "midPrice": 0.22,
+    "midPrice": 0.23,
     "highPrice": 1.53,
     "marketPrice": 0.17,
     "directLowPrice": null,
@@ -55,7 +55,7 @@
     "lowPrice": 0.08,
     "midPrice": 0.21,
     "highPrice": 2.0,
-    "marketPrice": 0.14,
+    "marketPrice": 0.13,
     "directLowPrice": null,
     "name": "Tsuru",
     "rarity": "UC",
@@ -79,7 +79,7 @@
   },
   "OP02-OP02-108 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.13,
+    "midPrice": 0.12,
     "highPrice": 1.31,
     "marketPrice": 0.1,
     "directLowPrice": null,
@@ -105,7 +105,7 @@
   },
   "OP02-OP02-109 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.13,
+    "midPrice": 0.14,
     "highPrice": 1.43,
     "marketPrice": 0.08,
     "directLowPrice": null,
@@ -132,7 +132,7 @@
   "OP02-OP02-113 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 1.31,
+    "highPrice": 1.33,
     "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Helmeppo",
@@ -261,7 +261,7 @@
   },
   "ST19-ST19-002 normal": {
     "lowPrice": 0.3,
-    "midPrice": 1.0,
+    "midPrice": 1.24,
     "highPrice": 10.0,
     "marketPrice": 0.5,
     "directLowPrice": null,
@@ -287,7 +287,7 @@
   },
   "ST19-ST19-003 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.9,
+    "midPrice": 0.92,
     "highPrice": 99.0,
     "marketPrice": 0.78,
     "directLowPrice": null,
@@ -313,9 +313,9 @@
   },
   "ST19-ST19-004 normal": {
     "lowPrice": 0.83,
-    "midPrice": 1.33,
+    "midPrice": 1.31,
     "highPrice": 149.0,
-    "marketPrice": 1.22,
+    "marketPrice": 1.23,
     "directLowPrice": null,
     "name": "Hina",
     "rarity": "SR",
@@ -338,8 +338,8 @@
     "groupId": 23494
   },
   "ST19-ST19-005 normal": {
-    "lowPrice": 0.05,
-    "midPrice": 0.23,
+    "lowPrice": 0.1,
+    "midPrice": 0.24,
     "highPrice": 3.0,
     "marketPrice": 0.19,
     "directLowPrice": null,

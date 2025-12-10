@@ -1,7 +1,7 @@
 {
   "ST01-ST01-001 normal": {
-    "lowPrice": 9.85,
-    "midPrice": 13.98,
+    "lowPrice": 8.65,
+    "midPrice": 12.98,
     "highPrice": 24.99,
     "marketPrice": 14.63,
     "directLowPrice": null,
@@ -27,7 +27,7 @@
   },
   "ST04-ST04-017 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.8,
+    "midPrice": 0.79,
     "highPrice": 1.99,
     "marketPrice": 0.66,
     "directLowPrice": null,
@@ -53,8 +53,8 @@
   },
   "ST01-ST01-005 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.23,
-    "highPrice": 1.55,
+    "midPrice": 0.25,
+    "highPrice": 1.39,
     "marketPrice": 0.15,
     "directLowPrice": null,
     "name": "Jinbe",
@@ -105,9 +105,9 @@
   },
   "ST01-ST01-007 normal": {
     "lowPrice": 3.4,
-    "midPrice": 7.44,
+    "midPrice": 6.93,
     "highPrice": 500.0,
-    "marketPrice": 4.83,
+    "marketPrice": 5.31,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "C",
@@ -133,7 +133,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.25,
     "highPrice": 5.0,
-    "marketPrice": 0.15,
+    "marketPrice": 0.16,
     "directLowPrice": null,
     "name": "Guard Point",
     "rarity": "C",
@@ -183,7 +183,7 @@
   },
   "ST01-ST01-015 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.57,
+    "midPrice": 0.58,
     "highPrice": 3.49,
     "marketPrice": 0.5,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "ST01-ST01-016 normal": {
     "lowPrice": 0.99,
-    "midPrice": 2.5,
+    "midPrice": 2.57,
     "highPrice": 6.26,
     "marketPrice": 1.48,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "ST04-ST04-014 normal": {
     "lowPrice": 1.41,
-    "midPrice": 3.23,
+    "midPrice": 3.11,
     "highPrice": 13.0,
     "marketPrice": 1.98,
     "directLowPrice": null,
@@ -261,9 +261,9 @@
   },
   "ST01-ST01-017 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.65,
+    "midPrice": 0.67,
     "highPrice": 2.59,
-    "marketPrice": 0.6,
+    "marketPrice": 0.59,
     "directLowPrice": null,
     "name": "Thousand Sunny",
     "rarity": "C",
@@ -288,7 +288,7 @@
   "ST04-ST04-010 normal": {
     "lowPrice": 0.09,
     "midPrice": 0.25,
-    "highPrice": 1.5,
+    "highPrice": 1.49,
     "marketPrice": 0.15,
     "directLowPrice": null,
     "name": "Who's.Who",
@@ -313,7 +313,7 @@
   },
   "ST04-ST04-008 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.4,
+    "midPrice": 0.41,
     "highPrice": 1.53,
     "marketPrice": 0.36,
     "directLowPrice": null,
@@ -340,7 +340,7 @@
   "ST02-ST02-005 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.25,
-    "highPrice": 1.53,
+    "highPrice": 1.44,
     "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Killer",
@@ -391,9 +391,9 @@
   },
   "ST02-ST02-007 normal": {
     "lowPrice": 0.95,
-    "midPrice": 3.34,
+    "midPrice": 3.49,
     "highPrice": 6.99,
-    "marketPrice": 1.2,
+    "marketPrice": 1.26,
     "directLowPrice": null,
     "name": "Jewelry Bonney",
     "rarity": "C",
@@ -417,7 +417,7 @@
   },
   "ST02-ST02-008 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.99,
+    "midPrice": 1.0,
     "highPrice": 3.95,
     "marketPrice": 0.39,
     "directLowPrice": null,
@@ -547,7 +547,7 @@
   },
   "ST02-ST02-015 normal": {
     "lowPrice": 0.39,
-    "midPrice": 0.58,
+    "midPrice": 0.59,
     "highPrice": 1.67,
     "marketPrice": 0.51,
     "directLowPrice": null,
@@ -572,8 +572,8 @@
     "groupId": 23890
   },
   "ST02-ST02-016 normal": {
-    "lowPrice": 0.16,
-    "midPrice": 0.33,
+    "lowPrice": 0.17,
+    "midPrice": 0.35,
     "highPrice": 1.98,
     "marketPrice": 0.3,
     "directLowPrice": null,
@@ -599,8 +599,8 @@
   },
   "ST03-ST03-017 normal": {
     "lowPrice": 2.5,
-    "midPrice": 5.0,
-    "highPrice": 9.0,
+    "midPrice": 5.11,
+    "highPrice": 10.85,
     "marketPrice": 3.72,
     "directLowPrice": null,
     "name": "Love-Love Mellow",
@@ -626,7 +626,7 @@
   "ST03-ST03-016 normal": {
     "lowPrice": 0.03,
     "midPrice": 0.2,
-    "highPrice": 3.24,
+    "highPrice": 1.33,
     "marketPrice": 0.15,
     "directLowPrice": null,
     "name": "Thrust Pad Cannon",
@@ -651,7 +651,7 @@
   },
   "ST03-ST03-015 normal": {
     "lowPrice": 0.6,
-    "midPrice": 2.04,
+    "midPrice": 1.97,
     "highPrice": 5.5,
     "marketPrice": 0.94,
     "directLowPrice": null,
@@ -677,7 +677,7 @@
   },
   "ST03-ST03-014 normal": {
     "lowPrice": 0.12,
-    "midPrice": 0.28,
+    "midPrice": 0.3,
     "highPrice": 1.49,
     "marketPrice": 0.18,
     "directLowPrice": null,
@@ -702,10 +702,10 @@
     "groupId": 23890
   },
   "ST03-ST03-009 normal": {
-    "lowPrice": 1.77,
-    "midPrice": 3.0,
+    "lowPrice": 2.0,
+    "midPrice": 3.4,
     "highPrice": 6.99,
-    "marketPrice": 1.99,
+    "marketPrice": 2.07,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo",
     "rarity": "SR",
@@ -755,7 +755,7 @@
   },
   "ST02-ST02-017 normal": {
     "lowPrice": 1.2,
-    "midPrice": 2.16,
+    "midPrice": 2.26,
     "highPrice": 4.99,
     "marketPrice": 1.64,
     "directLowPrice": null,
@@ -781,7 +781,7 @@
   },
   "ST03-ST03-004 normal": {
     "lowPrice": 0.23,
-    "midPrice": 0.41,
+    "midPrice": 0.42,
     "highPrice": 2.41,
     "marketPrice": 0.29,
     "directLowPrice": null,

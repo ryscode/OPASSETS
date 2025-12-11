@@ -1,0 +1,1916 @@
+{
+  "EB02-EB02-028 normal": {
+    "name": "Portgas.D.Ace - EB02-028 (SP)",
+    "groupId": 24303,
+    "prices": {
+      "low": 170.0,
+      "mid": 199.99,
+      "high": 300.0,
+      "market": 163.57,
+      "directLow": null
+    }
+  },
+  "OP07-OP07-111 normal": {
+    "name": "Lilith - OP07-111 (SP)",
+    "groupId": 24303,
+    "prices": {
+      "low": 95.0,
+      "mid": 117.5,
+      "high": 199.99,
+      "market": 81.57,
+      "directLow": null
+    }
+  },
+  "OP07-OP07-118 normal": {
+    "name": "Sabo - OP07-118 (SP)",
+    "groupId": 24303,
+    "prices": {
+      "low": 90.0,
+      "mid": 93.85,
+      "high": 149.99,
+      "market": 86.89,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-001 normal": {
+    "name": "Monkey.D.Luffy (001)",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.16,
+      "high": 15.0,
+      "market": 0.12,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-001 parallel": {
+    "name": "Monkey.D.Luffy (001) (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 57.99,
+      "mid": 84.99,
+      "high": 200.0,
+      "market": 50.88,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-002 normal": {
+    "name": "Portgas.D.Ace (002)",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.17,
+      "high": 1.49,
+      "market": 0.11,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-002 parallel": {
+    "name": "Portgas.D.Ace (002) (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 52.01,
+      "mid": 60.87,
+      "high": 300.0,
+      "market": 55.37,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-003 normal": {
+    "name": "Gol.D.Roger (003)",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 1.49,
+      "market": 0.11,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-003 parallel": {
+    "name": "Gol.D.Roger (003) (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 41.98,
+      "mid": 50.01,
+      "high": 1000.0,
+      "market": 44.87,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-004 normal": {
+    "name": "Sabo (004)",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 1.49,
+      "market": 0.11,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-004 parallel": {
+    "name": "Sabo (004) (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 19.99,
+      "mid": 24.89,
+      "high": 108.89,
+      "market": 20.92,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-005 normal": {
+    "name": "Inazuma",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.08,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-006 normal": {
+    "name": "Woop Slap",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 2.5,
+      "market": 0.03,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-007 normal": {
+    "name": "Ace & Sabo & Luffy",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.5,
+      "high": 5.0,
+      "market": 0.39,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-007 parallel": {
+    "name": "Ace & Sabo & Luffy (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 15.99,
+      "mid": 24.99,
+      "high": 89.78,
+      "market": 18.5,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-008 normal": {
+    "name": "Emporio.Ivankov",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.05,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-009 normal": {
+    "name": "Curly.Dadan",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.03,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-010 normal": {
+    "name": "Lord of the Coast",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 5.0,
+      "market": 0.02,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-011 normal": {
+    "name": "Nefeltari Cobra",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.07,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-012 normal": {
+    "name": "Nefeltari Vivi",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.2,
+      "high": 1.42,
+      "market": 0.2,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-013 normal": {
+    "name": "Higuma",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.03,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-014 normal": {
+    "name": "Portgas.D.Rouge",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.03,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-015 normal": {
+    "name": "Makino",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.06,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-016 normal": {
+    "name": "Monkey.D.Garp",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.4,
+      "high": 4.85,
+      "market": 0.28,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-016 parallel": {
+    "name": "Monkey.D.Garp (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 21.07,
+      "mid": 24.49,
+      "high": 99.99,
+      "market": 22.2,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-017 normal": {
+    "name": "Monkey.D.Dragon",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 4.99,
+      "market": 0.09,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-018 normal": {
+    "name": "Wapol",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 5.0,
+      "market": 0.03,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-019 normal": {
+    "name": "But Ace Here Said You Deserved It!!",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 2.04,
+      "market": 0.15,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-020 normal": {
+    "name": "Meteor Fist",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.06,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-021 normal": {
+    "name": "Gum-Gum Gatling Gun",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.06,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-022 normal": {
+    "name": "Windmill Village",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.03,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-023 normal": {
+    "name": "Uta",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.11,
+      "mid": 0.59,
+      "high": 50.0,
+      "market": 0.56,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-023 parallel": {
+    "name": "Uta (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 8.0,
+      "mid": 12.13,
+      "high": 58.1,
+      "market": 10.26,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-024 normal": {
+    "name": "Gordon",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.06,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-025 normal": {
+    "name": "Koby",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.07,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-026 normal": {
+    "name": "Sunny-Kun",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.04,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-027 normal": {
+    "name": "Sanji",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.25,
+      "high": 4.99,
+      "market": 0.18,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-027 parallel": {
+    "name": "Sanji (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 10.5,
+      "mid": 15.46,
+      "high": 75.0,
+      "market": 12.57,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-028 normal": {
+    "name": "Shanks (028)",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.19,
+      "mid": 1.05,
+      "high": 8.0,
+      "market": 0.93,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-028 parallel": {
+    "name": "Shanks (028) (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 13.75,
+      "mid": 18.17,
+      "high": 85.0,
+      "market": 14.83,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-029 normal": {
+    "name": "Jinbe",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.1,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-030 normal": {
+    "name": "Tony Tony.Chopper",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.12,
+      "high": 1.49,
+      "market": 0.15,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-031 normal": {
+    "name": "Trafalgar Law",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.15,
+      "mid": 0.51,
+      "high": 3.0,
+      "market": 0.44,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-032 normal": {
+    "name": "Nico Robin",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 1.49,
+      "market": 0.1,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-033 normal": {
+    "name": "Franky",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.05,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-034 normal": {
+    "name": "Brook",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.05,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-035 normal": {
+    "name": "Bepo",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 10.0,
+      "market": 0.08,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-036 normal": {
+    "name": "Helmeppo",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.08,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-037 normal": {
+    "name": "Roronoa Zoro",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.45,
+      "high": 25.0,
+      "market": 0.32,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-038 normal": {
+    "name": "Gum-Gum Elephant Gun",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 1.49,
+      "market": 0.09,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-039 normal": {
+    "name": "Gum-Gum Snake Shot",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.06,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-040 normal": {
+    "name": "I Know You're Strong... So I'll Go All Out from the Very Start!!!",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.16,
+      "high": 2.15,
+      "market": 0.13,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-041 normal": {
+    "name": "Izo",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.08,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-042 normal": {
+    "name": "Edward.Newgate",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.96,
+      "mid": 2.3,
+      "high": 19.0,
+      "market": 1.57,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-042 parallel": {
+    "name": "Edward.Newgate (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 35.99,
+      "mid": 45.99,
+      "high": 110.0,
+      "market": 40.96,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-043 normal": {
+    "name": "Otama",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.3,
+      "high": 4.5,
+      "market": 0.24,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-044 normal": {
+    "name": "Curiel",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 5.0,
+      "market": 0.05,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-045 normal": {
+    "name": "Haruta",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.02,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-046 normal": {
+    "name": "Vista",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.16,
+      "high": 1.56,
+      "market": 0.09,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-047 normal": {
+    "name": "Fossa",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.03,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-048 normal": {
+    "name": "Blamenco",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.05,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-049 normal": {
+    "name": "Blenheim",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.03,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-050 normal": {
+    "name": "Boa Sandersonia",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.1,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-051 normal": {
+    "name": "Boa Hancock",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.18,
+      "high": 2.5,
+      "market": 0.2,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-051 parallel": {
+    "name": "Boa Hancock (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 20.0,
+      "mid": 25.78,
+      "high": 50.0,
+      "market": 21.6,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-052 normal": {
+    "name": "Boa Marigold",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.14,
+      "high": 1.49,
+      "market": 0.11,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-053 normal": {
+    "name": "Marshall.D.Teach",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 2.04,
+      "market": 0.03,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-054 normal": {
+    "name": "Yamato",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.5,
+      "mid": 1.49,
+      "high": 17.31,
+      "market": 0.91,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-054 parallel": {
+    "name": "Yamato (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 33.69,
+      "mid": 39.99,
+      "high": 79.99,
+      "market": 34.25,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-055 normal": {
+    "name": "Rakuyo",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.03,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-056 normal": {
+    "name": "LittleOars Jr.",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.03,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-057 normal": {
+    "name": "If I Bowed Down to Power, What's the Point in Living?",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.16,
+      "high": 4.0,
+      "market": 0.12,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-058 normal": {
+    "name": "Phoenix Pyreapple",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 1.49,
+      "market": 0.11,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-059 normal": {
+    "name": "Brilliant Punk",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.04,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-060 normal": {
+    "name": "Amatsuki Toki",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.06,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-061 normal": {
+    "name": "Inuarashi",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.12,
+      "high": 1.49,
+      "market": 0.11,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-062 normal": {
+    "name": "Crocus",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.08,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-063 normal": {
+    "name": "Kouzuki Oden",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.16,
+      "high": 1.49,
+      "market": 0.13,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-064 normal": {
+    "name": "Gol.D.Roger (064)",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.38,
+      "high": 20.0,
+      "market": 0.33,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-064 parallel": {
+    "name": "Gol.D.Roger (064) (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 15.0,
+      "mid": 19.83,
+      "high": 34.01,
+      "market": 16.25,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-065 normal": {
+    "name": "Shanks (065)",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.2,
+      "high": 2.35,
+      "market": 0.13,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-065 parallel": {
+    "name": "Shanks (065) (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 12.87,
+      "mid": 14.69,
+      "high": 87.8,
+      "market": 13.67,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-066 normal": {
+    "name": "Silvers Rayleigh",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.3,
+      "mid": 1.03,
+      "high": 1000.0,
+      "market": 0.93,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-066 parallel": {
+    "name": "Silvers Rayleigh (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 15.44,
+      "mid": 18.87,
+      "high": 30.0,
+      "market": 16.43,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-067 normal": {
+    "name": "Scopper Gaban",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.2,
+      "high": 2.82,
+      "market": 0.18,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-068 normal": {
+    "name": "Douglas Bullet",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.12,
+      "high": 1.49,
+      "market": 0.12,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-069 normal": {
+    "name": "Tom",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.02,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-070 normal": {
+    "name": "Napoleon",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 2.5,
+      "market": 0.02,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-071 normal": {
+    "name": "Nekomamushi",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 1.49,
+      "market": 0.13,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-072 normal": {
+    "name": "Buggy",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.24,
+      "high": 16.0,
+      "market": 0.14,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-073 normal": {
+    "name": "Prometheus",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.04,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-074 normal": {
+    "name": "Hera",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.03,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-075 normal": {
+    "name": "Guess We'll Have Another Scrap. You Can Only Risk Death While You're Still Alive!!",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.18,
+      "high": 1.49,
+      "market": 0.14,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-076 normal": {
+    "name": "Divine Departure",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.25,
+      "high": 3.68,
+      "market": 0.21,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-076 parallel": {
+    "name": "Divine Departure (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 79.0,
+      "mid": 94.0,
+      "high": 250.0,
+      "market": 79.36,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-077 normal": {
+    "name": "Go All the Way to the Top!!",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.05,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-078 normal": {
+    "name": "Oro Jackson",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.11,
+      "high": 1.49,
+      "market": 0.09,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-079 normal": {
+    "name": "Imu",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.17,
+      "high": 2.0,
+      "market": 0.08,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-079 parallel": {
+    "name": "Imu (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 40.0,
+      "mid": 52.8,
+      "high": 158.48,
+      "market": 42.63,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-080 normal": {
+    "name": "St. Ethanbaron V. Nusjuro",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.24,
+      "mid": 0.5,
+      "high": 2.98,
+      "market": 0.36,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-080 parallel": {
+    "name": "St. Ethanbaron V. Nusjuro (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 34.01,
+      "mid": 40.25,
+      "high": 59.99,
+      "market": 37.33,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-080 alt2": {
+    "name": "St. Ethanbaron V. Nusjuro (Parallel)",
+    "groupId": 24303,
+    "prices": {
+      "low": 449.98,
+      "mid": 697.49,
+      "high": 5000.0,
+      "market": 445.52,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-081 normal": {
+    "name": "Koala",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.12,
+      "high": 1.49,
+      "market": 0.12,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-082 normal": {
+    "name": "Five Elders",
+    "groupId": 24303,
+    "prices": {
+      "low": 2.0,
+      "mid": 3.78,
+      "high": 19.99,
+      "market": 2.88,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-082 parallel": {
+    "name": "Five Elders (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 48.31,
+      "mid": 55.65,
+      "high": 98.0,
+      "market": 45.95,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-083 normal": {
+    "name": "St. Jaygarcia Saturn",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.19,
+      "mid": 0.49,
+      "high": 2.89,
+      "market": 0.3,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-083 parallel": {
+    "name": "St. Jaygarcia Saturn (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 32.77,
+      "mid": 39.99,
+      "high": 76.39,
+      "market": 34.86,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-083 alt2": {
+    "name": "St. Jaygarcia Saturn (Parallel)",
+    "groupId": 24303,
+    "prices": {
+      "low": 980.0,
+      "mid": 1012.98,
+      "high": 5000.0,
+      "market": 440.35,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-084 normal": {
+    "name": "St. Shepherd Ju Peter",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.2,
+      "mid": 0.5,
+      "high": 55.0,
+      "market": 0.37,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-084 parallel": {
+    "name": "St. Shepherd Ju Peter (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 32.0,
+      "mid": 37.24,
+      "high": 75.0,
+      "market": 33.6,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-084 alt2": {
+    "name": "St. Shepherd Ju Peter (Parallel)",
+    "groupId": 24303,
+    "prices": {
+      "low": 450.0,
+      "mid": 598.5,
+      "high": 5000.0,
+      "market": 395.5,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-085 normal": {
+    "name": "Saint Jalmac",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.04,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-086 normal": {
+    "name": "Saint Shalria",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.14,
+      "mid": 0.31,
+      "high": 2.85,
+      "market": 0.23,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-087 normal": {
+    "name": "Saint Charlos",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.05,
+      "mid": 0.2,
+      "high": 1.49,
+      "market": 0.14,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-088 normal": {
+    "name": "Terry Gilteo",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.06,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-089 normal": {
+    "name": "St. Topman Warcury",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.25,
+      "mid": 0.51,
+      "high": 1000.0,
+      "market": 0.39,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-089 parallel": {
+    "name": "St. Topman Warcury (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 34.0,
+      "mid": 39.99,
+      "high": 50.48,
+      "market": 36.19,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-089 alt2": {
+    "name": "St. Topman Warcury (Parallel)",
+    "groupId": 24303,
+    "prices": {
+      "low": 404.0,
+      "mid": 475.0,
+      "high": 5000.0,
+      "market": 411.93,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-090 normal": {
+    "name": "Hack",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.08,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-091 normal": {
+    "name": "St. Marcus Mars",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.29,
+      "mid": 0.57,
+      "high": 1000.0,
+      "market": 0.43,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-091 parallel": {
+    "name": "St. Marcus Mars (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 39.49,
+      "mid": 49.0,
+      "high": 75.0,
+      "market": 41.05,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-091 alt2": {
+    "name": "St. Marcus Mars (Parallel)",
+    "groupId": 24303,
+    "prices": {
+      "low": 499.99,
+      "mid": 889.99,
+      "high": 5000.0,
+      "market": 404.93,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-092 normal": {
+    "name": "Saint Mjosgard",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 1.49,
+      "market": 0.1,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-093 normal": {
+    "name": "Morgans",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.04,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-094 normal": {
+    "name": "York",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 5.0,
+      "market": 0.05,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-095 normal": {
+    "name": "Saint Rosward",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.12,
+      "high": 1.49,
+      "market": 0.08,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-096 normal": {
+    "name": "The Five Elders Are at Your Service!!!",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.23,
+      "mid": 0.55,
+      "high": 1000.0,
+      "market": 0.44,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-097 normal": {
+    "name": "The World's Equilibrium Cannot Be Maintained Forever",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 1.98,
+      "market": 0.08,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-098 normal": {
+    "name": "Never Existed... in the First Place...",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.26,
+      "high": 22.0,
+      "market": 0.21,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-099 normal": {
+    "name": "The Empty Throne",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.06,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-100 normal": {
+    "name": "Jewelry Bonney (100)",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 1.49,
+      "market": 0.1,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-100 parallel": {
+    "name": "Jewelry Bonney (100) (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 22.04,
+      "mid": 25.99,
+      "high": 50.0,
+      "market": 23.08,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-101 normal": {
+    "name": "Atlas",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.05,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-102 normal": {
+    "name": "Edison",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.14,
+      "high": 1.49,
+      "market": 0.15,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-103 normal": {
+    "name": "Gyogyo",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 25.0,
+      "market": 0.03,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-104 normal": {
+    "name": "Kouzuki Hiyori",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.25,
+      "high": 1000.0,
+      "market": 0.19,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-105 normal": {
+    "name": "Kouzuki Momonosuke",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.05,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-106 normal": {
+    "name": "Conney",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.03,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-107 normal": {
+    "name": "Shaka",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.07,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-108 normal": {
+    "name": "Jewelry Bonney (108)",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.39,
+      "mid": 1.29,
+      "high": 80.0,
+      "market": 1.19,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-108 parallel": {
+    "name": "Jewelry Bonney (108) (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 46.2,
+      "mid": 50.0,
+      "high": 70.0,
+      "market": 41.33,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-109 normal": {
+    "name": "Jewelry Bonney (109)",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.08,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-110 normal": {
+    "name": "Stussy",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.15,
+      "mid": 0.98,
+      "high": 1000.0,
+      "market": 0.65,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-110 parallel": {
+    "name": "Stussy (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 30.25,
+      "mid": 37.83,
+      "high": 60.99,
+      "market": 30.21,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-111 normal": {
+    "name": "Pythagoras",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.05,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-112 normal": {
+    "name": "Vegapunk",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.06,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-113 normal": {
+    "name": "Lilith",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.25,
+      "high": 1000.0,
+      "market": 0.22,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-113 parallel": {
+    "name": "Lilith (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 21.99,
+      "mid": 25.99,
+      "high": 50.0,
+      "market": 23.34,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-114 normal": {
+    "name": "S-Snake",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.2,
+      "high": 1000.0,
+      "market": 0.15,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-114 parallel": {
+    "name": "S-Snake (Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 6.99,
+      "mid": 10.0,
+      "high": 42.69,
+      "market": 8.04,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-115 normal": {
+    "name": "Paper Art Afterimage",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.49,
+      "market": 0.05,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-116 normal": {
+    "name": "The One Who Is the Most Free Is the Pirate King!!!",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 30.0,
+      "market": 0.07,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-117 normal": {
+    "name": "Gum-Gum Dawn Stamp",
+    "groupId": 24303,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 2.98,
+      "market": 0.08,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-118 normal": {
+    "name": "Monkey.D.Luffy (118)",
+    "groupId": 24303,
+    "prices": {
+      "low": 10.0,
+      "mid": 13.16,
+      "high": 1000.0,
+      "market": 12.26,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-118 alt2": {
+    "name": "Monkey.D.Luffy (118) (Super Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 2498.99,
+      "mid": 3000.0,
+      "high": 3250.0,
+      "market": 1604.51,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-118 alt3": {
+    "name": "Monkey.D.Luffy (118) (Parallel)",
+    "groupId": 24303,
+    "prices": {
+      "low": 54.0,
+      "mid": 69.92,
+      "high": 1000.0,
+      "market": 62.58,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-118 alt4": {
+    "name": "Monkey.D.Luffy (118) (Wanted Poster)",
+    "groupId": 24303,
+    "prices": {
+      "low": 370.0,
+      "mid": 498.0,
+      "high": 1000.0,
+      "market": 327.48,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-119 normal": {
+    "name": "Portgas.D.Ace (119)",
+    "groupId": 24303,
+    "prices": {
+      "low": 2.02,
+      "mid": 4.56,
+      "high": 199.99,
+      "market": 3.31,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-119 parallel": {
+    "name": "Portgas.D.Ace (119) (Red Super Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 5503.99,
+      "mid": 7252.0,
+      "high": 9000.0,
+      "market": 4414.68,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-119 alt2": {
+    "name": "Portgas.D.Ace (119) (Super Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 1444.44,
+      "mid": 1499.0,
+      "high": 1499.99,
+      "market": 931.27,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-119 alt3": {
+    "name": "Portgas.D.Ace (119) (Parallel)",
+    "groupId": 24303,
+    "prices": {
+      "low": 23.0,
+      "mid": 37.37,
+      "high": 60.0,
+      "market": 22.89,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-119 alt4": {
+    "name": "Portgas.D.Ace (119) (Wanted Poster)",
+    "groupId": 24303,
+    "prices": {
+      "low": 995.0,
+      "mid": 2500.0,
+      "high": 5799.99,
+      "market": 628.71,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-120 normal": {
+    "name": "Sabo (120)",
+    "groupId": 24303,
+    "prices": {
+      "low": 5.0,
+      "mid": 10.0,
+      "high": 31.0,
+      "market": 7.57,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-120 parallel": {
+    "name": "Sabo (120) (Red Super Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 4498.69,
+      "mid": 4498.81,
+      "high": 4500.0,
+      "market": 3544.97,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-120 alt2": {
+    "name": "Sabo (120) (Super Alternate Art)",
+    "groupId": 24303,
+    "prices": {
+      "low": 920.0,
+      "mid": 989.99,
+      "high": 999.99,
+      "market": 755.22,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-120 alt3": {
+    "name": "Sabo (120) (Parallel)",
+    "groupId": 24303,
+    "prices": {
+      "low": 20.65,
+      "mid": 29.0,
+      "high": 75.0,
+      "market": 25.8,
+      "directLow": null
+    }
+  },
+  "OP13-OP13-120 alt4": {
+    "name": "Sabo (120) (Wanted Poster)",
+    "groupId": 24303,
+    "prices": {
+      "low": 185.0,
+      "mid": 200.0,
+      "high": 500.0,
+      "market": 166.99,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-004 normal": {
+    "name": "Shanks - OP09-004 (SP) (Gold)",
+    "groupId": 24303,
+    "prices": {
+      "low": 1499.98,
+      "mid": 1800.0,
+      "high": 2500.0,
+      "market": 1204.22,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-004 parallel": {
+    "name": "Shanks - OP09-004 (SP) (Silver)",
+    "groupId": 24303,
+    "prices": {
+      "low": 725.0,
+      "mid": 774.99,
+      "high": 1998.99,
+      "market": 730.42,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-009 normal": {
+    "name": "Benn.Beckman (SP)",
+    "groupId": 24303,
+    "prices": {
+      "low": 74.0,
+      "mid": 80.65,
+      "high": 129.77,
+      "market": 71.55,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-118 normal": {
+    "name": "Gol.D.Roger - OP09-118 (SP) (Wanted Poster)",
+    "groupId": 24303,
+    "prices": {
+      "low": 298.0,
+      "mid": 329.99,
+      "high": 1000.0,
+      "market": 250.67,
+      "directLow": null
+    }
+  },
+  "OP09-OP09-119 normal": {
+    "name": "Monkey.D.Luffy - OP09-119 (SP)",
+    "groupId": 24303,
+    "prices": {
+      "low": 277.0,
+      "mid": 300.0,
+      "high": 550.0,
+      "market": 263.02,
+      "directLow": null
+    }
+  },
+  "OP10-OP10-030 normal": {
+    "name": "Smoker - OP10-030 (SP)",
+    "groupId": 24303,
+    "prices": {
+      "low": 73.9,
+      "mid": 89.95,
+      "high": 150.0,
+      "market": 71.58,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-058 normal": {
+    "name": "Monkey.D.Luffy - OP11-058 (TR)",
+    "groupId": 24303,
+    "prices": {
+      "low": 66.0,
+      "mid": 75.0,
+      "high": 200.99,
+      "market": 68.05,
+      "directLow": null
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "OP05-OP05-060 normal": {
-    "lowPrice": 0.35,
-    "midPrice": 1.0,
+    "lowPrice": 0.45,
+    "midPrice": 1.05,
     "highPrice": 50.0,
     "marketPrice": 1.05,
     "directLowPrice": null,
@@ -27,7 +27,7 @@
   },
   "OP05-OP05-061 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.22,
+    "midPrice": 0.2,
     "highPrice": 5.0,
     "marketPrice": 0.14,
     "directLowPrice": null,
@@ -158,7 +158,7 @@
   "OP05-OP05-070 normal": {
     "lowPrice": 0.02,
     "midPrice": 0.15,
-    "highPrice": 1.3,
+    "highPrice": 1.33,
     "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Fra-Nosuke",
@@ -235,9 +235,9 @@
   },
   "P-P-041 normal": {
     "lowPrice": 2.48,
-    "midPrice": 3.6,
+    "midPrice": 3.5,
     "highPrice": 30.0,
-    "marketPrice": 3.05,
+    "marketPrice": 2.91,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (P-041)",
     "rarity": "PR",
@@ -260,10 +260,10 @@
     "groupId": 23493
   },
   "ST18-ST18-001 normal": {
-    "lowPrice": 1.99,
-    "midPrice": 5.12,
+    "lowPrice": 1.97,
+    "midPrice": 5.02,
     "highPrice": 25.0,
-    "marketPrice": 2.16,
+    "marketPrice": 2.04,
     "directLowPrice": null,
     "name": "Uso-Hachi (ST18-001)",
     "rarity": "C",
@@ -314,7 +314,7 @@
   "ST18-ST18-003 normal": {
     "lowPrice": 0.06,
     "midPrice": 0.25,
-    "highPrice": 1.75,
+    "highPrice": 10.18,
     "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "San-Gorou",
@@ -338,10 +338,10 @@
     "groupId": 23493
   },
   "ST18-ST18-004 normal": {
-    "lowPrice": 1.43,
-    "midPrice": 2.39,
+    "lowPrice": 1.0,
+    "midPrice": 2.36,
     "highPrice": 25.0,
-    "marketPrice": 1.41,
+    "marketPrice": 1.36,
     "directLowPrice": null,
     "name": "Zoro-Juurou (ST18-004)",
     "rarity": "SR",
@@ -364,10 +364,10 @@
     "groupId": 23493
   },
   "ST18-ST18-005 normal": {
-    "lowPrice": 1.5,
-    "midPrice": 2.53,
+    "lowPrice": 1.49,
+    "midPrice": 2.5,
     "highPrice": 95.0,
-    "marketPrice": 1.97,
+    "marketPrice": 2.05,
     "directLowPrice": null,
     "name": "Luffy-Tarou",
     "rarity": "SR",

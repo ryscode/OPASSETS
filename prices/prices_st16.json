@@ -26,7 +26,7 @@
     "groupId": 23491
   },
   "P-P-057 normal": {
-    "lowPrice": 0.04,
+    "lowPrice": 0.05,
     "midPrice": 0.17,
     "highPrice": 5.0,
     "marketPrice": 0.16,
@@ -105,9 +105,9 @@
   },
   "P-P-060 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.19,
+    "midPrice": 0.2,
     "highPrice": 5.0,
-    "marketPrice": 0.19,
+    "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "Tot Musica",
     "rarity": "PR",
@@ -130,10 +130,10 @@
     "groupId": 23491
   },
   "P-P-061 normal": {
-    "lowPrice": 0.15,
-    "midPrice": 1.0,
-    "highPrice": 5.99,
-    "marketPrice": 0.51,
+    "lowPrice": 0.18,
+    "midPrice": 1.08,
+    "highPrice": 10.0,
+    "marketPrice": 0.5,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (P-061)",
     "rarity": "PR",
@@ -157,7 +157,7 @@
   },
   "ST11-ST11-001 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.68,
+    "midPrice": 0.69,
     "highPrice": 25.0,
     "marketPrice": 0.61,
     "directLowPrice": null,
@@ -209,9 +209,9 @@
   },
   "ST11-ST11-004 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.25,
+    "midPrice": 0.26,
     "highPrice": 5.0,
-    "marketPrice": 0.25,
+    "marketPrice": 0.26,
     "directLowPrice": null,
     "name": "New Genesis",
     "rarity": "SR",
@@ -237,7 +237,7 @@
     "lowPrice": 0.04,
     "midPrice": 0.2,
     "highPrice": 1.39,
-    "marketPrice": 0.2,
+    "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "I'm invincible",
     "rarity": "C",
@@ -261,7 +261,7 @@
   },
   "ST16-ST16-001 normal": {
     "lowPrice": 0.22,
-    "midPrice": 0.55,
+    "midPrice": 0.58,
     "highPrice": 9.9,
     "marketPrice": 0.51,
     "directLowPrice": null,
@@ -286,7 +286,7 @@
     "groupId": 23491
   },
   "ST16-ST16-002 normal": {
-    "lowPrice": 0.03,
+    "lowPrice": 0.04,
     "midPrice": 0.15,
     "highPrice": 2.49,
     "marketPrice": 0.1,
@@ -339,9 +339,9 @@
   },
   "ST16-ST16-004 normal": {
     "lowPrice": 1.0,
-    "midPrice": 3.02,
+    "midPrice": 3.24,
     "highPrice": 10.0,
-    "marketPrice": 1.46,
+    "marketPrice": 1.47,
     "directLowPrice": null,
     "name": "Shanks",
     "rarity": "SR",
@@ -367,7 +367,7 @@
     "lowPrice": 0.06,
     "midPrice": 0.33,
     "highPrice": 2.9,
-    "marketPrice": 0.2,
+    "marketPrice": 0.21,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (ST16-005)",
     "rarity": "C",

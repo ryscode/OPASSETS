@@ -1,7 +1,7 @@
 {
   "OP06-OP06-022 normal": {
     "lowPrice": 0.5,
-    "midPrice": 1.06,
+    "midPrice": 1.0,
     "highPrice": 9.99,
     "marketPrice": 0.97,
     "directLowPrice": null,
@@ -81,7 +81,7 @@
     "lowPrice": 0.19,
     "midPrice": 0.34,
     "highPrice": 4.99,
-    "marketPrice": 0.3,
+    "marketPrice": 0.29,
     "directLowPrice": null,
     "name": "Kikunojo (Reprint)",
     "rarity": "R",
@@ -105,7 +105,7 @@
   },
   "OP06-OP06-109 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.1,
+    "midPrice": 0.11,
     "highPrice": 4.99,
     "marketPrice": 0.07,
     "directLowPrice": null,
@@ -208,8 +208,8 @@
     "groupId": 24287
   },
   "OP09-OP09-035 normal": {
-    "lowPrice": 0.02,
-    "midPrice": 0.11,
+    "lowPrice": 0.03,
+    "midPrice": 0.15,
     "highPrice": 4.99,
     "marketPrice": 0.05,
     "directLowPrice": null,
@@ -261,8 +261,8 @@
   },
   "ST28-ST28-001 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.17,
-    "highPrice": 1.32,
+    "midPrice": 0.18,
+    "highPrice": 1.37,
     "marketPrice": 0.13,
     "directLowPrice": null,
     "name": "Ashura Doji",
@@ -287,9 +287,9 @@
   },
   "ST28-ST28-002 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.24,
+    "midPrice": 0.25,
     "highPrice": 2.0,
-    "marketPrice": 0.14,
+    "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Izo",
     "rarity": "C",
@@ -313,9 +313,9 @@
   },
   "ST28-ST28-003 normal": {
     "lowPrice": 0.43,
-    "midPrice": 0.73,
+    "midPrice": 0.71,
     "highPrice": 65.0,
-    "marketPrice": 0.55,
+    "marketPrice": 0.54,
     "directLowPrice": null,
     "name": "Kin'emon",
     "rarity": "C",
@@ -338,10 +338,10 @@
     "groupId": 24287
   },
   "ST28-ST28-004 normal": {
-    "lowPrice": 0.22,
+    "lowPrice": 0.29,
     "midPrice": 1.05,
     "highPrice": 4.99,
-    "marketPrice": 0.39,
+    "marketPrice": 0.4,
     "directLowPrice": null,
     "name": "Kouzuki Momonosuke",
     "rarity": "SR",
@@ -365,9 +365,9 @@
   },
   "ST28-ST28-005 normal": {
     "lowPrice": 1.25,
-    "midPrice": 2.28,
+    "midPrice": 2.25,
     "highPrice": 5.99,
-    "marketPrice": 1.66,
+    "marketPrice": 1.67,
     "directLowPrice": null,
     "name": "Yamato",
     "rarity": "SR",

@@ -1,9 +1,9 @@
 {
   "ST14-ST14-001 normal": {
-    "lowPrice": 0.95,
-    "midPrice": 4.99,
+    "lowPrice": 7.5,
+    "midPrice": 12.99,
     "highPrice": 50.0,
-    "marketPrice": 2.18,
+    "marketPrice": 2.66,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (001)",
     "rarity": "L",
@@ -53,9 +53,9 @@
   },
   "ST14-ST14-003 normal": {
     "lowPrice": 1.8,
-    "midPrice": 4.5,
+    "midPrice": 4.49,
     "highPrice": 50.0,
-    "marketPrice": 3.79,
+    "marketPrice": 3.69,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "SR",
@@ -107,7 +107,7 @@
     "lowPrice": 0.02,
     "midPrice": 0.17,
     "highPrice": 1.31,
-    "marketPrice": 0.16,
+    "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper",
     "rarity": "C",
@@ -183,8 +183,8 @@
   },
   "ST14-ST14-008 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.13,
-    "highPrice": 1.29,
+    "midPrice": 0.12,
+    "highPrice": 1.33,
     "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Haredas",
@@ -210,7 +210,7 @@
   "ST14-ST14-009 normal": {
     "lowPrice": 0.03,
     "midPrice": 0.16,
-    "highPrice": 1.31,
+    "highPrice": 1.34,
     "marketPrice": 0.15,
     "directLowPrice": null,
     "name": "Franky",
@@ -236,7 +236,7 @@
   "ST14-ST14-010 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.11,
-    "highPrice": 1.3,
+    "highPrice": 1.33,
     "marketPrice": 0.08,
     "directLowPrice": null,
     "name": "Brook",
@@ -262,7 +262,7 @@
   "ST14-ST14-011 normal": {
     "lowPrice": 0.02,
     "midPrice": 0.11,
-    "highPrice": 1.3,
+    "highPrice": 1.33,
     "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Heracles",
@@ -314,7 +314,7 @@
   "ST14-ST14-013 normal": {
     "lowPrice": 0.03,
     "midPrice": 0.18,
-    "highPrice": 1.31,
+    "highPrice": 1.33,
     "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Roronoa Zoro",

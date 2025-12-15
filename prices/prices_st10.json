@@ -1,7 +1,7 @@
 {
   "ST10-ST10-001 normal": {
     "lowPrice": 2.17,
-    "midPrice": 4.27,
+    "midPrice": 4.34,
     "highPrice": 45.0,
     "marketPrice": 3.71,
     "directLowPrice": null,
@@ -27,9 +27,9 @@
   },
   "ST10-ST10-002 normal": {
     "lowPrice": 3.15,
-    "midPrice": 4.41,
+    "midPrice": 4.37,
     "highPrice": 9.99,
-    "marketPrice": 4.37,
+    "marketPrice": 4.29,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (002)",
     "rarity": "L",
@@ -52,8 +52,8 @@
     "groupId": 23243
   },
   "ST10-ST10-003 normal": {
-    "lowPrice": 1.0,
-    "midPrice": 1.68,
+    "lowPrice": 0.75,
+    "midPrice": 1.99,
     "highPrice": 25.0,
     "marketPrice": 1.35,
     "directLowPrice": null,
@@ -81,7 +81,7 @@
     "lowPrice": 0.15,
     "midPrice": 0.38,
     "highPrice": 5.0,
-    "marketPrice": 0.33,
+    "marketPrice": 0.32,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "C",
@@ -131,7 +131,7 @@
   },
   "ST10-ST10-006 normal": {
     "lowPrice": 0.4,
-    "midPrice": 1.15,
+    "midPrice": 1.25,
     "highPrice": 50.0,
     "marketPrice": 1.28,
     "directLowPrice": null,
@@ -235,9 +235,9 @@
   },
   "ST10-ST10-010 normal": {
     "lowPrice": 0.99,
-    "midPrice": 1.87,
+    "midPrice": 1.96,
     "highPrice": 50.0,
-    "marketPrice": 1.32,
+    "marketPrice": 1.33,
     "directLowPrice": null,
     "name": "Trafalgar Law (010)",
     "rarity": "SR",
@@ -312,7 +312,7 @@
     "groupId": 23243
   },
   "ST10-ST10-013 normal": {
-    "lowPrice": 0.45,
+    "lowPrice": 0.35,
     "midPrice": 1.25,
     "highPrice": 25.0,
     "marketPrice": 0.67,
@@ -365,7 +365,7 @@
   },
   "ST10-ST10-015 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.25,
+    "midPrice": 0.24,
     "highPrice": 14.0,
     "marketPrice": 0.18,
     "directLowPrice": null,

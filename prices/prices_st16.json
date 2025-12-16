@@ -1,9 +1,9 @@
 {
   "P-P-029 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.2,
+    "midPrice": 0.21,
     "highPrice": 5.0,
-    "marketPrice": 0.15,
+    "marketPrice": 0.16,
     "directLowPrice": null,
     "name": "Bartolomeo",
     "rarity": "PR",
@@ -26,10 +26,10 @@
     "groupId": 23491
   },
   "P-P-057 normal": {
-    "lowPrice": 0.05,
+    "lowPrice": 0.04,
     "midPrice": 0.17,
     "highPrice": 5.0,
-    "marketPrice": 0.16,
+    "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Fleeting Lullaby",
     "rarity": "PR",
@@ -55,7 +55,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.22,
     "highPrice": 5.0,
-    "marketPrice": 0.21,
+    "marketPrice": 0.22,
     "directLowPrice": null,
     "name": "Where the Wind Blows",
     "rarity": "PR",
@@ -107,7 +107,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.19,
     "highPrice": 5.0,
-    "marketPrice": 0.19,
+    "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "Tot Musica",
     "rarity": "PR",
@@ -133,7 +133,7 @@
     "lowPrice": 0.18,
     "midPrice": 1.0,
     "highPrice": 10.0,
-    "marketPrice": 0.54,
+    "marketPrice": 0.59,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (P-061)",
     "rarity": "PR",
@@ -157,7 +157,7 @@
   },
   "ST11-ST11-001 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.69,
+    "midPrice": 0.65,
     "highPrice": 25.0,
     "marketPrice": 0.63,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "ST11-ST11-004 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.26,
+    "midPrice": 0.27,
     "highPrice": 5.0,
     "marketPrice": 0.27,
     "directLowPrice": null,
@@ -261,9 +261,9 @@
   },
   "ST16-ST16-001 normal": {
     "lowPrice": 0.22,
-    "midPrice": 0.57,
+    "midPrice": 0.55,
     "highPrice": 9.9,
-    "marketPrice": 0.55,
+    "marketPrice": 0.53,
     "directLowPrice": null,
     "name": "Uta (ST16-001)",
     "rarity": "SR",
@@ -286,8 +286,8 @@
     "groupId": 23491
   },
   "ST16-ST16-002 normal": {
-    "lowPrice": 0.04,
-    "midPrice": 0.15,
+    "lowPrice": 0.03,
+    "midPrice": 0.16,
     "highPrice": 2.49,
     "marketPrice": 0.1,
     "directLowPrice": null,
@@ -312,10 +312,10 @@
     "groupId": 23491
   },
   "ST16-ST16-003 normal": {
-    "lowPrice": 0.03,
+    "lowPrice": 0.05,
     "midPrice": 0.2,
     "highPrice": 2.48,
-    "marketPrice": 0.13,
+    "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Charlotte Katakuri",
     "rarity": "C",
@@ -338,10 +338,10 @@
     "groupId": 23491
   },
   "ST16-ST16-004 normal": {
-    "lowPrice": 1.0,
+    "lowPrice": 1.05,
     "midPrice": 3.25,
     "highPrice": 10.0,
-    "marketPrice": 1.57,
+    "marketPrice": 1.68,
     "directLowPrice": null,
     "name": "Shanks",
     "rarity": "SR",

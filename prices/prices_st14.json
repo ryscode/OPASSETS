@@ -1,7 +1,7 @@
 {
   "ST14-ST14-001 normal": {
-    "lowPrice": 6.0,
-    "midPrice": 8.5,
+    "lowPrice": 2.77,
+    "midPrice": 8.49,
     "highPrice": 50.0,
     "marketPrice": 2.82,
     "directLowPrice": null,
@@ -52,10 +52,10 @@
     "groupId": 23489
   },
   "ST14-ST14-003 normal": {
-    "lowPrice": 1.8,
-    "midPrice": 4.5,
+    "lowPrice": 1.98,
+    "midPrice": 4.49,
     "highPrice": 50.0,
-    "marketPrice": 3.49,
+    "marketPrice": 3.12,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "SR",
@@ -80,7 +80,7 @@
   "ST14-ST14-004 normal": {
     "lowPrice": 0.03,
     "midPrice": 0.12,
-    "highPrice": 1.32,
+    "highPrice": 1.31,
     "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Jinbe",
@@ -133,7 +133,7 @@
     "lowPrice": 1.0,
     "midPrice": 2.0,
     "highPrice": 50.0,
-    "marketPrice": 1.51,
+    "marketPrice": 1.56,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "SR",
@@ -183,8 +183,8 @@
   },
   "ST14-ST14-008 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.13,
-    "highPrice": 1.33,
+    "midPrice": 0.12,
+    "highPrice": 1.29,
     "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Haredas",
@@ -210,7 +210,7 @@
   "ST14-ST14-009 normal": {
     "lowPrice": 0.03,
     "midPrice": 0.15,
-    "highPrice": 1.34,
+    "highPrice": 1.31,
     "marketPrice": 0.15,
     "directLowPrice": null,
     "name": "Franky",
@@ -235,8 +235,8 @@
   },
   "ST14-ST14-010 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.11,
-    "highPrice": 1.33,
+    "midPrice": 0.1,
+    "highPrice": 1.3,
     "marketPrice": 0.08,
     "directLowPrice": null,
     "name": "Brook",
@@ -262,7 +262,7 @@
   "ST14-ST14-011 normal": {
     "lowPrice": 0.02,
     "midPrice": 0.11,
-    "highPrice": 1.33,
+    "highPrice": 1.3,
     "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Heracles",
@@ -314,7 +314,7 @@
   "ST14-ST14-013 normal": {
     "lowPrice": 0.03,
     "midPrice": 0.18,
-    "highPrice": 1.33,
+    "highPrice": 1.31,
     "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Roronoa Zoro",

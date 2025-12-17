@@ -1,7 +1,7 @@
 {
   "OP04-OP04-003 normal": {
-    "lowPrice": 2.69,
-    "midPrice": 2.75,
+    "lowPrice": 1.53,
+    "midPrice": 3.67,
     "highPrice": 12.99,
     "marketPrice": 1.4,
     "directLowPrice": null,
@@ -26,8 +26,8 @@
     "groupId": 23297
   },
   "OP04-OP04-004 normal": {
-    "lowPrice": 1.0,
-    "midPrice": 4.47,
+    "lowPrice": 1.12,
+    "midPrice": 4.69,
     "highPrice": 100.0,
     "marketPrice": 1.04,
     "directLowPrice": null,
@@ -81,7 +81,7 @@
     "lowPrice": 1.0,
     "midPrice": 3.4,
     "highPrice": 7.61,
-    "marketPrice": 1.28,
+    "marketPrice": 1.05,
     "directLowPrice": null,
     "name": "Koza",
     "rarity": "UC",
@@ -107,7 +107,7 @@
     "lowPrice": 1.8,
     "midPrice": 2.09,
     "highPrice": 37.05,
-    "marketPrice": 2.09,
+    "marketPrice": 2.11,
     "directLowPrice": null,
     "name": "Sanji (007)",
     "rarity": "C",
@@ -287,7 +287,7 @@
   },
   "OP04-OP04-018 normal": {
     "lowPrice": 1.13,
-    "midPrice": 1.21,
+    "midPrice": 1.23,
     "highPrice": 9.49,
     "marketPrice": 1.21,
     "directLowPrice": null,
@@ -313,7 +313,7 @@
   },
   "OP04-OP04-021 normal": {
     "lowPrice": 3.0,
-    "midPrice": 5.44,
+    "midPrice": 4.79,
     "highPrice": 20.0,
     "marketPrice": 3.88,
     "directLowPrice": null,
@@ -391,7 +391,7 @@
   },
   "OP04-OP04-025 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.49,
+    "midPrice": 0.46,
     "highPrice": 3.0,
     "marketPrice": 0.4,
     "directLowPrice": null,
@@ -546,7 +546,7 @@
     "groupId": 23297
   },
   "OP04-OP04-036 normal": {
-    "lowPrice": 0.75,
+    "lowPrice": 0.7,
     "midPrice": 0.99,
     "highPrice": 15.0,
     "marketPrice": 0.74,
@@ -574,7 +574,7 @@
   "OP04-OP04-037 normal": {
     "lowPrice": 1.36,
     "midPrice": 2.27,
-    "highPrice": 212.14,
+    "highPrice": 215.13,
     "marketPrice": 2.29,
     "directLowPrice": null,
     "name": "Flapping Thread",
@@ -677,9 +677,9 @@
   },
   "OP04-OP04-046 normal": {
     "lowPrice": 0.49,
-    "midPrice": 1.99,
+    "midPrice": 1.89,
     "highPrice": 2.91,
-    "marketPrice": 1.98,
+    "marketPrice": 1.77,
     "directLowPrice": null,
     "name": "Queen",
     "rarity": "UC",
@@ -703,9 +703,9 @@
   },
   "OP04-OP04-047 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.6,
+    "midPrice": 0.59,
     "highPrice": 10.0,
-    "marketPrice": 0.52,
+    "marketPrice": 0.5,
     "directLowPrice": null,
     "name": "Ice Oni",
     "rarity": "C",
@@ -729,7 +729,7 @@
   },
   "OP04-OP04-048 normal": {
     "lowPrice": 1.74,
-    "midPrice": 2.97,
+    "midPrice": 3.08,
     "highPrice": 15.0,
     "marketPrice": 1.83,
     "directLowPrice": null,
@@ -755,7 +755,7 @@
   },
   "OP04-OP04-049 normal": {
     "lowPrice": 0.6,
-    "midPrice": 0.71,
+    "midPrice": 0.7,
     "highPrice": 9.49,
     "marketPrice": 0.68,
     "directLowPrice": null,
@@ -781,7 +781,7 @@
   },
   "OP04-OP04-050 normal": {
     "lowPrice": 3.08,
-    "midPrice": 3.36,
+    "midPrice": 3.47,
     "highPrice": 8.0,
     "marketPrice": 2.92,
     "directLowPrice": null,
@@ -808,7 +808,7 @@
   "OP04-OP04-052 normal": {
     "lowPrice": 0.4,
     "midPrice": 1.0,
-    "highPrice": 15.42,
+    "highPrice": 18.41,
     "marketPrice": 0.46,
     "directLowPrice": null,
     "name": "Black Maria",
@@ -859,7 +859,7 @@
   },
   "OP04-OP04-054 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.47,
+    "midPrice": 0.41,
     "highPrice": 4.01,
     "marketPrice": 0.27,
     "directLowPrice": null,
@@ -887,7 +887,7 @@
     "lowPrice": 0.47,
     "midPrice": 0.89,
     "highPrice": 3.0,
-    "marketPrice": 0.7,
+    "marketPrice": 0.69,
     "directLowPrice": null,
     "name": "Plague Rounds",
     "rarity": "C",
@@ -989,7 +989,7 @@
   },
   "OP04-OP04-062 normal": {
     "lowPrice": 0.39,
-    "midPrice": 0.72,
+    "midPrice": 0.71,
     "highPrice": 2.0,
     "marketPrice": 0.6,
     "directLowPrice": null,
@@ -1067,7 +1067,7 @@
   },
   "OP04-OP04-068 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.53,
+    "midPrice": 0.5,
     "highPrice": 6.0,
     "marketPrice": 0.33,
     "directLowPrice": null,
@@ -1119,7 +1119,7 @@
   },
   "OP04-OP04-070 normal": {
     "lowPrice": 1.93,
-    "midPrice": 4.5,
+    "midPrice": 4.52,
     "highPrice": 6.0,
     "marketPrice": 1.77,
     "directLowPrice": null,
@@ -1197,7 +1197,7 @@
   },
   "OP04-OP04-075 normal": {
     "lowPrice": 0.95,
-    "midPrice": 1.85,
+    "midPrice": 2.07,
     "highPrice": 7.01,
     "marketPrice": 1.0,
     "directLowPrice": null,
@@ -1223,7 +1223,7 @@
   },
   "OP04-OP04-076 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.84,
+    "midPrice": 0.86,
     "highPrice": 2.98,
     "marketPrice": 0.68,
     "directLowPrice": null,
@@ -1249,7 +1249,7 @@
   },
   "OP04-OP04-077 normal": {
     "lowPrice": 3.04,
-    "midPrice": 4.99,
+    "midPrice": 4.9,
     "highPrice": 20.0,
     "marketPrice": 4.43,
     "directLowPrice": null,
@@ -1276,7 +1276,7 @@
   "OP04-OP04-078 normal": {
     "lowPrice": 0.17,
     "midPrice": 0.49,
-    "highPrice": 5.0,
+    "highPrice": 4.99,
     "marketPrice": 0.26,
     "directLowPrice": null,
     "name": "Oimo & Kashii",
@@ -1301,7 +1301,7 @@
   },
   "OP04-OP04-079 normal": {
     "lowPrice": 3.2,
-    "midPrice": 4.55,
+    "midPrice": 4.48,
     "highPrice": 25.0,
     "marketPrice": 4.45,
     "directLowPrice": null,
@@ -1378,8 +1378,8 @@
     "groupId": 23297
   },
   "OP04-OP04-085 normal": {
-    "lowPrice": 4.99,
-    "midPrice": 7.25,
+    "lowPrice": 5.0,
+    "midPrice": 7.24,
     "highPrice": 27.0,
     "marketPrice": 6.97,
     "directLowPrice": null,
@@ -1483,7 +1483,7 @@
   },
   "OP04-OP04-091 normal": {
     "lowPrice": 2.6,
-    "midPrice": 3.64,
+    "midPrice": 3.34,
     "highPrice": 15.0,
     "marketPrice": 2.82,
     "directLowPrice": null,
@@ -1509,7 +1509,7 @@
   },
   "OP04-OP04-093 normal": {
     "lowPrice": 10.0,
-    "midPrice": 21.02,
+    "midPrice": 21.05,
     "highPrice": 30.0,
     "marketPrice": 21.05,
     "directLowPrice": null,
@@ -1613,7 +1613,7 @@
   },
   "OP04-OP04-098 normal": {
     "lowPrice": 0.75,
-    "midPrice": 0.92,
+    "midPrice": 0.91,
     "highPrice": 25.0,
     "marketPrice": 0.9,
     "directLowPrice": null,
@@ -1667,7 +1667,7 @@
     "lowPrice": 2.17,
     "midPrice": 3.7,
     "highPrice": 10.0,
-    "marketPrice": 3.15,
+    "marketPrice": 3.2,
     "directLowPrice": null,
     "name": "Kouzuki Hiyori",
     "rarity": "UC",
@@ -1716,7 +1716,7 @@
     "groupId": 23297
   },
   "OP04-OP04-107 normal": {
-    "lowPrice": 0.84,
+    "lowPrice": 0.7,
     "midPrice": 1.04,
     "highPrice": 22.79,
     "marketPrice": 1.04,
@@ -1743,7 +1743,7 @@
   },
   "OP04-OP04-108 normal": {
     "lowPrice": 1.1,
-    "midPrice": 1.88,
+    "midPrice": 1.85,
     "highPrice": 8.0,
     "marketPrice": 1.38,
     "directLowPrice": null,
@@ -1821,7 +1821,7 @@
   },
   "OP04-OP04-111 normal": {
     "lowPrice": 2.22,
-    "midPrice": 3.36,
+    "midPrice": 3.52,
     "highPrice": 8.0,
     "marketPrice": 2.42,
     "directLowPrice": null,
@@ -1873,7 +1873,7 @@
   },
   "OP04-OP04-114 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.9,
+    "midPrice": 0.95,
     "highPrice": 15.0,
     "marketPrice": 0.37,
     "directLowPrice": null,
@@ -1899,7 +1899,7 @@
   },
   "OP04-OP04-115 normal": {
     "lowPrice": 0.6,
-    "midPrice": 0.83,
+    "midPrice": 0.84,
     "highPrice": 5.29,
     "marketPrice": 0.64,
     "directLowPrice": null,

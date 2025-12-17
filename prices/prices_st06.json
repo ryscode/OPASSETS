@@ -1,7 +1,7 @@
 {
   "ST06-ST06-001 normal": {
     "lowPrice": 0.44,
-    "midPrice": 1.18,
+    "midPrice": 1.23,
     "highPrice": 25.0,
     "marketPrice": 0.95,
     "directLowPrice": null,
@@ -27,7 +27,7 @@
   },
   "ST06-ST06-002 normal": {
     "lowPrice": 0.06,
-    "midPrice": 0.26,
+    "midPrice": 0.25,
     "highPrice": 10.0,
     "marketPrice": 0.26,
     "directLowPrice": null,
@@ -52,10 +52,10 @@
     "groupId": 17699
   },
   "ST06-ST06-004 normal": {
-    "lowPrice": 0.24,
-    "midPrice": 1.17,
+    "lowPrice": 0.25,
+    "midPrice": 1.21,
     "highPrice": 25.0,
-    "marketPrice": 0.95,
+    "marketPrice": 0.86,
     "directLowPrice": null,
     "name": "Smoker",
     "rarity": "SR",
@@ -104,10 +104,10 @@
     "groupId": 17699
   },
   "ST06-ST06-006 normal": {
-    "lowPrice": 0.89,
-    "midPrice": 1.18,
-    "highPrice": 34.0,
-    "marketPrice": 1.05,
+    "lowPrice": 0.8,
+    "midPrice": 1.17,
+    "highPrice": 25.0,
+    "marketPrice": 1.04,
     "directLowPrice": null,
     "name": "Tashigi",
     "rarity": "C",
@@ -157,7 +157,7 @@
   },
   "ST06-ST06-015 normal": {
     "lowPrice": 0.39,
-    "midPrice": 1.0,
+    "midPrice": 0.99,
     "highPrice": 27.99,
     "marketPrice": 0.72,
     "directLowPrice": null,
@@ -184,7 +184,7 @@
   "ST06-ST06-003 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 1.32,
+    "highPrice": 1.31,
     "marketPrice": 0.08,
     "directLowPrice": null,
     "name": "Jango",
@@ -234,7 +234,7 @@
     "groupId": 17699
   },
   "ST06-ST06-007 normal": {
-    "lowPrice": 0.01,
+    "lowPrice": 0.02,
     "midPrice": 0.15,
     "highPrice": 1.35,
     "marketPrice": 0.09,
@@ -287,8 +287,8 @@
   },
   "ST06-ST06-009 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.11,
-    "highPrice": 1.32,
+    "midPrice": 0.1,
+    "highPrice": 1.31,
     "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Fullbody",
@@ -314,7 +314,7 @@
   "ST06-ST06-011 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 1.32,
+    "highPrice": 1.31,
     "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Momonga",
@@ -340,7 +340,7 @@
   "ST06-ST06-013 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.11,
-    "highPrice": 1.32,
+    "highPrice": 1.31,
     "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "T-Bone",
@@ -365,9 +365,9 @@
   },
   "ST06-ST06-014 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.17,
+    "midPrice": 0.16,
     "highPrice": 11.0,
-    "marketPrice": 0.11,
+    "marketPrice": 0.08,
     "directLowPrice": null,
     "name": "Shockwave",
     "rarity": "C",
@@ -391,9 +391,9 @@
   },
   "ST06-ST06-016 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.21,
-    "highPrice": 1.32,
-    "marketPrice": 0.14,
+    "midPrice": 0.2,
+    "highPrice": 1.12,
+    "marketPrice": 0.13,
     "directLowPrice": null,
     "name": "White Out",
     "rarity": "C",

@@ -1,6 +1,6 @@
 {
   "EB01-EB01-015 normal": {
-    "lowPrice": 0.16,
+    "lowPrice": 0.12,
     "midPrice": 0.25,
     "highPrice": 10.0,
     "marketPrice": 0.22,
@@ -27,9 +27,9 @@
   },
   "OP07-OP07-019 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.69,
-    "highPrice": 5.75,
-    "marketPrice": 0.56,
+    "midPrice": 0.67,
+    "highPrice": 5.74,
+    "marketPrice": 0.58,
     "directLowPrice": null,
     "name": "Jewelry Bonney (OP07-019)",
     "rarity": "L",
@@ -54,7 +54,7 @@
   "OP07-OP07-021 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.12,
-    "highPrice": 1.31,
+    "highPrice": 1.32,
     "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Urouge (Reprint)",
@@ -158,7 +158,7 @@
   "OP07-OP07-033 normal": {
     "lowPrice": 0.02,
     "midPrice": 0.13,
-    "highPrice": 1.31,
+    "highPrice": 1.32,
     "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Reprint)",
@@ -287,9 +287,9 @@
   },
   "ST24-ST24-002 normal": {
     "lowPrice": 0.7,
-    "midPrice": 2.0,
+    "midPrice": 1.98,
     "highPrice": 25.0,
-    "marketPrice": 1.06,
+    "marketPrice": 0.92,
     "directLowPrice": null,
     "name": "Kid & Killer",
     "rarity": "SR",
@@ -315,7 +315,7 @@
     "lowPrice": 0.15,
     "midPrice": 0.31,
     "highPrice": 5.0,
-    "marketPrice": 0.26,
+    "marketPrice": 0.27,
     "directLowPrice": null,
     "name": "Basil Hawkins",
     "rarity": "C",
@@ -338,10 +338,10 @@
     "groupId": 24283
   },
   "ST24-ST24-004 normal": {
-    "lowPrice": 2.11,
-    "midPrice": 4.19,
+    "lowPrice": 2.75,
+    "midPrice": 4.08,
     "highPrice": 12.0,
-    "marketPrice": 3.31,
+    "marketPrice": 3.1,
     "directLowPrice": null,
     "name": "Law & Bepo",
     "rarity": "SR",

@@ -53,7 +53,7 @@
   },
   "OP07-OP07-009 normal": {
     "lowPrice": 0.08,
-    "midPrice": 0.38,
+    "midPrice": 0.39,
     "highPrice": 2.0,
     "marketPrice": 0.17,
     "directLowPrice": null,
@@ -105,7 +105,7 @@
   },
   "OP07-OP07-012 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.4,
+    "midPrice": 0.45,
     "highPrice": 10.0,
     "marketPrice": 0.18,
     "directLowPrice": null,
@@ -133,7 +133,7 @@
     "lowPrice": 0.2,
     "midPrice": 0.46,
     "highPrice": 2.0,
-    "marketPrice": 0.46,
+    "marketPrice": 0.47,
     "directLowPrice": null,
     "name": "Keep Out",
     "rarity": "C",
@@ -183,7 +183,7 @@
   },
   "OP07-OP07-024 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.59,
+    "midPrice": 0.56,
     "highPrice": 10.0,
     "marketPrice": 0.28,
     "directLowPrice": null,
@@ -261,7 +261,7 @@
   },
   "OP07-OP07-028 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.35,
+    "midPrice": 0.37,
     "highPrice": 10.0,
     "marketPrice": 0.23,
     "directLowPrice": null,
@@ -313,7 +313,7 @@
   },
   "OP07-OP07-035 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.49,
+    "midPrice": 0.48,
     "highPrice": 2.0,
     "marketPrice": 0.38,
     "directLowPrice": null,
@@ -365,7 +365,7 @@
   },
   "OP07-OP07-042 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.47,
+    "midPrice": 0.49,
     "highPrice": 50.0,
     "marketPrice": 0.28,
     "directLowPrice": null,
@@ -417,7 +417,7 @@
   },
   "OP07-OP07-049 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.4,
+    "midPrice": 0.41,
     "highPrice": 10.0,
     "marketPrice": 0.32,
     "directLowPrice": null,
@@ -469,7 +469,7 @@
   },
   "OP07-OP07-052 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.6,
+    "midPrice": 0.65,
     "highPrice": 20.0,
     "marketPrice": 0.33,
     "directLowPrice": null,
@@ -494,7 +494,7 @@
     "groupId": 23512
   },
   "OP07-OP07-055 normal": {
-    "lowPrice": 1.88,
+    "lowPrice": 1.87,
     "midPrice": 3.02,
     "highPrice": 6.03,
     "marketPrice": 2.93,
@@ -547,7 +547,7 @@
   },
   "OP07-OP07-061 normal": {
     "lowPrice": 0.5,
-    "midPrice": 1.29,
+    "midPrice": 1.18,
     "highPrice": 7.94,
     "marketPrice": 1.07,
     "directLowPrice": null,
@@ -625,7 +625,7 @@
   },
   "OP07-OP07-067 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.38,
+    "midPrice": 0.4,
     "highPrice": 2.0,
     "marketPrice": 0.19,
     "directLowPrice": null,
@@ -651,9 +651,9 @@
   },
   "OP07-OP07-069 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.87,
+    "midPrice": 0.93,
     "highPrice": 1.1,
-    "marketPrice": 1.05,
+    "marketPrice": 1.02,
     "directLowPrice": null,
     "name": "Pickles",
     "rarity": "C",
@@ -679,7 +679,7 @@
     "lowPrice": 0.25,
     "midPrice": 0.5,
     "highPrice": 8.0,
-    "marketPrice": 0.45,
+    "marketPrice": 0.44,
     "directLowPrice": null,
     "name": "Monda",
     "rarity": "C",
@@ -755,7 +755,7 @@
   },
   "OP07-OP07-081 normal": {
     "lowPrice": 0.66,
-    "midPrice": 1.56,
+    "midPrice": 2.27,
     "highPrice": 15.0,
     "marketPrice": 0.71,
     "directLowPrice": null,
@@ -781,7 +781,7 @@
   },
   "OP07-OP07-084 normal": {
     "lowPrice": 0.11,
-    "midPrice": 0.39,
+    "midPrice": 0.4,
     "highPrice": 2.0,
     "marketPrice": 0.27,
     "directLowPrice": null,
@@ -885,7 +885,7 @@
   },
   "OP07-OP07-090 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.47,
+    "midPrice": 0.49,
     "highPrice": 4.99,
     "marketPrice": 0.35,
     "directLowPrice": null,
@@ -963,7 +963,7 @@
   },
   "OP07-OP07-100 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.84,
+    "midPrice": 0.83,
     "highPrice": 3.0,
     "marketPrice": 0.75,
     "directLowPrice": null,
@@ -1013,35 +1013,9 @@
     "description": "[Trigger] Return up to 1 of your opponent's Characters with a cost of 4 or less to the owner's hand and add this card to your hand.",
     "groupId": 23512
   },
-  "OP07-OP07-103 normal": {
-    "lowPrice": 8.68,
-    "midPrice": 8.68,
-    "highPrice": 8.68,
-    "marketPrice": 6.82,
-    "directLowPrice": null,
-    "name": "Tony Tony.Chopper (103)",
-    "rarity": "C",
-    "power": "3000",
-    "cost": "2",
-    "life": null,
-    "category": "Character",
-    "colors": "Yellow",
-    "attributes": "Wisdom",
-    "types": "Animal;Egghead;Straw Hat Crew",
-    "effect": null,
-    "trigger": "yes",
-    "counter": "1000",
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/552095_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Character",
-    "description": "[Trigger] Up to 1 of your {Egghead} type Characters gains [Blocker] during this turn. Then, add this card to your hand.",
-    "groupId": 23512
-  },
   "OP07-OP07-106 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.38,
+    "midPrice": 0.37,
     "highPrice": 50.0,
     "marketPrice": 0.25,
     "directLowPrice": null,
@@ -1067,7 +1041,7 @@
   },
   "OP07-OP07-108 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.53,
+    "midPrice": 0.5,
     "highPrice": 4.99,
     "marketPrice": 0.46,
     "directLowPrice": null,
@@ -1093,7 +1067,7 @@
   },
   "OP07-OP07-110 normal": {
     "lowPrice": 0.45,
-    "midPrice": 0.9,
+    "midPrice": 0.85,
     "highPrice": 3.0,
     "marketPrice": 1.0,
     "directLowPrice": null,
@@ -1120,7 +1094,7 @@
   "OP07-OP07-115 normal": {
     "lowPrice": 3.95,
     "midPrice": 4.85,
-    "highPrice": 6.69,
+    "highPrice": 9.69,
     "marketPrice": 4.97,
     "directLowPrice": null,
     "name": "I Re-Quasar Helllp!!",
@@ -1144,8 +1118,8 @@
     "groupId": 23512
   },
   "OP07-OP07-117 normal": {
-    "lowPrice": 1.39,
-    "midPrice": 2.29,
+    "lowPrice": 1.41,
+    "midPrice": 2.0,
     "highPrice": 4.5,
     "marketPrice": 1.66,
     "directLowPrice": null,
@@ -1275,7 +1249,7 @@
   },
   "OP07-OP07-023 normal": {
     "lowPrice": 0.21,
-    "midPrice": 0.46,
+    "midPrice": 0.47,
     "highPrice": 4.99,
     "marketPrice": 0.37,
     "directLowPrice": null,
@@ -1303,7 +1277,7 @@
     "lowPrice": 4.45,
     "midPrice": 5.1,
     "highPrice": 19.75,
-    "marketPrice": 5.23,
+    "marketPrice": 5.2,
     "directLowPrice": null,
     "name": "Bartolomeo",
     "rarity": "UC",
@@ -1379,9 +1353,9 @@
   },
   "OP07-OP07-037 normal": {
     "lowPrice": 2.2,
-    "midPrice": 3.22,
-    "highPrice": 16.0,
-    "marketPrice": 2.97,
+    "midPrice": 3.3,
+    "highPrice": 6.0,
+    "marketPrice": 2.95,
     "directLowPrice": null,
     "name": "More Pizza!!",
     "rarity": "UC",
@@ -1430,7 +1404,7 @@
     "groupId": 23512
   },
   "OP07-OP07-041 normal": {
-    "lowPrice": 25.0,
+    "lowPrice": 12.13,
     "midPrice": 30.0,
     "highPrice": 50.0,
     "marketPrice": 4.26,
@@ -1483,7 +1457,7 @@
   },
   "OP07-OP07-048 normal": {
     "lowPrice": 0.9,
-    "midPrice": 1.66,
+    "midPrice": 1.61,
     "highPrice": 50.0,
     "marketPrice": 1.58,
     "directLowPrice": null,
@@ -1509,7 +1483,7 @@
   },
   "OP07-OP07-056 normal": {
     "lowPrice": 19.99,
-    "midPrice": 23.0,
+    "midPrice": 22.99,
     "highPrice": 30.0,
     "marketPrice": 14.92,
     "directLowPrice": null,
@@ -1534,8 +1508,8 @@
     "groupId": 23512
   },
   "OP07-OP07-060 normal": {
-    "lowPrice": 1.05,
-    "midPrice": 2.8,
+    "lowPrice": 1.99,
+    "midPrice": 3.66,
     "highPrice": 8.48,
     "marketPrice": 2.62,
     "directLowPrice": null,
@@ -1587,7 +1561,7 @@
   },
   "OP07-OP07-068 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.75,
+    "midPrice": 0.77,
     "highPrice": 2.0,
     "marketPrice": 0.78,
     "directLowPrice": null,
@@ -1612,10 +1586,10 @@
     "groupId": 23512
   },
   "OP07-OP07-070 normal": {
-    "lowPrice": 0.75,
-    "midPrice": 1.31,
+    "lowPrice": 1.11,
+    "midPrice": 1.32,
     "highPrice": 3.0,
-    "marketPrice": 1.3,
+    "marketPrice": 1.26,
     "directLowPrice": null,
     "name": "Big Bun",
     "rarity": "UC",
@@ -1743,7 +1717,7 @@
   },
   "OP07-OP07-092 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.68,
+    "midPrice": 0.67,
     "highPrice": 5.0,
     "marketPrice": 0.59,
     "directLowPrice": null,

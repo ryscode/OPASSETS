@@ -1,9 +1,9 @@
 {
   "OP06-OP06-022 normal": {
     "lowPrice": 0.5,
-    "midPrice": 1.03,
+    "midPrice": 1.0,
     "highPrice": 9.99,
-    "marketPrice": 0.93,
+    "marketPrice": 0.98,
     "directLowPrice": null,
     "name": "Yamato (OP06-022)",
     "rarity": "L",
@@ -79,9 +79,9 @@
   },
   "OP06-OP06-104 normal": {
     "lowPrice": 0.19,
-    "midPrice": 0.33,
+    "midPrice": 0.35,
     "highPrice": 4.99,
-    "marketPrice": 0.28,
+    "marketPrice": 0.29,
     "directLowPrice": null,
     "name": "Kikunojo (Reprint)",
     "rarity": "R",
@@ -208,8 +208,8 @@
     "groupId": 24287
   },
   "OP09-OP09-035 normal": {
-    "lowPrice": 0.02,
-    "midPrice": 0.13,
+    "lowPrice": 0.03,
+    "midPrice": 0.11,
     "highPrice": 4.99,
     "marketPrice": 0.05,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "ST13-ST13-016 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.14,
+    "midPrice": 0.15,
     "highPrice": 4.99,
     "marketPrice": 0.11,
     "directLowPrice": null,
@@ -261,8 +261,8 @@
   },
   "ST28-ST28-001 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.17,
-    "highPrice": 1.31,
+    "midPrice": 0.18,
+    "highPrice": 1.32,
     "marketPrice": 0.13,
     "directLowPrice": null,
     "name": "Ashura Doji",
@@ -287,7 +287,7 @@
   },
   "ST28-ST28-002 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.24,
+    "midPrice": 0.25,
     "highPrice": 2.0,
     "marketPrice": 0.13,
     "directLowPrice": null,
@@ -313,9 +313,9 @@
   },
   "ST28-ST28-003 normal": {
     "lowPrice": 0.43,
-    "midPrice": 0.7,
+    "midPrice": 0.72,
     "highPrice": 65.0,
-    "marketPrice": 0.52,
+    "marketPrice": 0.51,
     "directLowPrice": null,
     "name": "Kin'emon",
     "rarity": "C",
@@ -339,9 +339,9 @@
   },
   "ST28-ST28-004 normal": {
     "lowPrice": 0.29,
-    "midPrice": 1.1,
+    "midPrice": 1.12,
     "highPrice": 4.99,
-    "marketPrice": 0.4,
+    "marketPrice": 0.42,
     "directLowPrice": null,
     "name": "Kouzuki Momonosuke",
     "rarity": "SR",
@@ -364,10 +364,10 @@
     "groupId": 24287
   },
   "ST28-ST28-005 normal": {
-    "lowPrice": 1.28,
-    "midPrice": 2.36,
+    "lowPrice": 1.25,
+    "midPrice": 2.69,
     "highPrice": 5.99,
-    "marketPrice": 1.64,
+    "marketPrice": 1.62,
     "directLowPrice": null,
     "name": "Yamato",
     "rarity": "SR",

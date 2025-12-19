@@ -3,7 +3,7 @@
     "lowPrice": 0.5,
     "midPrice": 1.0,
     "highPrice": 9.99,
-    "marketPrice": 0.98,
+    "marketPrice": 0.97,
     "directLowPrice": null,
     "name": "Yamato (OP06-022)",
     "rarity": "L",
@@ -81,7 +81,7 @@
     "lowPrice": 0.19,
     "midPrice": 0.35,
     "highPrice": 4.99,
-    "marketPrice": 0.29,
+    "marketPrice": 0.3,
     "directLowPrice": null,
     "name": "Kikunojo (Reprint)",
     "rarity": "R",
@@ -105,7 +105,7 @@
   },
   "OP06-OP06-109 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.1,
+    "midPrice": 0.11,
     "highPrice": 4.99,
     "marketPrice": 0.07,
     "directLowPrice": null,
@@ -208,8 +208,8 @@
     "groupId": 24287
   },
   "OP09-OP09-035 normal": {
-    "lowPrice": 0.03,
-    "midPrice": 0.11,
+    "lowPrice": 0.04,
+    "midPrice": 0.13,
     "highPrice": 4.99,
     "marketPrice": 0.05,
     "directLowPrice": null,
@@ -261,7 +261,7 @@
   },
   "ST28-ST28-001 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.18,
+    "midPrice": 0.19,
     "highPrice": 1.32,
     "marketPrice": 0.13,
     "directLowPrice": null,
@@ -315,7 +315,7 @@
     "lowPrice": 0.43,
     "midPrice": 0.72,
     "highPrice": 65.0,
-    "marketPrice": 0.51,
+    "marketPrice": 0.5,
     "directLowPrice": null,
     "name": "Kin'emon",
     "rarity": "C",
@@ -338,8 +338,8 @@
     "groupId": 24287
   },
   "ST28-ST28-004 normal": {
-    "lowPrice": 0.29,
-    "midPrice": 1.12,
+    "lowPrice": 0.2,
+    "midPrice": 1.01,
     "highPrice": 4.99,
     "marketPrice": 0.42,
     "directLowPrice": null,
@@ -365,9 +365,9 @@
   },
   "ST28-ST28-005 normal": {
     "lowPrice": 1.25,
-    "midPrice": 2.69,
+    "midPrice": 2.5,
     "highPrice": 5.99,
-    "marketPrice": 1.62,
+    "marketPrice": 1.71,
     "directLowPrice": null,
     "name": "Yamato",
     "rarity": "SR",

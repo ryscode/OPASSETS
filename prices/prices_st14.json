@@ -1,9 +1,9 @@
 {
   "ST14-ST14-001 normal": {
     "lowPrice": 2.5,
-    "midPrice": 6.5,
+    "midPrice": 8.0,
     "highPrice": 50.0,
-    "marketPrice": 2.81,
+    "marketPrice": 2.94,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (001)",
     "rarity": "L",
@@ -27,7 +27,7 @@
   },
   "ST14-ST14-002 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.14,
+    "midPrice": 0.15,
     "highPrice": 1.36,
     "marketPrice": 0.13,
     "directLowPrice": null,
@@ -52,10 +52,10 @@
     "groupId": 23489
   },
   "ST14-ST14-003 normal": {
-    "lowPrice": 1.98,
+    "lowPrice": 1.3,
     "midPrice": 4.0,
     "highPrice": 50.0,
-    "marketPrice": 2.88,
+    "marketPrice": 2.72,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "SR",
@@ -78,9 +78,9 @@
     "groupId": 23489
   },
   "ST14-ST14-004 normal": {
-    "lowPrice": 0.03,
+    "lowPrice": 0.01,
     "midPrice": 0.12,
-    "highPrice": 1.31,
+    "highPrice": 1.29,
     "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Jinbe",
@@ -183,7 +183,7 @@
   },
   "ST14-ST14-008 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.13,
+    "midPrice": 0.14,
     "highPrice": 1.29,
     "marketPrice": 0.1,
     "directLowPrice": null,
@@ -208,9 +208,9 @@
     "groupId": 23489
   },
   "ST14-ST14-009 normal": {
-    "lowPrice": 0.03,
+    "lowPrice": 0.02,
     "midPrice": 0.15,
-    "highPrice": 1.31,
+    "highPrice": 1.3,
     "marketPrice": 0.15,
     "directLowPrice": null,
     "name": "Franky",
@@ -235,7 +235,7 @@
   },
   "ST14-ST14-010 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.11,
+    "midPrice": 0.12,
     "highPrice": 1.3,
     "marketPrice": 0.08,
     "directLowPrice": null,
@@ -286,7 +286,7 @@
     "groupId": 23489
   },
   "ST14-ST14-012 normal": {
-    "lowPrice": 0.07,
+    "lowPrice": 0.06,
     "midPrice": 0.2,
     "highPrice": 10.0,
     "marketPrice": 0.2,
@@ -312,9 +312,9 @@
     "groupId": 23489
   },
   "ST14-ST14-013 normal": {
-    "lowPrice": 0.03,
+    "lowPrice": 0.02,
     "midPrice": 0.18,
-    "highPrice": 1.31,
+    "highPrice": 1.68,
     "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Roronoa Zoro",

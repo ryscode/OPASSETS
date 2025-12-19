@@ -1,9 +1,9 @@
 {
   "OP05-OP05-060 normal": {
     "lowPrice": 0.45,
-    "midPrice": 1.13,
+    "midPrice": 1.12,
     "highPrice": 50.0,
-    "marketPrice": 1.09,
+    "marketPrice": 0.97,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (OP05-060)",
     "rarity": "L",
@@ -27,7 +27,7 @@
   },
   "OP05-OP05-061 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.21,
+    "midPrice": 0.2,
     "highPrice": 5.0,
     "marketPrice": 0.15,
     "directLowPrice": null,
@@ -133,7 +133,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.13,
     "highPrice": 1.29,
-    "marketPrice": 0.13,
+    "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Chopa-Emon",
     "rarity": "C",
@@ -211,7 +211,7 @@
     "lowPrice": 0.04,
     "midPrice": 0.27,
     "highPrice": 25.0,
-    "marketPrice": 0.27,
+    "marketPrice": 0.28,
     "directLowPrice": null,
     "name": "When You're at Sea You Fight against Pirates!!",
     "rarity": "R",
@@ -235,9 +235,9 @@
   },
   "P-P-041 normal": {
     "lowPrice": 2.0,
-    "midPrice": 3.33,
+    "midPrice": 3.3,
     "highPrice": 30.0,
-    "marketPrice": 2.52,
+    "marketPrice": 2.47,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (P-041)",
     "rarity": "PR",
@@ -260,8 +260,8 @@
     "groupId": 23493
   },
   "ST18-ST18-001 normal": {
-    "lowPrice": 1.5,
-    "midPrice": 3.95,
+    "lowPrice": 0.96,
+    "midPrice": 3.25,
     "highPrice": 25.0,
     "marketPrice": 2.15,
     "directLowPrice": null,
@@ -289,7 +289,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.33,
     "highPrice": 5.0,
-    "marketPrice": 0.3,
+    "marketPrice": 0.31,
     "directLowPrice": null,
     "name": "O-Nami",
     "rarity": "C",
@@ -313,7 +313,7 @@
   },
   "ST18-ST18-003 normal": {
     "lowPrice": 0.06,
-    "midPrice": 0.25,
+    "midPrice": 0.24,
     "highPrice": 10.18,
     "marketPrice": 0.18,
     "directLowPrice": null,
@@ -338,10 +338,10 @@
     "groupId": 23493
   },
   "ST18-ST18-004 normal": {
-    "lowPrice": 1.0,
-    "midPrice": 2.47,
+    "lowPrice": 0.81,
+    "midPrice": 2.5,
     "highPrice": 25.0,
-    "marketPrice": 1.85,
+    "marketPrice": 1.84,
     "directLowPrice": null,
     "name": "Zoro-Juurou (ST18-004)",
     "rarity": "SR",
@@ -364,10 +364,10 @@
     "groupId": 23493
   },
   "ST18-ST18-005 normal": {
-    "lowPrice": 1.5,
-    "midPrice": 2.6,
+    "lowPrice": 1.03,
+    "midPrice": 2.68,
     "highPrice": 95.0,
-    "marketPrice": 2.58,
+    "marketPrice": 2.52,
     "directLowPrice": null,
     "name": "Luffy-Tarou",
     "rarity": "SR",

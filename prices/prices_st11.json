@@ -1,9 +1,9 @@
 {
   "ST11-ST11-001 normal": {
     "lowPrice": 0.99,
-    "midPrice": 2.15,
+    "midPrice": 2.0,
     "highPrice": 25.0,
-    "marketPrice": 1.47,
+    "marketPrice": 1.53,
     "directLowPrice": null,
     "name": "Uta (001)",
     "rarity": "L",
@@ -27,9 +27,9 @@
   },
   "ST11-ST11-002 normal": {
     "lowPrice": 1.0,
-    "midPrice": 1.99,
+    "midPrice": 1.92,
     "highPrice": 50.0,
-    "marketPrice": 1.17,
+    "marketPrice": 1.2,
     "directLowPrice": null,
     "name": "Uta (002)",
     "rarity": "SR",
@@ -78,7 +78,7 @@
     "groupId": 23250
   },
   "ST11-ST11-004 normal": {
-    "lowPrice": 0.1,
+    "lowPrice": 0.2,
     "midPrice": 0.5,
     "highPrice": 6.5,
     "marketPrice": 0.29,
@@ -107,7 +107,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 1.25,
-    "marketPrice": 0.11,
+    "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "I'm invincible",
     "rarity": "C",

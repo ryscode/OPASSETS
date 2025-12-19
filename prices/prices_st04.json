@@ -1,9 +1,9 @@
 {
   "ST04-ST04-001 normal": {
-    "lowPrice": 0.57,
+    "lowPrice": 0.2,
     "midPrice": 1.99,
     "highPrice": 9.99,
-    "marketPrice": 0.83,
+    "marketPrice": 0.89,
     "directLowPrice": null,
     "name": "Kaido (001)",
     "rarity": "L",
@@ -81,7 +81,7 @@
     "lowPrice": 0.15,
     "midPrice": 0.5,
     "highPrice": 25.0,
-    "marketPrice": 0.33,
+    "marketPrice": 0.32,
     "directLowPrice": null,
     "name": "King",
     "rarity": "SR",
@@ -131,7 +131,7 @@
   },
   "ST04-ST04-006 normal": {
     "lowPrice": 0.04,
-    "midPrice": 0.18,
+    "midPrice": 0.19,
     "highPrice": 1.34,
     "marketPrice": 0.15,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "ST04-ST04-008 normal": {
     "lowPrice": 0.04,
-    "midPrice": 0.21,
+    "midPrice": 0.22,
     "highPrice": 2.0,
     "marketPrice": 0.17,
     "directLowPrice": null,
@@ -338,7 +338,7 @@
     "groupId": 3190
   },
   "ST04-ST04-014 normal": {
-    "lowPrice": 0.4,
+    "lowPrice": 0.33,
     "midPrice": 0.74,
     "highPrice": 7.65,
     "marketPrice": 0.7,
@@ -393,7 +393,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 8.4,
-    "marketPrice": 0.12,
+    "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Blast Breath",
     "rarity": "C",
@@ -417,9 +417,9 @@
   },
   "ST04-ST04-017 normal": {
     "lowPrice": 0.19,
-    "midPrice": 0.38,
+    "midPrice": 0.37,
     "highPrice": 1.95,
-    "marketPrice": 0.3,
+    "marketPrice": 0.29,
     "directLowPrice": null,
     "name": "Onigashima Island",
     "rarity": "C",

@@ -1,7 +1,7 @@
 {
   "ST04-ST04-001 normal": {
-    "lowPrice": 81.94,
-    "midPrice": 87.99,
+    "lowPrice": 81.79,
+    "midPrice": 87.34,
     "highPrice": 200.0,
     "marketPrice": 53.79,
     "directLowPrice": null,
@@ -54,7 +54,7 @@
   "ST04-ST04-003 normal": {
     "lowPrice": 6.99,
     "midPrice": 19.99,
-    "highPrice": 30.0,
+    "highPrice": 125.0,
     "marketPrice": 5.95,
     "directLowPrice": null,
     "name": "Kaido (003)",
@@ -78,8 +78,8 @@
     "groupId": 17661
   },
   "ST04-ST04-004 normal": {
-    "lowPrice": 5.75,
-    "midPrice": 13.81,
+    "lowPrice": 3.29,
+    "midPrice": 10.38,
     "highPrice": 50.0,
     "marketPrice": 7.3,
     "directLowPrice": null,
@@ -131,7 +131,7 @@
   },
   "ST04-ST04-006 normal": {
     "lowPrice": 0.13,
-    "midPrice": 0.46,
+    "midPrice": 0.47,
     "highPrice": 25.0,
     "marketPrice": 0.24,
     "directLowPrice": null,
@@ -234,10 +234,10 @@
     "groupId": 17661
   },
   "ST04-ST04-010 normal": {
-    "lowPrice": 0.15,
-    "midPrice": 0.47,
+    "lowPrice": 0.2,
+    "midPrice": 0.48,
     "highPrice": 6.35,
-    "marketPrice": 0.27,
+    "marketPrice": 0.26,
     "directLowPrice": null,
     "name": "Who's.Who",
     "rarity": "C",
@@ -260,8 +260,8 @@
     "groupId": 17661
   },
   "ST04-ST04-011 normal": {
-    "lowPrice": 0.15,
-    "midPrice": 0.5,
+    "lowPrice": 0.25,
+    "midPrice": 0.91,
     "highPrice": 25.0,
     "marketPrice": 0.28,
     "directLowPrice": null,
@@ -339,9 +339,9 @@
   },
   "ST04-ST04-014 normal": {
     "lowPrice": 1.2,
-    "midPrice": 2.97,
+    "midPrice": 2.99,
     "highPrice": 14.99,
-    "marketPrice": 2.64,
+    "marketPrice": 2.51,
     "directLowPrice": null,
     "name": "Lead Performer \"Disaster\"",
     "rarity": "C",
@@ -391,7 +391,7 @@
   },
   "ST04-ST04-016 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.52,
+    "midPrice": 0.58,
     "highPrice": 50.0,
     "marketPrice": 0.5,
     "directLowPrice": null,
@@ -417,9 +417,9 @@
   },
   "ST04-ST04-017 normal": {
     "lowPrice": 0.86,
-    "midPrice": 1.22,
-    "highPrice": 50.0,
-    "marketPrice": 0.9,
+    "midPrice": 1.24,
+    "highPrice": 125.0,
+    "marketPrice": 0.91,
     "directLowPrice": null,
     "name": "Onigashima Island",
     "rarity": "C",

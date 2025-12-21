@@ -1,9 +1,9 @@
 {
   "ST11-ST11-001 normal": {
     "lowPrice": 1.18,
-    "midPrice": 2.0,
+    "midPrice": 1.99,
     "highPrice": 25.0,
-    "marketPrice": 1.53,
+    "marketPrice": 1.62,
     "directLowPrice": null,
     "name": "Uta (001)",
     "rarity": "L",
@@ -29,7 +29,7 @@
     "lowPrice": 1.0,
     "midPrice": 1.99,
     "highPrice": 50.0,
-    "marketPrice": 1.19,
+    "marketPrice": 1.2,
     "directLowPrice": null,
     "name": "Uta (002)",
     "rarity": "SR",
@@ -54,7 +54,7 @@
   "ST11-ST11-003 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.25,
-    "highPrice": 1.5,
+    "highPrice": 1.98,
     "marketPrice": 0.13,
     "directLowPrice": null,
     "name": "Backlight",
@@ -104,9 +104,9 @@
     "groupId": 23250
   },
   "ST11-ST11-005 normal": {
-    "lowPrice": 0.01,
+    "lowPrice": 0.04,
     "midPrice": 0.2,
-    "highPrice": 1.25,
+    "highPrice": 1.98,
     "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "I'm invincible",

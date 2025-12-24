@@ -1,9 +1,9 @@
 {
   "ST12-ST12-001 normal": {
     "lowPrice": 5.37,
-    "midPrice": 7.65,
+    "midPrice": 7.19,
     "highPrice": 100.0,
-    "marketPrice": 6.57,
+    "marketPrice": 6.55,
     "directLowPrice": null,
     "name": "Roronoa Zoro & Sanji",
     "rarity": "L",
@@ -26,8 +26,8 @@
     "groupId": 23348
   },
   "ST12-ST12-008 normal": {
-    "lowPrice": 0.21,
-    "midPrice": 0.71,
+    "lowPrice": 0.25,
+    "midPrice": 0.75,
     "highPrice": 25.0,
     "marketPrice": 0.57,
     "directLowPrice": null,
@@ -79,7 +79,7 @@
   },
   "ST12-ST12-016 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.23,
+    "midPrice": 0.24,
     "highPrice": 10.0,
     "marketPrice": 0.23,
     "directLowPrice": null,
@@ -156,10 +156,10 @@
     "groupId": 23348
   },
   "ST12-ST12-003 normal": {
-    "lowPrice": 8.0,
-    "midPrice": 11.0,
+    "lowPrice": 7.5,
+    "midPrice": 10.78,
     "highPrice": 50.0,
-    "marketPrice": 9.0,
+    "marketPrice": 8.92,
     "directLowPrice": null,
     "name": "Dracule Mihawk",
     "rarity": "SR",
@@ -237,7 +237,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 1.32,
-    "marketPrice": 0.07,
+    "marketPrice": 0.08,
     "directLowPrice": null,
     "name": "Yosaku & Johnny",
     "rarity": "C",
@@ -260,10 +260,10 @@
     "groupId": 23348
   },
   "ST12-ST12-007 normal": {
-    "lowPrice": 0.68,
-    "midPrice": 1.25,
+    "lowPrice": 0.67,
+    "midPrice": 1.16,
     "highPrice": 25.0,
-    "marketPrice": 1.03,
+    "marketPrice": 1.02,
     "directLowPrice": null,
     "name": "Rika",
     "rarity": "C",
@@ -312,10 +312,10 @@
     "groupId": 23348
   },
   "ST12-ST12-010 normal": {
-    "lowPrice": 0.48,
+    "lowPrice": 0.49,
     "midPrice": 1.8,
     "highPrice": 25.0,
-    "marketPrice": 0.95,
+    "marketPrice": 0.87,
     "directLowPrice": null,
     "name": "Emporio.Ivankov",
     "rarity": "SR",
@@ -393,7 +393,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.2,
     "highPrice": 5.5,
-    "marketPrice": 0.13,
+    "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Duval",
     "rarity": "C",

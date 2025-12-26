@@ -1,9 +1,9 @@
 {
   "ST21-ST21-001 normal": {
-    "lowPrice": 14.46,
-    "midPrice": 17.99,
-    "highPrice": 20.0,
-    "marketPrice": 6.5,
+    "lowPrice": 10.0,
+    "midPrice": 15.0,
+    "highPrice": 100.0,
+    "marketPrice": 7.18,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (001)",
     "rarity": "L",
@@ -26,10 +26,10 @@
     "groupId": 23991
   },
   "ST21-ST21-001 parallel": {
-    "lowPrice": 60.0,
+    "lowPrice": 61.99,
     "midPrice": 87.5,
     "highPrice": 300.0,
-    "marketPrice": 51.53,
+    "marketPrice": 52.2,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (001) (Parallel)",
     "rarity": "L",
@@ -79,7 +79,7 @@
   },
   "ST21-ST21-002 parallel": {
     "lowPrice": 0.35,
-    "midPrice": 1.08,
+    "midPrice": 1.0,
     "highPrice": 50.0,
     "marketPrice": 0.84,
     "directLowPrice": null,
@@ -107,7 +107,7 @@
     "lowPrice": 0.5,
     "midPrice": 1.27,
     "highPrice": 10.0,
-    "marketPrice": 1.27,
+    "marketPrice": 1.23,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "C",
@@ -130,10 +130,10 @@
     "groupId": 23991
   },
   "ST21-ST21-003 parallel": {
-    "lowPrice": 11.68,
-    "midPrice": 16.75,
+    "lowPrice": 11.49,
+    "midPrice": 15.45,
     "highPrice": 30.0,
-    "marketPrice": 13.71,
+    "marketPrice": 13.05,
     "directLowPrice": null,
     "name": "Sanji (Parallel)",
     "rarity": "C",
@@ -183,7 +183,7 @@
   },
   "ST21-ST21-004 parallel": {
     "lowPrice": 6.9,
-    "midPrice": 9.99,
+    "midPrice": 9.91,
     "highPrice": 50.0,
     "marketPrice": 8.79,
     "directLowPrice": null,
@@ -234,8 +234,8 @@
     "groupId": 23991
   },
   "ST21-ST21-005 parallel": {
-    "lowPrice": 0.5,
-    "midPrice": 1.51,
+    "lowPrice": 0.49,
+    "midPrice": 1.53,
     "highPrice": 50.0,
     "marketPrice": 0.61,
     "directLowPrice": null,
@@ -286,8 +286,8 @@
     "groupId": 23991
   },
   "ST21-ST21-006 parallel": {
-    "lowPrice": 5.0,
-    "midPrice": 7.95,
+    "lowPrice": 4.5,
+    "midPrice": 7.5,
     "highPrice": 20.0,
     "marketPrice": 6.89,
     "directLowPrice": null,
@@ -339,7 +339,7 @@
   },
   "ST21-ST21-007 parallel": {
     "lowPrice": 0.21,
-    "midPrice": 0.7,
+    "midPrice": 0.68,
     "highPrice": 10.0,
     "marketPrice": 0.49,
     "directLowPrice": null,
@@ -390,8 +390,8 @@
     "groupId": 23991
   },
   "ST21-ST21-008 parallel": {
-    "lowPrice": 10.0,
-    "midPrice": 12.5,
+    "lowPrice": 9.0,
+    "midPrice": 11.95,
     "highPrice": 55.99,
     "marketPrice": 12.86,
     "directLowPrice": null,
@@ -419,7 +419,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.3,
     "highPrice": 5.0,
-    "marketPrice": 0.3,
+    "marketPrice": 0.31,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "C",
@@ -442,10 +442,10 @@
     "groupId": 23991
   },
   "ST21-ST21-009 parallel": {
-    "lowPrice": 14.0,
-    "midPrice": 16.22,
+    "lowPrice": 13.0,
+    "midPrice": 16.21,
     "highPrice": 50.0,
-    "marketPrice": 15.65,
+    "marketPrice": 15.34,
     "directLowPrice": null,
     "name": "Nami (Parallel)",
     "rarity": "C",
@@ -495,9 +495,9 @@
   },
   "ST21-ST21-010 parallel": {
     "lowPrice": 11.0,
-    "midPrice": 14.99,
+    "midPrice": 14.79,
     "highPrice": 37.7,
-    "marketPrice": 15.07,
+    "marketPrice": 13.76,
     "directLowPrice": null,
     "name": "Nico Robin (Parallel)",
     "rarity": "C",
@@ -547,9 +547,9 @@
   },
   "ST21-ST21-011 parallel": {
     "lowPrice": 0.5,
-    "midPrice": 1.99,
+    "midPrice": 1.98,
     "highPrice": 50.0,
-    "marketPrice": 0.94,
+    "marketPrice": 0.98,
     "directLowPrice": null,
     "name": "Franky (Parallel)",
     "rarity": "C",
@@ -575,7 +575,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 10.09,
-    "marketPrice": 0.1,
+    "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Brook",
     "rarity": "C",
@@ -598,10 +598,10 @@
     "groupId": 23991
   },
   "ST21-ST21-012 parallel": {
-    "lowPrice": 1.49,
-    "midPrice": 2.83,
+    "lowPrice": 1.44,
+    "midPrice": 2.68,
     "highPrice": 50.0,
-    "marketPrice": 1.57,
+    "marketPrice": 1.56,
     "directLowPrice": null,
     "name": "Brook (Parallel)",
     "rarity": "C",
@@ -625,7 +625,7 @@
   },
   "ST21-ST21-013 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.18,
+    "midPrice": 0.17,
     "highPrice": 1.98,
     "marketPrice": 0.09,
     "directLowPrice": null,
@@ -677,7 +677,7 @@
   },
   "ST21-ST21-014 normal": {
     "lowPrice": 0.27,
-    "midPrice": 2.05,
+    "midPrice": 2.01,
     "highPrice": 25.0,
     "marketPrice": 1.55,
     "directLowPrice": null,
@@ -702,8 +702,8 @@
     "groupId": 23991
   },
   "ST21-ST21-014 parallel": {
-    "lowPrice": 12.55,
-    "midPrice": 22.55,
+    "lowPrice": 18.68,
+    "midPrice": 21.0,
     "highPrice": 49.99,
     "marketPrice": 20.84,
     "directLowPrice": null,
@@ -731,7 +731,7 @@
     "lowPrice": 0.48,
     "midPrice": 1.0,
     "highPrice": 25.0,
-    "marketPrice": 0.9,
+    "marketPrice": 0.92,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
     "rarity": "SR",
@@ -755,9 +755,9 @@
   },
   "ST21-ST21-015 parallel": {
     "lowPrice": 12.68,
-    "midPrice": 19.73,
+    "midPrice": 18.75,
     "highPrice": 35.0,
-    "marketPrice": 14.73,
+    "marketPrice": 14.48,
     "directLowPrice": null,
     "name": "Roronoa Zoro (Parallel)",
     "rarity": "SR",
@@ -783,7 +783,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 10.0,
-    "marketPrice": 0.14,
+    "marketPrice": 0.13,
     "directLowPrice": null,
     "name": "Gum-Gum Dawn Whip",
     "rarity": "C",
@@ -806,10 +806,10 @@
     "groupId": 23991
   },
   "ST21-ST21-017 normal": {
-    "lowPrice": 1.55,
+    "lowPrice": 1.1,
     "midPrice": 3.38,
     "highPrice": 25.0,
-    "marketPrice": 2.12,
+    "marketPrice": 2.15,
     "directLowPrice": null,
     "name": "Gum-Gum Mole Pistol",
     "rarity": "C",

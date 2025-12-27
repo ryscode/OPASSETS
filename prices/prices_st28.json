@@ -1,9 +1,9 @@
 {
   "OP06-OP06-022 normal": {
-    "lowPrice": 0.76,
-    "midPrice": 1.17,
+    "lowPrice": 0.84,
+    "midPrice": 1.6,
     "highPrice": 9.99,
-    "marketPrice": 1.0,
+    "marketPrice": 1.05,
     "directLowPrice": null,
     "name": "Yamato (OP06-022)",
     "rarity": "L",
@@ -78,10 +78,10 @@
     "groupId": 24287
   },
   "OP06-OP06-104 normal": {
-    "lowPrice": 0.18,
-    "midPrice": 0.39,
+    "lowPrice": 0.19,
+    "midPrice": 0.43,
     "highPrice": 4.99,
-    "marketPrice": 0.38,
+    "marketPrice": 0.45,
     "directLowPrice": null,
     "name": "Kikunojo (Reprint)",
     "rarity": "R",
@@ -105,7 +105,7 @@
   },
   "OP06-OP06-109 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.12,
+    "midPrice": 0.11,
     "highPrice": 4.99,
     "marketPrice": 0.06,
     "directLowPrice": null,
@@ -157,7 +157,7 @@
   },
   "OP06-OP06-112 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.11,
+    "midPrice": 0.1,
     "highPrice": 4.99,
     "marketPrice": 0.07,
     "directLowPrice": null,
@@ -185,7 +185,7 @@
     "lowPrice": 0.03,
     "midPrice": 0.16,
     "highPrice": 4.99,
-    "marketPrice": 0.12,
+    "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Blaze Slice (Reprint)",
     "rarity": "R",
@@ -261,7 +261,7 @@
   },
   "ST28-ST28-001 normal": {
     "lowPrice": 0.04,
-    "midPrice": 0.2,
+    "midPrice": 0.19,
     "highPrice": 1.37,
     "marketPrice": 0.13,
     "directLowPrice": null,
@@ -313,9 +313,9 @@
   },
   "ST28-ST28-003 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.72,
+    "midPrice": 0.66,
     "highPrice": 65.0,
-    "marketPrice": 0.46,
+    "marketPrice": 0.44,
     "directLowPrice": null,
     "name": "Kin'emon",
     "rarity": "C",
@@ -339,7 +339,7 @@
   },
   "ST28-ST28-004 normal": {
     "lowPrice": 0.15,
-    "midPrice": 1.12,
+    "midPrice": 1.1,
     "highPrice": 4.99,
     "marketPrice": 0.5,
     "directLowPrice": null,
@@ -367,7 +367,7 @@
     "lowPrice": 1.51,
     "midPrice": 2.72,
     "highPrice": 5.99,
-    "marketPrice": 1.92,
+    "marketPrice": 1.97,
     "directLowPrice": null,
     "name": "Yamato",
     "rarity": "SR",

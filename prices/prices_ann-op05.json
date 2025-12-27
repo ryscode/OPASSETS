@@ -81,7 +81,7 @@
     "lowPrice": 0.25,
     "midPrice": 0.99,
     "highPrice": 6.0,
-    "marketPrice": 0.25,
+    "marketPrice": 0.3,
     "directLowPrice": null,
     "name": "Toh-Toh",
     "rarity": "C",
@@ -131,7 +131,7 @@
   },
   "OP05-OP05-011 normal": {
     "lowPrice": 12.0,
-    "midPrice": 15.2,
+    "midPrice": 14.92,
     "highPrice": 35.0,
     "marketPrice": 14.92,
     "directLowPrice": null,
@@ -312,7 +312,7 @@
     "groupId": 23368
   },
   "OP05-OP05-024 normal": {
-    "lowPrice": 0.89,
+    "lowPrice": 0.87,
     "midPrice": 1.26,
     "highPrice": 2.84,
     "marketPrice": 1.14,
@@ -339,7 +339,7 @@
   },
   "OP05-OP05-025 normal": {
     "lowPrice": 0.72,
-    "midPrice": 1.24,
+    "midPrice": 1.13,
     "highPrice": 3.99,
     "marketPrice": 0.83,
     "directLowPrice": null,
@@ -365,7 +365,7 @@
   },
   "OP05-OP05-026 normal": {
     "lowPrice": 0.45,
-    "midPrice": 0.54,
+    "midPrice": 0.52,
     "highPrice": 2.0,
     "marketPrice": 0.47,
     "directLowPrice": null,
@@ -391,7 +391,7 @@
   },
   "OP05-OP05-027 normal": {
     "lowPrice": 13.0,
-    "midPrice": 27.25,
+    "midPrice": 27.7,
     "highPrice": 35.0,
     "marketPrice": 12.5,
     "directLowPrice": null,
@@ -521,7 +521,7 @@
   },
   "OP05-OP05-035 normal": {
     "lowPrice": 0.69,
-    "midPrice": 0.75,
+    "midPrice": 0.77,
     "highPrice": 2.0,
     "marketPrice": 0.75,
     "directLowPrice": null,
@@ -547,7 +547,7 @@
   },
   "OP05-OP05-036 normal": {
     "lowPrice": 3.39,
-    "midPrice": 4.89,
+    "midPrice": 4.94,
     "highPrice": 30.0,
     "marketPrice": 4.68,
     "directLowPrice": null,
@@ -573,7 +573,7 @@
   },
   "OP05-OP05-038 normal": {
     "lowPrice": 4.88,
-    "midPrice": 10.49,
+    "midPrice": 10.6,
     "highPrice": 19.99,
     "marketPrice": 4.88,
     "directLowPrice": null,
@@ -598,10 +598,10 @@
     "groupId": 23368
   },
   "OP05-OP05-039 normal": {
-    "lowPrice": 2.98,
-    "midPrice": 3.99,
+    "lowPrice": 3.0,
+    "midPrice": 4.0,
     "highPrice": 9.0,
-    "marketPrice": 4.1,
+    "marketPrice": 3.88,
     "directLowPrice": null,
     "name": "Stick-Stickem Meteora",
     "rarity": "UC",
@@ -729,7 +729,7 @@
   },
   "OP05-OP05-047 normal": {
     "lowPrice": 0.99,
-    "midPrice": 1.23,
+    "midPrice": 1.22,
     "highPrice": 3.39,
     "marketPrice": 1.18,
     "directLowPrice": null,
@@ -781,7 +781,7 @@
   },
   "OP05-OP05-049 normal": {
     "lowPrice": 1.35,
-    "midPrice": 2.0,
+    "midPrice": 2.24,
     "highPrice": 13.5,
     "marketPrice": 2.09,
     "directLowPrice": null,
@@ -885,7 +885,7 @@
   },
   "OP05-OP05-056 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.38,
+    "midPrice": 0.47,
     "highPrice": 4.99,
     "marketPrice": 0.29,
     "directLowPrice": null,
@@ -910,7 +910,7 @@
     "groupId": 23368
   },
   "OP05-OP05-058 normal": {
-    "lowPrice": 19.99,
+    "lowPrice": 13.91,
     "midPrice": 24.44,
     "highPrice": 29.93,
     "marketPrice": 1.75,
@@ -937,7 +937,7 @@
   },
   "OP05-OP05-059 normal": {
     "lowPrice": 3.45,
-    "midPrice": 4.29,
+    "midPrice": 4.19,
     "highPrice": 6.32,
     "marketPrice": 3.83,
     "directLowPrice": null,
@@ -1092,9 +1092,9 @@
     "groupId": 23368
   },
   "OP05-OP05-068 normal": {
-    "lowPrice": 9.92,
-    "midPrice": 9.96,
-    "highPrice": 9.99,
+    "lowPrice": 8.25,
+    "midPrice": 9.14,
+    "highPrice": 10.03,
     "marketPrice": 6.42,
     "directLowPrice": null,
     "name": "Chopa-Emon",
@@ -1404,8 +1404,8 @@
     "groupId": 23368
   },
   "OP05-OP05-085 normal": {
-    "lowPrice": 9.0,
-    "midPrice": 30.0,
+    "lowPrice": 8.7,
+    "midPrice": 29.5,
     "highPrice": 48.99,
     "marketPrice": 9.24,
     "directLowPrice": null,
@@ -1509,7 +1509,7 @@
   },
   "OP05-OP05-092 normal": {
     "lowPrice": 2.0,
-    "midPrice": 3.36,
+    "midPrice": 3.25,
     "highPrice": 15.0,
     "marketPrice": 3.28,
     "directLowPrice": null,
@@ -1691,8 +1691,8 @@
   },
   "OP05-OP05-107 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.59,
-    "highPrice": 2.02,
+    "midPrice": 0.53,
+    "highPrice": 2.0,
     "marketPrice": 0.53,
     "directLowPrice": null,
     "name": "Lieutenant Spacey",
@@ -1743,7 +1743,7 @@
   },
   "OP05-OP05-109 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.76,
+    "midPrice": 0.72,
     "highPrice": 3.83,
     "marketPrice": 0.43,
     "directLowPrice": null,
@@ -1769,7 +1769,7 @@
   },
   "OP05-OP05-110 normal": {
     "lowPrice": 11.86,
-    "midPrice": 13.63,
+    "midPrice": 13.64,
     "highPrice": 30.0,
     "marketPrice": 11.86,
     "directLowPrice": null,

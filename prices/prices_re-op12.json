@@ -1,6 +1,6 @@
 {
   "OP12-OP12-116 normal": {
-    "lowPrice": 0.33,
+    "lowPrice": 0.3,
     "midPrice": 0.5,
     "highPrice": 7.0,
     "marketPrice": 0.38,
@@ -27,7 +27,7 @@
   },
   "OP12-OP12-111 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.99,
+    "midPrice": 0.96,
     "highPrice": 3.0,
     "marketPrice": 0.41,
     "directLowPrice": null,
@@ -53,7 +53,7 @@
   },
   "OP12-OP12-110 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.38,
+    "midPrice": 0.37,
     "highPrice": 3.39,
     "marketPrice": 0.28,
     "directLowPrice": null,
@@ -79,7 +79,7 @@
   },
   "OP12-OP12-109 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.54,
+    "midPrice": 0.53,
     "highPrice": 10.0,
     "marketPrice": 0.41,
     "directLowPrice": null,
@@ -131,7 +131,7 @@
   },
   "OP12-OP12-104 normal": {
     "lowPrice": 0.22,
-    "midPrice": 0.41,
+    "midPrice": 0.4,
     "highPrice": 2.99,
     "marketPrice": 0.34,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "OP12-OP12-096 normal": {
     "lowPrice": 0.47,
-    "midPrice": 0.9,
+    "midPrice": 0.91,
     "highPrice": 9.99,
     "marketPrice": 0.75,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "OP12-OP12-091 normal": {
     "lowPrice": 0.33,
-    "midPrice": 0.98,
+    "midPrice": 0.92,
     "highPrice": 7.0,
     "marketPrice": 0.88,
     "directLowPrice": null,
@@ -287,7 +287,7 @@
   },
   "OP12-OP12-088 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.3,
+    "midPrice": 0.28,
     "highPrice": 1.99,
     "marketPrice": 0.2,
     "directLowPrice": null,
@@ -313,7 +313,7 @@
   },
   "OP12-OP12-085 normal": {
     "lowPrice": 0.95,
-    "midPrice": 1.0,
+    "midPrice": 1.1,
     "highPrice": 4.99,
     "marketPrice": 0.98,
     "directLowPrice": null,
@@ -364,8 +364,8 @@
     "groupId": 24406
   },
   "OP12-OP12-080 normal": {
-    "lowPrice": 0.23,
-    "midPrice": 0.5,
+    "lowPrice": 0.18,
+    "midPrice": 0.49,
     "highPrice": 2.0,
     "marketPrice": 0.23,
     "directLowPrice": null,
@@ -391,7 +391,7 @@
   },
   "OP12-OP12-077 normal": {
     "lowPrice": 0.1,
-    "midPrice": 1.0,
+    "midPrice": 0.92,
     "highPrice": 3.99,
     "marketPrice": 0.35,
     "directLowPrice": null,
@@ -442,7 +442,7 @@
     "groupId": 24406
   },
   "OP12-OP12-074 normal": {
-    "lowPrice": 0.2,
+    "lowPrice": 0.18,
     "midPrice": 0.49,
     "highPrice": 3.28,
     "marketPrice": 0.35,
@@ -468,8 +468,8 @@
     "groupId": 24406
   },
   "OP12-OP12-069 normal": {
-    "lowPrice": 0.49,
-    "midPrice": 1.19,
+    "lowPrice": 0.4,
+    "midPrice": 1.13,
     "highPrice": 3.99,
     "marketPrice": 0.53,
     "directLowPrice": null,
@@ -495,7 +495,7 @@
   },
   "OP12-OP12-067 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.37,
+    "midPrice": 0.38,
     "highPrice": 1.99,
     "marketPrice": 0.29,
     "directLowPrice": null,
@@ -599,8 +599,8 @@
   },
   "OP12-OP12-057 normal": {
     "lowPrice": 1.17,
-    "midPrice": 2.63,
-    "highPrice": 6.0,
+    "midPrice": 2.5,
+    "highPrice": 5.94,
     "marketPrice": 1.23,
     "directLowPrice": null,
     "name": "Ice Block Pheasant Peck",
@@ -624,7 +624,7 @@
     "groupId": 24406
   },
   "OP12-OP12-054 normal": {
-    "lowPrice": 0.23,
+    "lowPrice": 0.2,
     "midPrice": 0.5,
     "highPrice": 4.99,
     "marketPrice": 0.38,
@@ -650,7 +650,7 @@
     "groupId": 24406
   },
   "OP12-OP12-052 normal": {
-    "lowPrice": 0.24,
+    "lowPrice": 0.18,
     "midPrice": 0.49,
     "highPrice": 2.0,
     "marketPrice": 0.25,
@@ -677,9 +677,9 @@
   },
   "OP12-OP12-048 normal": {
     "lowPrice": 0.5,
-    "midPrice": 1.56,
+    "midPrice": 1.87,
     "highPrice": 4.09,
-    "marketPrice": 1.28,
+    "marketPrice": 1.0,
     "directLowPrice": null,
     "name": "Donquixote Rosinante (048)",
     "rarity": "C",
@@ -703,7 +703,7 @@
   },
   "OP12-OP12-046 normal": {
     "lowPrice": 1.16,
-    "midPrice": 1.31,
+    "midPrice": 1.34,
     "highPrice": 8.0,
     "marketPrice": 1.22,
     "directLowPrice": null,
@@ -754,10 +754,10 @@
     "groupId": 24406
   },
   "OP12-OP12-042 normal": {
-    "lowPrice": 0.39,
-    "midPrice": 1.1,
+    "lowPrice": 0.35,
+    "midPrice": 1.05,
     "highPrice": 10.0,
-    "marketPrice": 0.62,
+    "marketPrice": 0.59,
     "directLowPrice": null,
     "name": "Alvida",
     "rarity": "C",
@@ -781,7 +781,7 @@
   },
   "OP12-OP12-038 normal": {
     "lowPrice": 0.3,
-    "midPrice": 1.17,
+    "midPrice": 1.18,
     "highPrice": 14.99,
     "marketPrice": 0.74,
     "directLowPrice": null,
@@ -809,7 +809,7 @@
     "lowPrice": 1.0,
     "midPrice": 2.0,
     "highPrice": 5.99,
-    "marketPrice": 1.35,
+    "marketPrice": 1.33,
     "directLowPrice": null,
     "name": "Roronoa Zoro (036)",
     "rarity": "C",
@@ -859,7 +859,7 @@
   },
   "OP12-OP12-033 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.63,
+    "midPrice": 0.6,
     "highPrice": 4.99,
     "marketPrice": 0.25,
     "directLowPrice": null,
@@ -885,7 +885,7 @@
   },
   "OP12-OP12-025 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.31,
+    "midPrice": 0.32,
     "highPrice": 2.0,
     "marketPrice": 0.22,
     "directLowPrice": null,
@@ -937,8 +937,8 @@
   },
   "OP12-OP12-022 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.97,
-    "highPrice": 5.0,
+    "midPrice": 0.94,
+    "highPrice": 4.99,
     "marketPrice": 0.63,
     "directLowPrice": null,
     "name": "Inuarashi",
@@ -963,7 +963,7 @@
   },
   "OP12-OP12-021 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.4,
+    "midPrice": 0.39,
     "highPrice": 2.99,
     "marketPrice": 0.3,
     "directLowPrice": null,
@@ -1014,8 +1014,8 @@
     "groupId": 24406
   },
   "OP12-OP12-016 normal": {
-    "lowPrice": 1.36,
-    "midPrice": 2.44,
+    "lowPrice": 0.9,
+    "midPrice": 2.37,
     "highPrice": 9.89,
     "marketPrice": 1.34,
     "directLowPrice": null,
@@ -1041,7 +1041,7 @@
   },
   "OP12-OP12-013 normal": {
     "lowPrice": 0.16,
-    "midPrice": 0.56,
+    "midPrice": 0.55,
     "highPrice": 4.99,
     "marketPrice": 0.46,
     "directLowPrice": null,
@@ -1067,7 +1067,7 @@
   },
   "OP12-OP12-012 normal": {
     "lowPrice": 0.29,
-    "midPrice": 0.92,
+    "midPrice": 0.87,
     "highPrice": 3.0,
     "marketPrice": 0.38,
     "directLowPrice": null,
@@ -1092,8 +1092,8 @@
     "groupId": 24406
   },
   "OP12-OP12-011 normal": {
-    "lowPrice": 0.24,
-    "midPrice": 0.52,
+    "lowPrice": 0.2,
+    "midPrice": 0.5,
     "highPrice": 4.0,
     "marketPrice": 0.42,
     "directLowPrice": null,
@@ -1119,9 +1119,9 @@
   },
   "OP12-OP12-007 normal": {
     "lowPrice": 0.87,
-    "midPrice": 1.89,
+    "midPrice": 1.87,
     "highPrice": 5.0,
-    "marketPrice": 1.14,
+    "marketPrice": 1.12,
     "directLowPrice": null,
     "name": "Shanks (007)",
     "rarity": "C",
@@ -1144,8 +1144,8 @@
     "groupId": 24406
   },
   "OP12-OP12-005 normal": {
-    "lowPrice": 0.22,
-    "midPrice": 0.34,
+    "lowPrice": 0.18,
+    "midPrice": 0.32,
     "highPrice": 1.39,
     "marketPrice": 0.24,
     "directLowPrice": null,
@@ -1171,7 +1171,7 @@
   },
   "OP12-OP12-002 normal": {
     "lowPrice": 1.45,
-    "midPrice": 2.25,
+    "midPrice": 2.2,
     "highPrice": 2.99,
     "marketPrice": 2.2,
     "directLowPrice": null,
@@ -1196,8 +1196,8 @@
     "groupId": 24406
   },
   "OP12-OP12-003 normal": {
-    "lowPrice": 0.32,
-    "midPrice": 1.35,
+    "lowPrice": 0.3,
+    "midPrice": 1.3,
     "highPrice": 5.0,
     "marketPrice": 1.22,
     "directLowPrice": null,
@@ -1225,7 +1225,7 @@
     "lowPrice": 0.89,
     "midPrice": 1.66,
     "highPrice": 2.98,
-    "marketPrice": 1.44,
+    "marketPrice": 1.4,
     "directLowPrice": null,
     "name": "Kouzuki Oden",
     "rarity": "UC",
@@ -1248,8 +1248,8 @@
     "groupId": 24406
   },
   "OP12-OP12-010 normal": {
-    "lowPrice": 0.3,
-    "midPrice": 0.52,
+    "lowPrice": 0.2,
+    "midPrice": 0.51,
     "highPrice": 2.0,
     "marketPrice": 0.51,
     "directLowPrice": null,
@@ -1301,7 +1301,7 @@
   },
   "OP12-OP12-023 normal": {
     "lowPrice": 3.0,
-    "midPrice": 3.5,
+    "midPrice": 3.47,
     "highPrice": 4.99,
     "marketPrice": 3.44,
     "directLowPrice": null,
@@ -1379,9 +1379,9 @@
   },
   "OP12-OP12-029 normal": {
     "lowPrice": 3.0,
-    "midPrice": 6.31,
+    "midPrice": 7.26,
     "highPrice": 12.99,
-    "marketPrice": 7.27,
+    "marketPrice": 7.09,
     "directLowPrice": null,
     "name": "Shimotsuki Kouzaburou",
     "rarity": "UC",
@@ -1431,7 +1431,7 @@
   },
   "OP12-OP12-049 normal": {
     "lowPrice": 3.99,
-    "midPrice": 6.99,
+    "midPrice": 5.0,
     "highPrice": 9.99,
     "marketPrice": 4.48,
     "directLowPrice": null,
@@ -1457,7 +1457,7 @@
   },
   "OP12-OP12-050 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.49,
+    "midPrice": 0.48,
     "highPrice": 2.95,
     "marketPrice": 0.31,
     "directLowPrice": null,
@@ -1509,7 +1509,7 @@
   },
   "OP12-OP12-055 normal": {
     "lowPrice": 0.9,
-    "midPrice": 1.74,
+    "midPrice": 1.75,
     "highPrice": 7.09,
     "marketPrice": 1.61,
     "directLowPrice": null,
@@ -1535,7 +1535,7 @@
   },
   "OP12-OP12-059 normal": {
     "lowPrice": 3.5,
-    "midPrice": 5.83,
+    "midPrice": 5.92,
     "highPrice": 9.0,
     "marketPrice": 4.92,
     "directLowPrice": null,
@@ -1560,7 +1560,7 @@
     "groupId": 24406
   },
   "OP12-OP12-065 normal": {
-    "lowPrice": 0.7,
+    "lowPrice": 0.4,
     "midPrice": 0.98,
     "highPrice": 3.49,
     "marketPrice": 0.87,
@@ -1587,9 +1587,9 @@
   },
   "OP12-OP12-068 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.66,
+    "midPrice": 0.67,
     "highPrice": 3.67,
-    "marketPrice": 0.64,
+    "marketPrice": 0.63,
     "directLowPrice": null,
     "name": "Gin",
     "rarity": "UC",
@@ -1613,7 +1613,7 @@
   },
   "OP12-OP12-072 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.65,
+    "midPrice": 0.64,
     "highPrice": 2.99,
     "marketPrice": 0.42,
     "directLowPrice": null,
@@ -1639,7 +1639,7 @@
   },
   "OP12-OP12-076 normal": {
     "lowPrice": 3.0,
-    "midPrice": 5.3,
+    "midPrice": 5.6,
     "highPrice": 7.89,
     "marketPrice": 3.39,
     "directLowPrice": null,
@@ -1664,8 +1664,8 @@
     "groupId": 24406
   },
   "OP12-OP12-078 normal": {
-    "lowPrice": 0.31,
-    "midPrice": 1.58,
+    "lowPrice": 0.25,
+    "midPrice": 1.54,
     "highPrice": 3.04,
     "marketPrice": 1.4,
     "directLowPrice": null,
@@ -1742,7 +1742,7 @@
     "groupId": 24406
   },
   "OP12-OP12-092 normal": {
-    "lowPrice": 0.35,
+    "lowPrice": 0.3,
     "midPrice": 0.65,
     "highPrice": 1.99,
     "marketPrice": 0.59,
@@ -1820,7 +1820,7 @@
     "groupId": 24406
   },
   "OP12-OP12-103 normal": {
-    "lowPrice": 0.48,
+    "lowPrice": 0.4,
     "midPrice": 0.5,
     "highPrice": 0.74,
     "marketPrice": 0.6,
@@ -1847,8 +1847,8 @@
   },
   "OP12-OP12-106 normal": {
     "lowPrice": 2.5,
-    "midPrice": 2.9,
-    "highPrice": 5.0,
+    "midPrice": 2.77,
+    "highPrice": 3.86,
     "marketPrice": 2.64,
     "directLowPrice": null,
     "name": "Trafalgar Law (106)",
@@ -1872,10 +1872,10 @@
     "groupId": 24406
   },
   "OP12-OP12-113 normal": {
-    "lowPrice": 1.49,
-    "midPrice": 2.67,
+    "lowPrice": 2.24,
+    "midPrice": 3.0,
     "highPrice": 10.0,
-    "marketPrice": 2.06,
+    "marketPrice": 2.04,
     "directLowPrice": null,
     "name": "Roronoa Zoro (113)",
     "rarity": "UC",

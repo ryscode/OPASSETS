@@ -1,8 +1,8 @@
 {
   "OP09-OP09-001 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.66,
-    "highPrice": 5.72,
+    "midPrice": 0.67,
+    "highPrice": 4.5,
     "marketPrice": 0.63,
     "directLowPrice": null,
     "name": "Shanks (Reprint)",
@@ -26,10 +26,10 @@
     "groupId": 24282
   },
   "ST23-ST23-001 normal": {
-    "lowPrice": 6.69,
-    "midPrice": 8.79,
+    "lowPrice": 6.7,
+    "midPrice": 8.68,
     "highPrice": 50.0,
-    "marketPrice": 8.36,
+    "marketPrice": 7.92,
     "directLowPrice": null,
     "name": "Uta",
     "rarity": "SR",
@@ -79,7 +79,7 @@
   },
   "ST23-ST23-003 normal": {
     "lowPrice": 0.08,
-    "midPrice": 0.22,
+    "midPrice": 0.24,
     "highPrice": 10.0,
     "marketPrice": 0.15,
     "directLowPrice": null,
@@ -133,7 +133,7 @@
     "lowPrice": 0.03,
     "midPrice": 0.18,
     "highPrice": 5.0,
-    "marketPrice": 0.13,
+    "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Yasopp",
     "rarity": "C",

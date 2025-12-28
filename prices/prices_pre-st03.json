@@ -1,9 +1,9 @@
 {
   "ST03-ST03-001 normal": {
     "lowPrice": 70.0,
-    "midPrice": 89.99,
+    "midPrice": 90.0,
     "highPrice": 159.99,
-    "marketPrice": 79.98,
+    "marketPrice": 81.46,
     "directLowPrice": null,
     "name": "Crocodile (001)",
     "rarity": "L",
@@ -27,7 +27,7 @@
   },
   "ST03-ST03-003 normal": {
     "lowPrice": 4.99,
-    "midPrice": 7.74,
+    "midPrice": 7.48,
     "highPrice": 100.0,
     "marketPrice": 4.14,
     "directLowPrice": null,
@@ -53,7 +53,7 @@
   },
   "ST03-ST03-009 normal": {
     "lowPrice": 18.0,
-    "midPrice": 23.99,
+    "midPrice": 23.0,
     "highPrice": 100.0,
     "marketPrice": 14.2,
     "directLowPrice": null,
@@ -81,7 +81,7 @@
     "lowPrice": 0.86,
     "midPrice": 16.5,
     "highPrice": 50.0,
-    "marketPrice": 2.0,
+    "marketPrice": 2.01,
     "directLowPrice": null,
     "name": "Trafalgar Law",
     "rarity": "C",
@@ -105,7 +105,7 @@
   },
   "ST03-ST03-016 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.3,
+    "midPrice": 0.29,
     "highPrice": 25.0,
     "marketPrice": 0.27,
     "directLowPrice": null,
@@ -131,7 +131,7 @@
   },
   "ST03-ST03-007 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.5,
+    "midPrice": 0.52,
     "highPrice": 50.0,
     "marketPrice": 0.34,
     "directLowPrice": null,
@@ -157,9 +157,9 @@
   },
   "ST03-ST03-015 normal": {
     "lowPrice": 2.66,
-    "midPrice": 4.99,
+    "midPrice": 4.98,
     "highPrice": 50.0,
-    "marketPrice": 3.17,
+    "marketPrice": 3.29,
     "directLowPrice": null,
     "name": "Sables",
     "rarity": "C",
@@ -183,9 +183,9 @@
   },
   "ST03-ST03-012 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.5,
+    "midPrice": 0.51,
     "highPrice": 25.0,
-    "marketPrice": 0.27,
+    "marketPrice": 0.28,
     "directLowPrice": null,
     "name": "Pacifista",
     "rarity": "C",
@@ -209,7 +209,7 @@
   },
   "ST03-ST03-014 normal": {
     "lowPrice": 0.55,
-    "midPrice": 1.86,
+    "midPrice": 1.84,
     "highPrice": 50.0,
     "marketPrice": 0.71,
     "directLowPrice": null,
@@ -313,7 +313,7 @@
   },
   "ST03-ST03-002 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.31,
+    "midPrice": 0.3,
     "highPrice": 25.0,
     "marketPrice": 0.2,
     "directLowPrice": null,
@@ -339,7 +339,7 @@
   },
   "ST03-ST03-005 normal": {
     "lowPrice": 1.77,
-    "midPrice": 3.13,
+    "midPrice": 3.02,
     "highPrice": 100.0,
     "marketPrice": 2.01,
     "directLowPrice": null,
@@ -364,8 +364,8 @@
     "groupId": 17660
   },
   "ST03-ST03-011 normal": {
-    "lowPrice": 10.99,
-    "midPrice": 12.49,
+    "lowPrice": 9.39,
+    "midPrice": 11.0,
     "highPrice": 50.0,
     "marketPrice": 9.09,
     "directLowPrice": null,
@@ -419,7 +419,7 @@
     "lowPrice": 0.5,
     "midPrice": 0.99,
     "highPrice": 50.0,
-    "marketPrice": 0.52,
+    "marketPrice": 0.53,
     "directLowPrice": null,
     "name": "Bartholomew Kuma",
     "rarity": "C",

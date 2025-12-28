@@ -1,9 +1,9 @@
 {
   "ST01-ST01-001 normal": {
     "lowPrice": 7.24,
-    "midPrice": 10.58,
-    "highPrice": 24.99,
-    "marketPrice": 10.46,
+    "midPrice": 10.5,
+    "highPrice": 21.0,
+    "marketPrice": 10.22,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy",
     "rarity": "L",
@@ -27,7 +27,7 @@
   },
   "ST04-ST04-017 normal": {
     "lowPrice": 0.44,
-    "midPrice": 1.03,
+    "midPrice": 1.06,
     "highPrice": 1.99,
     "marketPrice": 1.06,
     "directLowPrice": null,
@@ -53,7 +53,7 @@
   },
   "ST01-ST01-005 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.2,
+    "midPrice": 0.24,
     "highPrice": 1.39,
     "marketPrice": 0.14,
     "directLowPrice": null,
@@ -105,7 +105,7 @@
   },
   "ST01-ST01-007 normal": {
     "lowPrice": 3.4,
-    "midPrice": 7.92,
+    "midPrice": 7.85,
     "highPrice": 500.0,
     "marketPrice": 6.18,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "ST01-ST01-015 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.55,
+    "midPrice": 0.54,
     "highPrice": 3.49,
     "marketPrice": 0.46,
     "directLowPrice": null,
@@ -209,9 +209,9 @@
   },
   "ST01-ST01-016 normal": {
     "lowPrice": 0.99,
-    "midPrice": 3.63,
+    "midPrice": 3.51,
     "highPrice": 6.26,
-    "marketPrice": 2.05,
+    "marketPrice": 2.0,
     "directLowPrice": null,
     "name": "Diable Jambe",
     "rarity": "C",
@@ -261,7 +261,7 @@
   },
   "ST01-ST01-017 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.62,
+    "midPrice": 0.63,
     "highPrice": 2.59,
     "marketPrice": 0.55,
     "directLowPrice": null,
@@ -313,7 +313,7 @@
   },
   "ST04-ST04-008 normal": {
     "lowPrice": 0.26,
-    "midPrice": 0.46,
+    "midPrice": 0.42,
     "highPrice": 1.53,
     "marketPrice": 0.36,
     "directLowPrice": null,
@@ -341,7 +341,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.25,
     "highPrice": 1.44,
-    "marketPrice": 0.18,
+    "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Killer",
     "rarity": "C",
@@ -365,8 +365,8 @@
   },
   "ST04-ST04-004 normal": {
     "lowPrice": 0.25,
-    "midPrice": 1.0,
-    "highPrice": 4.99,
+    "midPrice": 1.09,
+    "highPrice": 5.0,
     "marketPrice": 0.71,
     "directLowPrice": null,
     "name": "King",
@@ -391,7 +391,7 @@
   },
   "ST02-ST02-007 normal": {
     "lowPrice": 1.49,
-    "midPrice": 3.32,
+    "midPrice": 3.34,
     "highPrice": 13.0,
     "marketPrice": 1.53,
     "directLowPrice": null,
@@ -417,7 +417,7 @@
   },
   "ST02-ST02-008 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.5,
+    "midPrice": 0.55,
     "highPrice": 3.95,
     "marketPrice": 0.35,
     "directLowPrice": null,
@@ -442,10 +442,10 @@
     "groupId": 23890
   },
   "ST04-ST04-003 normal": {
-    "lowPrice": 0.2,
-    "midPrice": 0.54,
+    "lowPrice": 0.23,
+    "midPrice": 0.55,
     "highPrice": 10.35,
-    "marketPrice": 0.4,
+    "marketPrice": 0.39,
     "directLowPrice": null,
     "name": "Kaido (003)",
     "rarity": "SR",
@@ -495,7 +495,7 @@
   },
   "ST04-ST04-002 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.54,
+    "midPrice": 0.5,
     "highPrice": 3.99,
     "marketPrice": 0.45,
     "directLowPrice": null,
@@ -520,10 +520,10 @@
     "groupId": 23890
   },
   "ST04-ST04-001 normal": {
-    "lowPrice": 2.78,
-    "midPrice": 3.46,
+    "lowPrice": 2.0,
+    "midPrice": 2.78,
     "highPrice": 4.49,
-    "marketPrice": 2.58,
+    "marketPrice": 2.55,
     "directLowPrice": null,
     "name": "Kaido (001)",
     "rarity": "L",
@@ -547,7 +547,7 @@
   },
   "ST02-ST02-015 normal": {
     "lowPrice": 0.38,
-    "midPrice": 0.52,
+    "midPrice": 0.53,
     "highPrice": 4.99,
     "marketPrice": 0.51,
     "directLowPrice": null,
@@ -573,7 +573,7 @@
   },
   "ST02-ST02-016 normal": {
     "lowPrice": 0.13,
-    "midPrice": 0.33,
+    "midPrice": 0.32,
     "highPrice": 1.98,
     "marketPrice": 0.29,
     "directLowPrice": null,
@@ -650,10 +650,10 @@
     "groupId": 23890
   },
   "ST03-ST03-015 normal": {
-    "lowPrice": 1.0,
-    "midPrice": 3.14,
+    "lowPrice": 1.4,
+    "midPrice": 3.02,
     "highPrice": 5.5,
-    "marketPrice": 1.38,
+    "marketPrice": 1.52,
     "directLowPrice": null,
     "name": "Sables",
     "rarity": "C",
@@ -702,10 +702,10 @@
     "groupId": 23890
   },
   "ST03-ST03-009 normal": {
-    "lowPrice": 2.12,
-    "midPrice": 3.4,
+    "lowPrice": 2.17,
+    "midPrice": 3.86,
     "highPrice": 6.99,
-    "marketPrice": 2.23,
+    "marketPrice": 2.2,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo",
     "rarity": "SR",
@@ -755,9 +755,9 @@
   },
   "ST02-ST02-017 normal": {
     "lowPrice": 1.21,
-    "midPrice": 1.87,
+    "midPrice": 1.92,
     "highPrice": 3.99,
-    "marketPrice": 1.56,
+    "marketPrice": 1.53,
     "directLowPrice": null,
     "name": "Straw Sword",
     "rarity": "C",
@@ -807,7 +807,7 @@
   },
   "ST03-ST03-003 normal": {
     "lowPrice": 1.0,
-    "midPrice": 3.35,
+    "midPrice": 5.0,
     "highPrice": 5.69,
     "marketPrice": null,
     "directLowPrice": null,

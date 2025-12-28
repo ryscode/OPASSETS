@@ -1,7 +1,7 @@
 {
   "P-P-029 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.21,
+    "midPrice": 0.2,
     "highPrice": 5.0,
     "marketPrice": 0.18,
     "directLowPrice": null,
@@ -27,9 +27,9 @@
   },
   "P-P-057 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.19,
-    "highPrice": 5.0,
-    "marketPrice": 0.18,
+    "midPrice": 0.18,
+    "highPrice": 2.0,
+    "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Fleeting Lullaby",
     "rarity": "PR",
@@ -54,7 +54,7 @@
   "P-P-058 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.21,
-    "highPrice": 5.0,
+    "highPrice": 2.0,
     "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Where the Wind Blows",
@@ -80,7 +80,7 @@
   "P-P-059 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.19,
-    "highPrice": 5.0,
+    "highPrice": 2.0,
     "marketPrice": 0.19,
     "directLowPrice": null,
     "name": "The World's Continuation",
@@ -105,8 +105,8 @@
   },
   "P-P-060 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.19,
-    "highPrice": 5.0,
+    "midPrice": 0.18,
+    "highPrice": 2.0,
     "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Tot Musica",
@@ -130,10 +130,10 @@
     "groupId": 23491
   },
   "P-P-061 normal": {
-    "lowPrice": 0.4,
+    "lowPrice": 0.25,
     "midPrice": 1.0,
     "highPrice": 10.0,
-    "marketPrice": 0.8,
+    "marketPrice": 0.81,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (P-061)",
     "rarity": "PR",
@@ -156,8 +156,8 @@
     "groupId": 23491
   },
   "ST11-ST11-001 normal": {
-    "lowPrice": 0.39,
-    "midPrice": 0.98,
+    "lowPrice": 0.4,
+    "midPrice": 0.99,
     "highPrice": 25.0,
     "marketPrice": 0.65,
     "directLowPrice": null,
@@ -183,9 +183,9 @@
   },
   "ST11-ST11-003 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.2,
+    "midPrice": 0.19,
     "highPrice": 1.98,
-    "marketPrice": 0.19,
+    "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Backlight",
     "rarity": "C",
@@ -263,7 +263,7 @@
     "lowPrice": 0.33,
     "midPrice": 0.55,
     "highPrice": 9.9,
-    "marketPrice": 0.48,
+    "marketPrice": 0.5,
     "directLowPrice": null,
     "name": "Uta (ST16-001)",
     "rarity": "SR",
@@ -287,7 +287,7 @@
   },
   "ST16-ST16-002 normal": {
     "lowPrice": 0.04,
-    "midPrice": 0.18,
+    "midPrice": 0.16,
     "highPrice": 2.49,
     "marketPrice": 0.11,
     "directLowPrice": null,
@@ -339,9 +339,9 @@
   },
   "ST16-ST16-004 normal": {
     "lowPrice": 1.12,
-    "midPrice": 3.02,
+    "midPrice": 2.99,
     "highPrice": 10.0,
-    "marketPrice": 1.55,
+    "marketPrice": 1.68,
     "directLowPrice": null,
     "name": "Shanks",
     "rarity": "SR",

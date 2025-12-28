@@ -1,0 +1,343 @@
+{
+  "ST22-ST22-001 normal": {
+    "name": "Ace & Newgate",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.2,
+      "mid": 0.56,
+      "high": 7.0,
+      "market": 0.55,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-001 parallel": {
+    "name": "Ace & Newgate (Parallel)",
+    "groupId": 24304,
+    "prices": {
+      "low": 10.98,
+      "mid": 16.5,
+      "high": 150.0,
+      "market": 11.34,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-002 normal": {
+    "name": "Izo",
+    "groupId": 24304,
+    "prices": {
+      "low": 1.75,
+      "mid": 2.5,
+      "high": 5.99,
+      "market": 2.24,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-002 parallel": {
+    "name": "Izo (Parallel)",
+    "groupId": 24304,
+    "prices": {
+      "low": 12.0,
+      "mid": 14.92,
+      "high": 514.58,
+      "market": 12.94,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-003 normal": {
+    "name": "Edward.Newgate",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.02,
+      "mid": 0.14,
+      "high": 1.36,
+      "market": 0.11,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-003 parallel": {
+    "name": "Edward.Newgate (Parallel)",
+    "groupId": 24304,
+    "prices": {
+      "low": 1.0,
+      "mid": 3.0,
+      "high": 35.0,
+      "market": 1.46,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-004 normal": {
+    "name": "Elmy",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.08,
+      "high": 1.32,
+      "market": 0.07,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-004 parallel": {
+    "name": "Elmy (Parallel)",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.06,
+      "mid": 0.47,
+      "high": 2.99,
+      "market": 0.32,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-005 normal": {
+    "name": "Kouzuki Oden",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.2,
+      "mid": 0.75,
+      "high": 5.0,
+      "market": 0.48,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-005 parallel": {
+    "name": "Kouzuki Oden (Parallel)",
+    "groupId": 24304,
+    "prices": {
+      "low": 2.5,
+      "mid": 4.95,
+      "high": 27.15,
+      "market": 3.01,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-006 normal": {
+    "name": "Jozu",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.02,
+      "mid": 0.1,
+      "high": 1.33,
+      "market": 0.09,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-006 parallel": {
+    "name": "Jozu (Parallel)",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.39,
+      "mid": 0.99,
+      "high": 6.64,
+      "market": 0.58,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-007 normal": {
+    "name": "Squard",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.08,
+      "mid": 0.2,
+      "high": 1.44,
+      "market": 0.15,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-007 parallel": {
+    "name": "Squard (Parallel)",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.24,
+      "mid": 0.96,
+      "high": 24.99,
+      "market": 0.48,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-008 normal": {
+    "name": "Decalvan Brothers",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.02,
+      "mid": 0.09,
+      "high": 1.35,
+      "market": 0.08,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-008 parallel": {
+    "name": "Decalvan Brothers (Parallel)",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.04,
+      "mid": 0.5,
+      "high": 24.99,
+      "market": 0.32,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-009 normal": {
+    "name": "Vista",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.02,
+      "mid": 0.16,
+      "high": 1.36,
+      "market": 0.12,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-009 parallel": {
+    "name": "Vista (Parallel)",
+    "groupId": 24304,
+    "prices": {
+      "low": 1.72,
+      "mid": 2.7,
+      "high": 10.0,
+      "market": 1.83,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-010 normal": {
+    "name": "Portgas.D.Ace",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.12,
+      "mid": 0.25,
+      "high": 3.0,
+      "market": 0.23,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-010 parallel": {
+    "name": "Portgas.D.Ace (Parallel)",
+    "groupId": 24304,
+    "prices": {
+      "low": 2.5,
+      "mid": 4.77,
+      "high": 8.48,
+      "market": 2.86,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-011 normal": {
+    "name": "Whitey Bay",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.23,
+      "high": 2.0,
+      "market": 0.17,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-011 parallel": {
+    "name": "Whitey Bay (Parallel)",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.99,
+      "mid": 2.5,
+      "high": 7.0,
+      "market": 1.75,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-012 normal": {
+    "name": "Marco",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.03,
+      "mid": 0.1,
+      "high": 1.36,
+      "market": 0.09,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-012 parallel": {
+    "name": "Marco (Parallel)",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.98,
+      "mid": 2.49,
+      "high": 11.75,
+      "market": 1.43,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-013 normal": {
+    "name": "LittleOars Jr.",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.02,
+      "mid": 0.1,
+      "high": 1.33,
+      "market": 0.08,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-013 parallel": {
+    "name": "LittleOars Jr. (Parallel)",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.16,
+      "mid": 0.52,
+      "high": 5.0,
+      "market": 0.33,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-014 normal": {
+    "name": "A.O.",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.32,
+      "market": 0.08,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-014 parallel": {
+    "name": "A.O. (Parallel)",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.45,
+      "high": 5.0,
+      "market": 0.29,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-015 normal": {
+    "name": "I Am Whitebeard!!",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.29,
+      "mid": 0.5,
+      "high": 3.0,
+      "market": 0.33,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-016 normal": {
+    "name": "Take That Back!! Take Back What You Said!!",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.24,
+      "high": 22.0,
+      "market": 0.17,
+      "directLow": null
+    }
+  },
+  "ST22-ST22-017 normal": {
+    "name": "Fire Fist",
+    "groupId": 24304,
+    "prices": {
+      "low": 0.04,
+      "mid": 0.2,
+      "high": 1.65,
+      "market": 0.17,
+      "directLow": null
+    }
+  }
+}

@@ -1,0 +1,678 @@
+{
+  "date": "2025-12-28",
+  "market": 18,
+  "files": [
+    {
+      "expansionId": 5229,
+      "expansionName": "Romance Dawn",
+      "count": 173,
+      "file": "m18_expansion_5229_romance_dawn.json"
+    },
+    {
+      "expansionId": 5230,
+      "expansionName": null,
+      "count": 154,
+      "file": "m18_expansion_5230_unknown.json"
+    },
+    {
+      "expansionId": 5237,
+      "expansionName": "Straw Hat Crew",
+      "count": 37,
+      "file": "m18_expansion_5237_straw_hat_crew.json"
+    },
+    {
+      "expansionId": 5238,
+      "expansionName": "Worst Generation",
+      "count": 37,
+      "file": "m18_expansion_5238_worst_generation.json"
+    },
+    {
+      "expansionId": 5239,
+      "expansionName": "The Seven Warlords of the Sea",
+      "count": 36,
+      "file": "m18_expansion_5239_the_seven_warlords_of_the_sea.json"
+    },
+    {
+      "expansionId": 5240,
+      "expansionName": "Animal Kingdom Pirates",
+      "count": 36,
+      "file": "m18_expansion_5240_animal_kingdom_pirates.json"
+    },
+    {
+      "expansionId": 5244,
+      "expansionName": "ST01-ST04: Deck Set",
+      "count": 212,
+      "file": "m18_expansion_5244_st01_st04_deck_set.json"
+    },
+    {
+      "expansionId": 5255,
+      "expansionName": "ONE PIECE FILM edition",
+      "count": 18,
+      "file": "m18_expansion_5255_one_piece_film_edition.json"
+    },
+    {
+      "expansionId": 5262,
+      "expansionName": "DON!! Card Pack Vol.1",
+      "count": 404,
+      "file": "m18_expansion_5262_don_card_pack_vol_1.json"
+    },
+    {
+      "expansionId": 5263,
+      "expansionName": "Paramount War",
+      "count": 171,
+      "file": "m18_expansion_5263_paramount_war.json"
+    },
+    {
+      "expansionId": 5265,
+      "expansionName": "Absolute Justice",
+      "count": 18,
+      "file": "m18_expansion_5265_absolute_justice.json"
+    },
+    {
+      "expansionId": 5267,
+      "expansionName": "Premium Card Collection 25th Edition (Non-English)",
+      "count": 57,
+      "file": "m18_expansion_5267_premium_card_collection_25th_edition_non_english.json"
+    },
+    {
+      "expansionId": 5300,
+      "expansionName": "Unknown OP02",
+      "count": 76,
+      "file": "m18_expansion_5300_unknown_op02.json"
+    },
+    {
+      "expansionId": 5302,
+      "expansionName": "Revision Pack",
+      "count": 45,
+      "file": "m18_expansion_5302_revision_pack.json"
+    },
+    {
+      "expansionId": 5303,
+      "expansionName": "Kingdoms of Intrigue Dash Pack",
+      "count": 346,
+      "file": "m18_expansion_5303_kingdoms_of_intrigue_dash_pack.json"
+    },
+    {
+      "expansionId": 5312,
+      "expansionName": "Judge Pack Vol.1",
+      "count": 76,
+      "file": "m18_expansion_5312_judge_pack_vol_1.json"
+    },
+    {
+      "expansionId": 5364,
+      "expansionName": "Pillars of Strength",
+      "count": 169,
+      "file": "m18_expansion_5364_pillars_of_strength.json"
+    },
+    {
+      "expansionId": 5365,
+      "expansionName": "Kingdoms of Intrigue",
+      "count": 165,
+      "file": "m18_expansion_5365_kingdoms_of_intrigue.json"
+    },
+    {
+      "expansionId": 5366,
+      "expansionName": "Monkey.D.Luffy",
+      "count": 16,
+      "file": "m18_expansion_5366_monkey_d_luffy.json"
+    },
+    {
+      "expansionId": 5367,
+      "expansionName": "Yamato",
+      "count": 16,
+      "file": "m18_expansion_5367_yamato.json"
+    },
+    {
+      "expansionId": 5377,
+      "expansionName": "Big Mom Pirates",
+      "count": 18,
+      "file": "m18_expansion_5377_big_mom_pirates.json"
+    },
+    {
+      "expansionId": 5380,
+      "expansionName": "The Three Captains",
+      "count": 21,
+      "file": "m18_expansion_5380_the_three_captains.json"
+    },
+    {
+      "expansionId": 5413,
+      "expansionName": "Pre-Release Pack",
+      "count": 78,
+      "file": "m18_expansion_5413_pre_release_pack.json"
+    },
+    {
+      "expansionId": 5426,
+      "expansionName": "Awakening of the New Era",
+      "count": 170,
+      "file": "m18_expansion_5426_awakening_of_the_new_era.json"
+    },
+    {
+      "expansionId": 5427,
+      "expansionName": "Uta",
+      "count": 6,
+      "file": "m18_expansion_5427_uta.json"
+    },
+    {
+      "expansionId": 5481,
+      "expansionName": "Awakening of the New Era",
+      "count": 158,
+      "file": "m18_expansion_5481_awakening_of_the_new_era.json"
+    },
+    {
+      "expansionId": 5482,
+      "expansionName": "Pillars of Strength",
+      "count": 158,
+      "file": "m18_expansion_5482_pillars_of_strength.json"
+    },
+    {
+      "expansionId": 5483,
+      "expansionName": "Paramount War",
+      "count": 158,
+      "file": "m18_expansion_5483_paramount_war.json"
+    },
+    {
+      "expansionId": 5484,
+      "expansionName": "Romance Dawn",
+      "count": 159,
+      "file": "m18_expansion_5484_romance_dawn.json"
+    },
+    {
+      "expansionId": 5485,
+      "expansionName": "Kingdoms of Intrigue",
+      "count": 153,
+      "file": "m18_expansion_5485_kingdoms_of_intrigue.json"
+    },
+    {
+      "expansionId": 5486,
+      "expansionName": "Pre-Release Pack",
+      "count": 76,
+      "file": "m18_expansion_5486_pre_release_pack.json"
+    },
+    {
+      "expansionId": 5510,
+      "expansionName": "Chinese New Year Red Envelope - Roronoa Zoro",
+      "count": 261,
+      "file": "m18_expansion_5510_chinese_new_year_red_envelope_roronoa_zoro.json"
+    },
+    {
+      "expansionId": 5511,
+      "expansionName": "July Exchange Meeting 2025 Theme Pack",
+      "count": 108,
+      "file": "m18_expansion_5511_july_exchange_meeting_2025_theme_pack.json"
+    },
+    {
+      "expansionId": 5524,
+      "expansionName": "Wings of the Captain",
+      "count": 167,
+      "file": "m18_expansion_5524_wings_of_the_captain.json"
+    },
+    {
+      "expansionId": 5551,
+      "expansionName": "Wings of the Captain",
+      "count": 154,
+      "file": "m18_expansion_5551_wings_of_the_captain.json"
+    },
+    {
+      "expansionId": 5558,
+      "expansionName": "The Three Captains (Non-English)",
+      "count": 21,
+      "file": "m18_expansion_5558_the_three_captains_non_english.json"
+    },
+    {
+      "expansionId": 5565,
+      "expansionName": "1st Anniversary Tournament Pack",
+      "count": 76,
+      "file": "m18_expansion_5565_1st_anniversary_tournament_pack.json"
+    },
+    {
+      "expansionId": 5580,
+      "expansionName": "Memorial Collection",
+      "count": 83,
+      "file": "m18_expansion_5580_memorial_collection.json"
+    },
+    {
+      "expansionId": 5585,
+      "expansionName": "Memorial Collection",
+      "count": 91,
+      "file": "m18_expansion_5585_memorial_collection.json"
+    },
+    {
+      "expansionId": 5586,
+      "expansionName": "500 Years into the Future",
+      "count": 168,
+      "file": "m18_expansion_5586_500_years_into_the_future.json"
+    },
+    {
+      "expansionId": 5587,
+      "expansionName": "500 Years into the Future (12x",
+      "count": 155,
+      "file": "m18_expansion_5587_500_years_into_the_future_12x.json"
+    },
+    {
+      "expansionId": 5591,
+      "expansionName": "Uta (Japanese)",
+      "count": 6,
+      "file": "m18_expansion_5591_uta_japanese.json"
+    },
+    {
+      "expansionId": 5592,
+      "expansionName": "Zoro & Sanji (Japanese)",
+      "count": 18,
+      "file": "m18_expansion_5592_zoro_sanji_japanese.json"
+    },
+    {
+      "expansionId": 5593,
+      "expansionName": "Zoro & Sanji",
+      "count": 18,
+      "file": "m18_expansion_5593_zoro_sanji.json"
+    },
+    {
+      "expansionId": 5594,
+      "expansionName": "The Three Brothers (Japanese)",
+      "count": 36,
+      "file": "m18_expansion_5594_the_three_brothers_japanese.json"
+    },
+    {
+      "expansionId": 5595,
+      "expansionName": "The Three Brothers",
+      "count": 38,
+      "file": "m18_expansion_5595_the_three_brothers.json"
+    },
+    {
+      "expansionId": 5598,
+      "expansionName": "Unknown OP01",
+      "count": 36,
+      "file": "m18_expansion_5598_unknown_op01.json"
+    },
+    {
+      "expansionId": 5610,
+      "expansionName": "Two Legends",
+      "count": 167,
+      "file": "m18_expansion_5610_two_legends.json"
+    },
+    {
+      "expansionId": 5611,
+      "expansionName": "3D2Y",
+      "count": 18,
+      "file": "m18_expansion_5611_3d2y.json"
+    },
+    {
+      "expansionId": 5622,
+      "expansionName": "Pre-Release Pack",
+      "count": 76,
+      "file": "m18_expansion_5622_pre_release_pack.json"
+    },
+    {
+      "expansionId": 5624,
+      "expansionName": "Romance Dawn",
+      "count": 79,
+      "file": "m18_expansion_5624_romance_dawn.json"
+    },
+    {
+      "expansionId": 5744,
+      "expansionName": "Two Legends",
+      "count": 155,
+      "file": "m18_expansion_5744_two_legends.json"
+    },
+    {
+      "expansionId": 5747,
+      "expansionName": "Edward.Newgate",
+      "count": 11,
+      "file": "m18_expansion_5747_edward_newgate.json"
+    },
+    {
+      "expansionId": 5748,
+      "expansionName": "Green Uta",
+      "count": 17,
+      "file": "m18_expansion_5748_green_uta.json"
+    },
+    {
+      "expansionId": 5749,
+      "expansionName": "Donquixote Doflamingo",
+      "count": 11,
+      "file": "m18_expansion_5749_donquixote_doflamingo.json"
+    },
+    {
+      "expansionId": 5750,
+      "expansionName": "Purple Monkey.D.Luffy",
+      "count": 10,
+      "file": "m18_expansion_5750_purple_monkey_d_luffy.json"
+    },
+    {
+      "expansionId": 5751,
+      "expansionName": "Smoker",
+      "count": 10,
+      "file": "m18_expansion_5751_smoker.json"
+    },
+    {
+      "expansionId": 5752,
+      "expansionName": "Charlotte Katakuri",
+      "count": 11,
+      "file": "m18_expansion_5752_charlotte_katakuri.json"
+    },
+    {
+      "expansionId": 5755,
+      "expansionName": "Emperors in the New World",
+      "count": 177,
+      "file": "m18_expansion_5755_emperors_in_the_new_world.json"
+    },
+    {
+      "expansionId": 5803,
+      "expansionName": "Pre-Release Pack",
+      "count": 76,
+      "file": "m18_expansion_5803_pre_release_pack.json"
+    },
+    {
+      "expansionId": 5804,
+      "expansionName": "The Best",
+      "count": 310,
+      "file": "m18_expansion_5804_the_best.json"
+    },
+    {
+      "expansionId": 5805,
+      "expansionName": "The Best",
+      "count": 412,
+      "file": "m18_expansion_5805_the_best.json"
+    },
+    {
+      "expansionId": 5850,
+      "expansionName": "3D2Y (Non-English)",
+      "count": 18,
+      "file": "m18_expansion_5850_3d2y_non_english.json"
+    },
+    {
+      "expansionId": 5887,
+      "expansionName": "Emperors in the New World",
+      "count": 163,
+      "file": "m18_expansion_5887_emperors_in_the_new_world.json"
+    },
+    {
+      "expansionId": 5896,
+      "expansionName": "Pre-Release Pack",
+      "count": 76,
+      "file": "m18_expansion_5896_pre_release_pack.json"
+    },
+    {
+      "expansionId": 5968,
+      "expansionName": "Edward.Newgate (Non-English)",
+      "count": 10,
+      "file": "m18_expansion_5968_edward_newgate_non_english.json"
+    },
+    {
+      "expansionId": 5969,
+      "expansionName": "Green Uta (Non-English)",
+      "count": 16,
+      "file": "m18_expansion_5969_green_uta_non_english.json"
+    },
+    {
+      "expansionId": 5970,
+      "expansionName": "Donquixote Doflamingo (Non-English)",
+      "count": 10,
+      "file": "m18_expansion_5970_donquixote_doflamingo_non_english.json"
+    },
+    {
+      "expansionId": 5971,
+      "expansionName": "Purple Monkey.D.Luffy (Non-English)",
+      "count": 9,
+      "file": "m18_expansion_5971_purple_monkey_d_luffy_non_english.json"
+    },
+    {
+      "expansionId": 5972,
+      "expansionName": "Purple Smoker (Non-English)",
+      "count": 9,
+      "file": "m18_expansion_5972_purple_smoker_non_english.json"
+    },
+    {
+      "expansionId": 5973,
+      "expansionName": "Charlotte Katakuri (Non-English)",
+      "count": 10,
+      "file": "m18_expansion_5973_charlotte_katakuri_non_english.json"
+    },
+    {
+      "expansionId": 5974,
+      "expansionName": "Royal Blood",
+      "count": 168,
+      "file": "m18_expansion_5974_royal_blood.json"
+    },
+    {
+      "expansionId": 5975,
+      "expansionName": "Royal Blood",
+      "count": 155,
+      "file": "m18_expansion_5975_royal_blood.json"
+    },
+    {
+      "expansionId": 5979,
+      "expansionName": "2nd Anniversary Tournament Pack",
+      "count": 76,
+      "file": "m18_expansion_5979_2nd_anniversary_tournament_pack.json"
+    },
+    {
+      "expansionId": 5998,
+      "expansionName": "EX Gear 5",
+      "count": 35,
+      "file": "m18_expansion_5998_ex_gear_5.json"
+    },
+    {
+      "expansionId": 5999,
+      "expansionName": "EX Gear 5 (Non-English)",
+      "count": 33,
+      "file": "m18_expansion_5999_ex_gear_5_non_english.json"
+    },
+    {
+      "expansionId": 6018,
+      "expansionName": "Anime 25th Collection",
+      "count": 109,
+      "file": "m18_expansion_6018_anime_25th_collection.json"
+    },
+    {
+      "expansionId": 6028,
+      "expansionName": "Anime 25th Collection",
+      "count": 116,
+      "file": "m18_expansion_6028_anime_25th_collection.json"
+    },
+    {
+      "expansionId": 6029,
+      "expansionName": "Straw Hat Crew (Non-English)",
+      "count": 19,
+      "file": "m18_expansion_6029_straw_hat_crew_non_english.json"
+    },
+    {
+      "expansionId": 6030,
+      "expansionName": "Worst Generation (Non-English)",
+      "count": 18,
+      "file": "m18_expansion_6030_worst_generation_non_english.json"
+    },
+    {
+      "expansionId": 6031,
+      "expansionName": "The Seven Warlords of the Sea (Non-English)",
+      "count": 18,
+      "file": "m18_expansion_6031_the_seven_warlords_of_the_sea_non_english.json"
+    },
+    {
+      "expansionId": 6032,
+      "expansionName": "Animal Kingdom Pirates (Non-English)",
+      "count": 18,
+      "file": "m18_expansion_6032_animal_kingdom_pirates_non_english.json"
+    },
+    {
+      "expansionId": 6033,
+      "expansionName": "A Fist of Divine Speed",
+      "count": 171,
+      "file": "m18_expansion_6033_a_fist_of_divine_speed.json"
+    },
+    {
+      "expansionId": 6034,
+      "expansionName": "A Fist of Divine Speed",
+      "count": 160,
+      "file": "m18_expansion_6034_a_fist_of_divine_speed.json"
+    },
+    {
+      "expansionId": 6090,
+      "expansionName": "Release Event Pack",
+      "count": 76,
+      "file": "m18_expansion_6090_release_event_pack.json"
+    },
+    {
+      "expansionId": 6138,
+      "expansionName": "EX Ace & Newgate (Non-English)",
+      "count": 32,
+      "file": "m18_expansion_6138_ex_ace_newgate_non_english.json"
+    },
+    {
+      "expansionId": 6147,
+      "expansionName": "Green Yellow Yamato",
+      "count": 17,
+      "file": "m18_expansion_6147_green_yellow_yamato.json"
+    },
+    {
+      "expansionId": 6148,
+      "expansionName": "Black Marshall.D.Teach",
+      "count": 17,
+      "file": "m18_expansion_6148_black_marshall_d_teach.json"
+    },
+    {
+      "expansionId": 6149,
+      "expansionName": "Purple Black Monkey.D.Luffy",
+      "count": 17,
+      "file": "m18_expansion_6149_purple_black_monkey_d_luffy.json"
+    },
+    {
+      "expansionId": 6150,
+      "expansionName": "Blue Buggy",
+      "count": 17,
+      "file": "m18_expansion_6150_blue_buggy.json"
+    },
+    {
+      "expansionId": 6151,
+      "expansionName": "Green Jewelry Bonney",
+      "count": 17,
+      "file": "m18_expansion_6151_green_jewelry_bonney.json"
+    },
+    {
+      "expansionId": 6152,
+      "expansionName": "Red Shanks",
+      "count": 17,
+      "file": "m18_expansion_6152_red_shanks.json"
+    },
+    {
+      "expansionId": 6157,
+      "expansionName": "Legacy of the Master",
+      "count": 159,
+      "file": "m18_expansion_6157_legacy_of_the_master.json"
+    },
+    {
+      "expansionId": 6160,
+      "expansionName": "Release Event Pack",
+      "count": 76,
+      "file": "m18_expansion_6160_release_event_pack.json"
+    },
+    {
+      "expansionId": 6186,
+      "expansionName": "Legacy of the Master",
+      "count": 170,
+      "file": "m18_expansion_6186_legacy_of_the_master.json"
+    },
+    {
+      "expansionId": 6187,
+      "expansionName": "Carrying on his Will",
+      "count": 191,
+      "file": "m18_expansion_6187_carrying_on_his_will.json"
+    },
+    {
+      "expansionId": 6215,
+      "expansionName": "Yamato (Non-English)",
+      "count": 16,
+      "file": "m18_expansion_6215_yamato_non_english.json"
+    },
+    {
+      "expansionId": 6224,
+      "expansionName": "Green Yellow Yamato (Non-English)",
+      "count": 16,
+      "file": "m18_expansion_6224_green_yellow_yamato_non_english.json"
+    },
+    {
+      "expansionId": 6225,
+      "expansionName": "Black Marshall.D.Teach (Non-English)",
+      "count": 16,
+      "file": "m18_expansion_6225_black_marshall_d_teach_non_english.json"
+    },
+    {
+      "expansionId": 6226,
+      "expansionName": "Purple Black Monkey.D.Luffy (Non-English)",
+      "count": 16,
+      "file": "m18_expansion_6226_purple_black_monkey_d_luffy_non_english.json"
+    },
+    {
+      "expansionId": 6227,
+      "expansionName": "Blue Buggy (Non-English)",
+      "count": 16,
+      "file": "m18_expansion_6227_blue_buggy_non_english.json"
+    },
+    {
+      "expansionId": 6228,
+      "expansionName": "Green Jewelry Bonney (Non-English)",
+      "count": 16,
+      "file": "m18_expansion_6228_green_jewelry_bonney_non_english.json"
+    },
+    {
+      "expansionId": 6229,
+      "expansionName": "Red Shanks (Non-English)",
+      "count": 16,
+      "file": "m18_expansion_6229_red_shanks_non_english.json"
+    },
+    {
+      "expansionId": 6233,
+      "expansionName": "The Best Vol.2",
+      "count": 408,
+      "file": "m18_expansion_6233_the_best_vol_2.json"
+    },
+    {
+      "expansionId": 6242,
+      "expansionName": "The Best Vol.2",
+      "count": 411,
+      "file": "m18_expansion_6242_the_best_vol_2.json"
+    },
+    {
+      "expansionId": 6264,
+      "expansionName": "Legacy of the Master - Release Event Pack",
+      "count": 76,
+      "file": "m18_expansion_6264_legacy_of_the_master_release_event_pack.json"
+    },
+    {
+      "expansionId": 6270,
+      "expansionName": "EX Ace & Newgate",
+      "count": 34,
+      "file": "m18_expansion_6270_ex_ace_newgate.json"
+    },
+    {
+      "expansionId": 6277,
+      "expansionName": "Carrying on his Will",
+      "count": 179,
+      "file": "m18_expansion_6277_carrying_on_his_will.json"
+    },
+    {
+      "expansionId": 6338,
+      "expansionName": "Learn Together Deck Set 01",
+      "count": 51,
+      "file": "m18_expansion_6338_learn_together_deck_set_01.json"
+    },
+    {
+      "expansionId": 6372,
+      "expansionName": "3rd Anniversary Tournament Pack",
+      "count": 76,
+      "file": "m18_expansion_6372_3rd_anniversary_tournament_pack.json"
+    },
+    {
+      "expansionId": 6379,
+      "expansionName": "Heroines Edition",
+      "count": 93,
+      "file": "m18_expansion_6379_heroines_edition.json"
+    },
+    {
+      "expansionId": 6411,
+      "expansionName": "The Azure Sea's Seven",
+      "count": 160,
+      "file": "m18_expansion_6411_the_azure_sea_s_seven.json"
+    }
+  ]
+}

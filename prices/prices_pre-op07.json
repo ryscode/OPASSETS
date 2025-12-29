@@ -29,7 +29,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.3,
     "highPrice": 2.0,
-    "marketPrice": 0.11,
+    "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Dice",
     "rarity": "C",
@@ -55,7 +55,7 @@
     "lowPrice": 0.08,
     "midPrice": 0.35,
     "highPrice": 2.0,
-    "marketPrice": 0.15,
+    "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Dogura & Magura",
     "rarity": "C",
@@ -287,9 +287,9 @@
   },
   "OP07-OP07-030 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.45,
+    "midPrice": 0.47,
     "highPrice": 2.0,
-    "marketPrice": 0.41,
+    "marketPrice": 0.4,
     "directLowPrice": null,
     "name": "Pappag",
     "rarity": "C",
@@ -313,9 +313,9 @@
   },
   "OP07-OP07-035 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.49,
+    "midPrice": 0.47,
     "highPrice": 2.0,
-    "marketPrice": 0.37,
+    "marketPrice": 0.38,
     "directLowPrice": null,
     "name": "Karmic Punishment",
     "rarity": "C",
@@ -471,7 +471,7 @@
     "lowPrice": 0.21,
     "midPrice": 0.7,
     "highPrice": 20.0,
-    "marketPrice": 0.32,
+    "marketPrice": 0.34,
     "directLowPrice": null,
     "name": "Boa Marigold",
     "rarity": "C",
@@ -599,7 +599,7 @@
   },
   "OP07-OP07-063 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.51,
+    "midPrice": 0.5,
     "highPrice": 2.0,
     "marketPrice": 0.5,
     "directLowPrice": null,
@@ -625,7 +625,7 @@
   },
   "OP07-OP07-067 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.39,
+    "midPrice": 0.4,
     "highPrice": 2.0,
     "marketPrice": 0.18,
     "directLowPrice": null,
@@ -781,7 +781,7 @@
   },
   "OP07-OP07-086 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.59,
+    "midPrice": 0.6,
     "highPrice": 10.0,
     "marketPrice": 0.62,
     "directLowPrice": null,
@@ -807,7 +807,7 @@
   },
   "OP07-OP07-087 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.35,
+    "midPrice": 0.36,
     "highPrice": 3.0,
     "marketPrice": 0.24,
     "directLowPrice": null,
@@ -859,7 +859,7 @@
   },
   "OP07-OP07-090 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.47,
+    "midPrice": 0.45,
     "highPrice": 4.99,
     "marketPrice": 0.38,
     "directLowPrice": null,
@@ -988,10 +988,10 @@
     "groupId": 23512
   },
   "OP07-OP07-103 normal": {
-    "lowPrice": 6.96,
+    "lowPrice": 6.79,
     "midPrice": 8.44,
     "highPrice": 150.0,
-    "marketPrice": 7.12,
+    "marketPrice": 7.34,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper (103)",
     "rarity": "C",
@@ -1119,9 +1119,9 @@
   },
   "OP07-OP07-117 normal": {
     "lowPrice": 1.57,
-    "midPrice": 2.34,
+    "midPrice": 2.58,
     "highPrice": 4.5,
-    "marketPrice": 1.72,
+    "marketPrice": 1.74,
     "directLowPrice": null,
     "name": "Egghead",
     "rarity": "C",
@@ -1249,7 +1249,7 @@
   },
   "OP07-OP07-023 normal": {
     "lowPrice": 0.21,
-    "midPrice": 0.46,
+    "midPrice": 0.45,
     "highPrice": 4.99,
     "marketPrice": 0.4,
     "directLowPrice": null,
@@ -1353,7 +1353,7 @@
   },
   "OP07-OP07-037 normal": {
     "lowPrice": 2.2,
-    "midPrice": 3.33,
+    "midPrice": 3.38,
     "highPrice": 6.0,
     "marketPrice": 2.95,
     "directLowPrice": null,
@@ -1378,8 +1378,8 @@
     "groupId": 23512
   },
   "OP07-OP07-040 normal": {
-    "lowPrice": 4.49,
-    "midPrice": 6.88,
+    "lowPrice": 4.23,
+    "midPrice": 6.94,
     "highPrice": 14.01,
     "marketPrice": 6.04,
     "directLowPrice": null,
@@ -1457,9 +1457,9 @@
   },
   "OP07-OP07-048 normal": {
     "lowPrice": 0.9,
-    "midPrice": 1.84,
+    "midPrice": 1.8,
     "highPrice": 50.0,
-    "marketPrice": 1.56,
+    "marketPrice": 1.59,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo",
     "rarity": "UC",
@@ -1482,10 +1482,10 @@
     "groupId": 23512
   },
   "OP07-OP07-056 normal": {
-    "lowPrice": 19.99,
-    "midPrice": 21.99,
+    "lowPrice": 20.0,
+    "midPrice": 21.5,
     "highPrice": 24.0,
-    "marketPrice": 16.18,
+    "marketPrice": 16.69,
     "directLowPrice": null,
     "name": "Slave Arrow",
     "rarity": "UC",
@@ -1509,7 +1509,7 @@
   },
   "OP07-OP07-060 normal": {
     "lowPrice": 1.99,
-    "midPrice": 4.31,
+    "midPrice": 3.0,
     "highPrice": 8.48,
     "marketPrice": 2.61,
     "directLowPrice": null,
@@ -1560,10 +1560,10 @@
     "groupId": 23512
   },
   "OP07-OP07-068 normal": {
-    "lowPrice": 0.4,
-    "midPrice": 0.8,
+    "lowPrice": 0.5,
+    "midPrice": 0.81,
     "highPrice": 2.0,
-    "marketPrice": 0.8,
+    "marketPrice": 0.74,
     "directLowPrice": null,
     "name": "Hamburg",
     "rarity": "UC",
@@ -1743,7 +1743,7 @@
   },
   "OP07-OP07-094 normal": {
     "lowPrice": 0.34,
-    "midPrice": 0.76,
+    "midPrice": 0.6,
     "highPrice": 2.0,
     "marketPrice": 0.35,
     "directLowPrice": null,
@@ -1794,7 +1794,7 @@
     "groupId": 23512
   },
   "OP07-OP07-101 normal": {
-    "lowPrice": 6.0,
+    "lowPrice": 6.01,
     "midPrice": 9.13,
     "highPrice": 100.0,
     "marketPrice": 8.72,

@@ -1,9 +1,9 @@
 {
   "ST08-ST08-005 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.66,
+    "midPrice": 0.73,
     "highPrice": 25.0,
-    "marketPrice": 0.6,
+    "marketPrice": 0.62,
     "directLowPrice": null,
     "name": "Shanks",
     "rarity": "SR",
@@ -28,7 +28,7 @@
   "ST08-ST08-008 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.11,
-    "highPrice": 1.35,
+    "highPrice": 1.1,
     "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Higuma",
@@ -79,7 +79,7 @@
   },
   "ST08-ST08-002 normal": {
     "lowPrice": 1.5,
-    "midPrice": 2.6,
+    "midPrice": 2.64,
     "highPrice": 50.0,
     "marketPrice": 2.11,
     "directLowPrice": null,
@@ -157,9 +157,9 @@
   },
   "ST08-ST08-001 normal": {
     "lowPrice": 0.99,
-    "midPrice": 4.13,
+    "midPrice": 4.6,
     "highPrice": 25.0,
-    "marketPrice": 3.59,
+    "marketPrice": 3.66,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (001)",
     "rarity": "L",
@@ -182,10 +182,10 @@
     "groupId": 22956
   },
   "ST08-ST08-006 normal": {
-    "lowPrice": 1.0,
-    "midPrice": 2.25,
+    "lowPrice": 0.99,
+    "midPrice": 2.22,
     "highPrice": 25.0,
-    "marketPrice": 1.24,
+    "marketPrice": 1.25,
     "directLowPrice": null,
     "name": "Shirahoshi",
     "rarity": "C",
@@ -209,7 +209,7 @@
   },
   "ST08-ST08-015 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.29,
+    "midPrice": 0.28,
     "highPrice": 10.0,
     "marketPrice": 0.24,
     "directLowPrice": null,
@@ -262,7 +262,7 @@
   "ST08-ST08-009 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
-    "highPrice": 1.32,
+    "highPrice": 1.0,
     "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Makino",
@@ -314,7 +314,7 @@
   "ST08-ST08-012 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
-    "highPrice": 1.39,
+    "highPrice": 1.0,
     "marketPrice": 0.16,
     "directLowPrice": null,
     "name": "Laboon",
@@ -340,7 +340,7 @@
   "ST08-ST08-003 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 1.34,
+    "highPrice": 1.1,
     "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Gaimon",

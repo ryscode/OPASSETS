@@ -1,8 +1,8 @@
 {
   "ST03-ST03-001 normal": {
     "lowPrice": 0.39,
-    "midPrice": 0.68,
-    "highPrice": 10.62,
+    "midPrice": 0.69,
+    "highPrice": 3.5,
     "marketPrice": 0.67,
     "directLowPrice": null,
     "name": "Crocodile (001)",
@@ -53,9 +53,9 @@
   },
   "ST03-ST03-003 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.49,
+    "midPrice": 0.5,
     "highPrice": 5.0,
-    "marketPrice": 0.33,
+    "marketPrice": 0.34,
     "directLowPrice": null,
     "name": "Crocodile (003)",
     "rarity": "SR",
@@ -81,7 +81,7 @@
     "lowPrice": 0.04,
     "midPrice": 0.25,
     "highPrice": 11.5,
-    "marketPrice": 0.14,
+    "marketPrice": 0.15,
     "directLowPrice": null,
     "name": "Gecko Moria",
     "rarity": "C",
@@ -131,7 +131,7 @@
   },
   "ST03-ST03-006 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.15,
+    "midPrice": 0.17,
     "highPrice": 1.32,
     "marketPrice": 0.07,
     "directLowPrice": null,
@@ -157,7 +157,7 @@
   },
   "ST03-ST03-007 normal": {
     "lowPrice": 0.04,
-    "midPrice": 0.23,
+    "midPrice": 0.24,
     "highPrice": 2.0,
     "marketPrice": 0.21,
     "directLowPrice": null,
@@ -211,7 +211,7 @@
     "lowPrice": 2.24,
     "midPrice": 3.5,
     "highPrice": 7.0,
-    "marketPrice": 3.15,
+    "marketPrice": 3.22,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo",
     "rarity": "SR",
@@ -261,7 +261,7 @@
   },
   "ST03-ST03-011 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.15,
+    "midPrice": 0.17,
     "highPrice": 1.35,
     "marketPrice": 0.13,
     "directLowPrice": null,
@@ -287,7 +287,7 @@
   },
   "ST03-ST03-012 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.2,
+    "midPrice": 0.21,
     "highPrice": 1.5,
     "marketPrice": 0.13,
     "directLowPrice": null,
@@ -315,7 +315,7 @@
     "lowPrice": 0.02,
     "midPrice": 0.2,
     "highPrice": 5.0,
-    "marketPrice": 0.15,
+    "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Boa Hancock",
     "rarity": "C",
@@ -365,9 +365,9 @@
   },
   "ST03-ST03-015 normal": {
     "lowPrice": 0.72,
-    "midPrice": 2.02,
+    "midPrice": 2.16,
     "highPrice": 5.0,
-    "marketPrice": 1.37,
+    "marketPrice": 1.46,
     "directLowPrice": null,
     "name": "Sables",
     "rarity": "C",
@@ -416,8 +416,8 @@
     "groupId": 3192
   },
   "ST03-ST03-017 normal": {
-    "lowPrice": 2.49,
-    "midPrice": 3.82,
+    "lowPrice": 2.5,
+    "midPrice": 3.83,
     "highPrice": 13.99,
     "marketPrice": 3.34,
     "directLowPrice": null,

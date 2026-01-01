@@ -1,9 +1,9 @@
 {
   "OP03-OP03-099 normal": {
     "lowPrice": 0.38,
-    "midPrice": 0.82,
+    "midPrice": 0.78,
     "highPrice": 25.0,
-    "marketPrice": 0.65,
+    "marketPrice": 0.66,
     "directLowPrice": null,
     "name": "Charlotte Katakuri (OP03-099)",
     "rarity": "L",
@@ -52,7 +52,7 @@
     "groupId": 23495
   },
   "OP03-OP03-107 normal": {
-    "lowPrice": 0.03,
+    "lowPrice": 0.02,
     "midPrice": 0.15,
     "highPrice": 5.0,
     "marketPrice": 0.1,
@@ -107,7 +107,7 @@
     "lowPrice": 0.02,
     "midPrice": 0.2,
     "highPrice": 20.0,
-    "marketPrice": 0.18,
+    "marketPrice": 0.19,
     "directLowPrice": null,
     "name": "Charlotte Pudding (OP03-112)",
     "rarity": "R",
@@ -131,7 +131,7 @@
   },
   "ST07-ST07-005 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.11,
+    "midPrice": 0.1,
     "highPrice": 4.99,
     "marketPrice": 0.09,
     "directLowPrice": null,
@@ -236,8 +236,8 @@
   "ST20-ST20-004 normal": {
     "lowPrice": 0.09,
     "midPrice": 0.25,
-    "highPrice": 2.99,
-    "marketPrice": 0.2,
+    "highPrice": 2.0,
+    "marketPrice": 0.19,
     "directLowPrice": null,
     "name": "Charlotte Pudding (ST20-004)",
     "rarity": "C",
@@ -261,9 +261,9 @@
   },
   "ST20-ST20-005 normal": {
     "lowPrice": 0.19,
-    "midPrice": 1.47,
+    "midPrice": 1.48,
     "highPrice": 25.0,
-    "marketPrice": 0.68,
+    "marketPrice": 0.66,
     "directLowPrice": null,
     "name": "Charlotte Linlin",
     "rarity": "SR",

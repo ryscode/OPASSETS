@@ -1,0 +1,33 @@
+{
+  "date": "2025-12-31",
+  "market": 18,
+  "expansionId": 6432,
+  "expansionName": "The Azure Sea's Seven",
+  "count": 2,
+  "priceGuides": [
+    {
+      "idProduct": 864451,
+      "idCategory": 1622,
+      "avg": null,
+      "low": null,
+      "trend": null,
+      "avg1": null,
+      "avg7": null,
+      "avg30": null,
+      "productName": "The Azure Sea's Seven Booster",
+      "productCategoryName": "One Piece Booster"
+    },
+    {
+      "idProduct": 864452,
+      "idCategory": 1624,
+      "avg": 139.11,
+      "low": 134.95,
+      "trend": null,
+      "avg1": null,
+      "avg7": null,
+      "avg30": null,
+      "productName": "The Azure Sea's Seven Booster Box",
+      "productCategoryName": "One Piece Booster Boxes"
+    }
+  ]
+}

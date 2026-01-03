@@ -1,9 +1,9 @@
 {
   "ST09-ST09-001 normal": {
-    "lowPrice": 1.48,
-    "midPrice": 2.25,
-    "highPrice": 8.73,
-    "marketPrice": 2.07,
+    "lowPrice": 1.99,
+    "midPrice": 2.5,
+    "highPrice": 9.02,
+    "marketPrice": 2.09,
     "directLowPrice": null,
     "name": "Yamato (001)",
     "rarity": "L",
@@ -29,7 +29,7 @@
     "lowPrice": 0.19,
     "midPrice": 0.5,
     "highPrice": 10.0,
-    "marketPrice": 0.5,
+    "marketPrice": 0.48,
     "directLowPrice": null,
     "name": "Portgas.D.Ace",
     "rarity": "SR",
@@ -55,7 +55,7 @@
     "lowPrice": 0.49,
     "midPrice": 1.1,
     "highPrice": 25.0,
-    "marketPrice": 1.04,
+    "marketPrice": 1.07,
     "directLowPrice": null,
     "name": "Kouzuki Oden",
     "rarity": "SR",
@@ -105,7 +105,7 @@
   },
   "ST09-ST09-008 normal": {
     "lowPrice": 0.04,
-    "midPrice": 0.18,
+    "midPrice": 0.17,
     "highPrice": 1.98,
     "marketPrice": 0.07,
     "directLowPrice": null,
@@ -182,8 +182,8 @@
     "groupId": 22957
   },
   "ST09-ST09-015 normal": {
-    "lowPrice": 0.01,
-    "midPrice": 0.25,
+    "lowPrice": 0.05,
+    "midPrice": 0.21,
     "highPrice": 4.99,
     "marketPrice": 0.18,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "ST09-ST09-009 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.13,
+    "midPrice": 0.15,
     "highPrice": 1.98,
     "marketPrice": 0.06,
     "directLowPrice": null,
@@ -260,8 +260,8 @@
     "groupId": 22957
   },
   "ST09-ST09-012 normal": {
-    "lowPrice": 0.02,
-    "midPrice": 0.25,
+    "lowPrice": 0.1,
+    "midPrice": 0.24,
     "highPrice": 1.98,
     "marketPrice": 0.21,
     "directLowPrice": null,
@@ -339,9 +339,9 @@
   },
   "ST09-ST09-003 normal": {
     "lowPrice": 0.07,
-    "midPrice": 0.24,
+    "midPrice": 0.21,
     "highPrice": 5.0,
-    "marketPrice": 0.18,
+    "marketPrice": 0.19,
     "directLowPrice": null,
     "name": "Ulti",
     "rarity": "C",

@@ -26,10 +26,10 @@
     "groupId": 23491
   },
   "P-P-057 normal": {
-    "lowPrice": 0.04,
+    "lowPrice": 0.05,
     "midPrice": 0.18,
     "highPrice": 2.0,
-    "marketPrice": 0.17,
+    "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Fleeting Lullaby",
     "rarity": "PR",
@@ -53,9 +53,9 @@
   },
   "P-P-058 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.21,
+    "midPrice": 0.2,
     "highPrice": 2.0,
-    "marketPrice": 0.18,
+    "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Where the Wind Blows",
     "rarity": "PR",
@@ -133,7 +133,7 @@
     "lowPrice": 0.4,
     "midPrice": 1.46,
     "highPrice": 10.0,
-    "marketPrice": 0.99,
+    "marketPrice": 1.08,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (P-061)",
     "rarity": "PR",
@@ -159,7 +159,7 @@
     "lowPrice": 0.4,
     "midPrice": 1.0,
     "highPrice": 25.0,
-    "marketPrice": 0.8,
+    "marketPrice": 0.82,
     "directLowPrice": null,
     "name": "Uta (ST11-001)",
     "rarity": "L",
@@ -183,7 +183,7 @@
   },
   "ST11-ST11-003 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.18,
+    "midPrice": 0.19,
     "highPrice": 14.0,
     "marketPrice": 0.13,
     "directLowPrice": null,
@@ -208,10 +208,10 @@
     "groupId": 23491
   },
   "ST11-ST11-004 normal": {
-    "lowPrice": 0.1,
-    "midPrice": 0.27,
+    "lowPrice": 0.09,
+    "midPrice": 0.26,
     "highPrice": 5.0,
-    "marketPrice": 0.25,
+    "marketPrice": 0.26,
     "directLowPrice": null,
     "name": "New Genesis",
     "rarity": "SR",
@@ -234,10 +234,10 @@
     "groupId": 23491
   },
   "ST11-ST11-005 normal": {
-    "lowPrice": 0.04,
+    "lowPrice": 0.05,
     "midPrice": 0.19,
     "highPrice": 1.98,
-    "marketPrice": 0.16,
+    "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "I'm invincible",
     "rarity": "C",
@@ -261,9 +261,9 @@
   },
   "ST16-ST16-001 normal": {
     "lowPrice": 0.31,
-    "midPrice": 0.59,
+    "midPrice": 0.58,
     "highPrice": 9.9,
-    "marketPrice": 0.48,
+    "marketPrice": 0.53,
     "directLowPrice": null,
     "name": "Uta (ST16-001)",
     "rarity": "SR",
@@ -286,7 +286,7 @@
     "groupId": 23491
   },
   "ST16-ST16-002 normal": {
-    "lowPrice": 0.05,
+    "lowPrice": 0.04,
     "midPrice": 0.15,
     "highPrice": 2.49,
     "marketPrice": 0.11,
@@ -312,10 +312,10 @@
     "groupId": 23491
   },
   "ST16-ST16-003 normal": {
-    "lowPrice": 0.05,
+    "lowPrice": 0.06,
     "midPrice": 0.2,
     "highPrice": 2.48,
-    "marketPrice": 0.11,
+    "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Charlotte Katakuri",
     "rarity": "C",
@@ -339,9 +339,9 @@
   },
   "ST16-ST16-004 normal": {
     "lowPrice": 1.12,
-    "midPrice": 3.25,
+    "midPrice": 3.27,
     "highPrice": 10.0,
-    "marketPrice": 2.23,
+    "marketPrice": 2.1,
     "directLowPrice": null,
     "name": "Shanks",
     "rarity": "SR",
@@ -365,9 +365,9 @@
   },
   "ST16-ST16-005 normal": {
     "lowPrice": 0.07,
-    "midPrice": 0.33,
+    "midPrice": 0.32,
     "highPrice": 2.9,
-    "marketPrice": 0.22,
+    "marketPrice": 0.23,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (ST16-005)",
     "rarity": "C",

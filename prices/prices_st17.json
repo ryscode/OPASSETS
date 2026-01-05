@@ -1,9 +1,9 @@
 {
   "OP01-OP01-060 normal": {
     "lowPrice": 0.5,
-    "midPrice": 2.49,
+    "midPrice": 4.5,
     "highPrice": 50.0,
-    "marketPrice": 0.87,
+    "marketPrice": 1.23,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo (OP01-060)",
     "rarity": "L",
@@ -29,7 +29,7 @@
     "lowPrice": 0.09,
     "midPrice": 0.25,
     "highPrice": 6.99,
-    "marketPrice": 0.24,
+    "marketPrice": 0.23,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo (OP01-073)",
     "rarity": "R",
@@ -159,7 +159,7 @@
     "lowPrice": 0.3,
     "midPrice": 0.99,
     "highPrice": 25.0,
-    "marketPrice": 0.53,
+    "marketPrice": 0.55,
     "directLowPrice": null,
     "name": "Trafalgar Law (ST17-002)",
     "rarity": "SR",
@@ -182,8 +182,8 @@
     "groupId": 23492
   },
   "ST17-ST17-003 normal": {
-    "lowPrice": 0.16,
-    "midPrice": 0.55,
+    "lowPrice": 0.15,
+    "midPrice": 0.54,
     "highPrice": 10.0,
     "marketPrice": 0.29,
     "directLowPrice": null,
@@ -208,10 +208,10 @@
     "groupId": 23492
   },
   "ST17-ST17-004 normal": {
-    "lowPrice": 13.52,
-    "midPrice": 16.97,
+    "lowPrice": 14.96,
+    "midPrice": 17.0,
     "highPrice": 50.0,
-    "marketPrice": 14.72,
+    "marketPrice": 16.37,
     "directLowPrice": null,
     "name": "Boa Hancock",
     "rarity": "SR",

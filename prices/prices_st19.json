@@ -1,9 +1,9 @@
 {
   "OP02-OP02-093 normal": {
     "lowPrice": 0.44,
-    "midPrice": 0.7,
+    "midPrice": 0.76,
     "highPrice": 50.0,
-    "marketPrice": 0.49,
+    "marketPrice": 0.53,
     "directLowPrice": null,
     "name": "Smoker (OP02-093)",
     "rarity": "L",
@@ -29,7 +29,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.22,
     "highPrice": 1.53,
-    "marketPrice": 0.21,
+    "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "Koby",
     "rarity": "R",
@@ -182,9 +182,9 @@
     "groupId": 23494
   },
   "OP03-OP03-079 normal": {
-    "lowPrice": 0.02,
+    "lowPrice": 0.01,
     "midPrice": 0.12,
-    "highPrice": 1.31,
+    "highPrice": 1.34,
     "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Vergo",
@@ -211,7 +211,7 @@
     "lowPrice": 0.14,
     "midPrice": 0.25,
     "highPrice": 5.0,
-    "marketPrice": 0.22,
+    "marketPrice": 0.23,
     "directLowPrice": null,
     "name": "Brannew",
     "rarity": "R",
@@ -237,7 +237,7 @@
     "lowPrice": 0.04,
     "midPrice": 0.16,
     "highPrice": 7.5,
-    "marketPrice": 0.11,
+    "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Smoker (ST19-001)",
     "rarity": "C",
@@ -286,10 +286,10 @@
     "groupId": 23494
   },
   "ST19-ST19-003 normal": {
-    "lowPrice": 0.49,
-    "midPrice": 0.99,
+    "lowPrice": 0.4,
+    "midPrice": 1.0,
     "highPrice": 12.5,
-    "marketPrice": 0.71,
+    "marketPrice": 0.72,
     "directLowPrice": null,
     "name": "Tashigi",
     "rarity": "SR",
@@ -313,9 +313,9 @@
   },
   "ST19-ST19-004 normal": {
     "lowPrice": 0.83,
-    "midPrice": 1.28,
+    "midPrice": 1.27,
     "highPrice": 25.0,
-    "marketPrice": 1.23,
+    "marketPrice": 1.22,
     "directLowPrice": null,
     "name": "Hina",
     "rarity": "SR",
@@ -338,7 +338,7 @@
     "groupId": 23494
   },
   "ST19-ST19-005 normal": {
-    "lowPrice": 0.09,
+    "lowPrice": 0.08,
     "midPrice": 0.22,
     "highPrice": 3.0,
     "marketPrice": 0.18,

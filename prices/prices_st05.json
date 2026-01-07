@@ -1,7 +1,7 @@
 {
   "ST05-ST05-001 normal": {
     "lowPrice": 1.99,
-    "midPrice": 2.72,
+    "midPrice": 2.5,
     "highPrice": 50.0,
     "marketPrice": 2.47,
     "directLowPrice": null,
@@ -27,9 +27,9 @@
   },
   "ST05-ST05-004 normal": {
     "lowPrice": 0.55,
-    "midPrice": 1.55,
+    "midPrice": 1.75,
     "highPrice": 32.0,
-    "marketPrice": 0.75,
+    "marketPrice": 0.76,
     "directLowPrice": null,
     "name": "Uta",
     "rarity": "SR",
@@ -133,7 +133,7 @@
     "lowPrice": 0.07,
     "midPrice": 0.26,
     "highPrice": 10.0,
-    "marketPrice": 0.23,
+    "marketPrice": 0.22,
     "directLowPrice": null,
     "name": "Zephyr",
     "rarity": "C",
@@ -156,10 +156,10 @@
     "groupId": 17687
   },
   "ST05-ST05-011 normal": {
-    "lowPrice": 4.58,
-    "midPrice": 7.36,
+    "lowPrice": 4.0,
+    "midPrice": 7.25,
     "highPrice": 50.0,
-    "marketPrice": 5.47,
+    "marketPrice": 5.11,
     "directLowPrice": null,
     "name": "Douglas Bullet",
     "rarity": "SR",
@@ -183,7 +183,7 @@
   },
   "ST05-ST05-014 normal": {
     "lowPrice": 2.11,
-    "midPrice": 2.85,
+    "midPrice": 2.5,
     "highPrice": 10.0,
     "marketPrice": 2.04,
     "directLowPrice": null,
@@ -315,7 +315,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 1.31,
-    "marketPrice": 0.06,
+    "marketPrice": 0.05,
     "directLowPrice": null,
     "name": "Scarlet",
     "rarity": "C",
@@ -339,7 +339,7 @@
   },
   "ST05-ST05-012 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.15,
+    "midPrice": 0.17,
     "highPrice": 1.1,
     "marketPrice": 0.07,
     "directLowPrice": null,

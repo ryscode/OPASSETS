@@ -1,9 +1,9 @@
 {
   "ST01-ST01-001 normal": {
-    "lowPrice": 19.95,
-    "midPrice": 38.96,
+    "lowPrice": 20.0,
+    "midPrice": 39.43,
     "highPrice": 150.0,
-    "marketPrice": 28.13,
+    "marketPrice": 39.63,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (001)",
     "rarity": "L",
@@ -105,7 +105,7 @@
   },
   "ST01-ST01-005 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.2,
+    "midPrice": 0.19,
     "highPrice": 2.0,
     "marketPrice": 0.09,
     "directLowPrice": null,
@@ -156,10 +156,10 @@
     "groupId": 3189
   },
   "ST01-ST01-007 normal": {
-    "lowPrice": 2.34,
-    "midPrice": 4.0,
+    "lowPrice": 2.0,
+    "midPrice": 3.75,
     "highPrice": 28.7,
-    "marketPrice": 2.89,
+    "marketPrice": 2.9,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "C",
@@ -209,7 +209,7 @@
   },
   "ST01-ST01-009 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.19,
+    "midPrice": 0.18,
     "highPrice": 2.0,
     "marketPrice": 0.14,
     "directLowPrice": null,
@@ -261,9 +261,9 @@
   },
   "ST01-ST01-011 normal": {
     "lowPrice": 0.37,
-    "midPrice": 0.83,
+    "midPrice": 0.8,
     "highPrice": 14.0,
-    "marketPrice": 0.63,
+    "marketPrice": 0.6,
     "directLowPrice": null,
     "name": "Brook",
     "rarity": "C",
@@ -286,10 +286,10 @@
     "groupId": 3189
   },
   "ST01-ST01-012 normal": {
-    "lowPrice": 6.0,
-    "midPrice": 9.62,
+    "lowPrice": 4.5,
+    "midPrice": 8.99,
     "highPrice": 20.0,
-    "marketPrice": 7.71,
+    "marketPrice": 7.8,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (012)",
     "rarity": "SR",
@@ -313,9 +313,9 @@
   },
   "ST01-ST01-013 normal": {
     "lowPrice": 0.4,
-    "midPrice": 1.51,
+    "midPrice": 1.59,
     "highPrice": 10.0,
-    "marketPrice": 1.31,
+    "marketPrice": 1.2,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
     "rarity": "SR",
@@ -390,8 +390,8 @@
     "groupId": 3189
   },
   "ST01-ST01-016 normal": {
-    "lowPrice": 0.35,
-    "midPrice": 1.03,
+    "lowPrice": 0.4,
+    "midPrice": 1.04,
     "highPrice": 15.0,
     "marketPrice": 0.73,
     "directLowPrice": null,
@@ -418,7 +418,7 @@
   "ST01-ST01-017 normal": {
     "lowPrice": 0.04,
     "midPrice": 0.25,
-    "highPrice": 1.35,
+    "highPrice": 1.36,
     "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Thousand Sunny",

@@ -1,7 +1,7 @@
 {
   "OP01-OP01-001 normal": {
-    "lowPrice": 10.0,
-    "midPrice": 13.0,
+    "lowPrice": 9.99,
+    "midPrice": 11.0,
     "highPrice": 29.97,
     "marketPrice": 8.45,
     "directLowPrice": null,
@@ -27,9 +27,9 @@
   },
   "P-P-001 normal": {
     "lowPrice": 15.0,
-    "midPrice": 35.0,
-    "highPrice": 151.0,
-    "marketPrice": 32.54,
+    "midPrice": 30.0,
+    "highPrice": 250.0,
+    "marketPrice": 32.66,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (001)",
     "rarity": "PR",
@@ -130,10 +130,10 @@
     "groupId": 23907
   },
   "OP01-OP01-013 normal": {
-    "lowPrice": 1.29,
+    "lowPrice": 1.71,
     "midPrice": 2.45,
     "highPrice": 10.0,
-    "marketPrice": 2.03,
+    "marketPrice": 2.0,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "R",
@@ -157,7 +157,7 @@
   },
   "OP01-OP01-016 normal": {
     "lowPrice": 2.0,
-    "midPrice": 3.02,
+    "midPrice": 2.75,
     "highPrice": 4.99,
     "marketPrice": 3.02,
     "directLowPrice": null,
@@ -287,7 +287,7 @@
   },
   "ST01-ST01-008 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.7,
+    "midPrice": 0.6,
     "highPrice": 3.75,
     "marketPrice": 0.43,
     "directLowPrice": null,
@@ -313,9 +313,9 @@
   },
   "ST01-ST01-011 normal": {
     "lowPrice": 0.66,
-    "midPrice": 0.8,
+    "midPrice": 0.81,
     "highPrice": 4.99,
-    "marketPrice": 0.8,
+    "marketPrice": 0.78,
     "directLowPrice": null,
     "name": "Brook",
     "rarity": "C",
@@ -365,7 +365,7 @@
   },
   "ST01-ST01-015 normal": {
     "lowPrice": 0.95,
-    "midPrice": 1.05,
+    "midPrice": 1.03,
     "highPrice": 4.99,
     "marketPrice": 0.97,
     "directLowPrice": null,
@@ -417,9 +417,9 @@
   },
   "OP01-OP01-003 normal": {
     "lowPrice": 4.99,
-    "midPrice": 14.88,
+    "midPrice": 13.99,
     "highPrice": 100.0,
-    "marketPrice": 12.3,
+    "marketPrice": 12.11,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (003)",
     "rarity": "L",
@@ -469,7 +469,7 @@
   },
   "OP01-OP01-015 normal": {
     "lowPrice": 0.24,
-    "midPrice": 1.0,
+    "midPrice": 0.99,
     "highPrice": 4.0,
     "marketPrice": 0.34,
     "directLowPrice": null,
@@ -573,7 +573,7 @@
   },
   "ST01-ST01-010 normal": {
     "lowPrice": 0.17,
-    "midPrice": 0.45,
+    "midPrice": 0.39,
     "highPrice": 5.0,
     "marketPrice": 0.33,
     "directLowPrice": null,

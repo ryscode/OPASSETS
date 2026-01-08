@@ -1,7 +1,7 @@
 {
   "OP02-OP02-093 normal": {
     "lowPrice": 0.44,
-    "midPrice": 0.76,
+    "midPrice": 0.67,
     "highPrice": 50.0,
     "marketPrice": 0.53,
     "directLowPrice": null,
@@ -27,7 +27,7 @@
   },
   "OP02-OP02-098 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.22,
+    "midPrice": 0.21,
     "highPrice": 1.53,
     "marketPrice": 0.2,
     "directLowPrice": null,
@@ -183,8 +183,8 @@
   },
   "OP03-OP03-079 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.12,
-    "highPrice": 1.34,
+    "midPrice": 0.11,
+    "highPrice": 1.84,
     "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Vergo",
@@ -235,7 +235,7 @@
   },
   "ST19-ST19-001 normal": {
     "lowPrice": 0.04,
-    "midPrice": 0.16,
+    "midPrice": 0.15,
     "highPrice": 7.5,
     "marketPrice": 0.1,
     "directLowPrice": null,
@@ -261,9 +261,9 @@
   },
   "ST19-ST19-002 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.89,
+    "midPrice": 0.83,
     "highPrice": 10.0,
-    "marketPrice": 0.52,
+    "marketPrice": 0.54,
     "directLowPrice": null,
     "name": "Sengoku",
     "rarity": "C",
@@ -286,10 +286,10 @@
     "groupId": 23494
   },
   "ST19-ST19-003 normal": {
-    "lowPrice": 0.4,
+    "lowPrice": 0.35,
     "midPrice": 1.0,
     "highPrice": 12.5,
-    "marketPrice": 0.72,
+    "marketPrice": 0.7,
     "directLowPrice": null,
     "name": "Tashigi",
     "rarity": "SR",
@@ -313,9 +313,9 @@
   },
   "ST19-ST19-004 normal": {
     "lowPrice": 0.83,
-    "midPrice": 1.27,
+    "midPrice": 1.29,
     "highPrice": 25.0,
-    "marketPrice": 1.22,
+    "marketPrice": 1.32,
     "directLowPrice": null,
     "name": "Hina",
     "rarity": "SR",
@@ -339,9 +339,9 @@
   },
   "ST19-ST19-005 normal": {
     "lowPrice": 0.08,
-    "midPrice": 0.22,
+    "midPrice": 0.21,
     "highPrice": 3.0,
-    "marketPrice": 0.18,
+    "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Monkey.D.Garp",
     "rarity": "C",

@@ -3,7 +3,7 @@
   "market": 18,
   "expansionId": 6432,
   "expansionName": "The Azure Sea's Seven",
-  "count": 3,
+  "count": 8,
   "priceGuides": [
     {
       "idProduct": 864451,
@@ -58,6 +58,66 @@
       "avg30-foil": null,
       "productName": "The Azure Sea's Seven Booster Box Case (12x Booster Box)",
       "productCategoryName": "One Piece Booster Boxes"
+    },
+    {
+      "idProduct": 865118,
+      "idCategory": 1621,
+      "avg": null,
+      "low": null,
+      "trend": null,
+      "avg1": null,
+      "avg7": null,
+      "avg30": null,
+      "productName": "Scaled Neptunian (EB04-011)",
+      "productCategoryName": "One Piece Single"
+    },
+    {
+      "idProduct": 865120,
+      "idCategory": 1621,
+      "avg": null,
+      "low": null,
+      "trend": null,
+      "avg1": null,
+      "avg7": null,
+      "avg30": null,
+      "productName": "Kikunojo (EB04-012)",
+      "productCategoryName": "One Piece Single"
+    },
+    {
+      "idProduct": 865121,
+      "idCategory": 1621,
+      "avg": null,
+      "low": null,
+      "trend": null,
+      "avg1": null,
+      "avg7": null,
+      "avg30": null,
+      "productName": "Kikunojo (EB04-012)",
+      "productCategoryName": "One Piece Single"
+    },
+    {
+      "idProduct": 865124,
+      "idCategory": 1621,
+      "avg": null,
+      "low": null,
+      "trend": null,
+      "avg1": null,
+      "avg7": null,
+      "avg30": null,
+      "productName": "Carrot (EB04-013)",
+      "productCategoryName": "One Piece Single"
+    },
+    {
+      "idProduct": 865126,
+      "idCategory": 1621,
+      "avg": null,
+      "low": null,
+      "trend": null,
+      "avg1": null,
+      "avg7": null,
+      "avg30": null,
+      "productName": "Carrot (EB04-013)",
+      "productCategoryName": "One Piece Single"
     }
   ]
 }

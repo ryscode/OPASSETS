@@ -1,9 +1,9 @@
 {
   "ST04-ST04-001 normal": {
     "lowPrice": 3.66,
-    "midPrice": 7.0,
+    "midPrice": 7.25,
     "highPrice": 10.0,
-    "marketPrice": 4.23,
+    "marketPrice": 4.51,
     "directLowPrice": null,
     "name": "Kaido (001)",
     "rarity": "L",
@@ -52,7 +52,7 @@
     "groupId": 3190
   },
   "ST04-ST04-003 normal": {
-    "lowPrice": 0.09,
+    "lowPrice": 0.1,
     "midPrice": 0.5,
     "highPrice": 12.0,
     "marketPrice": 0.34,
@@ -104,10 +104,10 @@
     "groupId": 3190
   },
   "ST04-ST04-005 normal": {
-    "lowPrice": 0.01,
+    "lowPrice": 0.1,
     "midPrice": 0.3,
     "highPrice": 20.0,
-    "marketPrice": 0.24,
+    "marketPrice": 0.21,
     "directLowPrice": null,
     "name": "Queen",
     "rarity": "C",
@@ -133,7 +133,7 @@
     "lowPrice": 0.04,
     "midPrice": 0.15,
     "highPrice": 1.35,
-    "marketPrice": 0.13,
+    "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Sasaki",
     "rarity": "C",
@@ -157,7 +157,7 @@
   },
   "ST04-ST04-007 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.12,
+    "midPrice": 0.15,
     "highPrice": 1.32,
     "marketPrice": 0.09,
     "directLowPrice": null,
@@ -235,9 +235,9 @@
   },
   "ST04-ST04-010 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.24,
+    "midPrice": 0.23,
     "highPrice": 1.32,
-    "marketPrice": 0.14,
+    "marketPrice": 0.15,
     "directLowPrice": null,
     "name": "Who's.Who",
     "rarity": "C",
@@ -263,7 +263,7 @@
     "lowPrice": 0.03,
     "midPrice": 0.2,
     "highPrice": 2.45,
-    "marketPrice": 0.1,
+    "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Black Maria",
     "rarity": "C",
@@ -313,7 +313,7 @@
   },
   "ST04-ST04-013 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.17,
+    "midPrice": 0.19,
     "highPrice": 1.35,
     "marketPrice": 0.12,
     "directLowPrice": null,
@@ -338,10 +338,10 @@
     "groupId": 3190
   },
   "ST04-ST04-014 normal": {
-    "lowPrice": 0.32,
+    "lowPrice": 0.29,
     "midPrice": 0.74,
     "highPrice": 7.65,
-    "marketPrice": 0.64,
+    "marketPrice": 0.63,
     "directLowPrice": null,
     "name": "Lead Performer \"Disaster\"",
     "rarity": "C",
@@ -367,7 +367,7 @@
     "lowPrice": 0.09,
     "midPrice": 0.25,
     "highPrice": 1.4,
-    "marketPrice": 0.21,
+    "marketPrice": 0.22,
     "directLowPrice": null,
     "name": "Brachio Bomber",
     "rarity": "C",

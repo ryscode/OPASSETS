@@ -1,7 +1,7 @@
 {
   "OP06-OP06-002 normal": {
     "lowPrice": 1.2,
-    "midPrice": 2.3,
+    "midPrice": 2.4,
     "highPrice": 4.99,
     "marketPrice": 1.97,
     "directLowPrice": null,
@@ -53,7 +53,7 @@
   },
   "OP06-OP06-005 normal": {
     "lowPrice": 0.13,
-    "midPrice": 0.5,
+    "midPrice": 0.59,
     "highPrice": 10.0,
     "marketPrice": 0.23,
     "directLowPrice": null,
@@ -79,7 +79,7 @@
   },
   "OP06-OP06-008 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.56,
+    "midPrice": 0.54,
     "highPrice": 4.99,
     "marketPrice": 0.37,
     "directLowPrice": null,
@@ -105,7 +105,7 @@
   },
   "OP06-OP06-014 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.43,
+    "midPrice": 0.4,
     "highPrice": 10.0,
     "marketPrice": 0.24,
     "directLowPrice": null,
@@ -157,7 +157,7 @@
   },
   "OP06-OP06-017 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.9,
+    "midPrice": 0.78,
     "highPrice": 4.99,
     "marketPrice": 0.33,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "OP06-OP06-026 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.66,
+    "midPrice": 0.64,
     "highPrice": 4.99,
     "marketPrice": 0.35,
     "directLowPrice": null,
@@ -211,7 +211,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.45,
     "highPrice": 19.92,
-    "marketPrice": 0.15,
+    "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Gyro",
     "rarity": "C",
@@ -235,7 +235,7 @@
   },
   "OP06-OP06-028 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.85,
+    "midPrice": 0.83,
     "highPrice": 3.52,
     "marketPrice": 0.42,
     "directLowPrice": null,
@@ -261,7 +261,7 @@
   },
   "OP06-OP06-030 normal": {
     "lowPrice": 0.33,
-    "midPrice": 0.73,
+    "midPrice": 0.69,
     "highPrice": 32.0,
     "marketPrice": 0.32,
     "directLowPrice": null,
@@ -289,7 +289,7 @@
     "lowPrice": 0.18,
     "midPrice": 0.49,
     "highPrice": 4.99,
-    "marketPrice": 0.41,
+    "marketPrice": 0.43,
     "directLowPrice": null,
     "name": "Hammond",
     "rarity": "C",
@@ -365,7 +365,7 @@
   },
   "OP06-OP06-041 normal": {
     "lowPrice": 1.0,
-    "midPrice": 3.15,
+    "midPrice": 3.22,
     "highPrice": 8.0,
     "marketPrice": 2.67,
     "directLowPrice": null,
@@ -391,8 +391,8 @@
   },
   "OP06-OP06-048 normal": {
     "lowPrice": 1.0,
-    "midPrice": 2.17,
-    "highPrice": 5.0,
+    "midPrice": 2.0,
+    "highPrice": 4.99,
     "marketPrice": 1.11,
     "directLowPrice": null,
     "name": "Zeff",
@@ -417,7 +417,7 @@
   },
   "OP06-OP06-049 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.49,
+    "midPrice": 0.47,
     "highPrice": 2.0,
     "marketPrice": 0.18,
     "directLowPrice": null,
@@ -443,7 +443,7 @@
   },
   "OP06-OP06-052 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.45,
+    "midPrice": 0.47,
     "highPrice": 8.0,
     "marketPrice": 0.33,
     "directLowPrice": null,
@@ -495,7 +495,7 @@
   },
   "OP06-OP06-055 normal": {
     "lowPrice": 0.25,
-    "midPrice": 1.45,
+    "midPrice": 1.34,
     "highPrice": 10.99,
     "marketPrice": 0.49,
     "directLowPrice": null,
@@ -521,7 +521,7 @@
   },
   "OP06-OP06-057 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.5,
+    "midPrice": 0.47,
     "highPrice": 2.0,
     "marketPrice": 0.35,
     "directLowPrice": null,
@@ -547,7 +547,7 @@
   },
   "OP06-OP06-060 normal": {
     "lowPrice": 1.9,
-    "midPrice": 2.67,
+    "midPrice": 2.6,
     "highPrice": 20.0,
     "marketPrice": 2.35,
     "directLowPrice": null,
@@ -573,7 +573,7 @@
   },
   "OP06-OP06-064 normal": {
     "lowPrice": 0.9,
-    "midPrice": 2.13,
+    "midPrice": 1.99,
     "highPrice": 20.0,
     "marketPrice": 1.14,
     "directLowPrice": null,
@@ -624,9 +624,9 @@
     "groupId": 23424
   },
   "OP06-OP06-068 normal": {
-    "lowPrice": 8.66,
-    "midPrice": 11.0,
-    "highPrice": 20.01,
+    "lowPrice": 9.12,
+    "midPrice": 11.13,
+    "highPrice": 18.0,
     "marketPrice": 5.76,
     "directLowPrice": null,
     "name": "Vinsmoke Reiju (068)",
@@ -679,7 +679,7 @@
     "lowPrice": 0.99,
     "midPrice": 2.0,
     "highPrice": 3.3,
-    "marketPrice": 1.59,
+    "marketPrice": 1.64,
     "directLowPrice": null,
     "name": "Cosette",
     "rarity": "C",
@@ -703,7 +703,7 @@
   },
   "OP06-OP06-075 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.49,
+    "midPrice": 0.48,
     "highPrice": 10.0,
     "marketPrice": 0.2,
     "directLowPrice": null,
@@ -729,7 +729,7 @@
   },
   "OP06-OP06-079 normal": {
     "lowPrice": 1.4,
-    "midPrice": 1.73,
+    "midPrice": 1.8,
     "highPrice": 36.99,
     "marketPrice": 1.65,
     "directLowPrice": null,
@@ -755,7 +755,7 @@
   },
   "OP06-OP06-082 normal": {
     "lowPrice": 1.05,
-    "midPrice": 2.25,
+    "midPrice": 2.47,
     "highPrice": 8.43,
     "marketPrice": 1.24,
     "directLowPrice": null,
@@ -833,7 +833,7 @@
   },
   "OP06-OP06-089 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.5,
+    "midPrice": 0.49,
     "highPrice": 10.0,
     "marketPrice": 0.36,
     "directLowPrice": null,
@@ -885,9 +885,9 @@
   },
   "OP06-OP06-096 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.99,
+    "midPrice": 1.0,
     "highPrice": 25.0,
-    "marketPrice": 0.4,
+    "marketPrice": 0.42,
     "directLowPrice": null,
     "name": "...Nothing...at All!!!",
     "rarity": "C",
@@ -911,7 +911,7 @@
   },
   "OP06-OP06-098 normal": {
     "lowPrice": 3.0,
-    "midPrice": 4.49,
+    "midPrice": 4.59,
     "highPrice": 20.0,
     "marketPrice": 3.46,
     "directLowPrice": null,
@@ -937,7 +937,7 @@
   },
   "OP06-OP06-099 normal": {
     "lowPrice": 0.39,
-    "midPrice": 0.61,
+    "midPrice": 0.6,
     "highPrice": 16.95,
     "marketPrice": 0.56,
     "directLowPrice": null,
@@ -963,7 +963,7 @@
   },
   "OP06-OP06-102 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.96,
+    "midPrice": 0.82,
     "highPrice": 4.53,
     "marketPrice": 0.51,
     "directLowPrice": null,
@@ -1015,7 +1015,7 @@
   },
   "OP06-OP06-105 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.8,
+    "midPrice": 0.83,
     "highPrice": 4.99,
     "marketPrice": 0.58,
     "directLowPrice": null,
@@ -1041,8 +1041,8 @@
   },
   "OP06-OP06-108 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.6,
-    "highPrice": 6.2,
+    "midPrice": 0.63,
+    "highPrice": 6.21,
     "marketPrice": 0.31,
     "directLowPrice": null,
     "name": "Tenguyama Hitetsu",
@@ -1067,7 +1067,7 @@
   },
   "OP06-OP06-111 normal": {
     "lowPrice": 3.02,
-    "midPrice": 4.99,
+    "midPrice": 5.0,
     "highPrice": 10.0,
     "marketPrice": 3.39,
     "directLowPrice": null,
@@ -1093,7 +1093,7 @@
   },
   "OP06-OP06-112 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.5,
+    "midPrice": 0.52,
     "highPrice": 2.2,
     "marketPrice": 0.3,
     "directLowPrice": null,
@@ -1119,7 +1119,7 @@
   },
   "OP06-OP06-113 normal": {
     "lowPrice": 1.0,
-    "midPrice": 2.46,
+    "midPrice": 2.84,
     "highPrice": 24.95,
     "marketPrice": 1.54,
     "directLowPrice": null,
@@ -1144,8 +1144,8 @@
     "groupId": 23424
   },
   "OP06-OP06-117 normal": {
-    "lowPrice": 1.53,
-    "midPrice": 2.0,
+    "lowPrice": 1.54,
+    "midPrice": 2.07,
     "highPrice": 5.0,
     "marketPrice": 2.4,
     "directLowPrice": null,
@@ -1197,7 +1197,7 @@
   },
   "OP06-OP06-006 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.95,
+    "midPrice": 2.03,
     "highPrice": 5.25,
     "marketPrice": 0.85,
     "directLowPrice": null,
@@ -1223,7 +1223,7 @@
   },
   "OP06-OP06-012 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.81,
+    "midPrice": 0.75,
     "highPrice": 2.98,
     "marketPrice": 0.64,
     "directLowPrice": null,
@@ -1353,8 +1353,8 @@
   },
   "OP06-OP06-031 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.64,
-    "highPrice": 4.99,
+    "midPrice": 0.65,
+    "highPrice": 5.0,
     "marketPrice": 0.62,
     "directLowPrice": null,
     "name": "Hatchan",
@@ -1379,7 +1379,7 @@
   },
   "OP06-OP06-034 normal": {
     "lowPrice": 0.77,
-    "midPrice": 1.5,
+    "midPrice": 1.8,
     "highPrice": 8.88,
     "marketPrice": 0.84,
     "directLowPrice": null,
@@ -1405,8 +1405,8 @@
   },
   "OP06-OP06-038 normal": {
     "lowPrice": 0.99,
-    "midPrice": 1.98,
-    "highPrice": 70.15,
+    "midPrice": 2.25,
+    "highPrice": 70.16,
     "marketPrice": 1.07,
     "directLowPrice": null,
     "name": "The Billion-fold World Trichiliocosm",
@@ -1457,9 +1457,9 @@
   },
   "OP06-OP06-045 normal": {
     "lowPrice": 1.0,
-    "midPrice": 2.75,
+    "midPrice": 2.86,
     "highPrice": 4.99,
-    "marketPrice": 1.11,
+    "marketPrice": 1.24,
     "directLowPrice": null,
     "name": "Kuzan",
     "rarity": "UC",
@@ -1509,7 +1509,7 @@
   },
   "OP06-OP06-054 normal": {
     "lowPrice": 0.5,
-    "midPrice": 1.75,
+    "midPrice": 1.69,
     "highPrice": 45.0,
     "marketPrice": 0.62,
     "directLowPrice": null,
@@ -1587,8 +1587,8 @@
   },
   "OP06-OP06-063 normal": {
     "lowPrice": 7.93,
-    "midPrice": 11.84,
-    "highPrice": 24.38,
+    "midPrice": 11.67,
+    "highPrice": 20.99,
     "marketPrice": 8.64,
     "directLowPrice": null,
     "name": "Vinsmoke Sora",
@@ -1613,7 +1613,7 @@
   },
   "OP06-OP06-071 normal": {
     "lowPrice": 2.91,
-    "midPrice": 3.05,
+    "midPrice": 3.1,
     "highPrice": 6.45,
     "marketPrice": 2.97,
     "directLowPrice": null,
@@ -1769,7 +1769,7 @@
   },
   "OP06-OP06-088 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.67,
+    "midPrice": 0.66,
     "highPrice": 44.0,
     "marketPrice": 0.55,
     "directLowPrice": null,
@@ -1795,7 +1795,7 @@
   },
   "OP06-OP06-091 normal": {
     "lowPrice": 2.83,
-    "midPrice": 4.0,
+    "midPrice": 3.97,
     "highPrice": 14.59,
     "marketPrice": 2.83,
     "directLowPrice": null,
@@ -1847,7 +1847,7 @@
   },
   "OP06-OP06-100 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.5,
+    "midPrice": 1.42,
     "highPrice": 7.0,
     "marketPrice": 0.95,
     "directLowPrice": null,
@@ -1873,7 +1873,7 @@
   },
   "OP06-OP06-109 normal": {
     "lowPrice": 1.5,
-    "midPrice": 2.99,
+    "midPrice": 2.93,
     "highPrice": 4.99,
     "marketPrice": 3.01,
     "directLowPrice": null,
@@ -1898,8 +1898,8 @@
     "groupId": 23424
   },
   "OP06-OP06-110 normal": {
-    "lowPrice": 1.37,
-    "midPrice": 2.81,
+    "lowPrice": 1.35,
+    "midPrice": 2.78,
     "highPrice": 15.0,
     "marketPrice": 2.84,
     "directLowPrice": null,

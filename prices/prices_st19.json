@@ -1,7 +1,7 @@
 {
   "OP02-OP02-093 normal": {
-    "lowPrice": 0.43,
-    "midPrice": 0.73,
+    "lowPrice": 0.44,
+    "midPrice": 0.67,
     "highPrice": 50.0,
     "marketPrice": 0.55,
     "directLowPrice": null,
@@ -79,7 +79,7 @@
   },
   "OP02-OP02-108 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.13,
+    "midPrice": 0.14,
     "highPrice": 1.31,
     "marketPrice": 0.13,
     "directLowPrice": null,
@@ -208,7 +208,7 @@
     "groupId": 23494
   },
   "OP03-OP03-089 normal": {
-    "lowPrice": 0.09,
+    "lowPrice": 0.1,
     "midPrice": 0.25,
     "highPrice": 5.0,
     "marketPrice": 0.23,
@@ -234,7 +234,7 @@
     "groupId": 23494
   },
   "ST19-ST19-001 normal": {
-    "lowPrice": 0.04,
+    "lowPrice": 0.05,
     "midPrice": 0.15,
     "highPrice": 7.5,
     "marketPrice": 0.1,
@@ -286,10 +286,10 @@
     "groupId": 23494
   },
   "ST19-ST19-003 normal": {
-    "lowPrice": 0.3,
+    "lowPrice": 0.2,
     "midPrice": 0.99,
     "highPrice": 12.5,
-    "marketPrice": 0.76,
+    "marketPrice": 0.69,
     "directLowPrice": null,
     "name": "Tashigi",
     "rarity": "SR",
@@ -313,9 +313,9 @@
   },
   "ST19-ST19-004 normal": {
     "lowPrice": 0.9,
-    "midPrice": 1.31,
+    "midPrice": 1.28,
     "highPrice": 25.0,
-    "marketPrice": 1.19,
+    "marketPrice": 1.17,
     "directLowPrice": null,
     "name": "Hina",
     "rarity": "SR",
@@ -338,7 +338,7 @@
     "groupId": 23494
   },
   "ST19-ST19-005 normal": {
-    "lowPrice": 0.08,
+    "lowPrice": 0.09,
     "midPrice": 0.2,
     "highPrice": 3.0,
     "marketPrice": 0.17,

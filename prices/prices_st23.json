@@ -1,7 +1,7 @@
 {
   "OP09-OP09-001 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.94,
+    "midPrice": 0.99,
     "highPrice": 5.0,
     "marketPrice": 0.67,
     "directLowPrice": null,
@@ -26,10 +26,10 @@
     "groupId": 24282
   },
   "ST23-ST23-001 normal": {
-    "lowPrice": 6.67,
-    "midPrice": 8.62,
+    "lowPrice": 6.87,
+    "midPrice": 8.63,
     "highPrice": 50.0,
-    "marketPrice": 7.47,
+    "marketPrice": 7.82,
     "directLowPrice": null,
     "name": "Uta",
     "rarity": "SR",
@@ -53,9 +53,9 @@
   },
   "ST23-ST23-002 normal": {
     "lowPrice": 0.19,
-    "midPrice": 0.92,
+    "midPrice": 0.95,
     "highPrice": 10.0,
-    "marketPrice": 0.35,
+    "marketPrice": 0.41,
     "directLowPrice": null,
     "name": "Shanks (002)",
     "rarity": "SR",
@@ -79,7 +79,7 @@
   },
   "ST23-ST23-003 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.22,
+    "midPrice": 0.21,
     "highPrice": 10.0,
     "marketPrice": 0.15,
     "directLowPrice": null,
@@ -288,7 +288,7 @@
   "OP09-OP09-015 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.1,
-    "highPrice": 1.81,
+    "highPrice": 1.29,
     "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Lucky.Roux (Reprint)",
@@ -367,7 +367,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.12,
     "highPrice": 1.33,
-    "marketPrice": 0.08,
+    "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Come On!! We'll Fight You!! (Reprint)",
     "rarity": "R",

@@ -1,7 +1,7 @@
 {
   "OP09-OP09-042 normal": {
     "lowPrice": 0.5,
-    "midPrice": 2.95,
+    "midPrice": 2.0,
     "highPrice": 4.99,
     "marketPrice": 0.95,
     "directLowPrice": null,
@@ -27,9 +27,9 @@
   },
   "ST25-ST25-003 normal": {
     "lowPrice": 0.35,
-    "midPrice": 2.19,
+    "midPrice": 2.2,
     "highPrice": 10.0,
-    "marketPrice": 1.28,
+    "marketPrice": 1.29,
     "directLowPrice": null,
     "name": "Crocodile & Mihawk",
     "rarity": "SR",
@@ -53,9 +53,9 @@
   },
   "ST25-ST25-004 normal": {
     "lowPrice": 0.28,
-    "midPrice": 0.92,
+    "midPrice": 0.91,
     "highPrice": 95.0,
-    "marketPrice": 0.63,
+    "marketPrice": 0.59,
     "directLowPrice": null,
     "name": "Buggy",
     "rarity": "SR",
@@ -105,7 +105,7 @@
   },
   "OP09-OP09-045 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.14,
+    "midPrice": 0.13,
     "highPrice": 1.32,
     "marketPrice": 0.12,
     "directLowPrice": null,
@@ -261,7 +261,7 @@
   },
   "OP09-OP09-057 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.14,
+    "midPrice": 0.13,
     "highPrice": 1.29,
     "marketPrice": 0.07,
     "directLowPrice": null,
@@ -312,7 +312,7 @@
     "groupId": 24284
   },
   "ST25-ST25-002 normal": {
-    "lowPrice": 0.05,
+    "lowPrice": 0.04,
     "midPrice": 0.17,
     "highPrice": 2.99,
     "marketPrice": 0.12,
@@ -338,9 +338,9 @@
     "groupId": 24284
   },
   "ST25-ST25-005 normal": {
-    "lowPrice": 0.04,
+    "lowPrice": 0.03,
     "midPrice": 0.15,
-    "highPrice": 1.32,
+    "highPrice": 1.31,
     "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Mohji",
@@ -367,7 +367,7 @@
     "lowPrice": 0.11,
     "midPrice": 0.34,
     "highPrice": 2.0,
-    "marketPrice": 0.3,
+    "marketPrice": 0.29,
     "directLowPrice": null,
     "name": "Buggy (Promo Reprint)",
     "rarity": "PR",

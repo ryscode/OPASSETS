@@ -1,9 +1,9 @@
 {
   "OP02-OP02-093 normal": {
-    "lowPrice": 0.44,
-    "midPrice": 0.67,
+    "lowPrice": 0.37,
+    "midPrice": 0.66,
     "highPrice": 50.0,
-    "marketPrice": 0.55,
+    "marketPrice": 0.59,
     "directLowPrice": null,
     "name": "Smoker (OP02-093)",
     "rarity": "L",
@@ -26,7 +26,7 @@
     "groupId": 23494
   },
   "OP02-OP02-098 normal": {
-    "lowPrice": 0.05,
+    "lowPrice": 0.08,
     "midPrice": 0.21,
     "highPrice": 1.53,
     "marketPrice": 0.2,
@@ -107,7 +107,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 1.29,
-    "marketPrice": 0.09,
+    "marketPrice": 0.08,
     "directLowPrice": null,
     "name": "Jaguar.D.Saul",
     "rarity": "C",
@@ -208,7 +208,7 @@
     "groupId": 23494
   },
   "OP03-OP03-089 normal": {
-    "lowPrice": 0.1,
+    "lowPrice": 0.09,
     "midPrice": 0.25,
     "highPrice": 5.0,
     "marketPrice": 0.23,
@@ -234,7 +234,7 @@
     "groupId": 23494
   },
   "ST19-ST19-001 normal": {
-    "lowPrice": 0.05,
+    "lowPrice": 0.04,
     "midPrice": 0.15,
     "highPrice": 7.5,
     "marketPrice": 0.1,
@@ -261,7 +261,7 @@
   },
   "ST19-ST19-002 normal": {
     "lowPrice": 0.29,
-    "midPrice": 0.7,
+    "midPrice": 0.85,
     "highPrice": 10.0,
     "marketPrice": 0.54,
     "directLowPrice": null,
@@ -287,9 +287,9 @@
   },
   "ST19-ST19-003 normal": {
     "lowPrice": 0.35,
-    "midPrice": 1.0,
+    "midPrice": 0.99,
     "highPrice": 12.5,
-    "marketPrice": 0.65,
+    "marketPrice": 0.7,
     "directLowPrice": null,
     "name": "Tashigi",
     "rarity": "SR",
@@ -313,9 +313,9 @@
   },
   "ST19-ST19-004 normal": {
     "lowPrice": 0.9,
-    "midPrice": 1.28,
+    "midPrice": 1.26,
     "highPrice": 25.0,
-    "marketPrice": 1.17,
+    "marketPrice": 1.15,
     "directLowPrice": null,
     "name": "Hina",
     "rarity": "SR",
@@ -338,10 +338,10 @@
     "groupId": 23494
   },
   "ST19-ST19-005 normal": {
-    "lowPrice": 0.09,
+    "lowPrice": 0.08,
     "midPrice": 0.21,
     "highPrice": 3.0,
-    "marketPrice": 0.17,
+    "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Monkey.D.Garp",
     "rarity": "C",

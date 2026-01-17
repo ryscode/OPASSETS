@@ -1,9 +1,9 @@
 {
   "OP09-OP09-081 normal": {
-    "lowPrice": 0.25,
-    "midPrice": 0.71,
+    "lowPrice": 0.3,
+    "midPrice": 0.64,
     "highPrice": 9.99,
-    "marketPrice": 0.52,
+    "marketPrice": 0.55,
     "directLowPrice": null,
     "name": "Marshall.D.Teach (OP09-081)",
     "rarity": "L",
@@ -26,10 +26,10 @@
     "groupId": 24286
   },
   "ST27-ST27-003 normal": {
-    "lowPrice": 0.3,
+    "lowPrice": 0.32,
     "midPrice": 1.0,
     "highPrice": 5.99,
-    "marketPrice": 0.42,
+    "marketPrice": 0.4,
     "directLowPrice": null,
     "name": "Kuzan",
     "rarity": "SR",
@@ -52,8 +52,8 @@
     "groupId": 24286
   },
   "ST27-ST27-005 normal": {
-    "lowPrice": 0.51,
-    "midPrice": 1.0,
+    "lowPrice": 0.52,
+    "midPrice": 1.06,
     "highPrice": 10.0,
     "marketPrice": 0.72,
     "directLowPrice": null,
@@ -159,7 +159,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.99,
-    "marketPrice": 0.08,
+    "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Van Augur (Reprint)",
     "rarity": "R",
@@ -263,7 +263,7 @@
     "lowPrice": 0.02,
     "midPrice": 0.1,
     "highPrice": 4.99,
-    "marketPrice": 0.06,
+    "marketPrice": 0.05,
     "directLowPrice": null,
     "name": "Doc Q (Reprint)",
     "rarity": "R",
@@ -339,7 +339,7 @@
   },
   "OP09-OP09-099 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.14,
+    "midPrice": 0.15,
     "highPrice": 4.99,
     "marketPrice": 0.08,
     "directLowPrice": null,

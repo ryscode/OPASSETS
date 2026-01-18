@@ -53,7 +53,7 @@
   },
   "OP07-OP07-009 normal": {
     "lowPrice": 0.08,
-    "midPrice": 0.38,
+    "midPrice": 0.36,
     "highPrice": 10.0,
     "marketPrice": 0.17,
     "directLowPrice": null,
@@ -79,7 +79,7 @@
   },
   "OP07-OP07-011 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.4,
+    "midPrice": 0.39,
     "highPrice": 4.99,
     "marketPrice": 0.16,
     "directLowPrice": null,
@@ -235,9 +235,9 @@
   },
   "OP07-OP07-027 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.42,
+    "midPrice": 0.39,
     "highPrice": 4.99,
-    "marketPrice": 0.35,
+    "marketPrice": 0.34,
     "directLowPrice": null,
     "name": "Jinbe (027)",
     "rarity": "C",
@@ -339,7 +339,7 @@
   },
   "OP07-OP07-039 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.49,
+    "midPrice": 0.47,
     "highPrice": 5.0,
     "marketPrice": 0.22,
     "directLowPrice": null,
@@ -391,7 +391,7 @@
   },
   "OP07-OP07-044 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.99,
+    "midPrice": 0.98,
     "highPrice": 10.0,
     "marketPrice": 0.46,
     "directLowPrice": null,
@@ -419,7 +419,7 @@
     "lowPrice": 0.2,
     "midPrice": 0.45,
     "highPrice": 10.0,
-    "marketPrice": 0.29,
+    "marketPrice": 0.35,
     "directLowPrice": null,
     "name": "Buckin",
     "rarity": "C",
@@ -547,7 +547,7 @@
   },
   "OP07-OP07-061 normal": {
     "lowPrice": 0.5,
-    "midPrice": 1.35,
+    "midPrice": 1.39,
     "highPrice": 15.69,
     "marketPrice": 1.0,
     "directLowPrice": null,
@@ -599,7 +599,7 @@
   },
   "OP07-OP07-063 normal": {
     "lowPrice": 0.21,
-    "midPrice": 0.52,
+    "midPrice": 0.51,
     "highPrice": 2.0,
     "marketPrice": 0.5,
     "directLowPrice": null,
@@ -677,7 +677,7 @@
   },
   "OP07-OP07-074 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.51,
+    "midPrice": 0.5,
     "highPrice": 2.02,
     "marketPrice": 0.43,
     "directLowPrice": null,
@@ -807,7 +807,7 @@
   },
   "OP07-OP07-086 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.59,
+    "midPrice": 0.58,
     "highPrice": 10.0,
     "marketPrice": 0.6,
     "directLowPrice": null,
@@ -885,7 +885,7 @@
   },
   "OP07-OP07-090 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.49,
+    "midPrice": 0.46,
     "highPrice": 4.99,
     "marketPrice": 0.34,
     "directLowPrice": null,
@@ -936,10 +936,10 @@
     "groupId": 23512
   },
   "OP07-OP07-099 normal": {
-    "lowPrice": 9.99,
-    "midPrice": 16.01,
+    "lowPrice": 12.49,
+    "midPrice": 20.01,
     "highPrice": 24.99,
-    "marketPrice": 4.91,
+    "marketPrice": 5.27,
     "directLowPrice": null,
     "name": "Usopp",
     "rarity": "C",
@@ -963,7 +963,7 @@
   },
   "OP07-OP07-100 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.87,
+    "midPrice": 0.85,
     "highPrice": 5.25,
     "marketPrice": 0.83,
     "directLowPrice": null,
@@ -989,9 +989,9 @@
   },
   "OP07-OP07-102 normal": {
     "lowPrice": 0.69,
-    "midPrice": 1.5,
+    "midPrice": 1.96,
     "highPrice": 6.99,
-    "marketPrice": 0.98,
+    "marketPrice": 1.02,
     "directLowPrice": null,
     "name": "Jinbe (102)",
     "rarity": "C",
@@ -1041,7 +1041,7 @@
   },
   "OP07-OP07-106 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.34,
+    "midPrice": 0.35,
     "highPrice": 50.0,
     "marketPrice": 0.23,
     "directLowPrice": null,
@@ -1093,7 +1093,7 @@
   },
   "OP07-OP07-110 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.03,
+    "midPrice": 1.0,
     "highPrice": 3.0,
     "marketPrice": 0.93,
     "directLowPrice": null,
@@ -1115,58 +1115,6 @@
     "finish": null,
     "cardType": "Character",
     "description": "[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: K.O. up to 1 of your opponent's Characters with a cost of 2 or less.<br>\n[Trigger] If your Leader is [Vegapunk], play this card.",
-    "groupId": 23512
-  },
-  "OP07-OP07-115 normal": {
-    "lowPrice": 10.0,
-    "midPrice": 11.99,
-    "highPrice": 12.0,
-    "marketPrice": 5.36,
-    "directLowPrice": null,
-    "name": "I Re-Quasar Helllp!!",
-    "rarity": "C",
-    "power": null,
-    "cost": "1",
-    "life": null,
-    "category": "Event",
-    "colors": "Yellow",
-    "attributes": null,
-    "types": "Scientist;Egghead",
-    "effect": null,
-    "trigger": "yes",
-    "counter": null,
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/552099_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Event",
-    "description": "[Counter] If you have 2 or less Life cards, up to 1 of your Leader or Character cards gains +3000 power during this battle.<br>\n[Trigger] Play up to 1 of your {Egghead} type Character cards with a cost of 5 or less from your trash.",
-    "groupId": 23512
-  },
-  "OP07-OP07-117 normal": {
-    "lowPrice": 2.02,
-    "midPrice": 2.7,
-    "highPrice": 2.71,
-    "marketPrice": 2.02,
-    "directLowPrice": null,
-    "name": "Egghead",
-    "rarity": "C",
-    "power": null,
-    "cost": "2",
-    "life": null,
-    "category": "Stage",
-    "colors": "Yellow",
-    "attributes": null,
-    "types": "Egghead",
-    "effect": null,
-    "trigger": "yes",
-    "counter": null,
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/552100_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Stage",
-    "description": "[End of Your Turn] If you have 3 or less Life cards, set up to 1 {Egghead} type Character with a cost of 5 or less as active.<br>\n[Trigger] Play this card.",
     "groupId": 23512
   },
   "OP07-OP07-008 normal": {
@@ -1223,7 +1171,7 @@
   },
   "OP07-OP07-014 normal": {
     "lowPrice": 0.7,
-    "midPrice": 1.04,
+    "midPrice": 1.02,
     "highPrice": 50.0,
     "marketPrice": 0.99,
     "directLowPrice": null,
@@ -1249,7 +1197,7 @@
   },
   "OP07-OP07-017 normal": {
     "lowPrice": 0.9,
-    "midPrice": 1.0,
+    "midPrice": 0.99,
     "highPrice": 2.0,
     "marketPrice": 0.97,
     "directLowPrice": null,
@@ -1301,7 +1249,7 @@
   },
   "OP07-OP07-031 normal": {
     "lowPrice": 4.42,
-    "midPrice": 5.07,
+    "midPrice": 5.04,
     "highPrice": 19.75,
     "marketPrice": 5.2,
     "directLowPrice": null,
@@ -1352,10 +1300,10 @@
     "groupId": 23512
   },
   "OP07-OP07-034 normal": {
-    "lowPrice": 10.5,
-    "midPrice": 12.6,
+    "lowPrice": 13.99,
+    "midPrice": 13.99,
     "highPrice": 13.99,
-    "marketPrice": 7.45,
+    "marketPrice": 7.69,
     "directLowPrice": null,
     "name": "Roronoa Zoro (034)",
     "rarity": "UC",
@@ -1430,8 +1378,8 @@
     "groupId": 23512
   },
   "OP07-OP07-041 normal": {
-    "lowPrice": 8.0,
-    "midPrice": 16.0,
+    "lowPrice": 8.26,
+    "midPrice": 16.5,
     "highPrice": 50.0,
     "marketPrice": 4.8,
     "directLowPrice": null,
@@ -1457,7 +1405,7 @@
   },
   "OP07-OP07-043 normal": {
     "lowPrice": 2.08,
-    "midPrice": 12.98,
+    "midPrice": 12.99,
     "highPrice": 14.99,
     "marketPrice": 2.08,
     "directLowPrice": null,
@@ -1508,7 +1456,7 @@
     "groupId": 23512
   },
   "OP07-OP07-056 normal": {
-    "lowPrice": 21.0,
+    "lowPrice": 19.0,
     "midPrice": 24.11,
     "highPrice": 28.0,
     "marketPrice": 20.19,
@@ -1693,7 +1641,7 @@
     "lowPrice": 0.65,
     "midPrice": 1.25,
     "highPrice": 100.0,
-    "marketPrice": 1.06,
+    "marketPrice": 1.08,
     "directLowPrice": null,
     "name": "Hattori",
     "rarity": "UC",
@@ -1717,7 +1665,7 @@
   },
   "OP07-OP07-092 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.7,
+    "midPrice": 0.66,
     "highPrice": 5.0,
     "marketPrice": 0.6,
     "directLowPrice": null,
@@ -1745,7 +1693,7 @@
     "lowPrice": 0.34,
     "midPrice": 0.55,
     "highPrice": 2.0,
-    "marketPrice": 0.42,
+    "marketPrice": 0.43,
     "directLowPrice": null,
     "name": "Shave",
     "rarity": "UC",
@@ -1770,7 +1718,7 @@
   "OP07-OP07-098 normal": {
     "lowPrice": 14.5,
     "midPrice": 15.0,
-    "highPrice": 19.0,
+    "highPrice": 18.88,
     "marketPrice": 7.92,
     "directLowPrice": null,
     "name": "Atlas",
@@ -1820,7 +1768,7 @@
     "groupId": 23512
   },
   "OP07-OP07-104 normal": {
-    "lowPrice": 124.0,
+    "lowPrice": 123.99,
     "midPrice": 165.0,
     "highPrice": 999.99,
     "marketPrice": 53.61,

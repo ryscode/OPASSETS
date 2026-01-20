@@ -1,7 +1,7 @@
 {
   "OP01-OP01-024 normal": {
     "lowPrice": 58.0,
-    "midPrice": 75.0,
+    "midPrice": 68.79,
     "highPrice": 300.0,
     "marketPrice": 65.23,
     "directLowPrice": null,
@@ -26,8 +26,8 @@
     "groupId": 23496
   },
   "ST01-ST01-006 normal": {
-    "lowPrice": 5.99,
-    "midPrice": 7.26,
+    "lowPrice": 0.66,
+    "midPrice": 6.0,
     "highPrice": 10.0,
     "marketPrice": 3.04,
     "directLowPrice": null,
@@ -53,9 +53,9 @@
   },
   "OP02-OP02-004 normal": {
     "lowPrice": 20.26,
-    "midPrice": 24.32,
+    "midPrice": 24.5,
     "highPrice": 50.0,
-    "marketPrice": 22.31,
+    "marketPrice": 22.17,
     "directLowPrice": null,
     "name": "Edward.Newgate (OP02-004) (Alternate Art)",
     "rarity": "SR",
@@ -78,7 +78,7 @@
     "groupId": 23496
   },
   "OP02-OP02-018 normal": {
-    "lowPrice": 0.07,
+    "lowPrice": 0.08,
     "midPrice": 0.25,
     "highPrice": 10.0,
     "marketPrice": 0.19,
@@ -105,9 +105,9 @@
   },
   "OP02-OP02-018 parallel": {
     "lowPrice": 4.46,
-    "midPrice": 10.0,
-    "highPrice": 110.75,
-    "marketPrice": 4.56,
+    "midPrice": 10.24,
+    "highPrice": 159.99,
+    "marketPrice": 5.07,
     "directLowPrice": null,
     "name": "Marco (Alternate Art)",
     "rarity": "R",
@@ -157,7 +157,7 @@
   },
   "OP03-OP03-003 parallel": {
     "lowPrice": 4.99,
-    "midPrice": 7.25,
+    "midPrice": 7.55,
     "highPrice": 30.0,
     "marketPrice": 6.1,
     "directLowPrice": null,
@@ -182,10 +182,10 @@
     "groupId": 23496
   },
   "OP01-OP01-006 normal": {
-    "lowPrice": 14.95,
-    "midPrice": 19.99,
-    "highPrice": 74.95,
-    "marketPrice": 13.93,
+    "lowPrice": 15.0,
+    "midPrice": 20.0,
+    "highPrice": 70.0,
+    "marketPrice": 14.23,
     "directLowPrice": null,
     "name": "Otama (Alternate Art)",
     "rarity": "UC",
@@ -208,7 +208,7 @@
     "groupId": 23496
   },
   "OP05-OP05-006 normal": {
-    "lowPrice": 19.4,
+    "lowPrice": 19.69,
     "midPrice": 24.75,
     "highPrice": 79.99,
     "marketPrice": 20.07,
@@ -235,7 +235,7 @@
   },
   "OP05-OP05-007 normal": {
     "lowPrice": 30.7,
-    "midPrice": 40.49,
+    "midPrice": 40.0,
     "highPrice": 99.99,
     "marketPrice": 18.41,
     "directLowPrice": null,
@@ -286,8 +286,8 @@
     "groupId": 23496
   },
   "OP05-OP05-015 parallel": {
-    "lowPrice": 27.45,
-    "midPrice": 38.49,
+    "lowPrice": 34.5,
+    "midPrice": 45.19,
     "highPrice": 75.99,
     "marketPrice": 27.72,
     "directLowPrice": null,
@@ -313,9 +313,9 @@
   },
   "OP01-OP01-120 normal": {
     "lowPrice": 19.49,
-    "midPrice": 35.5,
+    "midPrice": 34.0,
     "highPrice": 379.19,
-    "marketPrice": 21.51,
+    "marketPrice": 21.58,
     "directLowPrice": null,
     "name": "Shanks (OP01-120) (Alternate Art)",
     "rarity": "SEC",
@@ -339,7 +339,7 @@
   },
   "P-P-014 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.25,
+    "midPrice": 0.26,
     "highPrice": 10.0,
     "marketPrice": 0.26,
     "directLowPrice": null,
@@ -364,10 +364,10 @@
     "groupId": 23496
   },
   "OP04-OP04-056 normal": {
-    "lowPrice": 79.96,
-    "midPrice": 94.98,
-    "highPrice": 130.09,
-    "marketPrice": 87.78,
+    "lowPrice": 87.46,
+    "midPrice": 94.99,
+    "highPrice": 129.54,
+    "marketPrice": 87.46,
     "directLowPrice": null,
     "name": "Gum-Gum Red Roc (Alternate Art)",
     "rarity": "R",
@@ -390,10 +390,10 @@
     "groupId": 23496
   },
   "OP04-OP04-056 parallel": {
-    "lowPrice": 5.5,
-    "midPrice": 9.45,
+    "lowPrice": 5.67,
+    "midPrice": 9.5,
     "highPrice": 25.0,
-    "marketPrice": 7.22,
+    "marketPrice": 7.5,
     "directLowPrice": null,
     "name": "Gum-Gum Red Roc (Jolly Roger Foil)",
     "rarity": "R",
@@ -417,9 +417,9 @@
   },
   "OP03-OP03-056 normal": {
     "lowPrice": 0.36,
-    "midPrice": 0.8,
+    "midPrice": 0.86,
     "highPrice": 25.0,
-    "marketPrice": 0.63,
+    "marketPrice": 0.62,
     "directLowPrice": null,
     "name": "Sanji's Pilaf (Jolly Roger Foil)",
     "rarity": "UC",
@@ -443,9 +443,9 @@
   },
   "P-P-053 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.89,
+    "midPrice": 0.93,
     "highPrice": 25.0,
-    "marketPrice": 0.91,
+    "marketPrice": 0.89,
     "directLowPrice": null,
     "name": "Nami (P-053) (Jolly Roger Foil)",
     "rarity": "PR",
@@ -469,9 +469,9 @@
   },
   "P-P-055 normal": {
     "lowPrice": 0.35,
-    "midPrice": 1.65,
+    "midPrice": 1.87,
     "highPrice": 25.0,
-    "marketPrice": 1.53,
+    "marketPrice": 1.52,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (P-055) (Jolly Roger Foil)",
     "rarity": "PR",
@@ -495,9 +495,9 @@
   },
   "OP04-OP04-100 normal": {
     "lowPrice": 0.71,
-    "midPrice": 1.85,
+    "midPrice": 1.84,
     "highPrice": 10.0,
-    "marketPrice": 1.65,
+    "marketPrice": 1.67,
     "directLowPrice": null,
     "name": "Capone\"Gang\"Bege (OP04-100) (Jolly Roger Foil)",
     "rarity": "R",
@@ -522,7 +522,7 @@
   "OP04-OP04-100 parallel": {
     "lowPrice": 9.5,
     "midPrice": 11.99,
-    "highPrice": 110.75,
+    "highPrice": 210.75,
     "marketPrice": 10.28,
     "directLowPrice": null,
     "name": "Capone\"Gang\"Bege (OP04-100) (Alternate Art)",
@@ -599,9 +599,9 @@
   },
   "OP05-OP05-043 normal": {
     "lowPrice": 9.81,
-    "midPrice": 14.8,
+    "midPrice": 16.85,
     "highPrice": 49.99,
-    "marketPrice": 10.62,
+    "marketPrice": 10.64,
     "directLowPrice": null,
     "name": "Ulti (Alternate Art)",
     "rarity": "SR",
@@ -625,7 +625,7 @@
   },
   "OP06-OP06-106 normal": {
     "lowPrice": 148.5,
-    "midPrice": 177.5,
+    "midPrice": 185.0,
     "highPrice": 250.0,
     "marketPrice": 135.2,
     "directLowPrice": null,
@@ -676,10 +676,10 @@
     "groupId": 23496
   },
   "OP01-OP01-070 normal": {
-    "lowPrice": 22.56,
-    "midPrice": 30.24,
+    "lowPrice": 22.49,
+    "midPrice": 30.0,
     "highPrice": 50.0,
-    "marketPrice": 21.05,
+    "marketPrice": 20.82,
     "directLowPrice": null,
     "name": "Dracule Mihawk (OP01-070) (Alternate Art)",
     "rarity": "SR",
@@ -757,7 +757,7 @@
     "lowPrice": 0.03,
     "midPrice": 0.24,
     "highPrice": 5.0,
-    "marketPrice": 0.21,
+    "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "Bartolomeo (P-029) (Jolly Roger Foil)",
     "rarity": "PR",
@@ -783,7 +783,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.6,
     "highPrice": 25.0,
-    "marketPrice": 0.51,
+    "marketPrice": 0.56,
     "directLowPrice": null,
     "name": "Izo (OP01-033) (Jolly Roger Foil)",
     "rarity": "UC",
@@ -832,10 +832,10 @@
     "groupId": 23496
   },
   "OP01-OP01-041 parallel": {
-    "lowPrice": 10.46,
-    "midPrice": 12.99,
+    "lowPrice": 9.0,
+    "midPrice": 13.35,
     "highPrice": 25.0,
-    "marketPrice": 8.86,
+    "marketPrice": 9.37,
     "directLowPrice": null,
     "name": "Kouzuki Momonosuke (Alternate Art)",
     "rarity": "R",
@@ -861,7 +861,7 @@
     "lowPrice": 0.2,
     "midPrice": 0.52,
     "highPrice": 10.0,
-    "marketPrice": 0.44,
+    "marketPrice": 0.45,
     "directLowPrice": null,
     "name": "One-Legged Toy Soldier (Jolly Roger Foil)",
     "rarity": "UC",
@@ -884,7 +884,7 @@
     "groupId": 23496
   },
   "OP06-OP06-086 normal": {
-    "lowPrice": 26.73,
+    "lowPrice": 25.77,
     "midPrice": 35.0,
     "highPrice": 89.99,
     "marketPrice": 19.05,
@@ -913,7 +913,7 @@
     "lowPrice": 3.78,
     "midPrice": 5.03,
     "highPrice": 23.57,
-    "marketPrice": 4.42,
+    "marketPrice": 4.5,
     "directLowPrice": null,
     "name": "Charlotte Cracker (Alternate Art)",
     "rarity": "SR",
@@ -965,7 +965,7 @@
     "lowPrice": 4.02,
     "midPrice": 9.99,
     "highPrice": 15.0,
-    "marketPrice": 6.31,
+    "marketPrice": 6.25,
     "directLowPrice": null,
     "name": "Charlotte Smoothie (Alternate Art)",
     "rarity": "R",
@@ -988,10 +988,10 @@
     "groupId": 23496
   },
   "OP03-OP03-113 normal": {
-    "lowPrice": 3.22,
-    "midPrice": 5.44,
+    "lowPrice": 3.2,
+    "midPrice": 5.2,
     "highPrice": 49.99,
-    "marketPrice": 3.14,
+    "marketPrice": 3.17,
     "directLowPrice": null,
     "name": "Charlotte Perospero (Alternate Art)",
     "rarity": "SR",
@@ -1014,10 +1014,10 @@
     "groupId": 23496
   },
   "OP03-OP03-057 normal": {
-    "lowPrice": 22.97,
-    "midPrice": 34.96,
+    "lowPrice": 27.0,
+    "midPrice": 34.92,
     "highPrice": 99.99,
-    "marketPrice": 22.97,
+    "marketPrice": 23.32,
     "directLowPrice": null,
     "name": "Three Thousand Worlds (Alternate Art)",
     "rarity": "R",
@@ -1043,7 +1043,7 @@
     "lowPrice": 0.08,
     "midPrice": 0.25,
     "highPrice": 10.0,
-    "marketPrice": 0.22,
+    "marketPrice": 0.21,
     "directLowPrice": null,
     "name": "Three Thousand Worlds (Jolly Roger Foil)",
     "rarity": "R",
@@ -1119,9 +1119,9 @@
   },
   "OP04-OP04-089 normal": {
     "lowPrice": 8.99,
-    "midPrice": 14.84,
+    "midPrice": 14.92,
     "highPrice": 99.99,
-    "marketPrice": 9.26,
+    "marketPrice": 9.36,
     "directLowPrice": null,
     "name": "Bartolomeo (OP04-089) (Alternate Art)",
     "rarity": "R",
@@ -1145,9 +1145,9 @@
   },
   "OP04-OP04-089 parallel": {
     "lowPrice": 0.15,
-    "midPrice": 0.34,
+    "midPrice": 0.35,
     "highPrice": 10.0,
-    "marketPrice": 0.31,
+    "marketPrice": 0.32,
     "directLowPrice": null,
     "name": "Bartolomeo (OP04-089) (Jolly Roger Foil)",
     "rarity": "R",
@@ -1170,8 +1170,8 @@
     "groupId": 23496
   },
   "OP05-OP05-082 normal": {
-    "lowPrice": 44.0,
-    "midPrice": 50.0,
+    "lowPrice": 42.5,
+    "midPrice": 49.98,
     "highPrice": 99.98,
     "marketPrice": 54.73,
     "directLowPrice": null,
@@ -1199,7 +1199,7 @@
     "lowPrice": 1.0,
     "midPrice": 2.8,
     "highPrice": 25.0,
-    "marketPrice": 2.4,
+    "marketPrice": 2.37,
     "directLowPrice": null,
     "name": "Shirahoshi (OP05-082) (Jolly Roger Foil)",
     "rarity": "R",
@@ -1223,9 +1223,9 @@
   },
   "PRB01-PRB01-001 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.37,
+    "midPrice": 0.4,
     "highPrice": 10.0,
-    "marketPrice": 0.42,
+    "marketPrice": 0.4,
     "directLowPrice": null,
     "name": "Sanji (PRB01-001)",
     "rarity": "L",
@@ -1249,7 +1249,7 @@
   },
   "PRB01-PRB01-001 parallel": {
     "lowPrice": 169.99,
-    "midPrice": 206.25,
+    "midPrice": 199.99,
     "highPrice": 399.99,
     "marketPrice": 119.05,
     "directLowPrice": null,
@@ -1275,7 +1275,7 @@
   },
   "OP02-OP02-099 normal": {
     "lowPrice": 9.83,
-    "midPrice": 12.96,
+    "midPrice": 11.99,
     "highPrice": 29.99,
     "marketPrice": 11.11,
     "directLowPrice": null,
@@ -1301,9 +1301,9 @@
   },
   "OP02-OP02-114 normal": {
     "lowPrice": 4.1,
-    "midPrice": 7.19,
+    "midPrice": 7.99,
     "highPrice": 95.0,
-    "marketPrice": 4.86,
+    "marketPrice": 4.94,
     "directLowPrice": null,
     "name": "Borsalino (Alternate Art)",
     "rarity": "SR",
@@ -1355,7 +1355,7 @@
     "lowPrice": 1.8,
     "midPrice": 3.38,
     "highPrice": 48.0,
-    "marketPrice": 2.41,
+    "marketPrice": 2.45,
     "directLowPrice": null,
     "name": "Brannew (Full Art)",
     "rarity": "R",
@@ -1378,10 +1378,10 @@
     "groupId": 23496
   },
   "OP02-OP02-096 normal": {
-    "lowPrice": 8.99,
-    "midPrice": 14.5,
+    "lowPrice": 10.0,
+    "midPrice": 15.5,
     "highPrice": 79.99,
-    "marketPrice": 10.11,
+    "marketPrice": 10.48,
     "directLowPrice": null,
     "name": "Kuzan (OP02-096) (Alternate Art)",
     "rarity": "SR",
@@ -1407,7 +1407,7 @@
     "lowPrice": 0.5,
     "midPrice": 1.0,
     "highPrice": 15.99,
-    "marketPrice": 0.86,
+    "marketPrice": 0.85,
     "directLowPrice": null,
     "name": "Kuzan (OP02-096) (Reprint)",
     "rarity": "SR",
@@ -1457,7 +1457,7 @@
   },
   "OP05-OP05-105 parallel": {
     "lowPrice": 0.15,
-    "midPrice": 0.4,
+    "midPrice": 0.39,
     "highPrice": 10.0,
     "marketPrice": 0.35,
     "directLowPrice": null,
@@ -1534,8 +1534,8 @@
     "groupId": 23496
   },
   "OP04-OP04-112 normal": {
-    "lowPrice": 100.0,
-    "midPrice": 127.5,
+    "lowPrice": 109.99,
+    "midPrice": 129.99,
     "highPrice": 222.0,
     "marketPrice": 89.88,
     "directLowPrice": null,
@@ -1563,7 +1563,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.25,
     "highPrice": 10.0,
-    "marketPrice": 0.24,
+    "marketPrice": 0.22,
     "directLowPrice": null,
     "name": "Upper Yard (Jolly Roger Foil)",
     "rarity": "UC",
@@ -1613,9 +1613,9 @@
   },
   "OP01-OP01-121 normal": {
     "lowPrice": 34.25,
-    "midPrice": 49.78,
+    "midPrice": 50.0,
     "highPrice": 99.99,
-    "marketPrice": 34.66,
+    "marketPrice": 34.74,
     "directLowPrice": null,
     "name": "Yamato (OP01-121) (Alternate Art)",
     "rarity": "SEC",
@@ -1638,10 +1638,10 @@
     "groupId": 23496
   },
   "OP01-OP01-051 normal": {
-    "lowPrice": 7.2,
-    "midPrice": 14.95,
+    "lowPrice": 7.35,
+    "midPrice": 15.0,
     "highPrice": 56.25,
-    "marketPrice": 9.02,
+    "marketPrice": 9.01,
     "directLowPrice": null,
     "name": "Eustass\"Captain\"Kid (OP01-051) (Alternate Art)",
     "rarity": "SR",
@@ -1664,10 +1664,10 @@
     "groupId": 23496
   },
   "OP01-OP01-047 normal": {
-    "lowPrice": 23.5,
-    "midPrice": 29.99,
+    "lowPrice": 18.63,
+    "midPrice": 28.3,
     "highPrice": 59.99,
-    "marketPrice": 19.43,
+    "marketPrice": 19.95,
     "directLowPrice": null,
     "name": "Trafalgar Law (OP01-047) (Alternate Art)",
     "rarity": "SR",
@@ -1716,8 +1716,8 @@
     "groupId": 23496
   },
   "OP03-OP03-123 normal": {
-    "lowPrice": 69.0,
-    "midPrice": 99.99,
+    "lowPrice": 68.99,
+    "midPrice": 96.46,
     "highPrice": 149.99,
     "marketPrice": 62.82,
     "directLowPrice": null,
@@ -1743,9 +1743,9 @@
   },
   "ST03-ST03-013 normal": {
     "lowPrice": 0.03,
-    "midPrice": 1.9,
+    "midPrice": 2.39,
     "highPrice": 10.0,
-    "marketPrice": 1.9,
+    "marketPrice": 1.78,
     "directLowPrice": null,
     "name": "Boa Hancock (ST03-013) (Jolly Roger Foil)",
     "rarity": "C",
@@ -1768,10 +1768,10 @@
     "groupId": 23496
   },
   "OP04-OP04-031 normal": {
-    "lowPrice": 22.0,
-    "midPrice": 28.94,
+    "lowPrice": 19.0,
+    "midPrice": 28.38,
     "highPrice": 60.99,
-    "marketPrice": 25.25,
+    "marketPrice": 25.17,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo (Alternate Art)",
     "rarity": "SR",
@@ -1794,8 +1794,8 @@
     "groupId": 23496
   },
   "OP05-OP05-034 normal": {
-    "lowPrice": 4.0,
-    "midPrice": 5.34,
+    "lowPrice": 3.99,
+    "midPrice": 5.92,
     "highPrice": 18.99,
     "marketPrice": 4.35,
     "directLowPrice": null,
@@ -1849,7 +1849,7 @@
     "lowPrice": 28.44,
     "midPrice": 40.0,
     "highPrice": 60.0,
-    "marketPrice": 17.35,
+    "marketPrice": 17.76,
     "directLowPrice": null,
     "name": "Eustass\"Captain\"Kid (OP05-074) (Alternate Art)",
     "rarity": "SR",
@@ -1873,9 +1873,9 @@
   },
   "OP05-OP05-119 normal": {
     "lowPrice": 215.0,
-    "midPrice": 397.95,
+    "midPrice": 390.0,
     "highPrice": 1500.0,
-    "marketPrice": 233.3,
+    "marketPrice": 238.1,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (OP05-119) (Alternate Art)",
     "rarity": "SEC",
@@ -1898,8 +1898,8 @@
     "groupId": 23496
   },
   "ST04-ST04-003 normal": {
-    "lowPrice": 17.28,
-    "midPrice": 28.5,
+    "lowPrice": 15.5,
+    "midPrice": 27.0,
     "highPrice": 50.0,
     "marketPrice": 14.48,
     "directLowPrice": null,
@@ -1925,7 +1925,7 @@
   },
   "OP02-OP02-089 normal": {
     "lowPrice": 15.0,
-    "midPrice": 19.98,
+    "midPrice": 19.79,
     "highPrice": 50.0,
     "marketPrice": 17.58,
     "directLowPrice": null,
@@ -1951,7 +1951,7 @@
   },
   "OP02-OP02-089 parallel": {
     "lowPrice": 0.49,
-    "midPrice": 1.5,
+    "midPrice": 1.49,
     "highPrice": 50.0,
     "marketPrice": 1.12,
     "directLowPrice": null,
@@ -2003,7 +2003,7 @@
   },
   "OP06-OP06-065 parallel": {
     "lowPrice": 2.49,
-    "midPrice": 4.46,
+    "midPrice": 4.36,
     "highPrice": 24.99,
     "marketPrice": 2.68,
     "directLowPrice": null,
@@ -2031,7 +2031,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.24,
     "highPrice": 10.0,
-    "marketPrice": 0.19,
+    "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "Vinsmoke Yonji (OP06-067) (Jolly Roger Foil)",
     "rarity": "R",
@@ -2055,9 +2055,9 @@
   },
   "OP06-OP06-067 parallel": {
     "lowPrice": 4.0,
-    "midPrice": 5.63,
+    "midPrice": 5.65,
     "highPrice": 50.0,
-    "marketPrice": 5.08,
+    "marketPrice": 5.14,
     "directLowPrice": null,
     "name": "Vinsmoke Yonji (OP06-067) (Alternate Art)",
     "rarity": "R",
@@ -2107,7 +2107,7 @@
   },
   "OP06-OP06-069 normal": {
     "lowPrice": 59.99,
-    "midPrice": 65.85,
+    "midPrice": 65.0,
     "highPrice": 99.97,
     "marketPrice": 38.96,
     "directLowPrice": null,
@@ -2213,7 +2213,7 @@
     "lowPrice": 1500.0,
     "midPrice": 1500.0,
     "highPrice": 1669.0,
-    "marketPrice": 364.01,
+    "marketPrice": 386.93,
     "directLowPrice": null,
     "name": "Sogeking (Manga)",
     "rarity": "SEC",
@@ -2288,8 +2288,8 @@
     "groupId": 23496
   },
   "EB01-EB01-006 normal": {
-    "lowPrice": 4500.0,
-    "midPrice": 9534.5,
+    "lowPrice": 3500.0,
+    "midPrice": 9069.0,
     "highPrice": 50000.99,
     "marketPrice": 977.47,
     "directLowPrice": null,
@@ -2341,7 +2341,7 @@
   },
   "OP06-OP06-118 normal": {
     "lowPrice": 3000.0,
-    "midPrice": 3200.0,
+    "midPrice": 3100.0,
     "highPrice": 16540.0,
     "marketPrice": 770.53,
     "directLowPrice": null,
@@ -2367,7 +2367,7 @@
   },
   "OP01-OP01-016 normal": {
     "lowPrice": 2200.0,
-    "midPrice": 3200.0,
+    "midPrice": 3499.98,
     "highPrice": 5000.0,
     "marketPrice": 1538.49,
     "directLowPrice": null,
@@ -2393,9 +2393,9 @@
   },
   "OP01-OP01-006 parallel": {
     "lowPrice": 5.95,
-    "midPrice": 10.5,
+    "midPrice": 10.49,
     "highPrice": 30.0,
-    "marketPrice": 9.94,
+    "marketPrice": 9.79,
     "directLowPrice": null,
     "name": "Otama (Full Art)",
     "rarity": "UC",
@@ -2421,7 +2421,7 @@
     "lowPrice": 0.7,
     "midPrice": 1.69,
     "highPrice": 25.0,
-    "marketPrice": 1.53,
+    "marketPrice": 1.49,
     "directLowPrice": null,
     "name": "Radical Beam!! (Jolly Roger Foil)",
     "rarity": "UC",
@@ -2473,7 +2473,7 @@
     "lowPrice": 6.99,
     "midPrice": 9.18,
     "highPrice": 45.0,
-    "marketPrice": 7.45,
+    "marketPrice": 7.48,
     "directLowPrice": null,
     "name": "Izo (OP01-033) (Alternate Art)",
     "rarity": "UC",
@@ -2497,7 +2497,7 @@
   },
   "OP01-OP01-041 alt2": {
     "lowPrice": 0.99,
-    "midPrice": 2.18,
+    "midPrice": 2.19,
     "highPrice": 9.99,
     "marketPrice": 2.19,
     "directLowPrice": null,
@@ -2522,7 +2522,7 @@
     "groupId": 23496
   },
   "OP01-OP01-052 normal": {
-    "lowPrice": 0.04,
+    "lowPrice": 0.05,
     "midPrice": 0.2,
     "highPrice": 5.0,
     "marketPrice": 0.19,
@@ -2549,7 +2549,7 @@
   },
   "OP01-OP01-052 parallel": {
     "lowPrice": 1.83,
-    "midPrice": 2.99,
+    "midPrice": 2.95,
     "highPrice": 19.99,
     "marketPrice": 2.05,
     "directLowPrice": null,
@@ -2575,9 +2575,9 @@
   },
   "OP02-OP02-015 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.4,
+    "midPrice": 0.41,
     "highPrice": 399.0,
-    "marketPrice": 0.46,
+    "marketPrice": 0.48,
     "directLowPrice": null,
     "name": "Makino (Jolly Roger Foil)",
     "rarity": "UC",
@@ -2601,9 +2601,9 @@
   },
   "OP02-OP02-015 parallel": {
     "lowPrice": 5.0,
-    "midPrice": 9.5,
+    "midPrice": 9.99,
     "highPrice": 20.0,
-    "marketPrice": 7.99,
+    "marketPrice": 8.07,
     "directLowPrice": null,
     "name": "Makino (Full Art)",
     "rarity": "UC",
@@ -2626,10 +2626,10 @@
     "groupId": 23496
   },
   "OP02-OP02-018 alt2": {
-    "lowPrice": 7.34,
+    "lowPrice": 7.56,
     "midPrice": 10.0,
     "highPrice": 24.99,
-    "marketPrice": 6.99,
+    "marketPrice": 7.2,
     "directLowPrice": null,
     "name": "Marco (Full Art)",
     "rarity": "R",
@@ -2678,8 +2678,8 @@
     "groupId": 23496
   },
   "OP02-OP02-106 parallel": {
-    "lowPrice": 2.95,
-    "midPrice": 4.81,
+    "lowPrice": 2.98,
+    "midPrice": 4.9,
     "highPrice": 40.0,
     "marketPrice": 3.03,
     "directLowPrice": null,
@@ -2731,7 +2731,7 @@
   },
   "OP02-OP02-121 normal": {
     "lowPrice": 14.5,
-    "midPrice": 24.0,
+    "midPrice": 19.98,
     "highPrice": 59.99,
     "marketPrice": 15.63,
     "directLowPrice": null,
@@ -2757,7 +2757,7 @@
   },
   "OP03-OP03-003 alt2": {
     "lowPrice": 2.99,
-    "midPrice": 4.53,
+    "midPrice": 4.65,
     "highPrice": 15.0,
     "marketPrice": 3.76,
     "directLowPrice": null,
@@ -2782,10 +2782,10 @@
     "groupId": 23496
   },
   "OP03-OP03-055 normal": {
-    "lowPrice": 0.03,
+    "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 5.0,
-    "marketPrice": 0.15,
+    "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Gum-Gum Giant Gavel (Jolly Roger Foil)",
     "rarity": "C",
@@ -2809,9 +2809,9 @@
   },
   "OP03-OP03-056 parallel": {
     "lowPrice": 19.99,
-    "midPrice": 28.57,
+    "midPrice": 25.0,
     "highPrice": 120.0,
-    "marketPrice": 17.16,
+    "marketPrice": 16.82,
     "directLowPrice": null,
     "name": "Sanji's Pilaf (Alternate Art)",
     "rarity": "UC",
@@ -2834,7 +2834,7 @@
     "groupId": 23496
   },
   "OP03-OP03-060 normal": {
-    "lowPrice": 0.05,
+    "lowPrice": 0.06,
     "midPrice": 0.2,
     "highPrice": 10.0,
     "marketPrice": 0.2,
@@ -2860,10 +2860,10 @@
     "groupId": 23496
   },
   "OP03-OP03-060 parallel": {
-    "lowPrice": 1.38,
+    "lowPrice": 1.5,
     "midPrice": 3.99,
     "highPrice": 40.0,
-    "marketPrice": 1.96,
+    "marketPrice": 1.94,
     "directLowPrice": null,
     "name": "Kalifa (Full Art)",
     "rarity": "UC",
@@ -2889,7 +2889,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.21,
     "highPrice": 5.0,
-    "marketPrice": 0.19,
+    "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Vergo (Jolly Roger Foil)",
     "rarity": "UC",
@@ -2913,9 +2913,9 @@
   },
   "OP03-OP03-079 parallel": {
     "lowPrice": 1.5,
-    "midPrice": 3.47,
+    "midPrice": 3.53,
     "highPrice": 50.0,
-    "marketPrice": 3.0,
+    "marketPrice": 3.05,
     "directLowPrice": null,
     "name": "Vergo (Full Art)",
     "rarity": "UC",
@@ -2965,7 +2965,7 @@
   },
   "OP03-OP03-094 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.18,
+    "midPrice": 0.19,
     "highPrice": 5.0,
     "marketPrice": 0.17,
     "directLowPrice": null,
@@ -2991,9 +2991,9 @@
   },
   "OP03-OP03-110 alt2": {
     "lowPrice": 2.44,
-    "midPrice": 5.93,
+    "midPrice": 6.05,
     "highPrice": 15.0,
-    "marketPrice": 3.63,
+    "marketPrice": 3.67,
     "directLowPrice": null,
     "name": "Charlotte Smoothie (Full Art)",
     "rarity": "R",
@@ -3017,7 +3017,7 @@
   },
   "OP03-OP03-121 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.15,
+    "midPrice": 0.16,
     "highPrice": 5.0,
     "marketPrice": 0.15,
     "directLowPrice": null,
@@ -3043,9 +3043,9 @@
   },
   "OP04-OP04-029 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.15,
+    "midPrice": 0.16,
     "highPrice": 5.0,
-    "marketPrice": 0.1,
+    "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Dellinger (Jolly Roger Foil)",
     "rarity": "C",
@@ -3069,7 +3069,7 @@
   },
   "OP04-OP04-029 parallel": {
     "lowPrice": 1.39,
-    "midPrice": 3.51,
+    "midPrice": 3.23,
     "highPrice": 20.98,
     "marketPrice": 1.61,
     "directLowPrice": null,
@@ -3121,9 +3121,9 @@
   },
   "OP04-OP04-089 alt2": {
     "lowPrice": 3.5,
-    "midPrice": 6.39,
+    "midPrice": 6.18,
     "highPrice": 23.0,
-    "marketPrice": 4.13,
+    "marketPrice": 4.18,
     "directLowPrice": null,
     "name": "Bartolomeo (OP04-089) (Full Art)",
     "rarity": "R",
@@ -3147,7 +3147,7 @@
   },
   "OP04-OP04-095 normal": {
     "lowPrice": 0.04,
-    "midPrice": 0.18,
+    "midPrice": 0.19,
     "highPrice": 5.0,
     "marketPrice": 0.18,
     "directLowPrice": null,
@@ -3173,8 +3173,8 @@
   },
   "OP04-OP04-100 alt2": {
     "lowPrice": 4.0,
-    "midPrice": 9.73,
-    "highPrice": 50.0,
+    "midPrice": 9.6,
+    "highPrice": 500.0,
     "marketPrice": 5.08,
     "directLowPrice": null,
     "name": "Capone\"Gang\"Bege (OP04-100) (Full Art)",
@@ -3199,7 +3199,7 @@
   },
   "OP05-OP05-010 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.49,
+    "midPrice": 0.5,
     "highPrice": 25.0,
     "marketPrice": 0.55,
     "directLowPrice": null,
@@ -3225,9 +3225,9 @@
   },
   "OP05-OP05-010 parallel": {
     "lowPrice": 25.0,
-    "midPrice": 32.59,
+    "midPrice": 34.96,
     "highPrice": 96.96,
-    "marketPrice": 26.55,
+    "marketPrice": 27.68,
     "directLowPrice": null,
     "name": "Nico Robin (Full Art)",
     "rarity": "UC",
@@ -3250,8 +3250,8 @@
     "groupId": 23496
   },
   "OP05-OP05-015 alt2": {
-    "lowPrice": 15.78,
-    "midPrice": 18.98,
+    "lowPrice": 14.0,
+    "midPrice": 18.97,
     "highPrice": 38.0,
     "marketPrice": 13.09,
     "directLowPrice": null,
@@ -3276,10 +3276,10 @@
     "groupId": 23496
   },
   "OP05-OP05-034 alt2": {
-    "lowPrice": 10.61,
-    "midPrice": 14.45,
+    "lowPrice": 9.04,
+    "midPrice": 15.0,
     "highPrice": 45.0,
-    "marketPrice": 10.95,
+    "marketPrice": 11.12,
     "directLowPrice": null,
     "name": "Baby 5 (OP05-034) (Alternate Art)",
     "rarity": "R",
@@ -3329,7 +3329,7 @@
   },
   "OP04-OP04-032 parallel": {
     "lowPrice": 3.0,
-    "midPrice": 5.19,
+    "midPrice": 6.64,
     "highPrice": 48.0,
     "marketPrice": 4.03,
     "directLowPrice": null,
@@ -3355,7 +3355,7 @@
   },
   "OP05-OP05-073 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.32,
+    "midPrice": 0.33,
     "highPrice": 10.0,
     "marketPrice": 0.35,
     "directLowPrice": null,
@@ -3381,7 +3381,7 @@
   },
   "OP05-OP05-073 parallel": {
     "lowPrice": 12.75,
-    "midPrice": 14.67,
+    "midPrice": 14.85,
     "highPrice": 31.99,
     "marketPrice": 13.87,
     "directLowPrice": null,
@@ -3407,7 +3407,7 @@
   },
   "OP05-OP05-081 parallel": {
     "lowPrice": 9.99,
-    "midPrice": 14.47,
+    "midPrice": 13.52,
     "highPrice": 45.0,
     "marketPrice": 10.9,
     "directLowPrice": null,
@@ -3433,7 +3433,7 @@
   },
   "OP05-OP05-081 alt2": {
     "lowPrice": 33.99,
-    "midPrice": 39.98,
+    "midPrice": 39.86,
     "highPrice": 100.0,
     "marketPrice": 35.64,
     "directLowPrice": null,
@@ -3458,10 +3458,10 @@
     "groupId": 23496
   },
   "OP05-OP05-082 alt2": {
-    "lowPrice": 101.9,
-    "midPrice": 120.0,
+    "lowPrice": 105.6,
+    "midPrice": 122.5,
     "highPrice": 200.0,
-    "marketPrice": 95.84,
+    "marketPrice": 97.02,
     "directLowPrice": null,
     "name": "Shirahoshi (OP05-082) (Alternate Art)",
     "rarity": "R",
@@ -3484,8 +3484,8 @@
     "groupId": 23496
   },
   "OP03-OP03-116 normal": {
-    "lowPrice": 0.09,
-    "midPrice": 0.29,
+    "lowPrice": 0.1,
+    "midPrice": 0.3,
     "highPrice": 10.0,
     "marketPrice": 0.31,
     "directLowPrice": null,
@@ -3510,10 +3510,10 @@
     "groupId": 23496
   },
   "OP03-OP03-116 parallel": {
-    "lowPrice": 12.67,
+    "lowPrice": 14.49,
     "midPrice": 20.0,
     "highPrice": 35.0,
-    "marketPrice": 14.49,
+    "marketPrice": 15.19,
     "directLowPrice": null,
     "name": "Shirahoshi (OP03-116) (Full Art)",
     "rarity": "UC",
@@ -3537,7 +3537,7 @@
   },
   "OP05-OP05-105 alt2": {
     "lowPrice": 5.25,
-    "midPrice": 8.07,
+    "midPrice": 7.78,
     "highPrice": 24.0,
     "marketPrice": 5.94,
     "directLowPrice": null,
@@ -3565,7 +3565,7 @@
     "lowPrice": 0.06,
     "midPrice": 0.25,
     "highPrice": 5.0,
-    "marketPrice": 0.27,
+    "marketPrice": 0.28,
     "directLowPrice": null,
     "name": "El Thor (Jolly Roger Foil)",
     "rarity": "UC",
@@ -3588,10 +3588,10 @@
     "groupId": 23496
   },
   "OP05-OP05-117 parallel": {
-    "lowPrice": 48.79,
-    "midPrice": 63.01,
+    "lowPrice": 59.99,
+    "midPrice": 79.8,
     "highPrice": 285.0,
-    "marketPrice": 40.21,
+    "marketPrice": 42.64,
     "directLowPrice": null,
     "name": "Upper Yard (Alternate Art)",
     "rarity": "UC",
@@ -3614,8 +3614,8 @@
     "groupId": 23496
   },
   "OP05-OP05-118 normal": {
-    "lowPrice": 50.0,
-    "midPrice": 56.49,
+    "lowPrice": 47.0,
+    "midPrice": 55.99,
     "highPrice": 150.0,
     "marketPrice": 45.03,
     "directLowPrice": null,
@@ -3667,7 +3667,7 @@
   },
   "OP06-OP06-003 parallel": {
     "lowPrice": 21.93,
-    "midPrice": 27.85,
+    "midPrice": 26.79,
     "highPrice": 69.69,
     "marketPrice": 18.53,
     "directLowPrice": null,
@@ -3693,8 +3693,8 @@
   },
   "OP06-OP06-023 parallel": {
     "lowPrice": 2.99,
-    "midPrice": 4.29,
-    "highPrice": 40.0,
+    "midPrice": 4.25,
+    "highPrice": 50.0,
     "marketPrice": 3.38,
     "directLowPrice": null,
     "name": "Arlong (Full Art)",
@@ -3719,7 +3719,7 @@
   },
   "OP06-OP06-023 alt2": {
     "lowPrice": 13.25,
-    "midPrice": 17.14,
+    "midPrice": 16.28,
     "highPrice": 33.0,
     "marketPrice": 14.07,
     "directLowPrice": null,
@@ -3744,8 +3744,8 @@
     "groupId": 23496
   },
   "OP06-OP06-035 normal": {
-    "lowPrice": 43.0,
-    "midPrice": 53.42,
+    "lowPrice": 42.7,
+    "midPrice": 52.71,
     "highPrice": 120.0,
     "marketPrice": 47.66,
     "directLowPrice": null,
@@ -3771,9 +3771,9 @@
   },
   "OP06-OP06-036 parallel": {
     "lowPrice": 8.53,
-    "midPrice": 13.7,
+    "midPrice": 14.14,
     "highPrice": 24.99,
-    "marketPrice": 8.55,
+    "marketPrice": 8.62,
     "directLowPrice": null,
     "name": "Ryuma (Full Art)",
     "rarity": "R",
@@ -3796,9 +3796,9 @@
     "groupId": 23496
   },
   "OP06-OP06-036 alt2": {
-    "lowPrice": 125.0,
-    "midPrice": 278.95,
-    "highPrice": 1000.0,
+    "lowPrice": 59.99,
+    "midPrice": 124.99,
+    "highPrice": 550.0,
     "marketPrice": 38.85,
     "directLowPrice": null,
     "name": "Ryuma (Alternate Art)",
@@ -3849,7 +3849,7 @@
   },
   "OP06-OP06-056 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.22,
+    "midPrice": 0.23,
     "highPrice": 5.0,
     "marketPrice": 0.2,
     "directLowPrice": null,
@@ -3875,9 +3875,9 @@
   },
   "OP06-OP06-060 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.24,
+    "midPrice": 0.25,
     "highPrice": 5.0,
-    "marketPrice": 0.18,
+    "marketPrice": 0.19,
     "directLowPrice": null,
     "name": "Vinsmoke Ichiji (OP06-060) (Jolly Roger Foil)",
     "rarity": "C",
@@ -3901,7 +3901,7 @@
   },
   "OP06-OP06-060 parallel": {
     "lowPrice": 14.5,
-    "midPrice": 22.98,
+    "midPrice": 21.31,
     "highPrice": 62.95,
     "marketPrice": 17.05,
     "directLowPrice": null,
@@ -3926,10 +3926,10 @@
     "groupId": 23496
   },
   "OP06-OP06-064 normal": {
-    "lowPrice": 0.05,
-    "midPrice": 0.21,
+    "lowPrice": 0.04,
+    "midPrice": 0.22,
     "highPrice": 5.0,
-    "marketPrice": 0.18,
+    "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Vinsmoke Niji (OP06-064) (Jolly Roger Foil)",
     "rarity": "C",
@@ -3955,7 +3955,7 @@
     "lowPrice": 3.14,
     "midPrice": 5.25,
     "highPrice": 19.99,
-    "marketPrice": 4.32,
+    "marketPrice": 4.34,
     "directLowPrice": null,
     "name": "Vinsmoke Niji (OP06-064) (Full Art)",
     "rarity": "C",
@@ -3978,8 +3978,8 @@
     "groupId": 23496
   },
   "OP06-OP06-065 alt2": {
-    "lowPrice": 8.3,
-    "midPrice": 9.65,
+    "lowPrice": 8.0,
+    "midPrice": 9.58,
     "highPrice": 59.99,
     "marketPrice": 8.94,
     "directLowPrice": null,
@@ -4007,7 +4007,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 5.0,
-    "marketPrice": 0.19,
+    "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Vinsmoke Yonji (OP06-066) (Jolly Roger Foil)",
     "rarity": "C",
@@ -4056,10 +4056,10 @@
     "groupId": 23496
   },
   "OP06-OP06-067 alt2": {
-    "lowPrice": 2.28,
+    "lowPrice": 2.34,
     "midPrice": 4.49,
     "highPrice": 15.0,
-    "marketPrice": 2.3,
+    "marketPrice": 2.36,
     "directLowPrice": null,
     "name": "Vinsmoke Yonji (OP06-067) (Full Art)",
     "rarity": "R",
@@ -4083,7 +4083,7 @@
   },
   "OP06-OP06-068 normal": {
     "lowPrice": 0.06,
-    "midPrice": 0.31,
+    "midPrice": 0.32,
     "highPrice": 10.0,
     "marketPrice": 0.33,
     "directLowPrice": null,
@@ -4109,7 +4109,7 @@
   },
   "OP06-OP06-068 parallel": {
     "lowPrice": 35.0,
-    "midPrice": 47.99,
+    "midPrice": 46.5,
     "highPrice": 99.85,
     "marketPrice": 39.96,
     "directLowPrice": null,
@@ -4134,8 +4134,8 @@
     "groupId": 23496
   },
   "OP06-OP06-079 parallel": {
-    "lowPrice": 31.81,
-    "midPrice": 39.99,
+    "lowPrice": 31.82,
+    "midPrice": 39.25,
     "highPrice": 110.75,
     "marketPrice": 36.82,
     "directLowPrice": null,
@@ -4163,7 +4163,7 @@
     "lowPrice": 0.15,
     "midPrice": 0.5,
     "highPrice": 5.0,
-    "marketPrice": 0.69,
+    "marketPrice": 0.64,
     "directLowPrice": null,
     "name": "Victoria Cindry (Jolly Roger Foil)",
     "rarity": "UC",
@@ -4187,9 +4187,9 @@
   },
   "OP06-OP06-091 parallel": {
     "lowPrice": 49.86,
-    "midPrice": 54.56,
-    "highPrice": 72.56,
-    "marketPrice": 52.44,
+    "midPrice": 53.59,
+    "highPrice": 68.98,
+    "marketPrice": 52.55,
     "directLowPrice": null,
     "name": "Victoria Cindry (Full Art)",
     "rarity": "UC",
@@ -4238,8 +4238,8 @@
     "groupId": 23496
   },
   "OP06-OP06-100 parallel": {
-    "lowPrice": 1.7,
-    "midPrice": 4.17,
+    "lowPrice": 1.89,
+    "midPrice": 4.3,
     "highPrice": 50.0,
     "marketPrice": 2.55,
     "directLowPrice": null,
@@ -4342,9 +4342,9 @@
     "groupId": 23496
   },
   "OP06-OP06-114 parallel": {
-    "lowPrice": 14.15,
-    "midPrice": 15.95,
-    "highPrice": 22.0,
+    "lowPrice": 13.0,
+    "midPrice": 16.0,
+    "highPrice": 30.0,
     "marketPrice": 11.07,
     "directLowPrice": null,
     "name": "Wyper (Full Art)",
@@ -4368,8 +4368,8 @@
     "groupId": 23496
   },
   "P-P-014 parallel": {
-    "lowPrice": 15.0,
-    "midPrice": 17.38,
+    "lowPrice": 14.27,
+    "midPrice": 17.28,
     "highPrice": 500.0,
     "marketPrice": 8.4,
     "directLowPrice": null,
@@ -4395,7 +4395,7 @@
   },
   "P-P-053 parallel": {
     "lowPrice": 41.99,
-    "midPrice": 47.5,
+    "midPrice": 48.0,
     "highPrice": 100.0,
     "marketPrice": 45.39,
     "directLowPrice": null,
@@ -4420,8 +4420,8 @@
     "groupId": 23496
   },
   "P-P-055 parallel": {
-    "lowPrice": 98.68,
-    "midPrice": 122.5,
+    "lowPrice": 94.01,
+    "midPrice": 120.0,
     "highPrice": 369.99,
     "marketPrice": 73.38,
     "directLowPrice": null,
@@ -4446,8 +4446,8 @@
     "groupId": 23496
   },
   "ST01-ST01-006 parallel": {
-    "lowPrice": 98.0,
-    "midPrice": 189.99,
+    "lowPrice": 97.69,
+    "midPrice": 144.0,
     "highPrice": 333.33,
     "marketPrice": 40.05,
     "directLowPrice": null,
@@ -4472,10 +4472,10 @@
     "groupId": 23496
   },
   "ST01-ST01-006 alt2": {
-    "lowPrice": 49.0,
-    "midPrice": 50.0,
-    "highPrice": 55.0,
-    "marketPrice": 32.58,
+    "lowPrice": 48.99,
+    "midPrice": 50.48,
+    "highPrice": 60.0,
+    "marketPrice": 34.23,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper (ST01-006) (Alternate Art)",
     "rarity": "C",
@@ -4551,9 +4551,9 @@
   },
   "ST02-ST02-004 alt2": {
     "lowPrice": 1.96,
-    "midPrice": 4.16,
-    "highPrice": 40.0,
-    "marketPrice": 2.61,
+    "midPrice": 4.28,
+    "highPrice": 50.0,
+    "marketPrice": 2.57,
     "directLowPrice": null,
     "name": "Capone\"Gang\"Bege (ST02-004) (Alternate Art)",
     "rarity": "C",
@@ -4629,9 +4629,9 @@
   },
   "ST03-ST03-008 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.3,
+    "midPrice": 0.31,
     "highPrice": 10.0,
-    "marketPrice": 0.3,
+    "marketPrice": 0.31,
     "directLowPrice": null,
     "name": "Trafalgar Law (ST03-008) (Jolly Roger Foil)",
     "rarity": "C",
@@ -4654,8 +4654,8 @@
     "groupId": 23496
   },
   "ST03-ST03-008 parallel": {
-    "lowPrice": 17.58,
-    "midPrice": 20.57,
+    "lowPrice": 16.63,
+    "midPrice": 20.76,
     "highPrice": 50.0,
     "marketPrice": 9.6,
     "directLowPrice": null,
@@ -4680,8 +4680,8 @@
     "groupId": 23496
   },
   "ST03-ST03-013 parallel": {
-    "lowPrice": 40.0,
-    "midPrice": 47.0,
+    "lowPrice": 35.0,
+    "midPrice": 44.0,
     "highPrice": 90.0,
     "marketPrice": 31.53,
     "directLowPrice": null,
@@ -4706,9 +4706,9 @@
     "groupId": 23496
   },
   "ST03-ST03-013 alt2": {
-    "lowPrice": 207.0,
+    "lowPrice": 201.0,
     "midPrice": 220.0,
-    "highPrice": 399.99,
+    "highPrice": 500.0,
     "marketPrice": 160.06,
     "directLowPrice": null,
     "name": "Boa Hancock (ST03-013) (Alternate Art)",
@@ -4735,7 +4735,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.42,
     "highPrice": 10.0,
-    "marketPrice": 0.34,
+    "marketPrice": 0.35,
     "directLowPrice": null,
     "name": "Queen (Jolly Roger Foil)",
     "rarity": "C",
@@ -4758,10 +4758,10 @@
     "groupId": 23496
   },
   "ST04-ST04-005 parallel": {
-    "lowPrice": 10.0,
-    "midPrice": 19.25,
+    "lowPrice": 5.0,
+    "midPrice": 18.99,
     "highPrice": 50.0,
-    "marketPrice": 10.14,
+    "marketPrice": 10.4,
     "directLowPrice": null,
     "name": "Queen (Full Art)",
     "rarity": "C",
@@ -4784,7 +4784,7 @@
     "groupId": 23496
   },
   "ST04-ST04-016 normal": {
-    "lowPrice": 0.1,
+    "lowPrice": 0.11,
     "midPrice": 0.36,
     "highPrice": 10.0,
     "marketPrice": 0.36,
@@ -4839,7 +4839,7 @@
     "lowPrice": 3.0,
     "midPrice": 5.0,
     "highPrice": 46.99,
-    "marketPrice": 3.26,
+    "marketPrice": 3.27,
     "directLowPrice": null,
     "name": "Helmeppo (Full Art)",
     "rarity": "C",
@@ -4863,9 +4863,9 @@
   },
   "ST06-ST06-014 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.2,
+    "midPrice": 0.21,
     "highPrice": 10.0,
-    "marketPrice": 0.18,
+    "marketPrice": 0.19,
     "directLowPrice": null,
     "name": "Shockwave (Jolly Roger Foil)",
     "rarity": "C",
@@ -4915,7 +4915,7 @@
   },
   "ST07-ST07-007 parallel": {
     "lowPrice": 9.69,
-    "midPrice": 14.58,
+    "midPrice": 14.35,
     "highPrice": 25.0,
     "marketPrice": 14.07,
     "directLowPrice": null,
@@ -4993,9 +4993,9 @@
   },
   "ST12-ST12-014 parallel": {
     "lowPrice": 6.64,
-    "midPrice": 12.27,
+    "midPrice": 12.39,
     "highPrice": 44.99,
-    "marketPrice": 10.52,
+    "marketPrice": 10.43,
     "directLowPrice": null,
     "name": "Duval (Full Art)",
     "rarity": "C",
@@ -5021,7 +5021,7 @@
     "lowPrice": 2.49,
     "midPrice": 3.99,
     "highPrice": 100.0,
-    "marketPrice": 3.7,
+    "marketPrice": 3.76,
     "directLowPrice": null,
     "name": "Radical Beam!! (Textured Foil)",
     "rarity": "UC",
@@ -5047,7 +5047,7 @@
     "lowPrice": 4.99,
     "midPrice": 6.38,
     "highPrice": 15.0,
-    "marketPrice": 5.49,
+    "marketPrice": 5.48,
     "directLowPrice": null,
     "name": "Judgment of Hell (Textured Foil)",
     "rarity": "R",
@@ -5071,9 +5071,9 @@
   },
   "OP02-OP02-117 parallel": {
     "lowPrice": 1.93,
-    "midPrice": 8.0,
+    "midPrice": 8.22,
     "highPrice": 16.79,
-    "marketPrice": 1.93,
+    "marketPrice": 2.05,
     "directLowPrice": null,
     "name": "Ice Age (Textured Foil)",
     "rarity": "UC",
@@ -5097,9 +5097,9 @@
   },
   "OP03-OP03-055 parallel": {
     "lowPrice": 0.98,
-    "midPrice": 2.36,
+    "midPrice": 2.34,
     "highPrice": 15.0,
-    "marketPrice": 1.17,
+    "marketPrice": 1.2,
     "directLowPrice": null,
     "name": "Gum-Gum Giant Gavel (Textured Foil)",
     "rarity": "C",
@@ -5123,9 +5123,9 @@
   },
   "OP03-OP03-056 alt2": {
     "lowPrice": 2.55,
-    "midPrice": 4.12,
+    "midPrice": 4.0,
     "highPrice": 12.0,
-    "marketPrice": 2.76,
+    "marketPrice": 2.71,
     "directLowPrice": null,
     "name": "Sanji's Pilaf (Textured Foil)",
     "rarity": "UC",
@@ -5148,10 +5148,10 @@
     "groupId": 23496
   },
   "OP03-OP03-057 alt2": {
-    "lowPrice": 1.4,
-    "midPrice": 2.0,
+    "lowPrice": 1.62,
+    "midPrice": 2.05,
     "highPrice": 9.99,
-    "marketPrice": 2.08,
+    "marketPrice": 2.02,
     "directLowPrice": null,
     "name": "Three Thousand Worlds (Textured Foil)",
     "rarity": "R",
@@ -5175,9 +5175,9 @@
   },
   "OP03-OP03-094 parallel": {
     "lowPrice": 0.34,
-    "midPrice": 1.08,
+    "midPrice": 1.05,
     "highPrice": 14.99,
-    "marketPrice": 0.55,
+    "marketPrice": 0.61,
     "directLowPrice": null,
     "name": "Air Door (Textured Foil)",
     "rarity": "UC",
@@ -5227,9 +5227,9 @@
   },
   "OP04-OP04-036 parallel": {
     "lowPrice": 1.0,
-    "midPrice": 1.9,
+    "midPrice": 1.95,
     "highPrice": 19.0,
-    "marketPrice": 1.25,
+    "marketPrice": 1.26,
     "directLowPrice": null,
     "name": "Donquixote Family (Textured Foil)",
     "rarity": "C",
@@ -5253,9 +5253,9 @@
   },
   "OP04-OP04-056 alt2": {
     "lowPrice": 10.25,
-    "midPrice": 12.88,
+    "midPrice": 13.14,
     "highPrice": 30.0,
-    "marketPrice": 10.42,
+    "marketPrice": 10.48,
     "directLowPrice": null,
     "name": "Gum-Gum Red Roc (Textured Foil)",
     "rarity": "R",
@@ -5280,8 +5280,8 @@
   "OP04-OP04-095 parallel": {
     "lowPrice": 0.2,
     "midPrice": 0.64,
-    "highPrice": 33.0,
-    "marketPrice": 0.57,
+    "highPrice": 19.0,
+    "marketPrice": 0.53,
     "directLowPrice": null,
     "name": "Barrier!! (Textured Foil)",
     "rarity": "C",
@@ -5305,9 +5305,9 @@
   },
   "OP05-OP05-057 alt2": {
     "lowPrice": 2.25,
-    "midPrice": 4.62,
-    "highPrice": 14.99,
-    "marketPrice": 4.36,
+    "midPrice": 4.63,
+    "highPrice": 50.0,
+    "marketPrice": 4.29,
     "directLowPrice": null,
     "name": "Hound Blaze (Textured Foil)",
     "rarity": "R",
@@ -5331,7 +5331,7 @@
   },
   "OP05-OP05-114 parallel": {
     "lowPrice": 0.9,
-    "midPrice": 1.5,
+    "midPrice": 1.54,
     "highPrice": 15.0,
     "marketPrice": 1.33,
     "directLowPrice": null,
@@ -5357,7 +5357,7 @@
   },
   "OP05-OP05-115 alt2": {
     "lowPrice": 1.05,
-    "midPrice": 1.65,
+    "midPrice": 1.58,
     "highPrice": 10.0,
     "marketPrice": 1.47,
     "directLowPrice": null,
@@ -5383,9 +5383,9 @@
   },
   "OP05-OP05-117 alt2": {
     "lowPrice": 3.51,
-    "midPrice": 5.99,
+    "midPrice": 7.03,
     "highPrice": 10.0,
-    "marketPrice": 3.26,
+    "marketPrice": 3.45,
     "directLowPrice": null,
     "name": "Upper Yard (Textured Foil)",
     "rarity": "UC",
@@ -5409,9 +5409,9 @@
   },
   "OP06-OP06-038 parallel": {
     "lowPrice": 0.5,
-    "midPrice": 3.36,
+    "midPrice": 3.93,
     "highPrice": 5.0,
-    "marketPrice": 3.44,
+    "marketPrice": 3.49,
     "directLowPrice": null,
     "name": "The Billion-fold World Trichiliocosm (Textured Foil)",
     "rarity": "UC",
@@ -5434,10 +5434,10 @@
     "groupId": 23496
   },
   "OP06-OP06-056 parallel": {
-    "lowPrice": 3.5,
-    "midPrice": 5.6,
+    "lowPrice": 3.35,
+    "midPrice": 5.64,
     "highPrice": 14.99,
-    "marketPrice": 4.96,
+    "marketPrice": 5.0,
     "directLowPrice": null,
     "name": "Ama no Murakumo Sword (Textured Foil)",
     "rarity": "UC",
@@ -5461,9 +5461,9 @@
   },
   "OP06-OP06-079 alt2": {
     "lowPrice": 1.1,
-    "midPrice": 2.9,
+    "midPrice": 2.96,
     "highPrice": 14.99,
-    "marketPrice": 1.41,
+    "marketPrice": 1.42,
     "directLowPrice": null,
     "name": "Kingdom of GERMA (Textured Foil)",
     "rarity": "C",
@@ -5487,9 +5487,9 @@
   },
   "ST01-ST01-014 parallel": {
     "lowPrice": 3.65,
-    "midPrice": 6.95,
+    "midPrice": 6.8,
     "highPrice": 13.99,
-    "marketPrice": 3.91,
+    "marketPrice": 4.06,
     "directLowPrice": null,
     "name": "Guard Point (Textured Foil)",
     "rarity": "C",
@@ -5513,9 +5513,9 @@
   },
   "ST04-ST04-016 parallel": {
     "lowPrice": 1.76,
-    "midPrice": 2.02,
+    "midPrice": 2.09,
     "highPrice": 9.99,
-    "marketPrice": 1.85,
+    "marketPrice": 1.84,
     "directLowPrice": null,
     "name": "Blast Breath (Textured Foil)",
     "rarity": "C",
@@ -5538,10 +5538,10 @@
     "groupId": 23496
   },
   "ST06-ST06-014 parallel": {
-    "lowPrice": 0.75,
+    "lowPrice": 0.56,
     "midPrice": 2.0,
-    "highPrice": 22.59,
-    "marketPrice": 1.38,
+    "highPrice": 24.96,
+    "marketPrice": 1.37,
     "directLowPrice": null,
     "name": "Shockwave (Textured Foil)",
     "rarity": "C",
@@ -5590,10 +5590,10 @@
     "groupId": 23496
   },
   "OP01-OP01-006 alt2": {
-    "lowPrice": 0.6,
+    "lowPrice": 0.59,
     "midPrice": 1.12,
     "highPrice": 25.0,
-    "marketPrice": 0.94,
+    "marketPrice": 0.92,
     "directLowPrice": null,
     "name": "Otama (Jolly Roger Foil)",
     "rarity": "UC",
@@ -5671,7 +5671,7 @@
     "lowPrice": 1.0,
     "midPrice": 2.25,
     "highPrice": 9.99,
-    "marketPrice": 1.29,
+    "marketPrice": 1.28,
     "directLowPrice": null,
     "name": "Bartolomeo (P-029) (Full Art)",
     "rarity": "PR",
@@ -5697,7 +5697,7 @@
     "lowPrice": 0.15,
     "midPrice": 0.56,
     "highPrice": 5.0,
-    "marketPrice": 0.49,
+    "marketPrice": 0.46,
     "directLowPrice": null,
     "name": "Otama (Reprint)",
     "rarity": "UC",
@@ -5747,9 +5747,9 @@
   },
   "OP01-OP01-070 parallel": {
     "lowPrice": 0.04,
-    "midPrice": 0.73,
+    "midPrice": 0.75,
     "highPrice": 26.0,
-    "marketPrice": 0.7,
+    "marketPrice": 0.75,
     "directLowPrice": null,
     "name": "Dracule Mihawk (OP01-070) (Reprint)",
     "rarity": "SR",
@@ -5772,10 +5772,10 @@
     "groupId": 23496
   },
   "OP01-OP01-078 parallel": {
-    "lowPrice": 0.09,
-    "midPrice": 0.57,
+    "lowPrice": 0.1,
+    "midPrice": 0.59,
     "highPrice": 999.0,
-    "marketPrice": 0.51,
+    "marketPrice": 0.53,
     "directLowPrice": null,
     "name": "Boa Hancock (OP01-078) (Reprint)",
     "rarity": "SR",
@@ -5799,9 +5799,9 @@
   },
   "OP01-OP01-120 alt2": {
     "lowPrice": 1.1,
-    "midPrice": 3.05,
+    "midPrice": 3.45,
     "highPrice": 25.0,
-    "marketPrice": 2.08,
+    "marketPrice": 2.18,
     "directLowPrice": null,
     "name": "Shanks (OP01-120) (Reprint)",
     "rarity": "SEC",
@@ -5824,10 +5824,10 @@
     "groupId": 23496
   },
   "OP02-OP02-004 parallel": {
-    "lowPrice": 0.99,
+    "lowPrice": 1.0,
     "midPrice": 3.0,
     "highPrice": 25.0,
-    "marketPrice": 1.67,
+    "marketPrice": 1.52,
     "directLowPrice": null,
     "name": "Edward.Newgate (Reprint)",
     "rarity": "SR",
@@ -5877,9 +5877,9 @@
   },
   "ST10-ST10-010 parallel": {
     "lowPrice": 0.32,
-    "midPrice": 0.8,
+    "midPrice": 0.89,
     "highPrice": 5.0,
-    "marketPrice": 0.76,
+    "marketPrice": 0.8,
     "directLowPrice": null,
     "name": "Trafalgar Law (ST10-010) (Reprint)",
     "rarity": "SR",
@@ -5905,7 +5905,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.35,
     "highPrice": 5.0,
-    "marketPrice": 0.27,
+    "marketPrice": 0.32,
     "directLowPrice": null,
     "name": "Sakazuki (Reprint)",
     "rarity": "SR",
@@ -5954,7 +5954,7 @@
     "groupId": 23496
   },
   "OP02-OP02-106 alt2": {
-    "lowPrice": 0.04,
+    "lowPrice": 0.05,
     "midPrice": 0.15,
     "highPrice": 2.0,
     "marketPrice": 0.11,
@@ -5982,8 +5982,8 @@
   "OP02-OP02-114 parallel": {
     "lowPrice": 0.19,
     "midPrice": 0.55,
-    "highPrice": 10.48,
-    "marketPrice": 0.47,
+    "highPrice": 10.46,
+    "marketPrice": 0.46,
     "directLowPrice": null,
     "name": "Borsalino (Reprint)",
     "rarity": "SR",
@@ -6006,10 +6006,10 @@
     "groupId": 23496
   },
   "OP05-OP05-119 alt2": {
-    "lowPrice": 9.07,
-    "midPrice": 14.15,
+    "lowPrice": 9.95,
+    "midPrice": 14.0,
     "highPrice": 30.0,
-    "marketPrice": 9.89,
+    "marketPrice": 9.95,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (OP05-119) (Reprint)",
     "rarity": "SEC",
@@ -6033,7 +6033,7 @@
   },
   "OP02-OP02-121 parallel": {
     "lowPrice": 2.0,
-    "midPrice": 4.7,
+    "midPrice": 4.5,
     "highPrice": 25.0,
     "marketPrice": 2.45,
     "directLowPrice": null,
@@ -6059,9 +6059,9 @@
   },
   "OP05-OP05-118 parallel": {
     "lowPrice": 1.88,
-    "midPrice": 4.0,
+    "midPrice": 4.21,
     "highPrice": 28.0,
-    "marketPrice": 2.39,
+    "marketPrice": 2.48,
     "directLowPrice": null,
     "name": "Kaido (OP05-118) (Reprint)",
     "rarity": "SEC",
@@ -6085,7 +6085,7 @@
   },
   "OP03-OP03-003 alt3": {
     "lowPrice": 0.01,
-    "midPrice": 0.18,
+    "midPrice": 0.19,
     "highPrice": 2.99,
     "marketPrice": 0.11,
     "directLowPrice": null,
@@ -6215,7 +6215,7 @@
   },
   "OP03-OP03-108 parallel": {
     "lowPrice": 0.1,
-    "midPrice": 0.36,
+    "midPrice": 0.37,
     "highPrice": 10.34,
     "marketPrice": 0.34,
     "directLowPrice": null,
@@ -6240,10 +6240,10 @@
     "groupId": 23496
   },
   "OP05-OP05-082 alt3": {
-    "lowPrice": 1.8,
-    "midPrice": 2.14,
+    "lowPrice": 1.25,
+    "midPrice": 2.24,
     "highPrice": 8.99,
-    "marketPrice": 2.06,
+    "marketPrice": 2.05,
     "directLowPrice": null,
     "name": "Shirahoshi (OP05-082) (Reprint)",
     "rarity": "R",
@@ -6320,7 +6320,7 @@
   "OP03-OP03-113 parallel": {
     "lowPrice": 0.05,
     "midPrice": 0.3,
-    "highPrice": 10.28,
+    "highPrice": 10.29,
     "marketPrice": 0.28,
     "directLowPrice": null,
     "name": "Charlotte Perospero (Reprint)",
@@ -6371,9 +6371,9 @@
   },
   "OP03-OP03-116 alt2": {
     "lowPrice": 0.01,
-    "midPrice": 0.15,
+    "midPrice": 0.13,
     "highPrice": 1.99,
-    "marketPrice": 0.11,
+    "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Shirahoshi (OP03-116) (Reprint)",
     "rarity": "UC",
@@ -6399,7 +6399,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 1.31,
-    "marketPrice": 0.14,
+    "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Miss Doublefinger(Zala) (Reprint)",
     "rarity": "UC",
@@ -6422,10 +6422,10 @@
     "groupId": 23496
   },
   "OP03-OP03-123 parallel": {
-    "lowPrice": 3.5,
+    "lowPrice": 3.75,
     "midPrice": 7.0,
     "highPrice": 25.0,
-    "marketPrice": 4.88,
+    "marketPrice": 4.87,
     "directLowPrice": null,
     "name": "Charlotte Katakuri (Reprint)",
     "rarity": "SEC",
@@ -6449,9 +6449,9 @@
   },
   "OP05-OP05-043 parallel": {
     "lowPrice": 0.1,
-    "midPrice": 0.37,
+    "midPrice": 0.4,
     "highPrice": 5.0,
-    "marketPrice": 0.37,
+    "marketPrice": 0.36,
     "directLowPrice": null,
     "name": "Ulti (Reprint)",
     "rarity": "SR",
@@ -6527,9 +6527,9 @@
   },
   "OP04-OP04-031 parallel": {
     "lowPrice": 0.44,
-    "midPrice": 1.19,
+    "midPrice": 1.22,
     "highPrice": 10.0,
-    "marketPrice": 1.22,
+    "marketPrice": 1.28,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo (Reprint)",
     "rarity": "SR",
@@ -6552,10 +6552,10 @@
     "groupId": 23496
   },
   "OP05-OP05-015 alt3": {
-    "lowPrice": 0.05,
+    "lowPrice": 0.09,
     "midPrice": 0.29,
     "highPrice": 5.0,
-    "marketPrice": 0.28,
+    "marketPrice": 0.26,
     "directLowPrice": null,
     "name": "Belo Betty (OP05-015) (Reprint)",
     "rarity": "R",
@@ -6630,7 +6630,7 @@
     "groupId": 23496
   },
   "OP05-OP05-010 alt2": {
-    "lowPrice": 0.04,
+    "lowPrice": 0.05,
     "midPrice": 0.17,
     "highPrice": 5.0,
     "marketPrice": 0.18,
@@ -6659,7 +6659,7 @@
     "lowPrice": 0.51,
     "midPrice": 1.99,
     "highPrice": 10.0,
-    "marketPrice": 1.94,
+    "marketPrice": 1.92,
     "directLowPrice": null,
     "name": "Capone\"Gang\"Bege (OP04-100) (Reprint)",
     "rarity": "R",
@@ -6683,7 +6683,7 @@
   },
   "OP04-OP04-104 parallel": {
     "lowPrice": 0.19,
-    "midPrice": 0.42,
+    "midPrice": 0.43,
     "highPrice": 10.4,
     "marketPrice": 0.4,
     "directLowPrice": null,
@@ -6761,9 +6761,9 @@
   },
   "OP05-OP05-006 parallel": {
     "lowPrice": 0.34,
-    "midPrice": 1.03,
+    "midPrice": 1.0,
     "highPrice": 10.0,
-    "marketPrice": 0.92,
+    "marketPrice": 0.9,
     "directLowPrice": null,
     "name": "Koala (Reprint)",
     "rarity": "SR",
@@ -6789,7 +6789,7 @@
     "lowPrice": 2.32,
     "midPrice": 4.99,
     "highPrice": 50.0,
-    "marketPrice": 3.61,
+    "marketPrice": 3.99,
     "directLowPrice": null,
     "name": "Yamato (OP01-121) (Reprint)",
     "rarity": "SEC",
@@ -6812,7 +6812,7 @@
     "groupId": 23496
   },
   "P-P-055 alt2": {
-    "lowPrice": 0.09,
+    "lowPrice": 0.1,
     "midPrice": 0.24,
     "highPrice": 5.0,
     "marketPrice": 0.19,

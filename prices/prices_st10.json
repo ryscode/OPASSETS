@@ -1,7 +1,7 @@
 {
   "ST10-ST10-001 normal": {
     "lowPrice": 2.65,
-    "midPrice": 4.99,
+    "midPrice": 4.9,
     "highPrice": 45.0,
     "marketPrice": 4.41,
     "directLowPrice": null,
@@ -26,10 +26,10 @@
     "groupId": 23243
   },
   "ST10-ST10-002 normal": {
-    "lowPrice": 6.71,
-    "midPrice": 13.27,
+    "lowPrice": 7.25,
+    "midPrice": 11.3,
     "highPrice": 150.0,
-    "marketPrice": 7.66,
+    "marketPrice": 7.62,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (002)",
     "rarity": "L",
@@ -53,9 +53,9 @@
   },
   "ST10-ST10-003 normal": {
     "lowPrice": 1.0,
-    "midPrice": 4.0,
+    "midPrice": 3.99,
     "highPrice": 25.0,
-    "marketPrice": 3.09,
+    "marketPrice": 3.04,
     "directLowPrice": null,
     "name": "Eustass\"Captain\"Kid (003)",
     "rarity": "L",
@@ -105,7 +105,7 @@
   },
   "ST10-ST10-005 normal": {
     "lowPrice": 0.23,
-    "midPrice": 0.67,
+    "midPrice": 0.66,
     "highPrice": 10.0,
     "marketPrice": 0.58,
     "directLowPrice": null,
@@ -130,8 +130,8 @@
     "groupId": 23243
   },
   "ST10-ST10-006 normal": {
-    "lowPrice": 0.99,
-    "midPrice": 3.5,
+    "lowPrice": 1.0,
+    "midPrice": 3.0,
     "highPrice": 50.0,
     "marketPrice": 2.73,
     "directLowPrice": null,
@@ -159,7 +159,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.2,
     "highPrice": 2.0,
-    "marketPrice": 0.16,
+    "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Killer",
     "rarity": "C",
@@ -235,9 +235,9 @@
   },
   "ST10-ST10-010 normal": {
     "lowPrice": 1.0,
-    "midPrice": 2.5,
+    "midPrice": 2.45,
     "highPrice": 50.0,
-    "marketPrice": 1.68,
+    "marketPrice": 1.66,
     "directLowPrice": null,
     "name": "Trafalgar Law (010)",
     "rarity": "SR",
@@ -313,9 +313,9 @@
   },
   "ST10-ST10-013 normal": {
     "lowPrice": 0.65,
-    "midPrice": 1.42,
+    "midPrice": 1.3,
     "highPrice": 25.0,
-    "marketPrice": 0.94,
+    "marketPrice": 0.95,
     "directLowPrice": null,
     "name": "Eustass\"Captain\"Kid (013)",
     "rarity": "SR",
@@ -419,7 +419,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 25.0,
-    "marketPrice": 0.25,
+    "marketPrice": 0.24,
     "directLowPrice": null,
     "name": "Punk Vise",
     "rarity": "C",

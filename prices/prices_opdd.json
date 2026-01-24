@@ -2,8 +2,8 @@
   "OP01-OP01-001 normal": {
     "lowPrice": 3.25,
     "midPrice": 6.12,
-    "highPrice": 29.98,
-    "marketPrice": 8.53,
+    "highPrice": 29.97,
+    "marketPrice": 7.79,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
     "rarity": "L",
@@ -26,10 +26,10 @@
     "groupId": 23907
   },
   "P-P-001 normal": {
-    "lowPrice": 7.96,
-    "midPrice": 15.93,
+    "lowPrice": 7.94,
+    "midPrice": 15.0,
     "highPrice": 151.0,
-    "marketPrice": 11.22,
+    "marketPrice": 10.51,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (001)",
     "rarity": "PR",
@@ -55,7 +55,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.34,
     "highPrice": 25.0,
-    "marketPrice": 0.22,
+    "marketPrice": 0.21,
     "directLowPrice": null,
     "name": "Usopp",
     "rarity": "R",
@@ -130,10 +130,10 @@
     "groupId": 23907
   },
   "OP01-OP01-013 normal": {
-    "lowPrice": 0.98,
+    "lowPrice": 0.96,
     "midPrice": 1.99,
     "highPrice": 10.0,
-    "marketPrice": 1.22,
+    "marketPrice": 1.14,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "R",
@@ -234,7 +234,7 @@
     "groupId": 23907
   },
   "ST01-ST01-005 normal": {
-    "lowPrice": 0.54,
+    "lowPrice": 0.5,
     "midPrice": 1.06,
     "highPrice": 1.93,
     "marketPrice": 0.79,
@@ -416,10 +416,10 @@
     "groupId": 23907
   },
   "OP01-OP01-003 normal": {
-    "lowPrice": 3.99,
+    "lowPrice": 3.98,
     "midPrice": 10.0,
     "highPrice": 100.0,
-    "marketPrice": 5.05,
+    "marketPrice": 5.06,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (003)",
     "rarity": "L",
@@ -469,7 +469,7 @@
   },
   "OP01-OP01-015 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.64,
+    "midPrice": 0.82,
     "highPrice": 4.0,
     "marketPrice": 0.33,
     "directLowPrice": null,
@@ -495,9 +495,9 @@
   },
   "OP01-OP01-029 normal": {
     "lowPrice": 3.0,
-    "midPrice": 5.0,
+    "midPrice": 5.1,
     "highPrice": 7.98,
-    "marketPrice": 2.72,
+    "marketPrice": 2.83,
     "directLowPrice": null,
     "name": "Radical Beam!!",
     "rarity": "UC",

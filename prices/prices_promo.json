@@ -1,9 +1,9 @@
 {
   "P-P-001 normal": {
-    "lowPrice": 11.0,
-    "midPrice": 23.99,
+    "lowPrice": 10.0,
+    "midPrice": 23.69,
     "highPrice": 125.0,
-    "marketPrice": 14.54,
+    "marketPrice": 14.04,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Promotion Pack 2022)",
     "rarity": "PR",
@@ -79,7 +79,7 @@
   },
   "P-P-002 normal": {
     "lowPrice": 4.01,
-    "midPrice": 12.0,
+    "midPrice": 10.0,
     "highPrice": 94.99,
     "marketPrice": 7.72,
     "directLowPrice": null,
@@ -105,7 +105,7 @@
   },
   "P-P-003 normal": {
     "lowPrice": 1.57,
-    "midPrice": 4.34,
+    "midPrice": 4.89,
     "highPrice": 15.85,
     "marketPrice": 2.22,
     "directLowPrice": null,
@@ -157,7 +157,7 @@
   },
   "P-P-005 normal": {
     "lowPrice": 1.33,
-    "midPrice": 4.35,
+    "midPrice": 4.38,
     "highPrice": 16.5,
     "marketPrice": 1.67,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "P-P-024 normal": {
     "lowPrice": 2.98,
-    "midPrice": 5.45,
+    "midPrice": 5.7,
     "highPrice": 38.0,
     "marketPrice": 3.43,
     "directLowPrice": null,
@@ -237,7 +237,7 @@
     "lowPrice": 7.88,
     "midPrice": 11.38,
     "highPrice": 50.0,
-    "marketPrice": 8.71,
+    "marketPrice": 8.8,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy - P-006 (Tournament Pack Vol. 1)",
     "rarity": "PR",
@@ -261,9 +261,9 @@
   },
   "P-P-007 normal": {
     "lowPrice": 5.0,
-    "midPrice": 9.79,
+    "midPrice": 9.0,
     "highPrice": 49.95,
-    "marketPrice": 7.86,
+    "marketPrice": 7.59,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy - P-007 (Tournament Pack Vol. 1)",
     "rarity": "PR",
@@ -287,9 +287,9 @@
   },
   "P-P-008 normal": {
     "lowPrice": 5.5,
-    "midPrice": 7.09,
+    "midPrice": 7.25,
     "highPrice": 15.0,
-    "marketPrice": 6.2,
+    "marketPrice": 6.41,
     "directLowPrice": null,
     "name": "Yamato (Tournament Pack Vol. 1)",
     "rarity": "PR",
@@ -312,10 +312,10 @@
     "groupId": 17675
   },
   "P-P-009 normal": {
-    "lowPrice": 9.0,
-    "midPrice": 14.99,
+    "lowPrice": 8.18,
+    "midPrice": 15.0,
     "highPrice": 59.99,
-    "marketPrice": 9.69,
+    "marketPrice": 9.61,
     "directLowPrice": null,
     "name": "Trafalgar Law (Tournament Pack Vol. 1)",
     "rarity": "PR",
@@ -339,9 +339,9 @@
   },
   "P-P-010 normal": {
     "lowPrice": 4.0,
-    "midPrice": 6.95,
+    "midPrice": 6.99,
     "highPrice": 39.99,
-    "marketPrice": 5.51,
+    "marketPrice": 5.54,
     "directLowPrice": null,
     "name": "Kaido (Tournament Pack Vol. 1)",
     "rarity": "PR",
@@ -390,8 +390,8 @@
     "groupId": 17675
   },
   "P-P-028 normal": {
-    "lowPrice": 16.99,
-    "midPrice": 24.95,
+    "lowPrice": 20.0,
+    "midPrice": 24.98,
     "highPrice": 63.79,
     "marketPrice": 20.24,
     "directLowPrice": null,
@@ -416,7 +416,7 @@
     "groupId": 17675
   },
   "P-P-029 normal": {
-    "lowPrice": 0.55,
+    "lowPrice": 0.58,
     "midPrice": 1.49,
     "highPrice": 99.99,
     "marketPrice": 0.92,
@@ -445,7 +445,7 @@
     "lowPrice": 0.8,
     "midPrice": 2.7,
     "highPrice": 59.99,
-    "marketPrice": 1.38,
+    "marketPrice": 1.36,
     "directLowPrice": null,
     "name": "Jinbe (Event Pack Vol. 1)",
     "rarity": "PR",
@@ -471,7 +471,7 @@
     "lowPrice": 21.0,
     "midPrice": 23.98,
     "highPrice": 35.89,
-    "marketPrice": 14.51,
+    "marketPrice": 15.7,
     "directLowPrice": null,
     "name": "Uta (Event Pack Vol. 1)",
     "rarity": "PR",
@@ -494,9 +494,9 @@
     "groupId": 17675
   },
   "P-P-032 normal": {
-    "lowPrice": 5.99,
-    "midPrice": 7.99,
-    "highPrice": 37.17,
+    "lowPrice": 6.0,
+    "midPrice": 8.63,
+    "highPrice": 36.8,
     "marketPrice": 6.33,
     "directLowPrice": null,
     "name": "Sengoku (Event Pack Vol. 1)",
@@ -546,10 +546,10 @@
     "groupId": 17675
   },
   "P-P-007 parallel": {
-    "lowPrice": 65.0,
-    "midPrice": 80.41,
+    "lowPrice": 69.99,
+    "midPrice": 78.14,
     "highPrice": 200.0,
-    "marketPrice": 79.04,
+    "marketPrice": 78.57,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy - P-007 (Winner Pack Vol. 1)",
     "rarity": "PR",
@@ -572,10 +572,10 @@
     "groupId": 17675
   },
   "P-P-008 parallel": {
-    "lowPrice": 32.0,
-    "midPrice": 47.85,
+    "lowPrice": 30.0,
+    "midPrice": 47.68,
     "highPrice": 99.0,
-    "marketPrice": 37.31,
+    "marketPrice": 37.79,
     "directLowPrice": null,
     "name": "Yamato - P-008 (Winner Pack Vol. 1)",
     "rarity": "PR",
@@ -598,8 +598,8 @@
     "groupId": 17675
   },
   "P-P-009 parallel": {
-    "lowPrice": 24.98,
-    "midPrice": 29.0,
+    "lowPrice": 24.51,
+    "midPrice": 28.25,
     "highPrice": 59.99,
     "marketPrice": 25.6,
     "directLowPrice": null,
@@ -625,7 +625,7 @@
   },
   "P-P-010 parallel": {
     "lowPrice": 20.0,
-    "midPrice": 28.5,
+    "midPrice": 27.5,
     "highPrice": 49.98,
     "marketPrice": 23.86,
     "directLowPrice": null,
@@ -650,10 +650,10 @@
     "groupId": 17675
   },
   "P-P-011 normal": {
-    "lowPrice": 2.0,
+    "lowPrice": 2.2,
     "midPrice": 2.99,
     "highPrice": 5.99,
-    "marketPrice": 2.34,
+    "marketPrice": 2.4,
     "directLowPrice": null,
     "name": "Uta (One Piece Film Red)",
     "rarity": "PR",
@@ -703,7 +703,7 @@
   },
   "P-P-013 normal": {
     "lowPrice": 0.3,
-    "midPrice": 1.1,
+    "midPrice": 1.04,
     "highPrice": 63.85,
     "marketPrice": 0.65,
     "directLowPrice": null,
@@ -781,7 +781,7 @@
   },
   "P-P-016 normal": {
     "lowPrice": 0.9,
-    "midPrice": 1.88,
+    "midPrice": 1.99,
     "highPrice": 5.0,
     "marketPrice": 1.37,
     "directLowPrice": null,
@@ -807,7 +807,7 @@
   },
   "P-P-017 normal": {
     "lowPrice": 3.56,
-    "midPrice": 5.7,
+    "midPrice": 5.4,
     "highPrice": 33.75,
     "marketPrice": 2.51,
     "directLowPrice": null,
@@ -860,8 +860,8 @@
   "P-P-019 normal": {
     "lowPrice": 0.4,
     "midPrice": 0.99,
-    "highPrice": 8.25,
-    "marketPrice": 0.76,
+    "highPrice": 5.79,
+    "marketPrice": 0.72,
     "directLowPrice": null,
     "name": "Bepo (One Piece Film Red)",
     "rarity": "PR",
@@ -911,7 +911,7 @@
   },
   "P-P-021 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.67,
+    "midPrice": 0.7,
     "highPrice": 6.25,
     "marketPrice": 0.35,
     "directLowPrice": null,
@@ -936,10 +936,10 @@
     "groupId": 17675
   },
   "P-P-022 normal": {
-    "lowPrice": 4.0,
-    "midPrice": 7.16,
+    "lowPrice": 3.79,
+    "midPrice": 7.04,
     "highPrice": 100.0,
-    "marketPrice": 5.84,
+    "marketPrice": 5.77,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (One Piece Film Red)",
     "rarity": "PR",
@@ -963,7 +963,7 @@
   },
   "P-P-023 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.68,
+    "midPrice": 0.65,
     "highPrice": 4.5,
     "marketPrice": 0.38,
     "directLowPrice": null,
@@ -989,9 +989,9 @@
   },
   "P-P-025 normal": {
     "lowPrice": 3.21,
-    "midPrice": 5.21,
+    "midPrice": 5.2,
     "highPrice": 24.0,
-    "marketPrice": 4.93,
+    "marketPrice": 4.92,
     "directLowPrice": null,
     "name": "Smoker (Pre-Release)",
     "rarity": "PR",
@@ -1014,8 +1014,8 @@
     "groupId": 17675
   },
   "P-P-025 parallel": {
-    "lowPrice": 189.99,
-    "midPrice": 200.0,
+    "lowPrice": 186.0,
+    "midPrice": 199.95,
     "highPrice": 350.0,
     "marketPrice": 79.39,
     "directLowPrice": null,
@@ -1066,8 +1066,8 @@
     "groupId": 17675
   },
   "OP02-OP02-035 parallel": {
-    "lowPrice": 253.22,
-    "midPrice": 301.61,
+    "lowPrice": 334.73,
+    "midPrice": 342.37,
     "highPrice": 350.0,
     "marketPrice": 77.43,
     "directLowPrice": null,
@@ -1095,7 +1095,7 @@
     "lowPrice": 49.95,
     "midPrice": 55.0,
     "highPrice": 58.99,
-    "marketPrice": 40.25,
+    "marketPrice": 40.97,
     "directLowPrice": null,
     "name": "Koby (Online Regional 2023) [Participant]",
     "rarity": "PR",
@@ -1222,8 +1222,8 @@
     "groupId": 17675
   },
   "ST04-ST04-008 normal": {
-    "lowPrice": 30.0,
-    "midPrice": 30.98,
+    "lowPrice": 25.0,
+    "midPrice": 30.49,
     "highPrice": 34.48,
     "marketPrice": 6.57,
     "directLowPrice": null,
@@ -1274,7 +1274,7 @@
     "groupId": 17675
   },
   "ST07-ST07-008 normal": {
-    "lowPrice": 29.98,
+    "lowPrice": 29.66,
     "midPrice": 33.0,
     "highPrice": 50.98,
     "marketPrice": 16.94,
@@ -1326,7 +1326,7 @@
     "groupId": 17675
   },
   "OP01-OP01-039 normal": {
-    "lowPrice": 1.46,
+    "lowPrice": 1.44,
     "midPrice": 2.63,
     "highPrice": 9.5,
     "marketPrice": 2.28,
@@ -1353,8 +1353,8 @@
   },
   "OP01-OP01-079 normal": {
     "lowPrice": 49.5,
-    "midPrice": 49.75,
-    "highPrice": 50.0,
+    "midPrice": 49.5,
+    "highPrice": 49.5,
     "marketPrice": 13.3,
     "directLowPrice": null,
     "name": "Ms. All Sunday (Promotion Pack 2023)",
@@ -1508,8 +1508,8 @@
     "groupId": 17675
   },
   "OP01-OP01-033 normal": {
-    "lowPrice": 0.5,
-    "midPrice": 1.42,
+    "lowPrice": 0.2,
+    "midPrice": 1.34,
     "highPrice": 7.88,
     "marketPrice": 0.99,
     "directLowPrice": null,
@@ -1586,10 +1586,10 @@
     "groupId": 17675
   },
   "ST04-ST04-011 parallel": {
-    "lowPrice": 10.99,
-    "midPrice": 13.54,
+    "lowPrice": 9.0,
+    "midPrice": 13.31,
     "highPrice": 36.0,
-    "marketPrice": 12.9,
+    "marketPrice": 12.83,
     "directLowPrice": null,
     "name": "Black Maria (Tournament Pack Vol. 2) [Winner]",
     "rarity": "PR",
@@ -1690,7 +1690,7 @@
     "groupId": 17675
   },
   "OP02-OP02-098 alt3": {
-    "lowPrice": 89.98,
+    "lowPrice": 89.95,
     "midPrice": 99.97,
     "highPrice": 149.99,
     "marketPrice": 32.07,
@@ -1742,8 +1742,8 @@
     "groupId": 17675
   },
   "ST01-ST01-004 alt3": {
-    "lowPrice": 40.0,
-    "midPrice": 49.99,
+    "lowPrice": 49.99,
+    "midPrice": 50.0,
     "highPrice": 50.0,
     "marketPrice": 18.25,
     "directLowPrice": null,
@@ -1794,8 +1794,8 @@
     "groupId": 17675
   },
   "ST03-ST03-014 alt3": {
-    "lowPrice": 17.99,
-    "midPrice": 19.25,
+    "lowPrice": 17.0,
+    "midPrice": 18.63,
     "highPrice": 50.0,
     "marketPrice": 8.95,
     "directLowPrice": null,
@@ -1847,7 +1847,7 @@
   },
   "ST04-ST04-008 alt3": {
     "lowPrice": 19.5,
-    "midPrice": 22.73,
+    "midPrice": 20.73,
     "highPrice": 24.99,
     "marketPrice": 5.65,
     "directLowPrice": null,
@@ -1901,7 +1901,7 @@
     "lowPrice": 700.0,
     "midPrice": 700.0,
     "highPrice": 700.0,
-    "marketPrice": null,
+    "marketPrice": 700.0,
     "directLowPrice": null,
     "name": "Jack (Offline Regional 2023) [Winner]",
     "rarity": "PR",
@@ -1950,8 +1950,8 @@
     "groupId": 17675
   },
   "ST07-ST07-008 alt4": {
-    "lowPrice": 144.99,
-    "midPrice": 149.5,
+    "lowPrice": 144.69,
+    "midPrice": 149.0,
     "highPrice": 200.0,
     "marketPrice": 54.57,
     "directLowPrice": null,
@@ -1976,10 +1976,10 @@
     "groupId": 17675
   },
   "OP01-OP01-001 normal": {
-    "lowPrice": 100.0,
-    "midPrice": 145.85,
+    "lowPrice": 99.58,
+    "midPrice": 150.0,
     "highPrice": 300.0,
-    "marketPrice": 102.04,
+    "marketPrice": 101.49,
     "directLowPrice": null,
     "name": "Roronoa Zoro - OP01-001 (Alternate Art)",
     "rarity": "PR",
@@ -2002,10 +2002,10 @@
     "groupId": 17675
   },
   "OP01-OP01-013 normal": {
-    "lowPrice": 31.5,
-    "midPrice": 39.98,
+    "lowPrice": 28.5,
+    "midPrice": 39.99,
     "highPrice": 180.0,
-    "marketPrice": 30.77,
+    "marketPrice": 30.29,
     "directLowPrice": null,
     "name": "Sanji - OP01-013 (Alternate Art)",
     "rarity": "PR",
@@ -2028,10 +2028,10 @@
     "groupId": 17675
   },
   "ST01-ST01-002 normal": {
-    "lowPrice": 9.26,
+    "lowPrice": 10.15,
     "midPrice": 12.0,
     "highPrice": 50.0,
-    "marketPrice": 10.57,
+    "marketPrice": 10.51,
     "directLowPrice": null,
     "name": "Usopp - ST01-002 (Alternate Art)",
     "rarity": "PR",
@@ -2054,10 +2054,10 @@
     "groupId": 17675
   },
   "OP01-OP01-016 normal": {
-    "lowPrice": 74.97,
-    "midPrice": 99.5,
+    "lowPrice": 74.07,
+    "midPrice": 105.0,
     "highPrice": 400.0,
-    "marketPrice": 70.31,
+    "marketPrice": 70.51,
     "directLowPrice": null,
     "name": "Nami - OP01-016 (Alternate Art)",
     "rarity": "PR",
@@ -2080,10 +2080,10 @@
     "groupId": 17675
   },
   "ST01-ST01-008 normal": {
-    "lowPrice": 49.94,
-    "midPrice": 59.99,
-    "highPrice": 99.0,
-    "marketPrice": 45.2,
+    "lowPrice": 50.0,
+    "midPrice": 64.99,
+    "highPrice": 100.0,
+    "marketPrice": 46.6,
     "directLowPrice": null,
     "name": "Nico Robin - ST01-008 (Alternate Art)",
     "rarity": "PR",
@@ -2106,8 +2106,8 @@
     "groupId": 17675
   },
   "ST01-ST01-006 parallel": {
-    "lowPrice": 88.88,
-    "midPrice": 104.72,
+    "lowPrice": 84.99,
+    "midPrice": 100.0,
     "highPrice": 250.0,
     "marketPrice": 101.89,
     "directLowPrice": null,
@@ -2132,10 +2132,10 @@
     "groupId": 17675
   },
   "ST01-ST01-010 normal": {
-    "lowPrice": 9.67,
-    "midPrice": 12.5,
+    "lowPrice": 9.5,
+    "midPrice": 12.56,
     "highPrice": 30.0,
-    "marketPrice": 11.02,
+    "marketPrice": 10.89,
     "directLowPrice": null,
     "name": "Franky - ST01-010 (Alternate Art)",
     "rarity": "PR",
@@ -2158,10 +2158,10 @@
     "groupId": 17675
   },
   "OP01-OP01-022 normal": {
-    "lowPrice": 17.77,
+    "lowPrice": 17.51,
     "midPrice": 18.93,
     "highPrice": 29.99,
-    "marketPrice": 18.83,
+    "marketPrice": 18.76,
     "directLowPrice": null,
     "name": "Brook - OP01-022 (Alternate Art)",
     "rarity": "PR",
@@ -2184,10 +2184,10 @@
     "groupId": 17675
   },
   "ST01-ST01-005 normal": {
-    "lowPrice": 7.2,
-    "midPrice": 8.49,
+    "lowPrice": 6.98,
+    "midPrice": 8.36,
     "highPrice": 20.0,
-    "marketPrice": 7.33,
+    "marketPrice": 7.31,
     "directLowPrice": null,
     "name": "Jinbe - ST01-005 (Alternate Art)",
     "rarity": "PR",
@@ -2211,9 +2211,9 @@
   },
   "P-P-026 normal": {
     "lowPrice": 0.89,
-    "midPrice": 1.19,
+    "midPrice": 1.17,
     "highPrice": 5.0,
-    "marketPrice": 0.98,
+    "marketPrice": 1.02,
     "directLowPrice": null,
     "name": "Morgan (Pirates Party Vol. 2)",
     "rarity": "PR",
@@ -2239,7 +2239,7 @@
     "lowPrice": 26.17,
     "midPrice": 35.0,
     "highPrice": 70.0,
-    "marketPrice": 28.08,
+    "marketPrice": 28.6,
     "directLowPrice": null,
     "name": "Boa Hancock (Judge)",
     "rarity": "PR",
@@ -2262,10 +2262,10 @@
     "groupId": 17675
   },
   "ST01-ST01-007 normal": {
-    "lowPrice": 7.55,
-    "midPrice": 13.87,
+    "lowPrice": 9.5,
+    "midPrice": 14.0,
     "highPrice": 49.99,
-    "marketPrice": 12.9,
+    "marketPrice": 12.78,
     "directLowPrice": null,
     "name": "Nami (Tournament Pack Vol. 3) [Participant]",
     "rarity": "PR",
@@ -2288,8 +2288,8 @@
     "groupId": 17675
   },
   "ST01-ST01-007 parallel": {
-    "lowPrice": 199.99,
-    "midPrice": 245.0,
+    "lowPrice": 175.0,
+    "midPrice": 242.0,
     "highPrice": 335.0,
     "marketPrice": 145.97,
     "directLowPrice": null,
@@ -2315,9 +2315,9 @@
   },
   "ST02-ST02-007 normal": {
     "lowPrice": 2.0,
-    "midPrice": 3.55,
+    "midPrice": 3.63,
     "highPrice": 8.99,
-    "marketPrice": 3.07,
+    "marketPrice": 3.12,
     "directLowPrice": null,
     "name": "Jewelry Bonney (Tournament Pack Vol. 3) [Participant]",
     "rarity": "PR",
@@ -2340,8 +2340,8 @@
     "groupId": 17675
   },
   "ST02-ST02-007 parallel": {
-    "lowPrice": 31.34,
-    "midPrice": 39.97,
+    "lowPrice": 38.95,
+    "midPrice": 39.99,
     "highPrice": 99.99,
     "marketPrice": 31.87,
     "directLowPrice": null,
@@ -2392,10 +2392,10 @@
     "groupId": 17675
   },
   "ST03-ST03-007 parallel": {
-    "lowPrice": 3.7,
+    "lowPrice": 4.01,
     "midPrice": 5.0,
     "highPrice": 49.99,
-    "marketPrice": 2.93,
+    "marketPrice": 2.99,
     "directLowPrice": null,
     "name": "Sentomaru (Tournament Pack Vol. 3) [Winner]",
     "rarity": "PR",
@@ -2421,7 +2421,7 @@
     "lowPrice": 0.02,
     "midPrice": 0.25,
     "highPrice": 2.0,
-    "marketPrice": 0.18,
+    "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "Who's.Who (Tournament Pack Vol. 3) [Participant]",
     "rarity": "PR",
@@ -2470,7 +2470,7 @@
     "groupId": 17675
   },
   "OP01-OP01-004 parallel": {
-    "lowPrice": 0.3,
+    "lowPrice": 0.25,
     "midPrice": 0.4,
     "highPrice": 1.0,
     "marketPrice": 0.33,
@@ -2523,7 +2523,7 @@
   },
   "OP01-OP01-005 normal": {
     "lowPrice": 0.49,
-    "midPrice": 0.67,
+    "midPrice": 0.65,
     "highPrice": 1.51,
     "marketPrice": 0.63,
     "directLowPrice": null,
@@ -2548,10 +2548,10 @@
     "groupId": 17675
   },
   "P-P-035 normal": {
-    "lowPrice": 9.49,
-    "midPrice": 12.72,
+    "lowPrice": 9.0,
+    "midPrice": 12.55,
     "highPrice": 100.0,
-    "marketPrice": 11.19,
+    "marketPrice": 10.89,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Pirates Party Vol. 3)",
     "rarity": "PR",
@@ -2575,9 +2575,9 @@
   },
   "ST01-ST01-009 normal": {
     "lowPrice": 5.0,
-    "midPrice": 7.99,
+    "midPrice": 7.4,
     "highPrice": 25.0,
-    "marketPrice": 6.01,
+    "marketPrice": 5.93,
     "directLowPrice": null,
     "name": "Nefeltari Vivi (OP-03 Pre-Release Tournament) [Participant]",
     "rarity": "PR",
@@ -2600,8 +2600,8 @@
     "groupId": 17675
   },
   "ST01-ST01-009 parallel": {
-    "lowPrice": 475.0,
-    "midPrice": 599.0,
+    "lowPrice": 334.0,
+    "midPrice": 499.99,
     "highPrice": 775.95,
     "marketPrice": 288.44,
     "directLowPrice": null,
@@ -2627,9 +2627,9 @@
   },
   "P-P-037 normal": {
     "lowPrice": 30.0,
-    "midPrice": 46.82,
+    "midPrice": 48.64,
     "highPrice": 71.75,
-    "marketPrice": 32.61,
+    "marketPrice": 32.68,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Anime Expo 2023)",
     "rarity": "PR",
@@ -2679,7 +2679,7 @@
   },
   "OP02-OP02-073 normal": {
     "lowPrice": 1.0,
-    "midPrice": 2.13,
+    "midPrice": 2.3,
     "highPrice": 12.98,
     "marketPrice": 1.31,
     "directLowPrice": null,
@@ -2705,7 +2705,7 @@
   },
   "OP01-OP01-006 normal": {
     "lowPrice": 2.9,
-    "midPrice": 6.53,
+    "midPrice": 6.14,
     "highPrice": 23.0,
     "marketPrice": 3.01,
     "directLowPrice": null,
@@ -2785,7 +2785,7 @@
     "lowPrice": 16.0,
     "midPrice": 18.05,
     "highPrice": 27.13,
-    "marketPrice": 9.38,
+    "marketPrice": 9.91,
     "directLowPrice": null,
     "name": "Yamato (Judge)",
     "rarity": "PR",
@@ -2808,7 +2808,7 @@
     "groupId": 17675
   },
   "OP01-OP01-073 normal": {
-    "lowPrice": 15.0,
+    "lowPrice": 14.0,
     "midPrice": 15.98,
     "highPrice": 25.51,
     "marketPrice": 3.79,
@@ -2913,7 +2913,7 @@
   },
   "OP02-OP02-108 normal": {
     "lowPrice": 12.0,
-    "midPrice": 21.0,
+    "midPrice": 16.49,
     "highPrice": 40.0,
     "marketPrice": 11.88,
     "directLowPrice": null,
@@ -2939,7 +2939,7 @@
   },
   "OP02-OP02-034 normal": {
     "lowPrice": 38.82,
-    "midPrice": 60.0,
+    "midPrice": 59.47,
     "highPrice": 149.99,
     "marketPrice": 38.01,
     "directLowPrice": null,
@@ -2991,7 +2991,7 @@
   },
   "OP01-OP01-017 normal": {
     "lowPrice": 43.37,
-    "midPrice": 91.98,
+    "midPrice": 81.58,
     "highPrice": 249.99,
     "marketPrice": 72.11,
     "directLowPrice": null,
@@ -3016,10 +3016,10 @@
     "groupId": 17675
   },
   "ST07-ST07-007 normal": {
-    "lowPrice": 8.0,
-    "midPrice": 9.43,
+    "lowPrice": 7.68,
+    "midPrice": 9.49,
     "highPrice": 50.0,
-    "marketPrice": 8.73,
+    "marketPrice": 8.79,
     "directLowPrice": null,
     "name": "Charlotte Brulee (Store Championship Participation Pack)",
     "rarity": "PR",
@@ -3042,8 +3042,8 @@
     "groupId": 17675
   },
   "ST03-ST03-004 normal": {
-    "lowPrice": 20.98,
-    "midPrice": 23.98,
+    "lowPrice": 20.0,
+    "midPrice": 23.91,
     "highPrice": 200.0,
     "marketPrice": 9.0,
     "directLowPrice": null,
@@ -3097,7 +3097,7 @@
     "lowPrice": 0.18,
     "midPrice": 0.4,
     "highPrice": 3.0,
-    "marketPrice": 0.33,
+    "marketPrice": 0.34,
     "directLowPrice": null,
     "name": "Okiku (Tournament Pack Vol. 4)",
     "rarity": "R",
@@ -3121,9 +3121,9 @@
   },
   "ST01-ST01-011 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.79,
+    "midPrice": 0.82,
     "highPrice": 2.0,
-    "marketPrice": 0.46,
+    "marketPrice": 0.47,
     "directLowPrice": null,
     "name": "Brook (Tournament Pack Vol. 4)",
     "rarity": "C",
@@ -3147,8 +3147,8 @@
   },
   "ST03-ST03-005 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.85,
-    "highPrice": 25.99,
+    "midPrice": 0.84,
+    "highPrice": 25.47,
     "marketPrice": 0.51,
     "directLowPrice": null,
     "name": "Dracule Mihawk (Tournament Pack Vol. 4)",
@@ -3173,7 +3173,7 @@
   },
   "ST06-ST06-006 normal": {
     "lowPrice": 0.6,
-    "midPrice": 1.07,
+    "midPrice": 1.06,
     "highPrice": 4.99,
     "marketPrice": 0.93,
     "directLowPrice": null,
@@ -3199,7 +3199,7 @@
   },
   "OP01-OP01-035 alt2": {
     "lowPrice": 4.8,
-    "midPrice": 8.0,
+    "midPrice": 7.8,
     "highPrice": 39.95,
     "marketPrice": 4.94,
     "directLowPrice": null,
@@ -3225,9 +3225,9 @@
   },
   "ST01-ST01-011 parallel": {
     "lowPrice": 25.0,
-    "midPrice": 27.02,
-    "highPrice": 37.7,
-    "marketPrice": 21.72,
+    "midPrice": 27.25,
+    "highPrice": 38.3,
+    "marketPrice": 22.06,
     "directLowPrice": null,
     "name": "Brook (Winner Pack Vol. 4)",
     "rarity": "C",
@@ -3250,7 +3250,7 @@
     "groupId": 17675
   },
   "ST03-ST03-005 parallel": {
-    "lowPrice": 16.25,
+    "lowPrice": 9.98,
     "midPrice": 34.98,
     "highPrice": 55.97,
     "marketPrice": 20.82,
@@ -3276,8 +3276,8 @@
     "groupId": 17675
   },
   "ST06-ST06-006 parallel": {
-    "lowPrice": 6.06,
-    "midPrice": 10.0,
+    "lowPrice": 6.29,
+    "midPrice": 10.12,
     "highPrice": 198.95,
     "marketPrice": 7.64,
     "directLowPrice": null,
@@ -3354,10 +3354,10 @@
     "groupId": 17675
   },
   "OP01-OP01-005 parallel": {
-    "lowPrice": 12.72,
-    "midPrice": 20.75,
+    "lowPrice": 11.0,
+    "midPrice": 20.0,
     "highPrice": 29.99,
-    "marketPrice": 15.52,
+    "marketPrice": 15.3,
     "directLowPrice": null,
     "name": "Uta (Premium Card Collection -ONE PIECE FILM RED Edition-)",
     "rarity": "R",
@@ -3380,7 +3380,7 @@
     "groupId": 17675
   },
   "OP01-OP01-014 normal": {
-    "lowPrice": 4.68,
+    "lowPrice": 4.67,
     "midPrice": 5.0,
     "highPrice": 14.99,
     "marketPrice": 4.76,
@@ -3406,8 +3406,8 @@
     "groupId": 17675
   },
   "OP01-OP01-017 parallel": {
-    "lowPrice": 18.99,
-    "midPrice": 21.29,
+    "lowPrice": 17.99,
+    "midPrice": 21.2,
     "highPrice": 49.0,
     "marketPrice": 21.41,
     "directLowPrice": null,
@@ -3433,9 +3433,9 @@
   },
   "OP01-OP01-021 alt2": {
     "lowPrice": 4.5,
-    "midPrice": 5.61,
+    "midPrice": 5.54,
     "highPrice": 12.99,
-    "marketPrice": 5.21,
+    "marketPrice": 5.18,
     "directLowPrice": null,
     "name": "Franky (Premium Card Collection -ONE PIECE FILM RED Edition-)",
     "rarity": "UC",
@@ -3458,10 +3458,10 @@
     "groupId": 17675
   },
   "P-P-016 parallel": {
-    "lowPrice": 15.85,
+    "lowPrice": 15.79,
     "midPrice": 19.14,
     "highPrice": 29.99,
-    "marketPrice": 16.05,
+    "marketPrice": 15.92,
     "directLowPrice": null,
     "name": "Shanks (Premium Card Collection -ONE PIECE FILM RED Edition-)",
     "rarity": "PR",
@@ -3484,10 +3484,10 @@
     "groupId": 17675
   },
   "P-P-022 parallel": {
-    "lowPrice": 40.0,
-    "midPrice": 49.09,
+    "lowPrice": 41.5,
+    "midPrice": 48.94,
     "highPrice": 99.0,
-    "marketPrice": 53.6,
+    "marketPrice": 52.7,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Premium Card Collection -ONE PIECE FILM RED Edition-)",
     "rarity": "PR",
@@ -3510,10 +3510,10 @@
     "groupId": 17675
   },
   "ST01-ST01-002 parallel": {
-    "lowPrice": 5.91,
-    "midPrice": 7.3,
+    "lowPrice": 5.49,
+    "midPrice": 7.09,
     "highPrice": 15.0,
-    "marketPrice": 6.5,
+    "marketPrice": 6.45,
     "directLowPrice": null,
     "name": "Usopp (Premium Card Collection -ONE PIECE FILM RED Edition-)",
     "rarity": "C",
@@ -3536,8 +3536,8 @@
     "groupId": 17675
   },
   "ST01-ST01-004 alt6": {
-    "lowPrice": 23.0,
-    "midPrice": 25.97,
+    "lowPrice": 22.68,
+    "midPrice": 25.43,
     "highPrice": 100.0,
     "marketPrice": 20.62,
     "directLowPrice": null,
@@ -3563,7 +3563,7 @@
   },
   "ST01-ST01-006 alt4": {
     "lowPrice": 40.45,
-    "midPrice": 46.45,
+    "midPrice": 43.0,
     "highPrice": 99.0,
     "marketPrice": 38.06,
     "directLowPrice": null,
@@ -3588,10 +3588,10 @@
     "groupId": 17675
   },
   "ST01-ST01-007 alt2": {
-    "lowPrice": 30.0,
-    "midPrice": 38.89,
+    "lowPrice": 37.67,
+    "midPrice": 39.25,
     "highPrice": 99.0,
-    "marketPrice": 40.42,
+    "marketPrice": 40.04,
     "directLowPrice": null,
     "name": "Nami (Premium Card Collection -ONE PIECE FILM RED Edition-)",
     "rarity": "C",
@@ -3614,10 +3614,10 @@
     "groupId": 17675
   },
   "ST01-ST01-011 alt2": {
-    "lowPrice": 5.91,
-    "midPrice": 6.37,
+    "lowPrice": 5.89,
+    "midPrice": 6.31,
     "highPrice": 25.0,
-    "marketPrice": 6.06,
+    "marketPrice": 6.03,
     "directLowPrice": null,
     "name": "Brook (Premium Card Collection -ONE PIECE FILM RED Edition-)",
     "rarity": "C",
@@ -3641,7 +3641,7 @@
   },
   "ST01-ST01-013 alt3": {
     "lowPrice": 42.0,
-    "midPrice": 54.95,
+    "midPrice": 51.45,
     "highPrice": 99.0,
     "marketPrice": 31.18,
     "directLowPrice": null,
@@ -3668,7 +3668,7 @@
   "OP03-OP03-001 normal": {
     "lowPrice": 37.99,
     "midPrice": 44.67,
-    "highPrice": 80.0,
+    "highPrice": 150.0,
     "marketPrice": 44.5,
     "directLowPrice": null,
     "name": "Portgas.D.Ace (Special Goods Set -Ace/Sabo/Luffy-)",
@@ -3719,7 +3719,7 @@
   },
   "OP01-OP01-101 normal": {
     "lowPrice": 1.0,
-    "midPrice": 3.29,
+    "midPrice": 3.25,
     "highPrice": 4.99,
     "marketPrice": 2.42,
     "directLowPrice": null,
@@ -3770,10 +3770,10 @@
     "groupId": 17675
   },
   "P-P-027 normal": {
-    "lowPrice": 10.02,
-    "midPrice": 15.0,
+    "lowPrice": 12.65,
+    "midPrice": 14.99,
     "highPrice": 31.5,
-    "marketPrice": 13.94,
+    "marketPrice": 13.54,
     "directLowPrice": null,
     "name": "General Franky (Event Pack Vol. 2)",
     "rarity": "PR",
@@ -3796,10 +3796,10 @@
     "groupId": 17675
   },
   "P-P-033 normal": {
-    "lowPrice": 274.99,
-    "midPrice": 411.76,
+    "lowPrice": 269.99,
+    "midPrice": 410.0,
     "highPrice": 1200.0,
-    "marketPrice": 348.88,
+    "marketPrice": 352.88,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Event Pack Vol. 2)",
     "rarity": "PR",
@@ -3822,10 +3822,10 @@
     "groupId": 17675
   },
   "P-P-034 normal": {
-    "lowPrice": 4.99,
-    "midPrice": 9.99,
+    "lowPrice": 7.99,
+    "midPrice": 10.0,
     "highPrice": 75.0,
-    "marketPrice": 5.39,
+    "marketPrice": 5.46,
     "directLowPrice": null,
     "name": "Sanji (Event Pack Vol. 2)",
     "rarity": "PR",
@@ -3900,10 +3900,10 @@
     "groupId": 17675
   },
   "P-P-001 alt4": {
-    "lowPrice": 109.99,
-    "midPrice": 137.0,
+    "lowPrice": 110.0,
+    "midPrice": 139.48,
     "highPrice": 299.99,
-    "marketPrice": 131.68,
+    "marketPrice": 129.32,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Alternate Art)",
     "rarity": "PR",
@@ -3929,7 +3929,7 @@
     "lowPrice": 49.99,
     "midPrice": 74.99,
     "highPrice": 147.75,
-    "marketPrice": 54.45,
+    "marketPrice": 56.53,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Gen Con 2023)",
     "rarity": "PR",
@@ -3953,9 +3953,9 @@
   },
   "P-P-039 normal": {
     "lowPrice": 0.99,
-    "midPrice": 1.54,
+    "midPrice": 1.62,
     "highPrice": 9.99,
-    "marketPrice": 1.29,
+    "marketPrice": 1.28,
     "directLowPrice": null,
     "name": "Bellamy (Pirates Party Vol. 4)",
     "rarity": "PR",
@@ -4005,7 +4005,7 @@
   },
   "OP02-OP02-008 parallel": {
     "lowPrice": 14.22,
-    "midPrice": 22.65,
+    "midPrice": 22.7,
     "highPrice": 49.99,
     "marketPrice": 19.12,
     "directLowPrice": null,
@@ -4083,9 +4083,9 @@
   },
   "OP03-OP03-102 normal": {
     "lowPrice": 18.68,
-    "midPrice": 22.0,
+    "midPrice": 21.95,
     "highPrice": 50.0,
-    "marketPrice": 17.95,
+    "marketPrice": 18.52,
     "directLowPrice": null,
     "name": "Sanji (Store Championship Participation Pack Vol. 2)",
     "rarity": "PR",
@@ -4108,10 +4108,10 @@
     "groupId": 17675
   },
   "ST05-ST05-008 normal": {
-    "lowPrice": 7.0,
-    "midPrice": 15.0,
+    "lowPrice": 7.88,
+    "midPrice": 15.45,
     "highPrice": 99.99,
-    "marketPrice": 8.74,
+    "marketPrice": 8.89,
     "directLowPrice": null,
     "name": "Shiki (Store Championship Participation Pack Vol. 2)",
     "rarity": "PR",
@@ -4135,7 +4135,7 @@
   },
   "P-P-003 parallel": {
     "lowPrice": 39.99,
-    "midPrice": 50.0,
+    "midPrice": 49.98,
     "highPrice": 500.0,
     "marketPrice": 40.28,
     "directLowPrice": null,
@@ -4187,9 +4187,9 @@
   },
   "OP01-OP01-006 alt2": {
     "lowPrice": 70.0,
-    "midPrice": 88.74,
+    "midPrice": 89.37,
     "highPrice": 129.95,
-    "marketPrice": 73.32,
+    "marketPrice": 72.93,
     "directLowPrice": null,
     "name": "Otama (Online Regional 2023) [Finalist]",
     "rarity": "PR",
@@ -4213,9 +4213,9 @@
   },
   "OP02-OP02-053 normal": {
     "lowPrice": 9.9,
-    "midPrice": 11.42,
+    "midPrice": 11.47,
     "highPrice": 54.99,
-    "marketPrice": 9.93,
+    "marketPrice": 9.97,
     "directLowPrice": null,
     "name": "Crocodile (Online Regional 2023) [Participant]",
     "rarity": "PR",
@@ -4238,8 +4238,8 @@
     "groupId": 17675
   },
   "OP02-OP02-053 parallel": {
-    "lowPrice": 124.99,
-    "midPrice": 137.5,
+    "lowPrice": 99.95,
+    "midPrice": 124.99,
     "highPrice": 150.0,
     "marketPrice": 70.39,
     "directLowPrice": null,
@@ -4290,9 +4290,9 @@
     "groupId": 17675
   },
   "OP03-OP03-026 parallel": {
-    "lowPrice": 333.54,
-    "midPrice": 333.54,
-    "highPrice": 333.54,
+    "lowPrice": 443.91,
+    "midPrice": 443.91,
+    "highPrice": 443.91,
     "marketPrice": 24.33,
     "directLowPrice": null,
     "name": "Kuroobi (Online Regional 2023) [Finalist]",
@@ -4317,7 +4317,7 @@
   },
   "OP03-OP03-069 normal": {
     "lowPrice": 1.8,
-    "midPrice": 6.52,
+    "midPrice": 6.88,
     "highPrice": 30.0,
     "marketPrice": 5.3,
     "directLowPrice": null,
@@ -4342,9 +4342,9 @@
     "groupId": 17675
   },
   "OP03-OP03-069 parallel": {
-    "lowPrice": 338.52,
-    "midPrice": 339.56,
-    "highPrice": 340.59,
+    "lowPrice": 431.98,
+    "midPrice": 441.28,
+    "highPrice": 450.58,
     "marketPrice": 15.65,
     "directLowPrice": null,
     "name": "Minorhinoceros (Online Regional 2023) [Finalist]",
@@ -4551,9 +4551,9 @@
   },
   "OP01-OP01-077 normal": {
     "lowPrice": 9.0,
-    "midPrice": 9.66,
+    "midPrice": 9.82,
     "highPrice": 29.99,
-    "marketPrice": 9.15,
+    "marketPrice": 9.1,
     "directLowPrice": null,
     "name": "Perona (Judge Pack Vol. 2)",
     "rarity": "PR",
@@ -4577,9 +4577,9 @@
   },
   "OP02-OP02-040 normal": {
     "lowPrice": 2.49,
-    "midPrice": 19.99,
+    "midPrice": 20.0,
     "highPrice": 30.0,
-    "marketPrice": 3.57,
+    "marketPrice": 3.65,
     "directLowPrice": null,
     "name": "Brook (Judge Pack Vol. 2)",
     "rarity": "PR",
@@ -4603,9 +4603,9 @@
   },
   "OP02-OP02-108 parallel": {
     "lowPrice": 0.49,
-    "midPrice": 2.0,
+    "midPrice": 1.95,
     "highPrice": 8.81,
-    "marketPrice": 1.19,
+    "marketPrice": 1.18,
     "directLowPrice": null,
     "name": "Donquixote Rosinante (Judge Pack Vol. 2)",
     "rarity": "PR",
@@ -4629,7 +4629,7 @@
   },
   "OP03-OP03-008 normal": {
     "lowPrice": 15.0,
-    "midPrice": 18.12,
+    "midPrice": 18.0,
     "highPrice": 20.0,
     "marketPrice": 7.77,
     "directLowPrice": null,
@@ -4681,7 +4681,7 @@
   },
   "OP03-OP03-057 normal": {
     "lowPrice": 0.4,
-    "midPrice": 1.35,
+    "midPrice": 1.36,
     "highPrice": 8.0,
     "marketPrice": 0.81,
     "directLowPrice": null,
@@ -4706,10 +4706,10 @@
     "groupId": 17675
   },
   "OP03-OP03-070 normal": {
-    "lowPrice": 39.98,
-    "midPrice": 54.95,
+    "lowPrice": 39.95,
+    "midPrice": 50.0,
     "highPrice": 100.0,
-    "marketPrice": 45.98,
+    "marketPrice": 46.11,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Judge Pack Vol. 2)",
     "rarity": "PR",
@@ -4732,7 +4732,7 @@
     "groupId": 17675
   },
   "OP03-OP03-081 normal": {
-    "lowPrice": 6.68,
+    "lowPrice": 8.41,
     "midPrice": 9.97,
     "highPrice": 199.0,
     "marketPrice": 3.2,
@@ -4759,7 +4759,7 @@
   },
   "OP03-OP03-112 normal": {
     "lowPrice": 5.0,
-    "midPrice": 13.59,
+    "midPrice": 14.12,
     "highPrice": 50.0,
     "marketPrice": 2.09,
     "directLowPrice": null,
@@ -4785,7 +4785,7 @@
   },
   "OP03-OP03-121 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.82,
+    "midPrice": 0.87,
     "highPrice": 38.13,
     "marketPrice": 0.38,
     "directLowPrice": null,
@@ -4811,9 +4811,9 @@
   },
   "ST02-ST02-014 normal": {
     "lowPrice": 0.69,
-    "midPrice": 1.43,
+    "midPrice": 1.45,
     "highPrice": 19.99,
-    "marketPrice": 0.72,
+    "marketPrice": 0.73,
     "directLowPrice": null,
     "name": "X.Drake (Judge Pack Vol. 2)",
     "rarity": "PR",
@@ -4837,7 +4837,7 @@
   },
   "ST04-ST04-005 normal": {
     "lowPrice": 0.7,
-    "midPrice": 1.38,
+    "midPrice": 1.49,
     "highPrice": 50.0,
     "marketPrice": 0.87,
     "directLowPrice": null,
@@ -4940,8 +4940,8 @@
     "groupId": 17675
   },
   "OP02-OP02-053 alt5": {
-    "lowPrice": 7.8,
-    "midPrice": 12.0,
+    "lowPrice": 7.0,
+    "midPrice": 11.9,
     "highPrice": 50.0,
     "marketPrice": 8.0,
     "directLowPrice": null,
@@ -5149,7 +5149,7 @@
   },
   "OP03-OP03-109 alt5": {
     "lowPrice": 5.4,
-    "midPrice": 6.56,
+    "midPrice": 6.62,
     "highPrice": 19.99,
     "marketPrice": 6.62,
     "directLowPrice": null,
@@ -5253,9 +5253,9 @@
   },
   "P-P-036 normal": {
     "lowPrice": 6.87,
-    "midPrice": 11.39,
+    "midPrice": 11.1,
     "highPrice": 50.0,
-    "marketPrice": 5.51,
+    "marketPrice": 5.84,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Pre-Release Tournament)",
     "rarity": "PR",
@@ -5279,7 +5279,7 @@
   },
   "P-P-036 parallel": {
     "lowPrice": 342.0,
-    "midPrice": 399.0,
+    "midPrice": 394.51,
     "highPrice": 1200.0,
     "marketPrice": 284.21,
     "directLowPrice": null,
@@ -5305,7 +5305,7 @@
   },
   "OP04-OP04-083 normal": {
     "lowPrice": 157.0,
-    "midPrice": 172.95,
+    "midPrice": 172.3,
     "highPrice": 500.0,
     "marketPrice": 133.5,
     "directLowPrice": null,
@@ -5331,7 +5331,7 @@
   },
   "P-P-047 normal": {
     "lowPrice": 95.0,
-    "midPrice": 115.0,
+    "midPrice": 121.27,
     "highPrice": 400.0,
     "marketPrice": 122.11,
     "directLowPrice": null,
@@ -5356,10 +5356,10 @@
     "groupId": 17675
   },
   "P-P-048 normal": {
-    "lowPrice": 64.97,
-    "midPrice": 69.99,
+    "lowPrice": 64.96,
+    "midPrice": 79.0,
     "highPrice": 120.0,
-    "marketPrice": 34.85,
+    "marketPrice": 38.99,
     "directLowPrice": null,
     "name": "Arlong (Sealed Battle Kit Vol. 1)",
     "rarity": "PR",
@@ -5382,8 +5382,8 @@
     "groupId": 17675
   },
   "P-P-049 normal": {
-    "lowPrice": 9.0,
-    "midPrice": 12.0,
+    "lowPrice": 7.0,
+    "midPrice": 11.99,
     "highPrice": 30.0,
     "marketPrice": 11.34,
     "directLowPrice": null,
@@ -5487,7 +5487,7 @@
   },
   "P-P-053 normal": {
     "lowPrice": 6.0,
-    "midPrice": 19.94,
+    "midPrice": 19.95,
     "highPrice": 80.0,
     "marketPrice": 1.01,
     "directLowPrice": null,
@@ -5538,8 +5538,8 @@
     "groupId": 17675
   },
   "P-P-055 normal": {
-    "lowPrice": 0.39,
-    "midPrice": 5.3,
+    "lowPrice": 1.98,
+    "midPrice": 5.4,
     "highPrice": 90.0,
     "marketPrice": 2.1,
     "directLowPrice": null,
@@ -5565,7 +5565,7 @@
   },
   "P-P-056 normal": {
     "lowPrice": 4.64,
-    "midPrice": 9.14,
+    "midPrice": 8.15,
     "highPrice": 22.0,
     "marketPrice": 5.63,
     "directLowPrice": null,
@@ -5590,10 +5590,10 @@
     "groupId": 17675
   },
   "P-P-006 alt2": {
-    "lowPrice": 22.0,
+    "lowPrice": 20.0,
     "midPrice": 26.3,
     "highPrice": 70.0,
-    "marketPrice": 24.54,
+    "marketPrice": 24.73,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy - P-006 (Retail Promo)",
     "rarity": "PR",
@@ -5616,7 +5616,7 @@
     "groupId": 17675
   },
   "ST01-ST01-012 normal": {
-    "lowPrice": 3.95,
+    "lowPrice": 3.85,
     "midPrice": 5.0,
     "highPrice": 19.99,
     "marketPrice": 5.51,
@@ -5642,10 +5642,10 @@
     "groupId": 17675
   },
   "ST01-ST01-012 parallel": {
-    "lowPrice": 72.98,
-    "midPrice": 87.32,
+    "lowPrice": 69.99,
+    "midPrice": 88.32,
     "highPrice": 499.99,
-    "marketPrice": 84.78,
+    "marketPrice": 80.97,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Winner Pack Vol. 5)",
     "rarity": "SR",
@@ -5669,9 +5669,9 @@
   },
   "ST02-ST02-013 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.49,
+    "midPrice": 0.48,
     "highPrice": 3.0,
-    "marketPrice": 0.38,
+    "marketPrice": 0.39,
     "directLowPrice": null,
     "name": "Eustass\"Captain\"Kid (Tournament Pack Vol. 5)",
     "rarity": "SR",
@@ -5694,8 +5694,8 @@
     "groupId": 17675
   },
   "ST02-ST02-013 parallel": {
-    "lowPrice": 12.72,
-    "midPrice": 14.22,
+    "lowPrice": 11.64,
+    "midPrice": 14.29,
     "highPrice": 75.99,
     "marketPrice": 10.74,
     "directLowPrice": null,
@@ -5721,7 +5721,7 @@
   },
   "ST03-ST03-003 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.35,
+    "midPrice": 0.36,
     "highPrice": 2.5,
     "marketPrice": 0.36,
     "directLowPrice": null,
@@ -5747,9 +5747,9 @@
   },
   "ST03-ST03-003 parallel": {
     "lowPrice": 9.45,
-    "midPrice": 10.99,
+    "midPrice": 10.98,
     "highPrice": 59.99,
-    "marketPrice": 13.13,
+    "marketPrice": 13.23,
     "directLowPrice": null,
     "name": "Crocodile (Winner Pack Vol. 5)",
     "rarity": "SR",
@@ -5775,7 +5775,7 @@
     "lowPrice": 0.2,
     "midPrice": 0.5,
     "highPrice": 3.93,
-    "marketPrice": 0.47,
+    "marketPrice": 0.46,
     "directLowPrice": null,
     "name": "Kaido (Tournament Pack Vol. 5)",
     "rarity": "SR",
@@ -5799,7 +5799,7 @@
   },
   "ST04-ST04-003 parallel": {
     "lowPrice": 12.0,
-    "midPrice": 18.49,
+    "midPrice": 16.99,
     "highPrice": 102.99,
     "marketPrice": 11.6,
     "directLowPrice": null,
@@ -5825,9 +5825,9 @@
   },
   "P-P-037 alt2": {
     "lowPrice": 42.0,
-    "midPrice": 99.99,
+    "midPrice": 90.0,
     "highPrice": 499.99,
-    "marketPrice": 62.01,
+    "marketPrice": 61.79,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (037) (1st Anniversary Tournament)",
     "rarity": "PR",
@@ -5877,9 +5877,9 @@
   },
   "OP02-OP02-059 parallel": {
     "lowPrice": 37.0,
-    "midPrice": 49.42,
+    "midPrice": 49.5,
     "highPrice": 499.0,
-    "marketPrice": 44.47,
+    "marketPrice": 42.62,
     "directLowPrice": null,
     "name": "Boa Hancock (Gift Collection 2023)",
     "rarity": "UC",
@@ -5903,9 +5903,9 @@
   },
   "ST09-ST09-012 normal": {
     "lowPrice": 13.0,
-    "midPrice": 17.62,
+    "midPrice": 17.74,
     "highPrice": 199.0,
-    "marketPrice": 14.17,
+    "marketPrice": 14.18,
     "directLowPrice": null,
     "name": "Yamato (Gift Collection 2023)",
     "rarity": "C",
@@ -5928,10 +5928,10 @@
     "groupId": 17675
   },
   "OP01-OP01-016 parallel": {
-    "lowPrice": 64.1,
-    "midPrice": 81.73,
+    "lowPrice": 61.99,
+    "midPrice": 80.92,
     "highPrice": 399.99,
-    "marketPrice": 63.67,
+    "marketPrice": 63.87,
     "directLowPrice": null,
     "name": "Nami (Gift Collection 2023)",
     "rarity": "R",
@@ -5954,10 +5954,10 @@
     "groupId": 17675
   },
   "ST03-ST03-008 normal": {
-    "lowPrice": 20.0,
-    "midPrice": 23.99,
+    "lowPrice": 19.9,
+    "midPrice": 22.69,
     "highPrice": 199.95,
-    "marketPrice": 20.23,
+    "marketPrice": 19.87,
     "directLowPrice": null,
     "name": "Trafalgar Law (Gift Collection 2023)",
     "rarity": "R",
@@ -5983,7 +5983,7 @@
     "lowPrice": 18.69,
     "midPrice": 22.0,
     "highPrice": 149.95,
-    "marketPrice": 19.67,
+    "marketPrice": 19.8,
     "directLowPrice": null,
     "name": "Portgas.D.Ace (Gift Collection 2023)",
     "rarity": "PR",
@@ -6006,10 +6006,10 @@
     "groupId": 17675
   },
   "P-P-001 alt5": {
-    "lowPrice": 56.99,
-    "midPrice": 83.98,
+    "lowPrice": 56.74,
+    "midPrice": 82.0,
     "highPrice": 299.99,
-    "marketPrice": 67.26,
+    "marketPrice": 65.2,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Gift Collection 2023)",
     "rarity": "PR",
@@ -6032,10 +6032,10 @@
     "groupId": 17675
   },
   "ST01-ST01-005 parallel": {
-    "lowPrice": 2.99,
-    "midPrice": 4.46,
+    "lowPrice": 2.31,
+    "midPrice": 4.49,
     "highPrice": 99.98,
-    "marketPrice": 3.58,
+    "marketPrice": 3.44,
     "directLowPrice": null,
     "name": "Jinbe (Gift Collection 2023)",
     "rarity": "C",
@@ -6058,10 +6058,10 @@
     "groupId": 17675
   },
   "OP01-OP01-021 alt3": {
-    "lowPrice": 6.49,
+    "lowPrice": 7.53,
     "midPrice": 10.0,
-    "highPrice": 99.98,
-    "marketPrice": 7.4,
+    "highPrice": 100.0,
+    "marketPrice": 7.62,
     "directLowPrice": null,
     "name": "Franky (Gift Collection 2023)",
     "rarity": "UC",
@@ -6085,9 +6085,9 @@
   },
   "OP01-OP01-005 alt2": {
     "lowPrice": 22.0,
-    "midPrice": 45.99,
+    "midPrice": 40.5,
     "highPrice": 99.95,
-    "marketPrice": 17.07,
+    "marketPrice": 18.18,
     "directLowPrice": null,
     "name": "Uta (Gift Collection 2023)",
     "rarity": "R",
@@ -6110,10 +6110,10 @@
     "groupId": 17675
   },
   "OP01-OP01-013 alt2": {
-    "lowPrice": 16.51,
-    "midPrice": 21.23,
+    "lowPrice": 16.84,
+    "midPrice": 19.7,
     "highPrice": 149.95,
-    "marketPrice": 16.61,
+    "marketPrice": 17.28,
     "directLowPrice": null,
     "name": "Sanji (Gift Collection 2023)",
     "rarity": "R",
@@ -6136,10 +6136,10 @@
     "groupId": 17675
   },
   "ST01-ST01-013 alt4": {
-    "lowPrice": 33.0,
-    "midPrice": 41.15,
+    "lowPrice": 31.99,
+    "midPrice": 41.0,
     "highPrice": 300.0,
-    "marketPrice": 36.25,
+    "marketPrice": 36.1,
     "directLowPrice": null,
     "name": "Roronoa Zoro (Gift Collection 2023)",
     "rarity": "SR",
@@ -6163,9 +6163,9 @@
   },
   "ST01-ST01-006 alt5": {
     "lowPrice": 73.5,
-    "midPrice": 114.99,
+    "midPrice": 120.0,
     "highPrice": 300.0,
-    "marketPrice": 74.99,
+    "marketPrice": 74.08,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper (Gift Collection 2023)",
     "rarity": "C",
@@ -6189,9 +6189,9 @@
   },
   "ST01-ST01-008 parallel": {
     "lowPrice": 44.99,
-    "midPrice": 90.0,
+    "midPrice": 67.5,
     "highPrice": 199.99,
-    "marketPrice": 31.92,
+    "marketPrice": 33.32,
     "directLowPrice": null,
     "name": "Nico Robin (Gift Collection 2023)",
     "rarity": "C",
@@ -6215,7 +6215,7 @@
   },
   "OP01-OP01-052 parallel": {
     "lowPrice": 10.96,
-    "midPrice": 19.95,
+    "midPrice": 19.85,
     "highPrice": 30.67,
     "marketPrice": 6.9,
     "directLowPrice": null,
@@ -6240,8 +6240,8 @@
     "groupId": 17675
   },
   "OP01-OP01-101 parallel": {
-    "lowPrice": 18.99,
-    "midPrice": 19.99,
+    "lowPrice": 18.95,
+    "midPrice": 20.0,
     "highPrice": 27.13,
     "marketPrice": 14.69,
     "directLowPrice": null,
@@ -6292,8 +6292,8 @@
     "groupId": 17675
   },
   "P-P-027 parallel": {
-    "lowPrice": 80.0,
-    "midPrice": 94.71,
+    "lowPrice": 79.99,
+    "midPrice": 94.49,
     "highPrice": 120.0,
     "marketPrice": 19.86,
     "directLowPrice": null,
@@ -6345,7 +6345,7 @@
   },
   "P-P-029 parallel": {
     "lowPrice": 17.0,
-    "midPrice": 29.98,
+    "midPrice": 27.99,
     "highPrice": 69.95,
     "marketPrice": 6.11,
     "directLowPrice": null,
@@ -6370,10 +6370,10 @@
     "groupId": 17675
   },
   "P-P-030 parallel": {
-    "lowPrice": 29.98,
-    "midPrice": 55.99,
+    "lowPrice": 29.95,
+    "midPrice": 55.98,
     "highPrice": 500.0,
-    "marketPrice": 11.2,
+    "marketPrice": 12.3,
     "directLowPrice": null,
     "name": "Jinbe (CS 2023 Event Pack)",
     "rarity": "PR",
@@ -6422,8 +6422,8 @@
     "groupId": 17675
   },
   "P-P-032 parallel": {
-    "lowPrice": 21.93,
-    "midPrice": 24.5,
+    "lowPrice": 21.92,
+    "midPrice": 25.0,
     "highPrice": 60.0,
     "marketPrice": 11.71,
     "directLowPrice": null,
@@ -6448,7 +6448,7 @@
     "groupId": 17675
   },
   "P-P-033 parallel": {
-    "lowPrice": 1100.0,
+    "lowPrice": 1099.69,
     "midPrice": 1200.0,
     "highPrice": 3000.0,
     "marketPrice": 589.34,
@@ -6474,8 +6474,8 @@
     "groupId": 17675
   },
   "P-P-034 parallel": {
-    "lowPrice": 36.99,
-    "midPrice": 42.92,
+    "lowPrice": 36.95,
+    "midPrice": 42.9,
     "highPrice": 99.99,
     "marketPrice": 28.65,
     "directLowPrice": null,
@@ -6500,8 +6500,8 @@
     "groupId": 17675
   },
   "OP01-OP01-021 alt4": {
-    "lowPrice": 74.99,
-    "midPrice": 100.0,
+    "lowPrice": 74.95,
+    "midPrice": 99.99,
     "highPrice": 140.0,
     "marketPrice": 26.8,
     "directLowPrice": null,
@@ -6526,8 +6526,8 @@
     "groupId": 17675
   },
   "OP01-OP01-033 alt2": {
-    "lowPrice": 8.62,
-    "midPrice": 17.13,
+    "lowPrice": 8.61,
+    "midPrice": 17.0,
     "highPrice": 58.0,
     "marketPrice": 8.79,
     "directLowPrice": null,
@@ -6605,7 +6605,7 @@
   },
   "P-P-007 alt2": {
     "lowPrice": 120.0,
-    "midPrice": 141.5,
+    "midPrice": 141.35,
     "highPrice": 301.01,
     "marketPrice": 86.04,
     "directLowPrice": null,
@@ -6630,8 +6630,8 @@
     "groupId": 17675
   },
   "P-P-008 alt2": {
-    "lowPrice": 83.0,
-    "midPrice": 99.98,
+    "lowPrice": 81.99,
+    "midPrice": 99.49,
     "highPrice": 235.0,
     "marketPrice": 31.78,
     "directLowPrice": null,
@@ -6657,7 +6657,7 @@
   },
   "P-P-009 alt2": {
     "lowPrice": 14.23,
-    "midPrice": 89.99,
+    "midPrice": 94.96,
     "highPrice": 99.99,
     "marketPrice": 31.35,
     "directLowPrice": null,
@@ -6683,9 +6683,9 @@
   },
   "P-P-010 alt2": {
     "lowPrice": 32.0,
-    "midPrice": 40.99,
+    "midPrice": 47.19,
     "highPrice": 125.01,
-    "marketPrice": 31.71,
+    "marketPrice": 32.84,
     "directLowPrice": null,
     "name": "Kaido (CS 2023 Celebration Pack)",
     "rarity": "PR",
@@ -6709,7 +6709,7 @@
   },
   "ST01-ST01-007 alt3": {
     "lowPrice": 299.98,
-    "midPrice": 409.94,
+    "midPrice": 499.69,
     "highPrice": 1000.0,
     "marketPrice": 232.38,
     "directLowPrice": null,
@@ -6735,7 +6735,7 @@
   },
   "ST01-ST01-011 alt3": {
     "lowPrice": 45.0,
-    "midPrice": 64.0,
+    "midPrice": 59.98,
     "highPrice": 150.0,
     "marketPrice": 17.35,
     "directLowPrice": null,
@@ -6760,10 +6760,10 @@
     "groupId": 17675
   },
   "ST02-ST02-007 alt2": {
-    "lowPrice": 60.0,
-    "midPrice": 64.9,
+    "lowPrice": 59.99,
+    "midPrice": 67.43,
     "highPrice": 140.0,
-    "marketPrice": 42.15,
+    "marketPrice": 43.5,
     "directLowPrice": null,
     "name": "Jewelry Bonney (CS 2023 Celebration Pack)",
     "rarity": "C",
@@ -6813,7 +6813,7 @@
   },
   "ST03-ST03-007 alt2": {
     "lowPrice": 20.0,
-    "midPrice": 23.56,
+    "midPrice": 23.26,
     "highPrice": 99.99,
     "marketPrice": 6.94,
     "directLowPrice": null,
@@ -6838,7 +6838,7 @@
     "groupId": 17675
   },
   "ST04-ST04-010 alt2": {
-    "lowPrice": 12.88,
+    "lowPrice": 11.99,
     "midPrice": 14.95,
     "highPrice": 69.0,
     "marketPrice": 6.73,
@@ -6864,8 +6864,8 @@
     "groupId": 17675
   },
   "ST04-ST04-011 alt2": {
-    "lowPrice": 34.2,
-    "midPrice": 49.97,
+    "lowPrice": 33.0,
+    "midPrice": 48.68,
     "highPrice": 165.0,
     "marketPrice": 24.98,
     "directLowPrice": null,
@@ -6916,8 +6916,8 @@
     "groupId": 17675
   },
   "OP01-OP01-039 parallel": {
-    "lowPrice": 1999.99,
-    "midPrice": 1999.99,
+    "lowPrice": 1500.0,
+    "midPrice": 1750.0,
     "highPrice": 1999.99,
     "marketPrice": null,
     "directLowPrice": null,
@@ -7072,10 +7072,10 @@
     "groupId": 17675
   },
   "OP01-OP01-016 alt2": {
-    "lowPrice": 4.0,
-    "midPrice": 5.45,
+    "lowPrice": 3.87,
+    "midPrice": 5.5,
     "highPrice": 50.0,
-    "marketPrice": 5.13,
+    "marketPrice": 5.07,
     "directLowPrice": null,
     "name": "Nami - OP01-016 (Ultra Deck: The Three Captains)",
     "rarity": "R",
@@ -7124,10 +7124,10 @@
     "groupId": 17675
   },
   "P-P-041 parallel": {
-    "lowPrice": 8.98,
+    "lowPrice": 8.0,
     "midPrice": 11.98,
     "highPrice": 125.0,
-    "marketPrice": 10.11,
+    "marketPrice": 10.04,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (041)",
     "rarity": "PR",
@@ -7153,7 +7153,7 @@
     "lowPrice": 1.0,
     "midPrice": 2.5,
     "highPrice": 6.21,
-    "marketPrice": 1.4,
+    "marketPrice": 1.46,
     "directLowPrice": null,
     "name": "New Genesis (Starter Deck 11: Uta Deck Battle)",
     "rarity": "SR",
@@ -7177,7 +7177,7 @@
   },
   "ST11-ST11-005 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.58,
+    "midPrice": 0.6,
     "highPrice": 18.99,
     "marketPrice": 0.4,
     "directLowPrice": null,
@@ -7203,9 +7203,9 @@
   },
   "ST11-ST11-003 normal": {
     "lowPrice": 0.49,
-    "midPrice": 0.93,
+    "midPrice": 0.97,
     "highPrice": 19.96,
-    "marketPrice": 0.67,
+    "marketPrice": 0.66,
     "directLowPrice": null,
     "name": "Backlight (Starter Deck 11: Uta Deck Battle)",
     "rarity": "C",
@@ -7231,7 +7231,7 @@
     "lowPrice": 0.18,
     "midPrice": 0.5,
     "highPrice": 31.0,
-    "marketPrice": 0.35,
+    "marketPrice": 0.36,
     "directLowPrice": null,
     "name": "Fleeting Lullaby (Starter Deck 11: Uta Deck Battle)",
     "rarity": "PR",
@@ -7257,7 +7257,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.5,
     "highPrice": 8.97,
-    "marketPrice": 0.26,
+    "marketPrice": 0.28,
     "directLowPrice": null,
     "name": "The World's Continuation (Starter Deck 11: Uta Deck Battle)",
     "rarity": "PR",
@@ -7283,7 +7283,7 @@
     "lowPrice": 0.15,
     "midPrice": 0.5,
     "highPrice": 10.0,
-    "marketPrice": 0.3,
+    "marketPrice": 0.31,
     "directLowPrice": null,
     "name": "Tot Musica (Starter Deck 11: Uta Deck Battle)",
     "rarity": "PR",
@@ -7333,9 +7333,9 @@
   },
   "P-P-061 normal": {
     "lowPrice": 3.4,
-    "midPrice": 5.74,
+    "midPrice": 5.95,
     "highPrice": 29.0,
-    "marketPrice": 4.48,
+    "marketPrice": 4.54,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Starter Deck 11: Uta Deck Battle)",
     "rarity": "PR",
@@ -7359,7 +7359,7 @@
   },
   "P-P-061 parallel": {
     "lowPrice": 125.0,
-    "midPrice": 164.49,
+    "midPrice": 157.0,
     "highPrice": 500.0,
     "marketPrice": 92.96,
     "directLowPrice": null,
@@ -7384,8 +7384,8 @@
     "groupId": 17675
   },
   "P-P-041 alt2": {
-    "lowPrice": 192.99,
-    "midPrice": 200.0,
+    "lowPrice": 191.0,
+    "midPrice": 195.0,
     "highPrice": 300.0,
     "marketPrice": 143.97,
     "directLowPrice": null,
@@ -7462,7 +7462,7 @@
     "groupId": 17675
   },
   "OP02-OP02-015 normal": {
-    "lowPrice": 89.98,
+    "lowPrice": 89.94,
     "midPrice": 99.0,
     "highPrice": 139.99,
     "marketPrice": 42.93,
@@ -7515,9 +7515,9 @@
   },
   "P-P-045 normal": {
     "lowPrice": 1.0,
-    "midPrice": 2.46,
+    "midPrice": 2.5,
     "highPrice": 40.0,
-    "marketPrice": 1.34,
+    "marketPrice": 1.41,
     "directLowPrice": null,
     "name": "Roronoa Zoro (OP-06 Pre-Release Tournament) [Participant]",
     "rarity": "PR",
@@ -7540,10 +7540,10 @@
     "groupId": 17675
   },
   "P-P-045 parallel": {
-    "lowPrice": 269.75,
+    "lowPrice": 250.0,
     "midPrice": 349.35,
     "highPrice": 500.0,
-    "marketPrice": 229.45,
+    "marketPrice": 229.13,
     "directLowPrice": null,
     "name": "Roronoa Zoro (OP-06 Pre-Release Tournament) [Winner]",
     "rarity": "PR",
@@ -7569,7 +7569,7 @@
     "lowPrice": 0.15,
     "midPrice": 0.9,
     "highPrice": 3.0,
-    "marketPrice": 0.77,
+    "marketPrice": 0.76,
     "directLowPrice": null,
     "name": "Hatchan (Tournament Pack Vol. 6)",
     "rarity": "UC",
@@ -7619,7 +7619,7 @@
   },
   "OP03-OP03-044 normal": {
     "lowPrice": 0.5,
-    "midPrice": 2.42,
+    "midPrice": 2.45,
     "highPrice": 4.99,
     "marketPrice": 0.81,
     "directLowPrice": null,
@@ -7645,7 +7645,7 @@
   },
   "OP03-OP03-044 parallel": {
     "lowPrice": 16.27,
-    "midPrice": 26.95,
+    "midPrice": 26.3,
     "highPrice": 49.99,
     "marketPrice": 15.44,
     "directLowPrice": null,
@@ -7697,9 +7697,9 @@
   },
   "OP03-OP03-088 parallel": {
     "lowPrice": 0.75,
-    "midPrice": 1.98,
+    "midPrice": 1.99,
     "highPrice": 49.99,
-    "marketPrice": 1.29,
+    "marketPrice": 1.28,
     "directLowPrice": null,
     "name": "Fukurou (Winner Pack Vol. 6)",
     "rarity": "UC",
@@ -7723,9 +7723,9 @@
   },
   "OP03-OP03-116 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.38,
+    "midPrice": 0.39,
     "highPrice": 10.88,
-    "marketPrice": 0.37,
+    "marketPrice": 0.38,
     "directLowPrice": null,
     "name": "Shirahoshi (Tournament Pack Vol. 6)",
     "rarity": "UC",
@@ -7749,9 +7749,9 @@
   },
   "OP03-OP03-116 parallel": {
     "lowPrice": 9.46,
-    "midPrice": 16.82,
+    "midPrice": 17.0,
     "highPrice": 22.79,
-    "marketPrice": 15.77,
+    "marketPrice": 15.59,
     "directLowPrice": null,
     "name": "Shirahoshi (Winner Pack Vol. 6)",
     "rarity": "UC",
@@ -7775,9 +7775,9 @@
   },
   "P-P-062 normal": {
     "lowPrice": 1.0,
-    "midPrice": 2.54,
+    "midPrice": 2.75,
     "highPrice": 59.99,
-    "marketPrice": 1.67,
+    "marketPrice": 1.65,
     "directLowPrice": null,
     "name": "Hody & Hyouzou (Pirates Party Vol. 6)",
     "rarity": "PR",
@@ -7801,9 +7801,9 @@
   },
   "OP05-OP05-036 normal": {
     "lowPrice": 2.0,
-    "midPrice": 4.53,
+    "midPrice": 4.67,
     "highPrice": 39.99,
-    "marketPrice": 1.65,
+    "marketPrice": 1.85,
     "directLowPrice": null,
     "name": "Monet (Event Pack Vol. 3)",
     "rarity": "UC",
@@ -7827,7 +7827,7 @@
   },
   "ST03-ST03-008 alt4": {
     "lowPrice": 5.49,
-    "midPrice": 16.28,
+    "midPrice": 15.0,
     "highPrice": 50.0,
     "marketPrice": 5.87,
     "directLowPrice": null,
@@ -7852,10 +7852,10 @@
     "groupId": 17675
   },
   "P-P-042 normal": {
-    "lowPrice": 34.95,
-    "midPrice": 40.8,
+    "lowPrice": 33.64,
+    "midPrice": 40.0,
     "highPrice": 59.99,
-    "marketPrice": 30.45,
+    "marketPrice": 30.92,
     "directLowPrice": null,
     "name": "Roronoa Zoro (Event Pack Vol. 3)",
     "rarity": "PR",
@@ -7879,9 +7879,9 @@
   },
   "P-P-046 normal": {
     "lowPrice": 20.0,
-    "midPrice": 24.98,
+    "midPrice": 25.0,
     "highPrice": 99.0,
-    "marketPrice": 23.14,
+    "marketPrice": 23.21,
     "directLowPrice": null,
     "name": "Yamato (Event Pack Vol. 3)",
     "rarity": "PR",
@@ -7904,8 +7904,8 @@
     "groupId": 17675
   },
   "OP03-OP03-089 normal": {
-    "lowPrice": 5.5,
-    "midPrice": 14.89,
+    "lowPrice": 4.5,
+    "midPrice": 12.99,
     "highPrice": 40.0,
     "marketPrice": 6.42,
     "directLowPrice": null,
@@ -7957,7 +7957,7 @@
   },
   "OP03-OP03-089 alt3": {
     "lowPrice": 3.68,
-    "midPrice": 6.72,
+    "midPrice": 6.48,
     "highPrice": 29.99,
     "marketPrice": 4.37,
     "directLowPrice": null,
@@ -8035,9 +8035,9 @@
   },
   "OP03-OP03-102 alt4": {
     "lowPrice": 12.49,
-    "midPrice": 15.25,
+    "midPrice": 14.99,
     "highPrice": 100.0,
-    "marketPrice": 11.58,
+    "marketPrice": 12.2,
     "directLowPrice": null,
     "name": "Sanji (Offline Regional 2024) [Participant]",
     "rarity": "R",
@@ -8086,7 +8086,7 @@
     "groupId": 17675
   },
   "ST01-ST01-015 normal": {
-    "lowPrice": 28.7,
+    "lowPrice": 28.3,
     "midPrice": 29.99,
     "highPrice": 38.0,
     "marketPrice": 11.05,
@@ -8139,9 +8139,9 @@
   },
   "ST01-ST01-015 alt3": {
     "lowPrice": 25.0,
-    "midPrice": 30.5,
+    "midPrice": 30.99,
     "highPrice": 45.0,
-    "marketPrice": 16.02,
+    "marketPrice": 16.84,
     "directLowPrice": null,
     "name": "Gum-Gum Jet Pistol (Offline Regional 2024) [Participant]",
     "rarity": "C",
@@ -8190,7 +8190,7 @@
     "groupId": 17675
   },
   "ST02-ST02-008 normal": {
-    "lowPrice": 4.19,
+    "lowPrice": 4.0,
     "midPrice": 6.87,
     "highPrice": 59.99,
     "marketPrice": 5.68,
@@ -8216,8 +8216,8 @@
     "groupId": 17675
   },
   "ST02-ST02-008 parallel": {
-    "lowPrice": 40.0,
-    "midPrice": 49.5,
+    "lowPrice": 49.0,
+    "midPrice": 50.0,
     "highPrice": 62.49,
     "marketPrice": 38.87,
     "directLowPrice": null,
@@ -8243,9 +8243,9 @@
   },
   "ST02-ST02-008 alt3": {
     "lowPrice": 2.47,
-    "midPrice": 5.73,
+    "midPrice": 6.0,
     "highPrice": 49.0,
-    "marketPrice": 2.75,
+    "marketPrice": 2.86,
     "directLowPrice": null,
     "name": "Scratchmen Apoo (Offline Regional 2024) [Participant]",
     "rarity": "C",
@@ -8453,7 +8453,7 @@
     "lowPrice": 0.25,
     "midPrice": 1.01,
     "highPrice": 25.0,
-    "marketPrice": 0.58,
+    "marketPrice": 0.57,
     "directLowPrice": null,
     "name": "Killer (Judge Pack Vol. 3)",
     "rarity": "UC",
@@ -8477,9 +8477,9 @@
   },
   "OP01-OP01-075 normal": {
     "lowPrice": 0.34,
-    "midPrice": 0.5,
+    "midPrice": 0.54,
     "highPrice": 3.99,
-    "marketPrice": 0.41,
+    "marketPrice": 0.42,
     "directLowPrice": null,
     "name": "Pacifista (Judge Pack Vol. 3)",
     "rarity": "C",
@@ -8528,9 +8528,9 @@
     "groupId": 17675
   },
   "OP04-OP04-035 normal": {
-    "lowPrice": 7.04,
-    "midPrice": 9.35,
-    "highPrice": 20.0,
+    "lowPrice": 7.0,
+    "midPrice": 9.0,
+    "highPrice": 12.97,
     "marketPrice": 5.74,
     "directLowPrice": null,
     "name": "Spiderweb (Judge Pack Vol. 3)",
@@ -8581,7 +8581,7 @@
   },
   "OP04-OP04-089 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.69,
+    "midPrice": 0.7,
     "highPrice": 2.0,
     "marketPrice": 0.39,
     "directLowPrice": null,
@@ -8607,7 +8607,7 @@
   },
   "OP05-OP05-014 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.43,
+    "midPrice": 0.39,
     "highPrice": 2.0,
     "marketPrice": 0.34,
     "directLowPrice": null,
@@ -8633,7 +8633,7 @@
   },
   "OP05-OP05-015 normal": {
     "lowPrice": 1.0,
-    "midPrice": 1.49,
+    "midPrice": 1.77,
     "highPrice": 2.5,
     "marketPrice": 1.16,
     "directLowPrice": null,
@@ -8658,8 +8658,8 @@
     "groupId": 17675
   },
   "OP05-OP05-067 normal": {
-    "lowPrice": 11.83,
-    "midPrice": 15.5,
+    "lowPrice": 13.0,
+    "midPrice": 15.52,
     "highPrice": 30.0,
     "marketPrice": 14.48,
     "directLowPrice": null,
@@ -8737,7 +8737,7 @@
   },
   "ST06-ST06-008 normal": {
     "lowPrice": 1.48,
-    "midPrice": 2.49,
+    "midPrice": 2.5,
     "highPrice": 10.0,
     "marketPrice": 1.89,
     "directLowPrice": null,
@@ -8763,7 +8763,7 @@
   },
   "P-P-001 alt6": {
     "lowPrice": 74.75,
-    "midPrice": 85.0,
+    "midPrice": 84.98,
     "highPrice": 200.0,
     "marketPrice": 78.09,
     "directLowPrice": null,
@@ -8814,8 +8814,8 @@
     "groupId": 17675
   },
   "P-P-001 alt9": {
-    "lowPrice": 107.99,
-    "midPrice": 149.0,
+    "lowPrice": 106.99,
+    "midPrice": 147.0,
     "highPrice": 500.0,
     "marketPrice": 72.68,
     "directLowPrice": null,
@@ -8840,8 +8840,8 @@
     "groupId": 17675
   },
   "P-P-003 alt2": {
-    "lowPrice": 14.99,
-    "midPrice": 24.99,
+    "lowPrice": 8.99,
+    "midPrice": 23.99,
     "highPrice": 225.0,
     "marketPrice": 8.59,
     "directLowPrice": null,
@@ -8867,7 +8867,7 @@
   },
   "P-P-003 alt3": {
     "lowPrice": 12.25,
-    "midPrice": 32.6,
+    "midPrice": 32.0,
     "highPrice": 40.0,
     "marketPrice": 12.25,
     "directLowPrice": null,
@@ -8970,8 +8970,8 @@
     "groupId": 17675
   },
   "P-P-041 alt4": {
-    "lowPrice": 163.99,
-    "midPrice": 185.0,
+    "lowPrice": 159.98,
+    "midPrice": 170.99,
     "highPrice": 500.0,
     "marketPrice": 109.48,
     "directLowPrice": null,
@@ -9049,7 +9049,7 @@
   },
   "ST03-ST03-008 alt5": {
     "lowPrice": 19.9,
-    "midPrice": 24.0,
+    "midPrice": 23.43,
     "highPrice": 45.0,
     "marketPrice": 16.45,
     "directLowPrice": null,
@@ -9178,10 +9178,10 @@
     "groupId": 17675
   },
   "P-P-044 normal": {
-    "lowPrice": 2.44,
-    "midPrice": 3.1,
+    "lowPrice": 2.25,
+    "midPrice": 3.04,
     "highPrice": 42.0,
-    "marketPrice": 2.5,
+    "marketPrice": 2.45,
     "directLowPrice": null,
     "name": "Sabo (Event Pack Vol. 4)",
     "rarity": "PR",
@@ -9205,9 +9205,9 @@
   },
   "P-P-063 normal": {
     "lowPrice": 0.34,
-    "midPrice": 2.73,
+    "midPrice": 2.99,
     "highPrice": 19.99,
-    "marketPrice": 1.0,
+    "marketPrice": 1.01,
     "directLowPrice": null,
     "name": "Jinbe (Event Pack Vol. 4)",
     "rarity": "PR",
@@ -9257,9 +9257,9 @@
   },
   "OP02-OP02-005 normal": {
     "lowPrice": 4.16,
-    "midPrice": 5.21,
+    "midPrice": 5.43,
     "highPrice": 40.0,
-    "marketPrice": 4.45,
+    "marketPrice": 4.77,
     "directLowPrice": null,
     "name": "Curly.Dadan (Premium Card Collection -Best Selection Vol. 1-)",
     "rarity": "UC",
@@ -9283,9 +9283,9 @@
   },
   "OP02-OP02-106 alt3": {
     "lowPrice": 2.0,
-    "midPrice": 4.37,
+    "midPrice": 4.49,
     "highPrice": 40.0,
-    "marketPrice": 2.79,
+    "marketPrice": 2.74,
     "directLowPrice": null,
     "name": "Tsuru (Premium Card Collection -Best Selection Vol. 1-)",
     "rarity": "UC",
@@ -9308,10 +9308,10 @@
     "groupId": 17675
   },
   "ST03-ST03-017 normal": {
-    "lowPrice": 58.99,
-    "midPrice": 73.99,
+    "lowPrice": 55.0,
+    "midPrice": 69.69,
     "highPrice": 299.0,
-    "marketPrice": 45.89,
+    "marketPrice": 48.26,
     "directLowPrice": null,
     "name": "Love-Love Mellow (Premium Card Collection -Best Selection Vol. 1-)",
     "rarity": "C",
@@ -9335,9 +9335,9 @@
   },
   "OP02-OP02-036 normal": {
     "lowPrice": 29.0,
-    "midPrice": 33.33,
+    "midPrice": 37.5,
     "highPrice": 100.0,
-    "marketPrice": 30.85,
+    "marketPrice": 30.97,
     "directLowPrice": null,
     "name": "Nami (Premium Card Collection -Best Selection Vol. 1-)",
     "rarity": "SR",
@@ -9360,10 +9360,10 @@
     "groupId": 17675
   },
   "OP04-OP04-105 normal": {
-    "lowPrice": 1.95,
-    "midPrice": 2.99,
+    "lowPrice": 1.99,
+    "midPrice": 3.29,
     "highPrice": 80.0,
-    "marketPrice": 2.34,
+    "marketPrice": 2.35,
     "directLowPrice": null,
     "name": "Charlotte Amande (Premium Card Collection -Best Selection Vol. 1-)",
     "rarity": "R",
@@ -9386,8 +9386,8 @@
     "groupId": 17675
   },
   "ST04-ST04-016 normal": {
-    "lowPrice": 5.0,
-    "midPrice": 6.96,
+    "lowPrice": 4.46,
+    "midPrice": 6.94,
     "highPrice": 40.0,
     "marketPrice": 6.62,
     "directLowPrice": null,
@@ -9413,9 +9413,9 @@
   },
   "ST03-ST03-012 normal": {
     "lowPrice": 1.19,
-    "midPrice": 2.02,
+    "midPrice": 2.22,
     "highPrice": 40.0,
-    "marketPrice": 1.76,
+    "marketPrice": 1.69,
     "directLowPrice": null,
     "name": "Pacifista (Premium Card Collection -Best Selection Vol. 1-)",
     "rarity": "C",
@@ -9438,10 +9438,10 @@
     "groupId": 17675
   },
   "OP01-OP01-029 normal": {
-    "lowPrice": 11.14,
+    "lowPrice": 11.46,
     "midPrice": 15.0,
     "highPrice": 40.0,
-    "marketPrice": 14.41,
+    "marketPrice": 13.84,
     "directLowPrice": null,
     "name": "Radical Beam!! (Premium Card Collection -Best Selection Vol. 1-)",
     "rarity": "UC",
@@ -9465,9 +9465,9 @@
   },
   "OP02-OP02-117 normal": {
     "lowPrice": 10.46,
-    "midPrice": 19.05,
+    "midPrice": 19.0,
     "highPrice": 97.7,
-    "marketPrice": 15.56,
+    "marketPrice": 14.25,
     "directLowPrice": null,
     "name": "Ice Age (Premium Card Collection -Best Selection Vol. 1-)",
     "rarity": "UC",
@@ -9490,10 +9490,10 @@
     "groupId": 17675
   },
   "ST05-ST05-014 normal": {
-    "lowPrice": 2.9,
-    "midPrice": 3.55,
+    "lowPrice": 2.49,
+    "midPrice": 3.58,
     "highPrice": 40.0,
-    "marketPrice": 3.33,
+    "marketPrice": 3.25,
     "directLowPrice": null,
     "name": "Buena Festa (Premium Card Collection -Best Selection Vol. 1-)",
     "rarity": "C",
@@ -9517,9 +9517,9 @@
   },
   "OP01-OP01-057 normal": {
     "lowPrice": 14.0,
-    "midPrice": 19.99,
+    "midPrice": 20.0,
     "highPrice": 40.0,
-    "marketPrice": 16.5,
+    "marketPrice": 16.34,
     "directLowPrice": null,
     "name": "Paradise Waterfall (Premium Card Collection -Best Selection Vol. 1-)",
     "rarity": "UC",
@@ -9545,7 +9545,7 @@
     "lowPrice": 1.39,
     "midPrice": 2.95,
     "highPrice": 12.0,
-    "marketPrice": 2.23,
+    "marketPrice": 2.25,
     "directLowPrice": null,
     "name": "Thunder Bolt (Premium Card Collection -Best Selection Vol. 1-)",
     "rarity": "C",
@@ -9568,10 +9568,10 @@
     "groupId": 17675
   },
   "OP02-OP02-001 normal": {
-    "lowPrice": 36.56,
+    "lowPrice": 36.58,
     "midPrice": 39.99,
     "highPrice": 89.95,
-    "marketPrice": 37.77,
+    "marketPrice": 37.83,
     "directLowPrice": null,
     "name": "Edward.Newgate (Special Goods Set -Former Four Emperors-)",
     "rarity": "L",
@@ -9595,9 +9595,9 @@
   },
   "P-P-047 parallel": {
     "lowPrice": 17.24,
-    "midPrice": 18.61,
+    "midPrice": 18.54,
     "highPrice": 200.0,
-    "marketPrice": 17.75,
+    "marketPrice": 17.73,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (047) (Premium Card Collection -Live Action Edition-)",
     "rarity": "PR",
@@ -9620,10 +9620,10 @@
     "groupId": 17675
   },
   "P-P-053 parallel": {
-    "lowPrice": 14.94,
-    "midPrice": 17.39,
+    "lowPrice": 14.95,
+    "midPrice": 17.49,
     "highPrice": 120.0,
-    "marketPrice": 14.81,
+    "marketPrice": 14.86,
     "directLowPrice": null,
     "name": "Nami (Premium Card Collection -Live Action Edition-)",
     "rarity": "PR",
@@ -9673,9 +9673,9 @@
   },
   "P-P-055 parallel": {
     "lowPrice": 9.99,
-    "midPrice": 11.62,
+    "midPrice": 12.48,
     "highPrice": 123.0,
-    "marketPrice": 10.64,
+    "marketPrice": 10.63,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (055) (Premium Card Collection -Live Action Edition-)",
     "rarity": "PR",
@@ -9725,9 +9725,9 @@
   },
   "P-P-048 parallel": {
     "lowPrice": 35.0,
-    "midPrice": 39.79,
+    "midPrice": 39.99,
     "highPrice": 45.0,
-    "marketPrice": 36.55,
+    "marketPrice": 35.63,
     "directLowPrice": null,
     "name": "Arlong (Premium Card Collection -Live Action Edition-)",
     "rarity": "PR",
@@ -9751,7 +9751,7 @@
   },
   "P-P-056 parallel": {
     "lowPrice": 10.0,
-    "midPrice": 13.61,
+    "midPrice": 13.38,
     "highPrice": 25.0,
     "marketPrice": 12.99,
     "directLowPrice": null,
@@ -9802,10 +9802,10 @@
     "groupId": 17675
   },
   "P-P-051 parallel": {
-    "lowPrice": 5.21,
+    "lowPrice": 5.2,
     "midPrice": 6.15,
     "highPrice": 12.0,
-    "marketPrice": 5.28,
+    "marketPrice": 5.24,
     "directLowPrice": null,
     "name": "Shanks (Premium Card Collection -Live Action Edition-)",
     "rarity": "PR",
@@ -9831,7 +9831,7 @@
     "lowPrice": 0.19,
     "midPrice": 0.52,
     "highPrice": 49.0,
-    "marketPrice": 0.58,
+    "marketPrice": 0.59,
     "directLowPrice": null,
     "name": "Kouzuki Momonosuke (Tournament Pack Vol. 7)",
     "rarity": "R",
@@ -9855,9 +9855,9 @@
   },
   "OP01-OP01-041 parallel": {
     "lowPrice": 2.99,
-    "midPrice": 4.0,
+    "midPrice": 4.29,
     "highPrice": 27.0,
-    "marketPrice": 3.26,
+    "marketPrice": 3.27,
     "directLowPrice": null,
     "name": "Kouzuki Momonosuke (Winner Pack Vol. 7)",
     "rarity": "R",
@@ -9906,8 +9906,8 @@
     "groupId": 17675
   },
   "OP05-OP05-106 parallel": {
-    "lowPrice": 6.39,
-    "midPrice": 11.63,
+    "lowPrice": 6.0,
+    "midPrice": 10.75,
     "highPrice": 20.0,
     "marketPrice": 6.41,
     "directLowPrice": null,
@@ -9933,7 +9933,7 @@
   },
   "P-P-017 parallel": {
     "lowPrice": 0.18,
-    "midPrice": 0.38,
+    "midPrice": 0.39,
     "highPrice": 9.88,
     "marketPrice": 0.35,
     "directLowPrice": null,
@@ -9959,9 +9959,9 @@
   },
   "P-P-017 alt2": {
     "lowPrice": 12.0,
-    "midPrice": 19.0,
+    "midPrice": 17.0,
     "highPrice": 39.99,
-    "marketPrice": 14.83,
+    "marketPrice": 14.45,
     "directLowPrice": null,
     "name": "Trafalgar Law (Winner Pack Vol. 7)",
     "rarity": "PR",
@@ -9985,7 +9985,7 @@
   },
   "P-P-019 parallel": {
     "lowPrice": 0.2,
-    "midPrice": 0.45,
+    "midPrice": 0.47,
     "highPrice": 1.55,
     "marketPrice": 0.47,
     "directLowPrice": null,
@@ -10037,7 +10037,7 @@
   },
   "P-P-068 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.99,
+    "midPrice": 1.92,
     "highPrice": 26.7,
     "marketPrice": 0.97,
     "directLowPrice": null,
@@ -10062,8 +10062,8 @@
     "groupId": 17675
   },
   "P-P-076 normal": {
-    "lowPrice": 0.94,
-    "midPrice": 1.54,
+    "lowPrice": 0.95,
+    "midPrice": 1.65,
     "highPrice": 15.5,
     "marketPrice": 1.01,
     "directLowPrice": null,
@@ -10089,7 +10089,7 @@
   },
   "P-P-067 normal": {
     "lowPrice": 0.49,
-    "midPrice": 1.5,
+    "midPrice": 1.54,
     "highPrice": 50.0,
     "marketPrice": 1.34,
     "directLowPrice": null,
@@ -10115,7 +10115,7 @@
   },
   "P-P-067 parallel": {
     "lowPrice": 20.0,
-    "midPrice": 31.25,
+    "midPrice": 32.5,
     "highPrice": 200.0,
     "marketPrice": 22.99,
     "directLowPrice": null,
@@ -10140,8 +10140,8 @@
     "groupId": 17675
   },
   "P-P-043 normal": {
-    "lowPrice": 100.97,
-    "midPrice": 115.43,
+    "lowPrice": 99.0,
+    "midPrice": 109.94,
     "highPrice": 188.0,
     "marketPrice": 101.69,
     "directLowPrice": null,
@@ -10219,9 +10219,9 @@
   },
   "ST10-ST10-006 parallel": {
     "lowPrice": 535.0,
-    "midPrice": 869.99,
+    "midPrice": 910.0,
     "highPrice": 2500.0,
-    "marketPrice": 337.32,
+    "marketPrice": 350.32,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (English Version 1st Anniversary Set)",
     "rarity": "SR",
@@ -10247,7 +10247,7 @@
     "lowPrice": 49.0,
     "midPrice": 59.93,
     "highPrice": 249.0,
-    "marketPrice": 48.74,
+    "marketPrice": 48.76,
     "directLowPrice": null,
     "name": "Usopp (English Version 1st Anniversary Set)",
     "rarity": "R",
@@ -10270,10 +10270,10 @@
     "groupId": 17675
   },
   "OP01-OP01-013 alt3": {
-    "lowPrice": 94.98,
-    "midPrice": 165.0,
+    "lowPrice": 90.0,
+    "midPrice": 185.0,
     "highPrice": 200.0,
-    "marketPrice": 67.91,
+    "marketPrice": 73.33,
     "directLowPrice": null,
     "name": "Sanji (English Version 1st Anniversary Set)",
     "rarity": "R",
@@ -10297,7 +10297,7 @@
   },
   "OP01-OP01-016 alt3": {
     "lowPrice": 220.99,
-    "midPrice": 329.99,
+    "midPrice": 314.99,
     "highPrice": 999.0,
     "marketPrice": 181.53,
     "directLowPrice": null,
@@ -10322,10 +10322,10 @@
     "groupId": 17675
   },
   "ST01-ST01-011 alt4": {
-    "lowPrice": 64.99,
-    "midPrice": 92.47,
+    "lowPrice": 70.0,
+    "midPrice": 109.95,
     "highPrice": 249.0,
-    "marketPrice": 56.54,
+    "marketPrice": 57.78,
     "directLowPrice": null,
     "name": "Brook (English Version 1st Anniversary Set)",
     "rarity": "C",
@@ -10349,7 +10349,7 @@
   },
   "OP01-OP01-025 alt2": {
     "lowPrice": 273.99,
-    "midPrice": 300.14,
+    "midPrice": 300.0,
     "highPrice": 500.0,
     "marketPrice": 242.52,
     "directLowPrice": null,
@@ -10374,7 +10374,7 @@
     "groupId": 17675
   },
   "ST01-ST01-006 alt6": {
-    "lowPrice": 317.49,
+    "lowPrice": 310.0,
     "midPrice": 340.7,
     "highPrice": 500.0,
     "marketPrice": 246.51,
@@ -10401,9 +10401,9 @@
   },
   "ST10-ST10-005 normal": {
     "lowPrice": 19.0,
-    "midPrice": 51.5,
+    "midPrice": 50.0,
     "highPrice": 199.99,
-    "marketPrice": 30.89,
+    "marketPrice": 31.44,
     "directLowPrice": null,
     "name": "Jinbe (English Version 1st Anniversary Set)",
     "rarity": "C",
@@ -10427,7 +10427,7 @@
   },
   "OP01-OP01-017 alt2": {
     "lowPrice": 199.8,
-    "midPrice": 290.0,
+    "midPrice": 283.0,
     "highPrice": 999.99,
     "marketPrice": 163.31,
     "directLowPrice": null,
@@ -10452,10 +10452,10 @@
     "groupId": 17675
   },
   "ST01-ST01-010 parallel": {
-    "lowPrice": 34.75,
-    "midPrice": 44.22,
+    "lowPrice": 34.74,
+    "midPrice": 43.99,
     "highPrice": 150.0,
-    "marketPrice": 33.1,
+    "marketPrice": 33.21,
     "directLowPrice": null,
     "name": "Franky (English Version 1st Anniversary Set)",
     "rarity": "C",
@@ -10504,8 +10504,8 @@
     "groupId": 17675
   },
   "OP03-OP03-123 normal": {
-    "lowPrice": 900.0,
-    "midPrice": 994.51,
+    "lowPrice": 990.0,
+    "midPrice": 999.01,
     "highPrice": 2000.0,
     "marketPrice": 573.54,
     "directLowPrice": null,
@@ -10531,7 +10531,7 @@
   },
   "OP03-OP03-112 parallel": {
     "lowPrice": 394.99,
-    "midPrice": 549.5,
+    "midPrice": 460.5,
     "highPrice": 799.0,
     "marketPrice": 207.85,
     "directLowPrice": null,
@@ -10556,9 +10556,9 @@
     "groupId": 17675
   },
   "ST07-ST07-010 normal": {
-    "lowPrice": 1200.0,
-    "midPrice": 1200.0,
-    "highPrice": 1200.0,
+    "lowPrice": 1500.0,
+    "midPrice": 1500.0,
+    "highPrice": 1500.0,
     "marketPrice": 862.5,
     "directLowPrice": null,
     "name": "Charlotte Linlin (Treasure Cup)",
@@ -10635,9 +10635,9 @@
   },
   "ST05-ST05-004 normal": {
     "lowPrice": 7.5,
-    "midPrice": 10.98,
+    "midPrice": 11.48,
     "highPrice": 80.0,
-    "marketPrice": 7.67,
+    "marketPrice": 8.14,
     "directLowPrice": null,
     "name": "Uta - ST05-004 (Premium Card Collection -Uta-)",
     "rarity": "SR",
@@ -10687,7 +10687,7 @@
   },
   "OP01-OP01-005 alt3": {
     "lowPrice": 15.99,
-    "midPrice": 22.0,
+    "midPrice": 21.96,
     "highPrice": 80.0,
     "marketPrice": 18.2,
     "directLowPrice": null,
@@ -10738,10 +10738,10 @@
     "groupId": 17675
   },
   "P-P-001 alt12": {
-    "lowPrice": 31.83,
-    "midPrice": 42.8,
+    "lowPrice": 28.0,
+    "midPrice": 41.4,
     "highPrice": 99.0,
-    "marketPrice": 35.8,
+    "marketPrice": 34.79,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-)",
     "rarity": "PR",
@@ -10764,10 +10764,10 @@
     "groupId": 17675
   },
   "ST01-ST01-011 alt5": {
-    "lowPrice": 13.9,
-    "midPrice": 19.45,
+    "lowPrice": 13.99,
+    "midPrice": 19.93,
     "highPrice": 40.0,
-    "marketPrice": 10.56,
+    "marketPrice": 10.83,
     "directLowPrice": null,
     "name": "Brook (Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-)",
     "rarity": "C",
@@ -10791,9 +10791,9 @@
   },
   "OP01-OP01-033 alt3": {
     "lowPrice": 1.5,
-    "midPrice": 3.44,
+    "midPrice": 3.65,
     "highPrice": 40.0,
-    "marketPrice": 2.07,
+    "marketPrice": 2.09,
     "directLowPrice": null,
     "name": "Izo (Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-)",
     "rarity": "UC",
@@ -10816,10 +10816,10 @@
     "groupId": 17675
   },
   "OP01-OP01-035 alt4": {
-    "lowPrice": 4.5,
+    "lowPrice": 2.29,
     "midPrice": 5.0,
     "highPrice": 40.0,
-    "marketPrice": 4.83,
+    "marketPrice": 4.69,
     "directLowPrice": null,
     "name": "Okiku (Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-)",
     "rarity": "R",
@@ -10845,7 +10845,7 @@
     "lowPrice": 1.95,
     "midPrice": 3.99,
     "highPrice": 40.0,
-    "marketPrice": 2.77,
+    "marketPrice": 2.76,
     "directLowPrice": null,
     "name": "Sentomaru (Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-)",
     "rarity": "C",
@@ -10869,9 +10869,9 @@
   },
   "P-P-030 alt3": {
     "lowPrice": 5.5,
-    "midPrice": 8.86,
+    "midPrice": 8.87,
     "highPrice": 40.0,
-    "marketPrice": 7.19,
+    "marketPrice": 7.33,
     "directLowPrice": null,
     "name": "Jinbe (Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-)",
     "rarity": "PR",
@@ -10894,10 +10894,10 @@
     "groupId": 17675
   },
   "ST06-ST06-006 alt3": {
-    "lowPrice": 3.66,
-    "midPrice": 6.45,
+    "lowPrice": 4.16,
+    "midPrice": 6.96,
     "highPrice": 40.0,
-    "marketPrice": 4.19,
+    "marketPrice": 4.25,
     "directLowPrice": null,
     "name": "Tashigi (Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-)",
     "rarity": "C",
@@ -10920,7 +10920,7 @@
     "groupId": 17675
   },
   "OP03-OP03-088 alt2": {
-    "lowPrice": 0.9,
+    "lowPrice": 1.0,
     "midPrice": 2.0,
     "highPrice": 40.0,
     "marketPrice": 1.46,
@@ -10947,7 +10947,7 @@
   },
   "ST04-ST04-008 alt6": {
     "lowPrice": 1.0,
-    "midPrice": 2.97,
+    "midPrice": 3.0,
     "highPrice": 40.0,
     "marketPrice": 1.33,
     "directLowPrice": null,
@@ -10973,9 +10973,9 @@
   },
   "ST04-ST04-011 alt3": {
     "lowPrice": 6.51,
-    "midPrice": 8.05,
+    "midPrice": 8.18,
     "highPrice": 80.0,
-    "marketPrice": 7.71,
+    "marketPrice": 7.6,
     "directLowPrice": null,
     "name": "Black Maria (Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-)",
     "rarity": "C",
@@ -11001,7 +11001,7 @@
     "lowPrice": 5.0,
     "midPrice": 7.0,
     "highPrice": 40.0,
-    "marketPrice": 5.39,
+    "marketPrice": 5.45,
     "directLowPrice": null,
     "name": "Sanji (Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-)",
     "rarity": "R",
@@ -11025,9 +11025,9 @@
   },
   "OP03-OP03-116 alt2": {
     "lowPrice": 8.0,
-    "midPrice": 9.55,
-    "highPrice": 15.99,
-    "marketPrice": 8.9,
+    "midPrice": 9.6,
+    "highPrice": 19.99,
+    "marketPrice": 9.0,
     "directLowPrice": null,
     "name": "Shirahoshi (Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-)",
     "rarity": "UC",
@@ -11079,7 +11079,7 @@
     "lowPrice": 55.0,
     "midPrice": 59.9,
     "highPrice": 99.0,
-    "marketPrice": 58.62,
+    "marketPrice": 58.96,
     "directLowPrice": null,
     "name": "Perona (Store Treasure Cup 2024)",
     "rarity": "PR",
@@ -11102,10 +11102,10 @@
     "groupId": 17675
   },
   "ST10-ST10-006 alt2": {
-    "lowPrice": 9.68,
-    "midPrice": 19.99,
+    "lowPrice": 8.0,
+    "midPrice": 20.0,
     "highPrice": 125.0,
-    "marketPrice": 14.92,
+    "marketPrice": 14.02,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Treasure Booster Set)",
     "rarity": "SR",
@@ -11128,10 +11128,10 @@
     "groupId": 17675
   },
   "ST13-ST13-003 normal": {
-    "lowPrice": 90.0,
-    "midPrice": 115.0,
+    "lowPrice": 105.0,
+    "midPrice": 120.0,
     "highPrice": 229.99,
-    "marketPrice": 108.37,
+    "marketPrice": 107.97,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Premium Card Collection -Leader Collection-)",
     "rarity": "L",
@@ -11154,10 +11154,10 @@
     "groupId": 17675
   },
   "ST13-ST13-002 normal": {
-    "lowPrice": 28.0,
-    "midPrice": 33.45,
+    "lowPrice": 27.5,
+    "midPrice": 32.0,
     "highPrice": 99.0,
-    "marketPrice": 24.29,
+    "marketPrice": 24.25,
     "directLowPrice": null,
     "name": "Portgas.D.Ace (Premium Card Collection -Leader Collection-)",
     "rarity": "L",
@@ -11182,8 +11182,8 @@
   "ST13-ST13-001 normal": {
     "lowPrice": 14.0,
     "midPrice": 20.0,
-    "highPrice": 61.96,
-    "marketPrice": 18.61,
+    "highPrice": 61.34,
+    "marketPrice": 18.38,
     "directLowPrice": null,
     "name": "Sabo (Premium Card Collection -Leader Collection-)",
     "rarity": "L",
@@ -11206,8 +11206,8 @@
     "groupId": 17675
   },
   "ST04-ST04-001 normal": {
-    "lowPrice": 30.01,
-    "midPrice": 35.99,
+    "lowPrice": 29.0,
+    "midPrice": 34.99,
     "highPrice": 400.0,
     "marketPrice": 41.98,
     "directLowPrice": null,
@@ -11232,10 +11232,10 @@
     "groupId": 17675
   },
   "ST03-ST03-001 normal": {
-    "lowPrice": 8.97,
+    "lowPrice": 8.94,
     "midPrice": 12.0,
     "highPrice": 34.99,
-    "marketPrice": 9.68,
+    "marketPrice": 9.65,
     "directLowPrice": null,
     "name": "Crocodile (Premium Card Collection -Leader Collection-)",
     "rarity": "L",
@@ -11258,10 +11258,10 @@
     "groupId": 17675
   },
   "ST02-ST02-001 normal": {
-    "lowPrice": 7.72,
+    "lowPrice": 7.92,
     "midPrice": 12.0,
     "highPrice": 22.99,
-    "marketPrice": 7.92,
+    "marketPrice": 7.97,
     "directLowPrice": null,
     "name": "Eustass\"Captain\"Kid (Premium Card Collection -Leader Collection-)",
     "rarity": "L",
@@ -11285,9 +11285,9 @@
   },
   "P-P-071 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.54,
+    "midPrice": 0.55,
     "highPrice": 7.0,
-    "marketPrice": 0.41,
+    "marketPrice": 0.42,
     "directLowPrice": null,
     "name": "Marco (Two Legends Pre-Release)",
     "rarity": "PR",
@@ -11313,7 +11313,7 @@
     "lowPrice": 27.0,
     "midPrice": 30.0,
     "highPrice": 100.0,
-    "marketPrice": 31.44,
+    "marketPrice": 31.35,
     "directLowPrice": null,
     "name": "Marco (Two Legends Pre-Release Winner)",
     "rarity": "PR",
@@ -11465,6 +11465,32 @@
     "description": "If the number of DON!! cards on your field is at least 2 less than the number on your opponent's field, give this card in your hand -3 cost.\r\n<br>\r\n[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
     "groupId": 17675
   },
+  "OP08-OP08-020 normal": {
+    "lowPrice": 1999.0,
+    "midPrice": 1999.0,
+    "highPrice": 1999.0,
+    "marketPrice": 348.56,
+    "directLowPrice": null,
+    "name": "Drum Kingdom (Championship 2024 Finalist Card Set)",
+    "rarity": "C",
+    "power": null,
+    "cost": "1",
+    "life": null,
+    "category": "Stage",
+    "colors": "Red",
+    "attributes": null,
+    "types": "Drum Kingdom",
+    "effect": null,
+    "trigger": null,
+    "counter": null,
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/579372_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Stage",
+    "description": "[Opponent's Turn] All of your [Drum Kingdom] type Characters gain +1000 power.",
+    "groupId": 17675
+  },
   "OP06-OP06-092 parallel": {
     "lowPrice": 1499.99,
     "midPrice": 1499.99,
@@ -11519,9 +11545,9 @@
   },
   "OP05-OP05-036 parallel": {
     "lowPrice": 5.99,
-    "midPrice": 13.66,
+    "midPrice": 13.25,
     "highPrice": 35.0,
-    "marketPrice": 8.3,
+    "marketPrice": 7.53,
     "directLowPrice": null,
     "name": "Monet (CS 2024 Event Pack)",
     "rarity": "UC",
@@ -11571,7 +11597,7 @@
   },
   "P-P-038 parallel": {
     "lowPrice": 14.92,
-    "midPrice": 18.15,
+    "midPrice": 18.13,
     "highPrice": 49.99,
     "marketPrice": 17.11,
     "directLowPrice": null,
@@ -11597,9 +11623,9 @@
   },
   "P-P-042 parallel": {
     "lowPrice": 140.0,
-    "midPrice": 179.99,
+    "midPrice": 179.97,
     "highPrice": 469.69,
-    "marketPrice": 95.71,
+    "marketPrice": 97.72,
     "directLowPrice": null,
     "name": "Roronoa Zoro (CS 2024 Event Pack)",
     "rarity": "PR",
@@ -11623,7 +11649,7 @@
   },
   "P-P-044 parallel": {
     "lowPrice": 15.0,
-    "midPrice": 21.72,
+    "midPrice": 21.66,
     "highPrice": 49.99,
     "marketPrice": 16.04,
     "directLowPrice": null,
@@ -11651,7 +11677,7 @@
     "lowPrice": 53.9,
     "midPrice": 67.0,
     "highPrice": 149.99,
-    "marketPrice": 58.39,
+    "marketPrice": 58.3,
     "directLowPrice": null,
     "name": "Yamato (CS 2024 Event Pack)",
     "rarity": "PR",
@@ -11677,7 +11703,7 @@
     "lowPrice": 4.0,
     "midPrice": 7.6,
     "highPrice": 34.99,
-    "marketPrice": 4.86,
+    "marketPrice": 4.9,
     "directLowPrice": null,
     "name": "Jinbe (CS 2024 Event Pack)",
     "rarity": "PR",
@@ -11701,7 +11727,7 @@
   },
   "P-P-064 parallel": {
     "lowPrice": 15.0,
-    "midPrice": 20.0,
+    "midPrice": 19.95,
     "highPrice": 39.99,
     "marketPrice": 10.34,
     "directLowPrice": null,
@@ -11726,10 +11752,10 @@
     "groupId": 17675
   },
   "ST03-ST03-008 alt11": {
-    "lowPrice": 22.0,
-    "midPrice": 26.1,
+    "lowPrice": 20.23,
+    "midPrice": 25.99,
     "highPrice": 39.0,
-    "marketPrice": 23.8,
+    "marketPrice": 23.58,
     "directLowPrice": null,
     "name": "Trafalgar Law - ST03-008 (CS 2024 Event Pack)",
     "rarity": "C",
@@ -11752,8 +11778,8 @@
     "groupId": 17675
   },
   "OP01-OP01-041 alt2": {
-    "lowPrice": 49.95,
-    "midPrice": 49.95,
+    "lowPrice": 34.95,
+    "midPrice": 42.45,
     "highPrice": 49.95,
     "marketPrice": 11.95,
     "directLowPrice": null,
@@ -11805,7 +11831,7 @@
   },
   "OP03-OP03-044 alt2": {
     "lowPrice": 25.21,
-    "midPrice": 39.98,
+    "midPrice": 38.84,
     "highPrice": 55.0,
     "marketPrice": 20.53,
     "directLowPrice": null,
@@ -11857,7 +11883,7 @@
   },
   "OP03-OP03-116 alt3": {
     "lowPrice": 38.88,
-    "midPrice": 41.09,
+    "midPrice": 40.27,
     "highPrice": 49.99,
     "marketPrice": 19.57,
     "directLowPrice": null,
@@ -11937,7 +11963,7 @@
     "lowPrice": 21.11,
     "midPrice": 27.48,
     "highPrice": 29.95,
-    "marketPrice": 23.42,
+    "marketPrice": 24.12,
     "directLowPrice": null,
     "name": "Bepo (CS 2024 Celebration Pack)",
     "rarity": "PR",
@@ -11961,9 +11987,9 @@
   },
   "ST01-ST01-012 alt2": {
     "lowPrice": 149.99,
-    "midPrice": 179.97,
+    "midPrice": 179.48,
     "highPrice": 249.99,
-    "marketPrice": 70.83,
+    "marketPrice": 69.74,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (CS 2024 Celebration Pack)",
     "rarity": "SR",
@@ -12038,8 +12064,8 @@
     "groupId": 17675
   },
   "ST04-ST04-003 alt5": {
-    "lowPrice": 39.98,
-    "midPrice": 48.72,
+    "lowPrice": 39.93,
+    "midPrice": 48.5,
     "highPrice": 57.97,
     "marketPrice": 16.43,
     "directLowPrice": null,
@@ -12065,7 +12091,7 @@
   },
   "P-P-041 alt9": {
     "lowPrice": 39.95,
-    "midPrice": 69.99,
+    "midPrice": 69.0,
     "highPrice": 420.69,
     "marketPrice": 49.64,
     "directLowPrice": null,
@@ -12090,10 +12116,10 @@
     "groupId": 17675
   },
   "P-P-080 normal": {
-    "lowPrice": 132.67,
-    "midPrice": 189.91,
+    "lowPrice": 124.93,
+    "midPrice": 199.99,
     "highPrice": 1000.0,
-    "marketPrice": 170.23,
+    "marketPrice": 165.91,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Bandai Card Games Fest 24-25)",
     "rarity": "PR",
@@ -12143,7 +12169,7 @@
   },
   "OP03-OP03-112 alt3": {
     "lowPrice": 6.8,
-    "midPrice": 8.0,
+    "midPrice": 7.95,
     "highPrice": 15.0,
     "marketPrice": 7.4,
     "directLowPrice": null,
@@ -12168,10 +12194,10 @@
     "groupId": 17675
   },
   "OP04-OP04-010 normal": {
-    "lowPrice": 23.0,
+    "lowPrice": 20.99,
     "midPrice": 37.0,
     "highPrice": 100.0,
-    "marketPrice": 28.58,
+    "marketPrice": 28.06,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper (Winner Pack 2024 Oct.-Dec.)",
     "rarity": "C",
@@ -12195,7 +12221,7 @@
   },
   "OP04-OP04-010 parallel": {
     "lowPrice": 0.1,
-    "midPrice": 0.27,
+    "midPrice": 0.29,
     "highPrice": 1.48,
     "marketPrice": 0.25,
     "directLowPrice": null,
@@ -12221,9 +12247,9 @@
   },
   "OP07-OP07-053 normal": {
     "lowPrice": 14.85,
-    "midPrice": 26.27,
+    "midPrice": 26.0,
     "highPrice": 30.97,
-    "marketPrice": 26.27,
+    "marketPrice": 26.38,
     "directLowPrice": null,
     "name": "Portgas.D.Ace (Winner Pack 2024 Oct.-Dec.)",
     "rarity": "R",
@@ -12325,7 +12351,7 @@
   },
   "EB01-EB01-023 normal": {
     "lowPrice": 0.65,
-    "midPrice": 1.95,
+    "midPrice": 1.74,
     "highPrice": 28.95,
     "marketPrice": 0.87,
     "directLowPrice": null,
@@ -12353,7 +12379,7 @@
     "lowPrice": 0.43,
     "midPrice": 1.0,
     "highPrice": 10.98,
-    "marketPrice": 0.69,
+    "marketPrice": 0.7,
     "directLowPrice": null,
     "name": "Viola (Judge Pack Vol. 4)",
     "rarity": "C",
@@ -12376,10 +12402,10 @@
     "groupId": 17675
   },
   "OP05-OP05-010 normal": {
-    "lowPrice": 7.0,
-    "midPrice": 11.24,
+    "lowPrice": 6.0,
+    "midPrice": 10.25,
     "highPrice": 100.0,
-    "marketPrice": 8.87,
+    "marketPrice": 8.61,
     "directLowPrice": null,
     "name": "Nico Robin (Judge Pack Vol. 4)",
     "rarity": "UC",
@@ -12429,8 +12455,8 @@
   },
   "OP05-OP05-101 normal": {
     "lowPrice": 0.19,
-    "midPrice": 0.74,
-    "highPrice": 21.93,
+    "midPrice": 0.79,
+    "highPrice": 24.92,
     "marketPrice": 0.44,
     "directLowPrice": null,
     "name": "Ohm (Judge Pack Vol. 4)",
@@ -12455,9 +12481,9 @@
   },
   "OP06-OP06-036 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.77,
+    "midPrice": 0.88,
     "highPrice": 4.24,
-    "marketPrice": 0.48,
+    "marketPrice": 0.49,
     "directLowPrice": null,
     "name": "Ryuma (Judge Pack Vol. 4)",
     "rarity": "R",
@@ -12481,7 +12507,7 @@
   },
   "OP06-OP06-074 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.43,
+    "midPrice": 0.45,
     "highPrice": 30.0,
     "marketPrice": 0.41,
     "directLowPrice": null,
@@ -12533,9 +12559,9 @@
   },
   "OP07-OP07-010 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.99,
+    "midPrice": 1.0,
     "highPrice": 3.99,
-    "marketPrice": 0.74,
+    "marketPrice": 0.75,
     "directLowPrice": null,
     "name": "Baccarat (Judge Pack Vol. 4)",
     "rarity": "R",
@@ -12561,7 +12587,7 @@
     "lowPrice": 0.15,
     "midPrice": 0.5,
     "highPrice": 4.88,
-    "marketPrice": 0.35,
+    "marketPrice": 0.41,
     "directLowPrice": null,
     "name": "Marshall.D.Teach (Judge Pack Vol. 4)",
     "rarity": "C",
@@ -12611,7 +12637,7 @@
   },
   "ST13-ST13-012 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.77,
+    "midPrice": 0.79,
     "highPrice": 6.25,
     "marketPrice": 0.31,
     "directLowPrice": null,
@@ -12665,7 +12691,7 @@
     "lowPrice": 24.68,
     "midPrice": 29.21,
     "highPrice": 60.0,
-    "marketPrice": 12.7,
+    "marketPrice": 12.79,
     "directLowPrice": null,
     "name": "Mr.1 (Daz.Bonez) (Offline Regional 2024 Vol. 3) [Finalist]",
     "rarity": "UC",
@@ -12688,10 +12714,10 @@
     "groupId": 17675
   },
   "OP06-OP06-110 normal": {
-    "lowPrice": 31.0,
-    "midPrice": 32.0,
+    "lowPrice": 31.99,
+    "midPrice": 33.5,
     "highPrice": 49.99,
-    "marketPrice": 20.41,
+    "marketPrice": 21.52,
     "directLowPrice": null,
     "name": "Nekomamushi (Offline Regional 2024 Vol. 3) [Finalist]",
     "rarity": "UC",
@@ -12714,8 +12740,8 @@
     "groupId": 17675
   },
   "OP07-OP07-091 normal": {
-    "lowPrice": 499.99,
-    "midPrice": 591.28,
+    "lowPrice": 498.77,
+    "midPrice": 570.14,
     "highPrice": 999.0,
     "marketPrice": 140.93,
     "directLowPrice": null,
@@ -12741,9 +12767,9 @@
   },
   "OP05-OP05-067 parallel": {
     "lowPrice": 59.94,
-    "midPrice": 67.99,
+    "midPrice": 69.0,
     "highPrice": 95.0,
-    "marketPrice": 61.89,
+    "marketPrice": 62.05,
     "directLowPrice": null,
     "name": "Zoro-Juurou (Event Pack Vol. 5)",
     "rarity": "R",
@@ -12767,9 +12793,9 @@
   },
   "OP06-OP06-101 normal": {
     "lowPrice": 90.0,
-    "midPrice": 109.99,
+    "midPrice": 107.5,
     "highPrice": 194.95,
-    "marketPrice": 79.4,
+    "marketPrice": 82.57,
     "directLowPrice": null,
     "name": "O-Nami (Event Pack Vol. 5)",
     "rarity": "R",
@@ -12792,10 +12818,10 @@
     "groupId": 17675
   },
   "P-P-065 normal": {
-    "lowPrice": 39.45,
-    "midPrice": 44.0,
+    "lowPrice": 40.99,
+    "midPrice": 47.19,
     "highPrice": 150.0,
-    "marketPrice": 37.82,
+    "marketPrice": 38.07,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper (Event Pack Vol. 5)",
     "rarity": "PR",
@@ -12819,7 +12845,7 @@
   },
   "P-P-069 normal": {
     "lowPrice": 7.01,
-    "midPrice": 8.45,
+    "midPrice": 8.57,
     "highPrice": 30.26,
     "marketPrice": 7.4,
     "directLowPrice": null,
@@ -12923,7 +12949,7 @@
   },
   "OP01-OP01-015 parallel": {
     "lowPrice": 180.0,
-    "midPrice": 189.51,
+    "midPrice": 189.95,
     "highPrice": 199.01,
     "marketPrice": 42.92,
     "directLowPrice": null,
@@ -12949,7 +12975,7 @@
   },
   "OP02-OP02-063 parallel": {
     "lowPrice": 5.0,
-    "midPrice": 9.99,
+    "midPrice": 9.98,
     "highPrice": 16.46,
     "marketPrice": 4.23,
     "directLowPrice": null,
@@ -13001,9 +13027,9 @@
   },
   "OP07-OP07-091 parallel": {
     "lowPrice": 120.0,
-    "midPrice": 137.61,
+    "midPrice": 137.72,
     "highPrice": 600.0,
-    "marketPrice": 72.41,
+    "marketPrice": 75.01,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (091) (Online Regional 2024 Vol. 3)",
     "rarity": "R",
@@ -13131,7 +13157,7 @@
   },
   "OP07-OP07-091 alt5": {
     "lowPrice": 124.95,
-    "midPrice": 137.85,
+    "midPrice": 139.7,
     "highPrice": 250.0,
     "marketPrice": 89.2,
     "directLowPrice": null,
@@ -13159,7 +13185,7 @@
     "lowPrice": 3.24,
     "midPrice": 5.0,
     "highPrice": 8.23,
-    "marketPrice": 3.22,
+    "marketPrice": 3.26,
     "directLowPrice": null,
     "name": "Mr.1 (Daz.Bonez) (Offline Regional 2024 Vol. 3)",
     "rarity": "UC",
@@ -13182,7 +13208,7 @@
     "groupId": 17675
   },
   "OP06-OP06-110 alt5": {
-    "lowPrice": 6.2,
+    "lowPrice": 9.5,
     "midPrice": 9.99,
     "highPrice": 29.0,
     "marketPrice": 4.45,
@@ -13235,9 +13261,9 @@
   },
   "OP05-OP05-005 normal": {
     "lowPrice": 5.55,
-    "midPrice": 9.99,
+    "midPrice": 10.0,
     "highPrice": 40.0,
-    "marketPrice": 7.09,
+    "marketPrice": 7.54,
     "directLowPrice": null,
     "name": "Karasu (Premium Card Collection -Best Selection Vol. 2-)",
     "rarity": "R",
@@ -13263,7 +13289,7 @@
     "lowPrice": 1.0,
     "midPrice": 2.0,
     "highPrice": 40.0,
-    "marketPrice": 1.34,
+    "marketPrice": 1.39,
     "directLowPrice": null,
     "name": "Capone\"Gang\"Bege (Premium Card Collection -Best Selection Vol. 2-)",
     "rarity": "C",
@@ -13287,9 +13313,9 @@
   },
   "OP01-OP01-114 alt3": {
     "lowPrice": 2.49,
-    "midPrice": 3.38,
+    "midPrice": 3.5,
     "highPrice": 40.0,
-    "marketPrice": 3.16,
+    "marketPrice": 3.14,
     "directLowPrice": null,
     "name": "X.Drake (Premium Card Collection -Best Selection Vol. 2-)",
     "rarity": "R",
@@ -13312,10 +13338,10 @@
     "groupId": 17675
   },
   "ST03-ST03-013 normal": {
-    "lowPrice": 34.1,
-    "midPrice": 40.0,
+    "lowPrice": 33.76,
+    "midPrice": 39.99,
     "highPrice": 129.99,
-    "marketPrice": 35.69,
+    "marketPrice": 35.85,
     "directLowPrice": null,
     "name": "Boa Hancock (Premium Card Collection -Best Selection Vol. 2-)",
     "rarity": "C",
@@ -13338,10 +13364,10 @@
     "groupId": 17675
   },
   "ST06-ST06-008 parallel": {
-    "lowPrice": 8.35,
+    "lowPrice": 8.66,
     "midPrice": 12.0,
     "highPrice": 80.0,
-    "marketPrice": 8.37,
+    "marketPrice": 8.68,
     "directLowPrice": null,
     "name": "Hina (Premium Card Collection -Best Selection Vol. 2-)",
     "rarity": "C",
@@ -13366,8 +13392,8 @@
   "OP06-OP06-104 normal": {
     "lowPrice": 27.0,
     "midPrice": 30.0,
-    "highPrice": 40.0,
-    "marketPrice": 27.95,
+    "highPrice": 59.99,
+    "marketPrice": 27.94,
     "directLowPrice": null,
     "name": "Kikunojo (Premium Card Collection -Best Selection Vol. 2-)",
     "rarity": "R",
@@ -13391,9 +13417,9 @@
   },
   "OP05-OP05-019 normal": {
     "lowPrice": 2.75,
-    "midPrice": 4.99,
+    "midPrice": 5.0,
     "highPrice": 40.0,
-    "marketPrice": 3.59,
+    "marketPrice": 4.03,
     "directLowPrice": null,
     "name": "Fire Fist (Premium Card Collection -Best Selection Vol. 2-)",
     "rarity": "R",
@@ -13417,7 +13443,7 @@
   },
   "OP06-OP06-038 normal": {
     "lowPrice": 9.99,
-    "midPrice": 12.99,
+    "midPrice": 13.0,
     "highPrice": 40.0,
     "marketPrice": 11.7,
     "directLowPrice": null,
@@ -13443,9 +13469,9 @@
   },
   "OP03-OP03-055 normal": {
     "lowPrice": 3.0,
-    "midPrice": 4.9,
+    "midPrice": 4.89,
     "highPrice": 40.0,
-    "marketPrice": 3.61,
+    "marketPrice": 3.57,
     "directLowPrice": null,
     "name": "Gum-Gum Giant Gavel (Premium Card Collection -Best Selection Vol. 2-)",
     "rarity": "C",
@@ -13468,10 +13494,10 @@
     "groupId": 17675
   },
   "ST04-ST04-017 normal": {
-    "lowPrice": 6.5,
+    "lowPrice": 6.49,
     "midPrice": 8.15,
     "highPrice": 40.0,
-    "marketPrice": 7.87,
+    "marketPrice": 7.78,
     "directLowPrice": null,
     "name": "Onigashima Island (Premium Card Collection -Best Selection Vol. 2-)",
     "rarity": "C",
@@ -13495,9 +13521,9 @@
   },
   "OP04-OP04-095 normal": {
     "lowPrice": 1.5,
-    "midPrice": 3.69,
+    "midPrice": 3.78,
     "highPrice": 40.0,
-    "marketPrice": 2.48,
+    "marketPrice": 2.47,
     "directLowPrice": null,
     "name": "Barrier!! (Premium Card Collection -Best Selection Vol. 2-)",
     "rarity": "C",
@@ -13520,10 +13546,10 @@
     "groupId": 17675
   },
   "OP05-OP05-114 normal": {
-    "lowPrice": 4.8,
-    "midPrice": 9.66,
+    "lowPrice": 5.3,
+    "midPrice": 9.78,
     "highPrice": 40.0,
-    "marketPrice": 9.47,
+    "marketPrice": 8.48,
     "directLowPrice": null,
     "name": "El Thor (Premium Card Collection -Best Selection Vol. 2-)",
     "rarity": "UC",
@@ -13598,7 +13624,7 @@
     "groupId": 17675
   },
   "OP02-OP02-034 parallel": {
-    "lowPrice": 74.99,
+    "lowPrice": 72.99,
     "midPrice": 79.97,
     "highPrice": 294.0,
     "marketPrice": 43.15,
@@ -13624,8 +13650,8 @@
     "groupId": 17675
   },
   "OP02-OP02-034 alt2": {
-    "lowPrice": 5.9,
-    "midPrice": 7.09,
+    "lowPrice": 5.0,
+    "midPrice": 7.0,
     "highPrice": 29.99,
     "marketPrice": 6.18,
     "directLowPrice": null,
@@ -13677,7 +13703,7 @@
   },
   "OP03-OP03-116 alt6": {
     "lowPrice": 0.43,
-    "midPrice": 0.65,
+    "midPrice": 0.66,
     "highPrice": 50.0,
     "marketPrice": 0.98,
     "directLowPrice": null,
@@ -13755,9 +13781,9 @@
   },
   "P-P-045 alt2": {
     "lowPrice": 2.0,
-    "midPrice": 4.87,
+    "midPrice": 4.99,
     "highPrice": 25.0,
-    "marketPrice": 3.26,
+    "marketPrice": 3.39,
     "directLowPrice": null,
     "name": "Roronoa Zoro (ST15 - ST20 Release Event Pack)",
     "rarity": "PR",
@@ -13885,9 +13911,9 @@
   },
   "OP05-OP05-060 parallel": {
     "lowPrice": 39.99,
-    "midPrice": 54.55,
+    "midPrice": 51.25,
     "highPrice": 115.0,
-    "marketPrice": 40.97,
+    "marketPrice": 41.96,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Sound Loader Vol. 1)",
     "rarity": "L",
@@ -13913,7 +13939,7 @@
     "lowPrice": 7.0,
     "midPrice": 9.75,
     "highPrice": 29.98,
-    "marketPrice": 8.86,
+    "marketPrice": 8.92,
     "directLowPrice": null,
     "name": "Enel (Sound Loader Vol. 2)",
     "rarity": "L",
@@ -13937,7 +13963,7 @@
   },
   "OP05-OP05-030 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.52,
+    "midPrice": 1.49,
     "highPrice": 18.0,
     "marketPrice": 0.95,
     "directLowPrice": null,
@@ -14041,7 +14067,7 @@
   },
   "OP04-OP04-087 normal": {
     "lowPrice": 0.07,
-    "midPrice": 0.5,
+    "midPrice": 0.52,
     "highPrice": 20.0,
     "marketPrice": 0.41,
     "directLowPrice": null,
@@ -14066,10 +14092,10 @@
     "groupId": 17675
   },
   "OP05-OP05-042 normal": {
-    "lowPrice": 0.1,
+    "lowPrice": 0.09,
     "midPrice": 0.35,
     "highPrice": 30.0,
-    "marketPrice": 0.23,
+    "marketPrice": 0.26,
     "directLowPrice": null,
     "name": "Issho (Welcome Pack Vol. 1)",
     "rarity": "R",
@@ -14092,8 +14118,8 @@
     "groupId": 17675
   },
   "ST13-ST13-001 parallel": {
-    "lowPrice": 24.0,
-    "midPrice": 34.99,
+    "lowPrice": 22.77,
+    "midPrice": 34.95,
     "highPrice": 99.99,
     "marketPrice": 31.73,
     "directLowPrice": null,
@@ -14118,10 +14144,10 @@
     "groupId": 17675
   },
   "ST13-ST13-002 parallel": {
-    "lowPrice": 42.38,
-    "midPrice": 59.5,
+    "lowPrice": 45.0,
+    "midPrice": 60.0,
     "highPrice": 250.0,
-    "marketPrice": 42.76,
+    "marketPrice": 43.38,
     "directLowPrice": null,
     "name": "Portgas.D.Ace (2nd Anniversary Tournament)",
     "rarity": "L",
@@ -14145,7 +14171,7 @@
   },
   "ST13-ST13-003 parallel": {
     "lowPrice": 110.0,
-    "midPrice": 129.55,
+    "midPrice": 130.0,
     "highPrice": 299.99,
     "marketPrice": 112.25,
     "directLowPrice": null,
@@ -14170,10 +14196,10 @@
     "groupId": 17675
   },
   "P-P-043 parallel": {
-    "lowPrice": 19.73,
-    "midPrice": 24.04,
+    "lowPrice": 19.77,
+    "midPrice": 24.88,
     "highPrice": 99.99,
-    "marketPrice": 20.67,
+    "marketPrice": 21.05,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (2nd Anniversary Stamped Promo)",
     "rarity": "PR",
@@ -14197,9 +14223,9 @@
   },
   "EB01-EB01-014 normal": {
     "lowPrice": 7.5,
-    "midPrice": 10.49,
+    "midPrice": 10.0,
     "highPrice": 23.75,
-    "marketPrice": 8.97,
+    "marketPrice": 9.24,
     "directLowPrice": null,
     "name": "Sanji (Winner Pack 2025 Vol. 1)",
     "rarity": "R",
@@ -14222,10 +14248,10 @@
     "groupId": 17675
   },
   "OP06-OP06-047 normal": {
-    "lowPrice": 25.99,
-    "midPrice": 29.25,
-    "highPrice": 39.99,
-    "marketPrice": 26.71,
+    "lowPrice": 25.0,
+    "midPrice": 28.5,
+    "highPrice": 35.0,
+    "marketPrice": 26.79,
     "directLowPrice": null,
     "name": "Charlotte Pudding (Winner Pack 2025 Vol. 1)",
     "rarity": "R",
@@ -14251,7 +14277,7 @@
     "lowPrice": 2.0,
     "midPrice": 3.3,
     "highPrice": 300.98,
-    "marketPrice": 2.68,
+    "marketPrice": 2.62,
     "directLowPrice": null,
     "name": "Hitokiri Kamazo (Winner Pack 2025 Vol. 1)",
     "rarity": "UC",
@@ -14275,7 +14301,7 @@
   },
   "OP07-OP07-080 normal": {
     "lowPrice": 1.59,
-    "midPrice": 3.26,
+    "midPrice": 3.2,
     "highPrice": 15.0,
     "marketPrice": 1.85,
     "directLowPrice": null,
@@ -14303,7 +14329,7 @@
     "lowPrice": 0.24,
     "midPrice": 0.5,
     "highPrice": 4.0,
-    "marketPrice": 0.3,
+    "marketPrice": 0.33,
     "directLowPrice": null,
     "name": "Sanji (Tournament Pack 2025 Vol. 1)",
     "rarity": "R",
@@ -14326,10 +14352,10 @@
     "groupId": 17675
   },
   "OP06-OP06-047 parallel": {
-    "lowPrice": 2.23,
-    "midPrice": 3.46,
+    "lowPrice": 2.0,
+    "midPrice": 4.53,
     "highPrice": 7.99,
-    "marketPrice": 3.63,
+    "marketPrice": 3.9,
     "directLowPrice": null,
     "name": "Charlotte Pudding (Tournament Pack 2025 Vol. 1)",
     "rarity": "R",
@@ -14407,7 +14433,7 @@
     "lowPrice": 24.99,
     "midPrice": 40.0,
     "highPrice": 100.0,
-    "marketPrice": 24.06,
+    "marketPrice": 24.58,
     "directLowPrice": null,
     "name": "Nami (2025 New Year Event)",
     "rarity": "C",
@@ -14508,10 +14534,10 @@
     "groupId": 17675
   },
   "OP01-OP01-030 normal": {
-    "lowPrice": 89.99,
-    "midPrice": 99.98,
+    "lowPrice": 89.95,
+    "midPrice": 99.97,
     "highPrice": 149.99,
-    "marketPrice": 63.99,
+    "marketPrice": 65.49,
     "directLowPrice": null,
     "name": "In Two Years!! At the Sabaody Archipelago!! (One Piece Japanese Version 2nd Anniversary Set)",
     "rarity": "UC",
@@ -14535,9 +14561,9 @@
   },
   "OP02-OP02-013 normal": {
     "lowPrice": 120.0,
-    "midPrice": 140.0,
+    "midPrice": 139.99,
     "highPrice": 250.0,
-    "marketPrice": 126.86,
+    "marketPrice": 128.2,
     "directLowPrice": null,
     "name": "Portgas.D.Ace (One Piece Japanese Version 2nd Anniversary Set)",
     "rarity": "SR",
@@ -14561,9 +14587,9 @@
   },
   "OP03-OP03-044 alt3": {
     "lowPrice": 41.68,
-    "midPrice": 48.0,
+    "midPrice": 47.63,
     "highPrice": 149.99,
-    "marketPrice": 46.95,
+    "marketPrice": 46.88,
     "directLowPrice": null,
     "name": "Kaya (One Piece Japanese Version 2nd Anniversary Set)",
     "rarity": "R",
@@ -14586,10 +14612,10 @@
     "groupId": 17675
   },
   "OP04-OP04-083 parallel": {
-    "lowPrice": 75.0,
+    "lowPrice": 74.99,
     "midPrice": 93.0,
     "highPrice": 299.99,
-    "marketPrice": 76.79,
+    "marketPrice": 77.53,
     "directLowPrice": null,
     "name": "Sabo (One Piece Japanese Version 2nd Anniversary Set)",
     "rarity": "SR",
@@ -14612,10 +14638,10 @@
     "groupId": 17675
   },
   "OP05-OP05-030 parallel": {
-    "lowPrice": 55.0,
+    "lowPrice": 65.0,
     "midPrice": 76.0,
     "highPrice": 149.99,
-    "marketPrice": 54.54,
+    "marketPrice": 55.06,
     "directLowPrice": null,
     "name": "Donquixote Rosinante (One Piece Japanese Version 2nd Anniversary Set)",
     "rarity": "R",
@@ -14638,8 +14664,8 @@
     "groupId": 17675
   },
   "OP06-OP06-118 normal": {
-    "lowPrice": 179.99,
-    "midPrice": 230.0,
+    "lowPrice": 177.0,
+    "midPrice": 200.95,
     "highPrice": 600.0,
     "marketPrice": 141.98,
     "directLowPrice": null,
@@ -14665,7 +14691,7 @@
   },
   "OP07-OP07-064 alt2": {
     "lowPrice": 160.0,
-    "midPrice": 200.0,
+    "midPrice": 184.99,
     "highPrice": 301.0,
     "marketPrice": 72.02,
     "directLowPrice": null,
@@ -14690,10 +14716,10 @@
     "groupId": 17675
   },
   "OP08-OP08-069 normal": {
-    "lowPrice": 43.14,
-    "midPrice": 50.0,
+    "lowPrice": 40.0,
+    "midPrice": 49.99,
     "highPrice": 300.0,
-    "marketPrice": 35.41,
+    "marketPrice": 36.38,
     "directLowPrice": null,
     "name": "Charlotte Linlin (One Piece Japanese Version 2nd Anniversary Set)",
     "rarity": "SR",
@@ -14719,7 +14745,7 @@
     "lowPrice": 274.99,
     "midPrice": 324.49,
     "highPrice": 1000.0,
-    "marketPrice": 310.82,
+    "marketPrice": 316.62,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (One Piece Japanese Version 2nd Anniversary Set)",
     "rarity": "SR",
@@ -14768,10 +14794,10 @@
     "groupId": 17675
   },
   "OP07-OP07-021 normal": {
-    "lowPrice": 2.7,
-    "midPrice": 4.65,
+    "lowPrice": 2.73,
+    "midPrice": 4.82,
     "highPrice": 22.99,
-    "marketPrice": 2.72,
+    "marketPrice": 2.75,
     "directLowPrice": null,
     "name": "Urouge (Offline Regional Participation Pack 2025 Vol.1)",
     "rarity": "R",
@@ -14795,9 +14821,9 @@
   },
   "OP09-OP09-106 normal": {
     "lowPrice": 30.0,
-    "midPrice": 33.92,
+    "midPrice": 34.3,
     "highPrice": 99.99,
-    "marketPrice": 31.82,
+    "marketPrice": 31.34,
     "directLowPrice": null,
     "name": "Nico Olvia (Offline Regional Participation Pack 2025 Vol.1)",
     "rarity": "C",
@@ -14846,10 +14872,10 @@
     "groupId": 17675
   },
   "P-P-070 normal": {
-    "lowPrice": 1.5,
+    "lowPrice": 1.8,
     "midPrice": 3.11,
     "highPrice": 25.0,
-    "marketPrice": 2.17,
+    "marketPrice": 1.93,
     "directLowPrice": null,
     "name": "Carrot (Event Pack Vol. 6)",
     "rarity": "PR",
@@ -14872,10 +14898,10 @@
     "groupId": 17675
   },
   "P-P-077 normal": {
-    "lowPrice": 4.5,
+    "lowPrice": 3.43,
     "midPrice": 6.99,
     "highPrice": 28.28,
-    "marketPrice": 5.49,
+    "marketPrice": 5.17,
     "directLowPrice": null,
     "name": "Ulti (Event Pack Vol. 6)",
     "rarity": "PR",
@@ -14899,9 +14925,9 @@
   },
   "P-P-079 normal": {
     "lowPrice": 0.5,
-    "midPrice": 1.75,
+    "midPrice": 1.86,
     "highPrice": 29.0,
-    "marketPrice": 1.16,
+    "marketPrice": 1.12,
     "directLowPrice": null,
     "name": "Lim (Event Pack Vol. 6)",
     "rarity": "PR",
@@ -14925,9 +14951,9 @@
   },
   "P-P-083 normal": {
     "lowPrice": 3.94,
-    "midPrice": 6.0,
+    "midPrice": 5.94,
     "highPrice": 36.0,
-    "marketPrice": 5.5,
+    "marketPrice": 5.36,
     "directLowPrice": null,
     "name": "Shanks (Event Pack Vol. 6)",
     "rarity": "PR",
@@ -14977,7 +15003,7 @@
   },
   "ST11-ST11-003 parallel": {
     "lowPrice": 1.0,
-    "midPrice": 3.0,
+    "midPrice": 4.0,
     "highPrice": 10.99,
     "marketPrice": 2.56,
     "directLowPrice": null,
@@ -15003,9 +15029,9 @@
   },
   "OP06-OP06-061 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.54,
+    "midPrice": 0.57,
     "highPrice": 5.44,
-    "marketPrice": 0.42,
+    "marketPrice": 0.41,
     "directLowPrice": null,
     "name": "Vinsmoke Ichiji (Judge Pack Vol. 5)",
     "rarity": "R",
@@ -15081,9 +15107,9 @@
   },
   "OP07-OP07-101 normal": {
     "lowPrice": 1.51,
-    "midPrice": 2.35,
+    "midPrice": 2.48,
     "highPrice": 24.99,
-    "marketPrice": 2.21,
+    "marketPrice": 1.97,
     "directLowPrice": null,
     "name": "Shaka (Judge Pack Vol. 5)",
     "rarity": "UC",
@@ -15107,9 +15133,9 @@
   },
   "ST17-ST17-003 normal": {
     "lowPrice": 4.43,
-    "midPrice": 6.62,
+    "midPrice": 6.31,
     "highPrice": 10.54,
-    "marketPrice": 2.88,
+    "marketPrice": 3.0,
     "directLowPrice": null,
     "name": "Buggy (Judge Pack Vol. 5)",
     "rarity": "C",
@@ -15133,7 +15159,7 @@
   },
   "OP09-OP09-011 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.42,
+    "midPrice": 0.43,
     "highPrice": 4.16,
     "marketPrice": 0.34,
     "directLowPrice": null,
@@ -15159,7 +15185,7 @@
   },
   "OP09-OP09-034 normal": {
     "lowPrice": 5.0,
-    "midPrice": 9.0,
+    "midPrice": 9.16,
     "highPrice": 10.0,
     "marketPrice": 4.5,
     "directLowPrice": null,
@@ -15211,9 +15237,9 @@
   },
   "OP10-OP10-076 normal": {
     "lowPrice": 0.99,
-    "midPrice": 5.71,
-    "highPrice": 23.47,
-    "marketPrice": 2.77,
+    "midPrice": 5.0,
+    "highPrice": 30.43,
+    "marketPrice": 2.78,
     "directLowPrice": null,
     "name": "Baby 5 (Judge Pack Vol. 5)",
     "rarity": "UC",
@@ -15262,8 +15288,8 @@
     "groupId": 17675
   },
   "OP09-OP09-050 normal": {
-    "lowPrice": 2197.73,
-    "midPrice": 2400.0,
+    "lowPrice": 2197.72,
+    "midPrice": 2349.49,
     "highPrice": 2600.0,
     "marketPrice": 836.09,
     "directLowPrice": null,
@@ -15291,7 +15317,7 @@
     "lowPrice": 3500.0,
     "midPrice": 3750.0,
     "highPrice": 4000.0,
-    "marketPrice": 756.74,
+    "marketPrice": 943.88,
     "directLowPrice": null,
     "name": "Roronoa Zoro (Championship 25-26 Regionals Season 1)",
     "rarity": "R",
@@ -15315,9 +15341,9 @@
   },
   "ST10-ST10-006 alt3": {
     "lowPrice": 500.0,
-    "midPrice": 699.0,
+    "midPrice": 687.0,
     "highPrice": 2000.0,
-    "marketPrice": 579.59,
+    "marketPrice": 575.43,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (One Piece Day Dallas 2025)",
     "rarity": "SR",
@@ -15341,7 +15367,7 @@
   },
   "OP07-OP07-113 normal": {
     "lowPrice": 279.99,
-    "midPrice": 389.98,
+    "midPrice": 379.99,
     "highPrice": 600.0,
     "marketPrice": 237.91,
     "directLowPrice": null,
@@ -15369,7 +15395,7 @@
     "lowPrice": 0.15,
     "midPrice": 0.8,
     "highPrice": 10.0,
-    "marketPrice": 0.37,
+    "marketPrice": 0.38,
     "directLowPrice": null,
     "name": "Buggy (OP10 Release Event)",
     "rarity": "PR",
@@ -15392,7 +15418,7 @@
     "groupId": 17675
   },
   "P-P-084 parallel": {
-    "lowPrice": 30.0,
+    "lowPrice": 27.0,
     "midPrice": 48.98,
     "highPrice": 200.0,
     "marketPrice": 40.62,
@@ -15419,9 +15445,9 @@
   },
   "P-P-086 normal": {
     "lowPrice": 0.22,
-    "midPrice": 0.86,
-    "highPrice": 3.03,
-    "marketPrice": 0.75,
+    "midPrice": 0.94,
+    "highPrice": 5.0,
+    "marketPrice": 0.78,
     "directLowPrice": null,
     "name": "Trafalgar Law (OP10 Release Event)",
     "rarity": "PR",
@@ -15445,9 +15471,9 @@
   },
   "OP04-OP04-092 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.34,
+    "midPrice": 0.33,
     "highPrice": 1.99,
-    "marketPrice": 0.28,
+    "marketPrice": 0.29,
     "directLowPrice": null,
     "name": "Rebecca (Tournament Pack 2025 Vol. 2)",
     "rarity": "R",
@@ -15471,9 +15497,9 @@
   },
   "EB01-EB01-015 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.32,
+    "midPrice": 0.31,
     "highPrice": 2.9,
-    "marketPrice": 0.26,
+    "marketPrice": 0.27,
     "directLowPrice": null,
     "name": "Scratchmen Apoo (Tournament Pack 2025 Vol. 2)",
     "rarity": "R",
@@ -15523,9 +15549,9 @@
   },
   "OP09-OP09-011 parallel": {
     "lowPrice": 0.01,
-    "midPrice": 0.22,
+    "midPrice": 0.21,
     "highPrice": 3.1,
-    "marketPrice": 0.14,
+    "marketPrice": 0.16,
     "directLowPrice": null,
     "name": "Hongo (Tournament Pack 2025 Vol. 2)",
     "rarity": "UC",
@@ -15549,7 +15575,7 @@
   },
   "OP09-OP09-011 alt2": {
     "lowPrice": 1.78,
-    "midPrice": 3.93,
+    "midPrice": 3.95,
     "highPrice": 23.43,
     "marketPrice": 2.42,
     "directLowPrice": null,
@@ -15577,7 +15603,7 @@
     "lowPrice": 1.61,
     "midPrice": 5.0,
     "highPrice": 15.0,
-    "marketPrice": 2.94,
+    "marketPrice": 3.06,
     "directLowPrice": null,
     "name": "Wyper (Winner Pack 2025 Vol. 2)",
     "rarity": "R",
@@ -15601,9 +15627,9 @@
   },
   "EB01-EB01-015 parallel": {
     "lowPrice": 5.91,
-    "midPrice": 7.94,
+    "midPrice": 7.99,
     "highPrice": 20.0,
-    "marketPrice": 6.34,
+    "marketPrice": 6.53,
     "directLowPrice": null,
     "name": "Scratchmen Apoo (Winner Pack 2025 Vol. 2)",
     "rarity": "R",
@@ -15629,7 +15655,7 @@
     "lowPrice": 8.25,
     "midPrice": 10.0,
     "highPrice": 32.95,
-    "marketPrice": 9.22,
+    "marketPrice": 9.17,
     "directLowPrice": null,
     "name": "Rebecca (Winner Pack 2025 Vol. 2)",
     "rarity": "R",
@@ -15783,7 +15809,7 @@
   },
   "OP05-OP05-102 alt4": {
     "lowPrice": 148.69,
-    "midPrice": 224.99,
+    "midPrice": 199.99,
     "highPrice": 450.0,
     "marketPrice": 144.99,
     "directLowPrice": null,
@@ -15861,9 +15887,9 @@
   },
   "OP08-OP08-074 normal": {
     "lowPrice": 9.99,
-    "midPrice": 11.7,
+    "midPrice": 11.98,
     "highPrice": 100.0,
-    "marketPrice": 10.96,
+    "marketPrice": 11.04,
     "directLowPrice": null,
     "name": "Black Maria (Illustration Box Vol.2)",
     "rarity": "SR",
@@ -15886,10 +15912,10 @@
     "groupId": 17675
   },
   "ST17-ST17-004 normal": {
-    "lowPrice": 38.97,
-    "midPrice": 46.37,
+    "lowPrice": 38.99,
+    "midPrice": 47.88,
     "highPrice": 299.0,
-    "marketPrice": 39.73,
+    "marketPrice": 39.74,
     "directLowPrice": null,
     "name": "Boa Hancock (Illustration Box Vol.1)",
     "rarity": "SR",
@@ -15912,10 +15938,10 @@
     "groupId": 17675
   },
   "OP05-OP05-062 normal": {
-    "lowPrice": 28.99,
-    "midPrice": 39.0,
+    "lowPrice": 26.99,
+    "midPrice": 32.79,
     "highPrice": 100.0,
-    "marketPrice": 32.58,
+    "marketPrice": 30.03,
     "directLowPrice": null,
     "name": "O-Nami (Illustration Box Vol.1)",
     "rarity": "UC",
@@ -15939,9 +15965,9 @@
   },
   "ST13-ST13-016 normal": {
     "lowPrice": 8.5,
-    "midPrice": 13.99,
+    "midPrice": 14.0,
     "highPrice": 100.0,
-    "marketPrice": 10.38,
+    "marketPrice": 10.58,
     "directLowPrice": null,
     "name": "Yamato (Illustration Box Vol.2)",
     "rarity": "C",
@@ -15991,9 +16017,9 @@
   },
   "OP05-OP05-093 normal": {
     "lowPrice": 99.99,
-    "midPrice": 137.44,
+    "midPrice": 124.14,
     "highPrice": 300.0,
-    "marketPrice": 72.92,
+    "marketPrice": 74.71,
     "directLowPrice": null,
     "name": "Rob Lucci (Illustration Box EX)",
     "rarity": "SR",
@@ -16016,10 +16042,10 @@
     "groupId": 17675
   },
   "OP07-OP07-038 normal": {
-    "lowPrice": 175.0,
+    "lowPrice": 184.99,
     "midPrice": 250.0,
     "highPrice": 499.99,
-    "marketPrice": 159.16,
+    "marketPrice": 160.16,
     "directLowPrice": null,
     "name": "Boa Hancock (2025 PSA Magazine Promo)",
     "rarity": "L",
@@ -16043,7 +16069,7 @@
   },
   "P-P-078 parallel": {
     "lowPrice": 15.99,
-    "midPrice": 26.82,
+    "midPrice": 23.88,
     "highPrice": 130.0,
     "marketPrice": 17.69,
     "directLowPrice": null,
@@ -16068,8 +16094,8 @@
     "groupId": 17675
   },
   "OP09-OP09-106 parallel": {
-    "lowPrice": 180.0,
-    "midPrice": 198.5,
+    "lowPrice": 170.98,
+    "midPrice": 198.0,
     "highPrice": 350.0,
     "marketPrice": 99.01,
     "directLowPrice": null,
@@ -16094,7 +16120,7 @@
     "groupId": 17675
   },
   "OP07-OP07-021 parallel": {
-    "lowPrice": 29.99,
+    "lowPrice": 20.05,
     "midPrice": 30.0,
     "highPrice": 34.97,
     "marketPrice": 11.53,
@@ -16121,7 +16147,7 @@
   },
   "EB01-EB01-043 parallel": {
     "lowPrice": 15.0,
-    "midPrice": 23.61,
+    "midPrice": 23.21,
     "highPrice": 42.79,
     "marketPrice": 12.47,
     "directLowPrice": null,
@@ -16146,8 +16172,8 @@
     "groupId": 17675
   },
   "ST13-ST13-003 alt2": {
-    "lowPrice": 999.95,
-    "midPrice": 999.99,
+    "lowPrice": 999.99,
+    "midPrice": 1499.99,
     "highPrice": 1999.99,
     "marketPrice": 397.59,
     "directLowPrice": null,
@@ -16173,9 +16199,9 @@
   },
   "OP04-OP04-032 normal": {
     "lowPrice": 3.39,
-    "midPrice": 4.68,
+    "midPrice": 4.6,
     "highPrice": 80.0,
-    "marketPrice": 4.24,
+    "marketPrice": 4.25,
     "directLowPrice": null,
     "name": "Baby 5 (Premium Card Collection -Best Selection Vol. 3-)",
     "rarity": "UC",
@@ -16199,9 +16225,9 @@
   },
   "OP05-OP05-004 parallel": {
     "lowPrice": 6.48,
-    "midPrice": 9.72,
+    "midPrice": 9.79,
     "highPrice": 40.0,
-    "marketPrice": 6.07,
+    "marketPrice": 6.46,
     "directLowPrice": null,
     "name": "Emporio.Ivankov (Premium Card Collection -Best Selection Vol. 3-)",
     "rarity": "UC",
@@ -16224,8 +16250,8 @@
     "groupId": 17675
   },
   "OP06-OP06-016 normal": {
-    "lowPrice": 1.47,
-    "midPrice": 3.8,
+    "lowPrice": 1.29,
+    "midPrice": 3.6,
     "highPrice": 49.99,
     "marketPrice": 1.67,
     "directLowPrice": null,
@@ -16251,9 +16277,9 @@
   },
   "OP06-OP06-090 normal": {
     "lowPrice": 12.5,
-    "midPrice": 16.92,
+    "midPrice": 15.9,
     "highPrice": 45.0,
-    "marketPrice": 14.98,
+    "marketPrice": 14.91,
     "directLowPrice": null,
     "name": "Dr. Hogback (Premium Card Collection -Best Selection Vol. 3-)",
     "rarity": "R",
@@ -16277,9 +16303,9 @@
   },
   "OP08-OP08-040 normal": {
     "lowPrice": 10.0,
-    "midPrice": 11.99,
+    "midPrice": 11.84,
     "highPrice": 40.0,
-    "marketPrice": 11.16,
+    "marketPrice": 11.07,
     "directLowPrice": null,
     "name": "Atmos (Premium Card Collection -Best Selection Vol. 3-)",
     "rarity": "UC",
@@ -16302,10 +16328,10 @@
     "groupId": 17675
   },
   "P-P-072 normal": {
-    "lowPrice": 64.0,
+    "lowPrice": 65.0,
     "midPrice": 81.81,
     "highPrice": 299.99,
-    "marketPrice": 81.23,
+    "marketPrice": 81.14,
     "directLowPrice": null,
     "name": "Ryuma (Oda Stamped Signature) (Premium Card Collection -Best Selection Vol. 3-)",
     "rarity": "PR",
@@ -16355,7 +16381,7 @@
   },
   "P-P-074 normal": {
     "lowPrice": 11.83,
-    "midPrice": 14.98,
+    "midPrice": 15.43,
     "highPrice": 80.0,
     "marketPrice": 13.89,
     "directLowPrice": null,
@@ -16380,10 +16406,10 @@
     "groupId": 17675
   },
   "P-P-075 normal": {
-    "lowPrice": 20.44,
+    "lowPrice": 28.88,
     "midPrice": 33.48,
-    "highPrice": 69.99,
-    "marketPrice": 34.41,
+    "highPrice": 100.0,
+    "marketPrice": 34.49,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Premium Card Collection -Best Selection Vol. 3-)",
     "rarity": "PR",
@@ -16409,7 +16435,7 @@
     "lowPrice": 7.0,
     "midPrice": 7.99,
     "highPrice": 32.0,
-    "marketPrice": 8.08,
+    "marketPrice": 7.9,
     "directLowPrice": null,
     "name": "Ulti (Premium Card Collection -Best Selection Vol. 3-)",
     "rarity": "C",
@@ -16433,9 +16459,9 @@
   },
   "ST05-ST05-002 parallel": {
     "lowPrice": 7.0,
-    "midPrice": 7.75,
+    "midPrice": 7.86,
     "highPrice": 80.0,
-    "marketPrice": 6.72,
+    "marketPrice": 6.92,
     "directLowPrice": null,
     "name": "Ain (Premium Card Collection -Best Selection Vol. 3-)",
     "rarity": "C",
@@ -16458,10 +16484,10 @@
     "groupId": 17675
   },
   "ST13-ST13-012 parallel": {
-    "lowPrice": 8.28,
+    "lowPrice": 11.25,
     "midPrice": 16.49,
     "highPrice": 40.0,
-    "marketPrice": 8.28,
+    "marketPrice": 9.33,
     "directLowPrice": null,
     "name": "Makino (Premium Card Collection -Best Selection Vol. 3-)",
     "rarity": "C",
@@ -16484,10 +16510,10 @@
     "groupId": 17675
   },
   "OP09-OP09-029 normal": {
-    "lowPrice": 16.0,
-    "midPrice": 22.92,
+    "lowPrice": 18.52,
+    "midPrice": 24.98,
     "highPrice": 80.0,
-    "marketPrice": 19.79,
+    "marketPrice": 19.56,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper (Convention Promo 2025)",
     "rarity": "C",
@@ -16537,7 +16563,7 @@
   },
   "EB01-EB01-048 normal": {
     "lowPrice": 1800.0,
-    "midPrice": 1875.0,
+    "midPrice": 1825.0,
     "highPrice": 1999.99,
     "marketPrice": 564.91,
     "directLowPrice": null,
@@ -16615,9 +16641,9 @@
   },
   "P-P-082 parallel": {
     "lowPrice": 21.0,
-    "midPrice": 27.99,
+    "midPrice": 33.6,
     "highPrice": 100.0,
-    "marketPrice": 27.77,
+    "marketPrice": 27.72,
     "directLowPrice": null,
     "name": "Crocodile (Store 2-on-2 Battle 2025 Winner)",
     "rarity": "PR",
@@ -16640,10 +16666,10 @@
     "groupId": 17675
   },
   "OP08-OP08-067 parallel": {
-    "lowPrice": 43.96,
+    "lowPrice": 43.9,
     "midPrice": 59.0,
     "highPrice": 104.0,
-    "marketPrice": 47.07,
+    "marketPrice": 47.75,
     "directLowPrice": null,
     "name": "Charlotte Pudding (Store Treasure Cup 2025)",
     "rarity": "R",
@@ -16667,9 +16693,9 @@
   },
   "P-P-081 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.3,
+    "midPrice": 0.33,
     "highPrice": 4.99,
-    "marketPrice": 0.22,
+    "marketPrice": 0.23,
     "directLowPrice": null,
     "name": "Dracule Mihawk (OP11 Release Event)",
     "rarity": "PR",
@@ -16693,9 +16719,9 @@
   },
   "P-P-081 parallel": {
     "lowPrice": 19.0,
-    "midPrice": 34.5,
+    "midPrice": 34.0,
     "highPrice": 200.0,
-    "marketPrice": 27.27,
+    "marketPrice": 27.41,
     "directLowPrice": null,
     "name": "Dracule Mihawk (OP11 Release Event Winner)",
     "rarity": "PR",
@@ -16719,9 +16745,9 @@
   },
   "P normal-P normal": {
     "lowPrice": 0.55,
-    "midPrice": 2.25,
+    "midPrice": 2.34,
     "highPrice": 10.0,
-    "marketPrice": 1.13,
+    "marketPrice": 1.22,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Release Event Leader)",
     "rarity": "PR",
@@ -16745,9 +16771,9 @@
   },
   "OP09-OP09-042 normal": {
     "lowPrice": 43.01,
-    "midPrice": 91.25,
+    "midPrice": 87.74,
     "highPrice": 399.0,
-    "marketPrice": 87.74,
+    "marketPrice": 86.9,
     "directLowPrice": null,
     "name": "Buggy (English Version 2nd  Anniversary Set)",
     "rarity": "L",
@@ -16771,7 +16797,7 @@
   },
   "OP09-OP09-001 normal": {
     "lowPrice": 119.99,
-    "midPrice": 140.35,
+    "midPrice": 140.0,
     "highPrice": 399.95,
     "marketPrice": 126.13,
     "directLowPrice": null,
@@ -16797,7 +16823,7 @@
   },
   "OP09-OP09-081 normal": {
     "lowPrice": 44.22,
-    "midPrice": 96.0,
+    "midPrice": 95.0,
     "highPrice": 399.95,
     "marketPrice": 81.91,
     "directLowPrice": null,
@@ -16822,8 +16848,8 @@
     "groupId": 17675
   },
   "OP09-OP09-061 normal": {
-    "lowPrice": 397.61,
-    "midPrice": 470.74,
+    "lowPrice": 390.0,
+    "midPrice": 430.0,
     "highPrice": 1800.0,
     "marketPrice": 399.19,
     "directLowPrice": null,
@@ -16848,8 +16874,8 @@
     "groupId": 17675
   },
   "OP09-OP09-051 normal": {
-    "lowPrice": 47.44,
-    "midPrice": 49.0,
+    "lowPrice": 46.99,
+    "midPrice": 48.99,
     "highPrice": 129.0,
     "marketPrice": 53.91,
     "directLowPrice": null,
@@ -16875,7 +16901,7 @@
   },
   "OP09-OP09-004 normal": {
     "lowPrice": 60.0,
-    "midPrice": 68.7,
+    "midPrice": 68.45,
     "highPrice": 170.0,
     "marketPrice": 60.49,
     "directLowPrice": null,
@@ -16901,9 +16927,9 @@
   },
   "OP09-OP09-093 normal": {
     "lowPrice": 18.26,
-    "midPrice": 38.64,
-    "highPrice": 299.95,
-    "marketPrice": 35.77,
+    "midPrice": 38.0,
+    "highPrice": 300.0,
+    "marketPrice": 35.28,
     "directLowPrice": null,
     "name": "Marshall.D.Teach (093) (English Version 2nd Anniversary Set)",
     "rarity": "SR",
@@ -16927,9 +16953,9 @@
   },
   "OP05-OP05-119 normal": {
     "lowPrice": 119.98,
-    "midPrice": 157.9,
+    "midPrice": 157.0,
     "highPrice": 500.0,
-    "marketPrice": 139.31,
+    "marketPrice": 141.32,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (119) (English Version 2nd Anniversary Set)",
     "rarity": "SEC",
@@ -16979,7 +17005,7 @@
   },
   "OP10-OP10-085 parallel": {
     "lowPrice": 19.99,
-    "midPrice": 23.5,
+    "midPrice": 24.25,
     "highPrice": 97.0,
     "marketPrice": 22.55,
     "directLowPrice": null,
@@ -17005,7 +17031,7 @@
   },
   "OP09-OP09-069 parallel": {
     "lowPrice": 0.65,
-    "midPrice": 1.9,
+    "midPrice": 1.92,
     "highPrice": 19.99,
     "marketPrice": 1.22,
     "directLowPrice": null,
@@ -17057,7 +17083,7 @@
   },
   "OP09-OP09-002 parallel": {
     "lowPrice": 0.34,
-    "midPrice": 0.9,
+    "midPrice": 1.0,
     "highPrice": 19.99,
     "marketPrice": 0.75,
     "directLowPrice": null,
@@ -17082,10 +17108,10 @@
     "groupId": 17675
   },
   "OP09-OP09-002 alt2": {
-    "lowPrice": 53.5,
-    "midPrice": 72.5,
-    "highPrice": 140.0,
-    "marketPrice": 37.24,
+    "lowPrice": 80.0,
+    "midPrice": 100.0,
+    "highPrice": 299.0,
+    "marketPrice": 40.83,
     "directLowPrice": null,
     "name": "Uta (Beginners Deck Party [ST-23] - [ST-28] Winner Pack)",
     "rarity": "R",
@@ -17160,7 +17186,7 @@
     "groupId": 17675
   },
   "EB01-EB01-027 normal": {
-    "lowPrice": 0.39,
+    "lowPrice": 0.2,
     "midPrice": 0.7,
     "highPrice": 20.0,
     "marketPrice": 0.54,
@@ -17186,10 +17212,10 @@
     "groupId": 17675
   },
   "EB01-EB01-027 parallel": {
-    "lowPrice": 11.5,
-    "midPrice": 15.61,
+    "lowPrice": 11.51,
+    "midPrice": 15.02,
     "highPrice": 19.99,
-    "marketPrice": 9.78,
+    "marketPrice": 9.94,
     "directLowPrice": null,
     "name": "Mr. 1 (Daz.Bonez) (Beginners Deck Party [ST-23] - [ST-28] Winner Pack)",
     "rarity": "R",
@@ -17212,8 +17238,8 @@
     "groupId": 17675
   },
   "OP06-OP06-101 parallel": {
-    "lowPrice": 8.5,
-    "midPrice": 14.57,
+    "lowPrice": 7.73,
+    "midPrice": 13.49,
     "highPrice": 58.99,
     "marketPrice": 8.85,
     "directLowPrice": null,
@@ -17265,7 +17291,7 @@
   },
   "OP11-OP11-106 normal": {
     "lowPrice": 180.0,
-    "midPrice": 220.99,
+    "midPrice": 220.33,
     "highPrice": 500.0,
     "marketPrice": 157.63,
     "directLowPrice": null,
@@ -17319,7 +17345,7 @@
     "lowPrice": 6.03,
     "midPrice": 7.56,
     "highPrice": 15.0,
-    "marketPrice": 7.27,
+    "marketPrice": 7.14,
     "directLowPrice": null,
     "name": "Charlotte Katakuri (Winner Pack 2025 Vol. 3)",
     "rarity": "UC",
@@ -17369,9 +17395,9 @@
   },
   "ST19-ST19-002 parallel": {
     "lowPrice": 2.53,
-    "midPrice": 5.38,
+    "midPrice": 5.0,
     "highPrice": 30.0,
-    "marketPrice": 3.3,
+    "marketPrice": 3.32,
     "directLowPrice": null,
     "name": "Sengoku (Winner Pack 2025 Vol. 3)",
     "rarity": "C",
@@ -17397,7 +17423,7 @@
     "lowPrice": 0.15,
     "midPrice": 0.36,
     "highPrice": 2.0,
-    "marketPrice": 0.36,
+    "marketPrice": 0.33,
     "directLowPrice": null,
     "name": "Roronoa Zoro (Tournament Pack 2025 Vol. 3)",
     "rarity": "R",
@@ -17420,10 +17446,10 @@
     "groupId": 17675
   },
   "EB02-EB02-019 parallel": {
-    "lowPrice": 26.0,
-    "midPrice": 34.44,
+    "lowPrice": 24.99,
+    "midPrice": 34.29,
     "highPrice": 100.0,
-    "marketPrice": 34.77,
+    "marketPrice": 33.98,
     "directLowPrice": null,
     "name": "Roronoa Zoro (Winner Pack 2025 Vol. 3)",
     "rarity": "R",
@@ -17473,9 +17499,9 @@
   },
   "EB02-EB02-055 parallel": {
     "lowPrice": 2.99,
-    "midPrice": 5.37,
+    "midPrice": 5.31,
     "highPrice": 50.0,
-    "marketPrice": 4.27,
+    "marketPrice": 4.4,
     "directLowPrice": null,
     "name": "Jinbe (Winner Pack 2025 Vol. 3)",
     "rarity": "R",
@@ -17498,8 +17524,8 @@
     "groupId": 17675
   },
   "OP04-OP04-092 alt2": {
-    "lowPrice": 3.4,
-    "midPrice": 3.5,
+    "lowPrice": 3.45,
+    "midPrice": 3.75,
     "highPrice": 15.6,
     "marketPrice": 3.23,
     "directLowPrice": null,
@@ -17525,9 +17551,9 @@
   },
   "OP04-OP04-096 normal": {
     "lowPrice": 0.33,
-    "midPrice": 0.76,
+    "midPrice": 0.79,
     "highPrice": 4.7,
-    "marketPrice": 0.49,
+    "marketPrice": 0.47,
     "directLowPrice": null,
     "name": "Corrida Coliseum (Judge Pack Vol. 6)",
     "rarity": "C",
@@ -17551,8 +17577,8 @@
   },
   "OP07-OP07-040 alt2": {
     "lowPrice": 1.38,
-    "midPrice": 5.0,
-    "highPrice": 5.65,
+    "midPrice": 4.99,
+    "highPrice": 5.0,
     "marketPrice": 1.44,
     "directLowPrice": null,
     "name": "Crocodile (Judge Pack Vol. 6)",
@@ -17577,9 +17603,9 @@
   },
   "OP07-OP07-076 normal": {
     "lowPrice": 4.51,
-    "midPrice": 6.83,
+    "midPrice": 6.66,
     "highPrice": 25.0,
-    "marketPrice": 6.19,
+    "marketPrice": 6.11,
     "directLowPrice": null,
     "name": "Slow-Slow Beam Sword (Judge Pack Vol. 6)",
     "rarity": "C",
@@ -17602,10 +17628,10 @@
     "groupId": 17675
   },
   "OP09-OP09-035 normal": {
-    "lowPrice": 6.42,
-    "midPrice": 12.72,
+    "lowPrice": 5.92,
+    "midPrice": 6.43,
     "highPrice": 19.99,
-    "marketPrice": 6.93,
+    "marketPrice": 6.74,
     "directLowPrice": null,
     "name": "Portgas.D.Ace (Judge Pack Vol. 6)",
     "rarity": "UC",
@@ -17631,7 +17657,7 @@
     "lowPrice": 4.0,
     "midPrice": 5.32,
     "highPrice": 30.0,
-    "marketPrice": 6.7,
+    "marketPrice": 6.95,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper (Judge Pack Vol. 6)",
     "rarity": "R",
@@ -17654,8 +17680,8 @@
     "groupId": 17675
   },
   "OP10-OP10-020 normal": {
-    "lowPrice": 0.59,
-    "midPrice": 1.5,
+    "lowPrice": 0.61,
+    "midPrice": 1.53,
     "highPrice": 5.0,
     "marketPrice": 0.61,
     "directLowPrice": null,
@@ -17707,7 +17733,7 @@
   },
   "OP10-OP10-057 normal": {
     "lowPrice": 0.29,
-    "midPrice": 0.58,
+    "midPrice": 0.55,
     "highPrice": 2.99,
     "marketPrice": 0.41,
     "directLowPrice": null,
@@ -17735,7 +17761,7 @@
     "lowPrice": 3.65,
     "midPrice": 5.0,
     "highPrice": 8.99,
-    "marketPrice": 4.31,
+    "marketPrice": 4.27,
     "directLowPrice": null,
     "name": "Sugar (Judge Pack Vol. 6)",
     "rarity": "R",
@@ -17761,7 +17787,7 @@
     "lowPrice": 0.25,
     "midPrice": 0.75,
     "highPrice": 1.01,
-    "marketPrice": 0.67,
+    "marketPrice": 0.66,
     "directLowPrice": null,
     "name": "Basil Hawkins (Judge Pack Vol. 6)",
     "rarity": "R",
@@ -17785,7 +17811,7 @@
   },
   "OP10-OP10-113 normal": {
     "lowPrice": 11.5,
-    "midPrice": 19.49,
+    "midPrice": 18.99,
     "highPrice": 23.59,
     "marketPrice": 7.81,
     "directLowPrice": null,
@@ -17810,10 +17836,10 @@
     "groupId": 17675
   },
   "OP05-OP05-076 normal": {
-    "lowPrice": 10.02,
-    "midPrice": 13.95,
+    "lowPrice": 10.21,
+    "midPrice": 14.0,
     "highPrice": 29.0,
-    "marketPrice": 10.02,
+    "marketPrice": 10.21,
     "directLowPrice": null,
     "name": "When You're at Sea You Fight against Pirates!! (2025 Pirates League Store Qualifier)",
     "rarity": "R",
@@ -17862,9 +17888,9 @@
     "groupId": 17675
   },
   "EB02-EB02-010 normal": {
-    "lowPrice": 1600.0,
-    "midPrice": 2484.5,
-    "highPrice": 14582.89,
+    "lowPrice": 1949.99,
+    "midPrice": 2569.0,
+    "highPrice": 20000.0,
     "marketPrice": 972.27,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (010) (Dodgers x ONE PIECE)",
@@ -17915,7 +17941,7 @@
   },
   "EB01-EB01-003 parallel": {
     "lowPrice": 60.0,
-    "midPrice": 69.49,
+    "midPrice": 68.5,
     "highPrice": 399.99,
     "marketPrice": 47.34,
     "directLowPrice": null,
@@ -17966,10 +17992,10 @@
     "groupId": 17675
   },
   "OP07-OP07-047 normal": {
-    "lowPrice": 9.0,
+    "lowPrice": 7.96,
     "midPrice": 12.15,
     "highPrice": 50.0,
-    "marketPrice": 12.15,
+    "marketPrice": 12.07,
     "directLowPrice": null,
     "name": "Trafalgar Law (Offline Regional Participation Pack 2025 Vol.2)",
     "rarity": "R",
@@ -18019,7 +18045,7 @@
   },
   "P-P-085 normal": {
     "lowPrice": 14.0,
-    "midPrice": 16.88,
+    "midPrice": 16.77,
     "highPrice": 25.0,
     "marketPrice": 16.34,
     "directLowPrice": null,
@@ -18096,8 +18122,8 @@
     "groupId": 17675
   },
   "P-P-089 parallel": {
-    "lowPrice": 173.78,
-    "midPrice": 199.99,
+    "lowPrice": 159.98,
+    "midPrice": 175.0,
     "highPrice": 389.39,
     "marketPrice": 114.41,
     "directLowPrice": null,
@@ -18122,8 +18148,8 @@
     "groupId": 17675
   },
   "P-P-089 alt2": {
-    "lowPrice": 25.32,
-    "midPrice": 35.5,
+    "lowPrice": 21.99,
+    "midPrice": 33.99,
     "highPrice": 400.0,
     "marketPrice": 25.73,
     "directLowPrice": null,
@@ -18151,7 +18177,7 @@
     "lowPrice": 15.97,
     "midPrice": 19.99,
     "highPrice": 50.0,
-    "marketPrice": 17.07,
+    "marketPrice": 17.1,
     "directLowPrice": null,
     "name": "Trafalgar Law (Event Pack Vol. 7)",
     "rarity": "PR",
@@ -18175,7 +18201,7 @@
   },
   "P-P-090 normal": {
     "lowPrice": 8.0,
-    "midPrice": 10.75,
+    "midPrice": 10.0,
     "highPrice": 29.98,
     "marketPrice": 9.31,
     "directLowPrice": null,
@@ -18200,10 +18226,10 @@
     "groupId": 17675
   },
   "P-P-091 normal": {
-    "lowPrice": 19.0,
-    "midPrice": 20.99,
+    "lowPrice": 17.5,
+    "midPrice": 21.0,
     "highPrice": 48.99,
-    "marketPrice": 19.57,
+    "marketPrice": 19.67,
     "directLowPrice": null,
     "name": "Shirahoshi (Event Pack Vol. 7)",
     "rarity": "PR",
@@ -18227,9 +18253,9 @@
   },
   "P-P-092 normal": {
     "lowPrice": 8.0,
-    "midPrice": 10.0,
+    "midPrice": 10.08,
     "highPrice": 26.68,
-    "marketPrice": 9.21,
+    "marketPrice": 9.23,
     "directLowPrice": null,
     "name": "Koby (Event Pack Vol. 7)",
     "rarity": "PR",
@@ -18252,7 +18278,7 @@
     "groupId": 17675
   },
   "OP09-OP09-013 normal": {
-    "lowPrice": 165.0,
+    "lowPrice": 164.95,
     "midPrice": 198.0,
     "highPrice": 777.0,
     "marketPrice": 133.15,
@@ -18357,9 +18383,9 @@
   },
   "OP10-OP10-042 normal": {
     "lowPrice": 96.96,
-    "midPrice": 101.23,
+    "midPrice": 101.24,
     "highPrice": 199.99,
-    "marketPrice": 97.45,
+    "marketPrice": 96.72,
     "directLowPrice": null,
     "name": "Usopp (Official Playmat -Limited Edition Vol. 3-)",
     "rarity": "L",
@@ -18383,7 +18409,7 @@
   },
   "EB01-EB01-023 parallel": {
     "lowPrice": 8.5,
-    "midPrice": 10.47,
+    "midPrice": 10.49,
     "highPrice": 50.0,
     "marketPrice": 9.86,
     "directLowPrice": null,
@@ -18408,10 +18434,10 @@
     "groupId": 17675
   },
   "OP05-OP05-011 normal": {
-    "lowPrice": 10.5,
+    "lowPrice": 10.48,
     "midPrice": 13.43,
     "highPrice": 40.0,
-    "marketPrice": 11.83,
+    "marketPrice": 11.67,
     "directLowPrice": null,
     "name": "Bartholomew Kuma (Seven Warlords of the Sea Binder Set)",
     "rarity": "C",
@@ -18437,7 +18463,7 @@
     "lowPrice": 5.84,
     "midPrice": 7.99,
     "highPrice": 40.0,
-    "marketPrice": 6.9,
+    "marketPrice": 6.89,
     "directLowPrice": null,
     "name": "Crocodile (Seven Warlords of the Sea Binder Set)",
     "rarity": "UC",
@@ -18461,9 +18487,9 @@
   },
   "OP07-OP07-044 normal": {
     "lowPrice": 10.78,
-    "midPrice": 16.63,
+    "midPrice": 16.49,
     "highPrice": 44.99,
-    "marketPrice": 11.91,
+    "marketPrice": 12.48,
     "directLowPrice": null,
     "name": "Dracule Mihawk (Seven Warlords of the Sea Binder Set)",
     "rarity": "C",
@@ -18487,9 +18513,9 @@
   },
   "OP07-OP07-047 alt3": {
     "lowPrice": 15.68,
-    "midPrice": 22.25,
+    "midPrice": 22.0,
     "highPrice": 40.0,
-    "marketPrice": 16.73,
+    "marketPrice": 16.83,
     "directLowPrice": null,
     "name": "Trafalgar Law (Seven Warlords of the Sea Binder Set)",
     "rarity": "R",
@@ -18512,10 +18538,10 @@
     "groupId": 17675
   },
   "OP07-OP07-048 parallel": {
-    "lowPrice": 18.53,
+    "lowPrice": 18.92,
     "midPrice": 21.15,
     "highPrice": 50.0,
-    "marketPrice": 14.88,
+    "marketPrice": 15.2,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo (Seven Warlords of the Sea Binder Set)",
     "rarity": "UC",
@@ -18539,9 +18565,9 @@
   },
   "OP07-OP07-051 normal": {
     "lowPrice": 92.0,
-    "midPrice": 100.28,
+    "midPrice": 100.46,
     "highPrice": 250.0,
-    "marketPrice": 101.1,
+    "marketPrice": 101.64,
     "directLowPrice": null,
     "name": "Boa Hancock (Seven Warlords of the Sea Binder Set)",
     "rarity": "SR",
@@ -18567,7 +18593,7 @@
     "lowPrice": 79.99,
     "midPrice": 89.45,
     "highPrice": 250.0,
-    "marketPrice": 85.86,
+    "marketPrice": 85.95,
     "directLowPrice": null,
     "name": "Boa Hancock (Seven Warlords of the Sea Binder Set) (Alternate Art)",
     "rarity": "SR",
@@ -18591,7 +18617,7 @@
   },
   "P-P-030 alt4": {
     "lowPrice": 3.56,
-    "midPrice": 6.5,
+    "midPrice": 6.54,
     "highPrice": 40.0,
     "marketPrice": 4.49,
     "directLowPrice": null,
@@ -18617,7 +18643,7 @@
   },
   "ST03-ST03-004 parallel": {
     "lowPrice": 4.84,
-    "midPrice": 6.17,
+    "midPrice": 6.18,
     "highPrice": 40.0,
     "marketPrice": 5.22,
     "directLowPrice": null,
@@ -18643,7 +18669,7 @@
   },
   "ST17-ST17-003 parallel": {
     "lowPrice": 15.99,
-    "midPrice": 17.13,
+    "midPrice": 17.2,
     "highPrice": 40.0,
     "marketPrice": 16.77,
     "directLowPrice": null,
@@ -18669,9 +18695,9 @@
   },
   "ST17-ST17-005 normal": {
     "lowPrice": 14.18,
-    "midPrice": 17.76,
+    "midPrice": 17.85,
     "highPrice": 44.99,
-    "marketPrice": 16.65,
+    "marketPrice": 16.74,
     "directLowPrice": null,
     "name": "Marshall.D.Teach (Seven Warlords of the Sea Binder Set)",
     "rarity": "C",
@@ -18697,7 +18723,7 @@
     "lowPrice": 0.56,
     "midPrice": 2.0,
     "highPrice": 5.99,
-    "marketPrice": 1.19,
+    "marketPrice": 1.14,
     "directLowPrice": null,
     "name": "Koby (OP12 Release Event)",
     "rarity": "PR",
@@ -18721,9 +18747,9 @@
   },
   "P-P-092 alt2": {
     "lowPrice": 16.99,
-    "midPrice": 22.48,
+    "midPrice": 22.65,
     "highPrice": 100.0,
-    "marketPrice": 21.31,
+    "marketPrice": 20.21,
     "directLowPrice": null,
     "name": "Koby (OP12 Release Event Winner)",
     "rarity": "PR",
@@ -18747,7 +18773,7 @@
   },
   "OP05-OP05-067 alt2": {
     "lowPrice": 154.99,
-    "midPrice": 205.87,
+    "midPrice": 206.73,
     "highPrice": 288.96,
     "marketPrice": 215.17,
     "directLowPrice": null,
@@ -18775,7 +18801,7 @@
     "lowPrice": 189.99,
     "midPrice": 250.0,
     "highPrice": 1500.0,
-    "marketPrice": 266.74,
+    "marketPrice": 264.33,
     "directLowPrice": null,
     "name": "O-Nami (CS 25-26 Event Pack)",
     "rarity": "R",
@@ -18799,7 +18825,7 @@
   },
   "P-P-065 parallel": {
     "lowPrice": 102.11,
-    "midPrice": 110.0,
+    "midPrice": 109.9,
     "highPrice": 249.0,
     "marketPrice": 116.27,
     "directLowPrice": null,
@@ -18824,10 +18850,10 @@
     "groupId": 17675
   },
   "P-P-069 parallel": {
-    "lowPrice": 10.5,
-    "midPrice": 14.0,
+    "lowPrice": 9.99,
+    "midPrice": 13.41,
     "highPrice": 79.99,
-    "marketPrice": 13.77,
+    "marketPrice": 13.4,
     "directLowPrice": null,
     "name": "Koala (CS 25-26 Event Pack)",
     "rarity": "PR",
@@ -18850,10 +18876,10 @@
     "groupId": 17675
   },
   "P-P-070 parallel": {
-    "lowPrice": 17.95,
+    "lowPrice": 16.99,
     "midPrice": 19.31,
     "highPrice": 125.0,
-    "marketPrice": 20.23,
+    "marketPrice": 19.72,
     "directLowPrice": null,
     "name": "Carrot (CS 25-26 Event Pack)",
     "rarity": "PR",
@@ -18876,10 +18902,10 @@
     "groupId": 17675
   },
   "P-P-077 parallel": {
-    "lowPrice": 20.25,
-    "midPrice": 29.6,
+    "lowPrice": 19.99,
+    "midPrice": 29.0,
     "highPrice": 46.99,
-    "marketPrice": 21.52,
+    "marketPrice": 21.82,
     "directLowPrice": null,
     "name": "Ulti (CS 25-26 Event Pack)",
     "rarity": "PR",
@@ -18902,7 +18928,7 @@
     "groupId": 17675
   },
   "P-P-079 parallel": {
-    "lowPrice": 11.69,
+    "lowPrice": 10.99,
     "midPrice": 13.45,
     "highPrice": 49.99,
     "marketPrice": 13.47,
@@ -18929,7 +18955,7 @@
   },
   "P-P-083 parallel": {
     "lowPrice": 55.55,
-    "midPrice": 63.3,
+    "midPrice": 59.58,
     "highPrice": 129.99,
     "marketPrice": 59.58,
     "directLowPrice": null,
@@ -19006,9 +19032,9 @@
     "groupId": 17675
   },
   "OP03-OP03-112 alt4": {
-    "lowPrice": 70.0,
-    "midPrice": 73.8,
-    "highPrice": 100.0,
+    "lowPrice": 69.99,
+    "midPrice": 72.84,
+    "highPrice": 95.0,
     "marketPrice": 33.64,
     "directLowPrice": null,
     "name": "Charlotte Pudding (112) (CS 25-26 Celebration Pack)",
@@ -19058,8 +19084,8 @@
     "groupId": 17675
   },
   "OP04-OP04-092 alt3": {
-    "lowPrice": 97.8,
-    "midPrice": 99.6,
+    "lowPrice": 94.51,
+    "midPrice": 99.5,
     "highPrice": 112.99,
     "marketPrice": 66.17,
     "directLowPrice": null,
@@ -19084,7 +19110,7 @@
     "groupId": 17675
   },
   "OP06-OP06-047 alt2": {
-    "lowPrice": 208.95,
+    "lowPrice": 184.99,
     "midPrice": 280.0,
     "highPrice": 700.0,
     "marketPrice": 161.83,
@@ -19111,7 +19137,7 @@
   },
   "OP06-OP06-076 alt2": {
     "lowPrice": 23.77,
-    "midPrice": 35.0,
+    "midPrice": 36.0,
     "highPrice": 50.0,
     "marketPrice": 24.2,
     "directLowPrice": null,
@@ -19215,7 +19241,7 @@
   },
   "OP08-OP08-110 alt2": {
     "lowPrice": 20.29,
-    "midPrice": 22.36,
+    "midPrice": 22.0,
     "highPrice": 28.98,
     "marketPrice": 13.45,
     "directLowPrice": null,
@@ -19242,7 +19268,7 @@
   "OP09-OP09-011 alt3": {
     "lowPrice": 26.31,
     "midPrice": 31.0,
-    "highPrice": 44.63,
+    "highPrice": 44.18,
     "marketPrice": 26.08,
     "directLowPrice": null,
     "name": "Hongo (CS 25-26 Celebration Pack)",
@@ -19503,7 +19529,7 @@
     "lowPrice": 10.0,
     "midPrice": 12.0,
     "highPrice": 50.0,
-    "marketPrice": 11.48,
+    "marketPrice": 11.66,
     "directLowPrice": null,
     "name": "Yamato (Premium Card Collection -Best Selection Vol. 4-)",
     "rarity": "C",
@@ -19529,7 +19555,7 @@
     "lowPrice": 6.0,
     "midPrice": 9.0,
     "highPrice": 80.0,
-    "marketPrice": 7.71,
+    "marketPrice": 7.64,
     "directLowPrice": null,
     "name": "More Pizza!! (Premium Card Collection -Best Selection Vol. 4-)",
     "rarity": "UC",
@@ -19553,9 +19579,9 @@
   },
   "OP07-OP07-057 normal": {
     "lowPrice": 23.7,
-    "midPrice": 30.0,
+    "midPrice": 31.22,
     "highPrice": 80.0,
-    "marketPrice": 26.6,
+    "marketPrice": 26.62,
     "directLowPrice": null,
     "name": "Perfume Femur (Premium Card Collection -Best Selection Vol. 4-)",
     "rarity": "R",
@@ -19579,9 +19605,9 @@
   },
   "OP08-OP08-099 normal": {
     "lowPrice": 3.38,
-    "midPrice": 5.99,
+    "midPrice": 5.78,
     "highPrice": 40.0,
-    "marketPrice": 4.42,
+    "marketPrice": 4.27,
     "directLowPrice": null,
     "name": "Kalgara (Premium Card Collection -Best Selection Vol. 4-)",
     "rarity": "C",
@@ -19604,10 +19630,10 @@
     "groupId": 17675
   },
   "OP09-OP09-008 normal": {
-    "lowPrice": 0.85,
-    "midPrice": 3.79,
+    "lowPrice": 2.03,
+    "midPrice": 3.99,
     "highPrice": 40.0,
-    "marketPrice": 2.13,
+    "marketPrice": 2.04,
     "directLowPrice": null,
     "name": "Building Snake (Premium Card Collection -Best Selection Vol. 4-)",
     "rarity": "UC",
@@ -19630,10 +19656,10 @@
     "groupId": 17675
   },
   "OP09-OP09-070 normal": {
-    "lowPrice": 44.44,
-    "midPrice": 79.48,
+    "lowPrice": 64.98,
+    "midPrice": 90.0,
     "highPrice": 150.0,
-    "marketPrice": 49.71,
+    "marketPrice": 61.07,
     "directLowPrice": null,
     "name": "Nami (Premium Card Collection -Best Selection Vol. 4-)",
     "rarity": "UC",
@@ -19659,7 +19685,7 @@
     "lowPrice": 8.73,
     "midPrice": 9.99,
     "highPrice": 40.0,
-    "marketPrice": 9.08,
+    "marketPrice": 9.11,
     "directLowPrice": null,
     "name": "Gum-Gum Lightning (Premium Card Collection -Best Selection Vol. 4-)",
     "rarity": "UC",
@@ -19685,7 +19711,7 @@
     "lowPrice": 5.0,
     "midPrice": 9.8,
     "highPrice": 40.0,
-    "marketPrice": 8.9,
+    "marketPrice": 8.84,
     "directLowPrice": null,
     "name": "Laffitte (Premium Card Collection -Best Selection Vol. 4-)",
     "rarity": "R",
@@ -19709,9 +19735,9 @@
   },
   "OP09-OP09-117 normal": {
     "lowPrice": 6.38,
-    "midPrice": 7.94,
+    "midPrice": 7.95,
     "highPrice": 40.0,
-    "marketPrice": 6.21,
+    "marketPrice": 6.25,
     "directLowPrice": null,
     "name": "Dereshi! (Premium Card Collection -Best Selection Vol. 4-)",
     "rarity": "R",
@@ -19760,10 +19786,10 @@
     "groupId": 17675
   },
   "OP10-OP10-049 normal": {
-    "lowPrice": 2.61,
-    "midPrice": 4.8,
+    "lowPrice": 4.0,
+    "midPrice": 10.0,
     "highPrice": 40.0,
-    "marketPrice": 3.71,
+    "marketPrice": 5.45,
     "directLowPrice": null,
     "name": "Sabo (Premium Card Collection -Best Selection Vol. 4-)",
     "rarity": "R",
@@ -19786,10 +19812,10 @@
     "groupId": 17675
   },
   "OP10-OP10-092 alt2": {
-    "lowPrice": 7.89,
-    "midPrice": 8.86,
+    "lowPrice": 7.91,
+    "midPrice": 8.6,
     "highPrice": 20.0,
-    "marketPrice": 8.21,
+    "marketPrice": 7.87,
     "directLowPrice": null,
     "name": "Perona (Premium Card Collection -Best Selection Vol. 4-)",
     "rarity": "C",
@@ -19812,10 +19838,10 @@
     "groupId": 17675
   },
   "OP07-OP07-073 normal": {
-    "lowPrice": 223.59,
-    "midPrice": 289.98,
+    "lowPrice": 224.99,
+    "midPrice": 300.0,
     "highPrice": 795.0,
-    "marketPrice": 258.74,
+    "marketPrice": 249.13,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (BANDAI Card Games Fest 25-26)",
     "rarity": "R",
@@ -19838,8 +19864,8 @@
     "groupId": 17675
   },
   "EB02-EB02-006 normal": {
-    "lowPrice": 67.71,
-    "midPrice": 75.58,
+    "lowPrice": 68.69,
+    "midPrice": 74.72,
     "highPrice": 150.0,
     "marketPrice": 79.23,
     "directLowPrice": null,
@@ -19865,9 +19891,9 @@
   },
   "OP10-OP10-057 parallel": {
     "lowPrice": 58.68,
-    "midPrice": 61.93,
+    "midPrice": 61.97,
     "highPrice": 150.0,
-    "marketPrice": 55.74,
+    "marketPrice": 57.22,
     "directLowPrice": null,
     "name": "Leo (Premium Card Collection -6 assort vol.1-)",
     "rarity": "R",
@@ -19890,10 +19916,10 @@
     "groupId": 17675
   },
   "OP10-OP10-111 normal": {
-    "lowPrice": 98.49,
+    "lowPrice": 94.99,
     "midPrice": 119.99,
     "highPrice": 200.0,
-    "marketPrice": 109.45,
+    "marketPrice": 108.69,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Premium Card Collection -6 assort vol.1-)",
     "rarity": "R",
@@ -19917,9 +19943,9 @@
   },
   "OP11-OP11-073 normal": {
     "lowPrice": 20.99,
-    "midPrice": 37.19,
+    "midPrice": 37.0,
     "highPrice": 59.99,
-    "marketPrice": 29.97,
+    "marketPrice": 30.13,
     "directLowPrice": null,
     "name": "Charlotte Linlin (Premium Card Collection -6 assort vol.1-)",
     "rarity": "R",
@@ -19945,7 +19971,7 @@
     "lowPrice": 38.9,
     "midPrice": 45.0,
     "highPrice": 150.0,
-    "marketPrice": 56.45,
+    "marketPrice": 55.84,
     "directLowPrice": null,
     "name": "Color of the Supreme King Haki (Premium Card Collection -6 assort vol.1-)",
     "rarity": "R",
@@ -19994,8 +20020,8 @@
     "groupId": 17675
   },
   "P-P-085 alt3": {
-    "lowPrice": 25.0,
-    "midPrice": 31.25,
+    "lowPrice": 24.99,
+    "midPrice": 30.0,
     "highPrice": 49.99,
     "marketPrice": 12.07,
     "directLowPrice": null,
@@ -20021,8 +20047,8 @@
   },
   "EB01-EB01-003 alt3": {
     "lowPrice": 17.0,
-    "midPrice": 22.0,
-    "highPrice": 28.91,
+    "midPrice": 24.0,
+    "highPrice": 28.62,
     "marketPrice": 17.76,
     "directLowPrice": null,
     "name": "Kid & Killer (Online Regional Participation Pack 2025 Vol.2)",
@@ -20046,9 +20072,9 @@
     "groupId": 17675
   },
   "P-P-089 alt3": {
-    "lowPrice": 68.95,
-    "midPrice": 75.95,
-    "highPrice": 100.0,
+    "lowPrice": 35.0,
+    "midPrice": 68.94,
+    "highPrice": 250.0,
     "marketPrice": 24.49,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper (Online Regional Participation Pack 2025 Vol.2)",
@@ -20073,7 +20099,7 @@
   },
   "OP07-OP07-047 alt4": {
     "lowPrice": 29.99,
-    "midPrice": 34.49,
+    "midPrice": 33.99,
     "highPrice": 99.0,
     "marketPrice": 13.21,
     "directLowPrice": null,
@@ -20175,11 +20201,37 @@
     "description": "[Activate: Main] <strong>You may return this Character to the owner's hand</strong>: If your opponent has 6 or more cards in their hand, your opponent places 1 card from their hand at the bottom of their deck.",
     "groupId": 17675
   },
+  "EB02-EB02-010 parallel": {
+    "lowPrice": 80.0,
+    "midPrice": 80.0,
+    "highPrice": 80.0,
+    "marketPrice": null,
+    "directLowPrice": null,
+    "name": "Monkey.D.Luffy (Sound Loader - Luffy Edition 2025)",
+    "rarity": "L",
+    "power": "5000",
+    "cost": null,
+    "life": "4",
+    "category": "Leader",
+    "colors": "Green;Purple",
+    "attributes": "Strike",
+    "types": "Straw Hat Crew",
+    "effect": "yes",
+    "trigger": null,
+    "counter": null,
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/649772_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Leader",
+    "description": "[Activate: Main] [Once Per Turn] <strong>DON!! 2:</strong> If the only Characters on your field are \"Straw Hat Crew\" type Characters, set up to 2 of your DON!! cards as active. Then, this Leader gains +1000 power until the end of your opponent's next turn.",
+    "groupId": 17675
+  },
   "OP07-OP07-113 parallel": {
-    "lowPrice": 3.62,
-    "midPrice": 6.0,
+    "lowPrice": 4.0,
+    "midPrice": 7.52,
     "highPrice": 100.0,
-    "marketPrice": 3.82,
+    "marketPrice": 5.62,
     "directLowPrice": null,
     "name": "Roronoa Zoro (Illustration Box Vol.3)",
     "rarity": "UC",
@@ -20202,10 +20254,10 @@
     "groupId": 17675
   },
   "OP07-OP07-109 alt6": {
-    "lowPrice": 6.5,
-    "midPrice": 9.25,
+    "lowPrice": 7.7,
+    "midPrice": 10.0,
     "highPrice": 100.0,
-    "marketPrice": 7.59,
+    "marketPrice": 8.61,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Illustration Box Vol.3)",
     "rarity": "SR",
@@ -20228,10 +20280,10 @@
     "groupId": 17675
   },
   "OP09-OP09-034 parallel": {
-    "lowPrice": 1.11,
-    "midPrice": 3.22,
+    "lowPrice": 0.75,
+    "midPrice": 3.25,
     "highPrice": 10.0,
-    "marketPrice": 2.08,
+    "marketPrice": 2.15,
     "directLowPrice": null,
     "name": "Perona (Illustration Box Vol.4)",
     "rarity": "R",
@@ -20254,10 +20306,10 @@
     "groupId": 17675
   },
   "ST12-ST12-003 normal": {
-    "lowPrice": 2.99,
-    "midPrice": 5.35,
+    "lowPrice": 2.45,
+    "midPrice": 5.37,
     "highPrice": 60.0,
-    "marketPrice": 3.22,
+    "marketPrice": 3.54,
     "directLowPrice": null,
     "name": "Dracule Mihawk (Illustration Box Vol.4)",
     "rarity": "SR",
@@ -20283,7 +20335,7 @@
     "lowPrice": 1.25,
     "midPrice": 5.7,
     "highPrice": 28.0,
-    "marketPrice": 2.98,
+    "marketPrice": 3.45,
     "directLowPrice": null,
     "name": "Nefeltari Vivi (Welcome Pack Vol. 2)",
     "rarity": "R",
@@ -20307,9 +20359,9 @@
   },
   "OP06-OP06-101 alt5": {
     "lowPrice": 6.9,
-    "midPrice": 15.27,
+    "midPrice": 15.02,
     "highPrice": 95.0,
-    "marketPrice": 8.05,
+    "marketPrice": 8.37,
     "directLowPrice": null,
     "name": "O-Nami (Welcome Pack Vol. 2)",
     "rarity": "R",
@@ -20335,7 +20387,7 @@
     "lowPrice": 0.74,
     "midPrice": 3.0,
     "highPrice": 1199.0,
-    "marketPrice": 1.74,
+    "marketPrice": 1.64,
     "directLowPrice": null,
     "name": "Uta (Welcome Pack Vol. 2)",
     "rarity": "R",
@@ -20361,7 +20413,7 @@
     "lowPrice": 0.2,
     "midPrice": 0.85,
     "highPrice": 3.99,
-    "marketPrice": 0.49,
+    "marketPrice": 0.48,
     "directLowPrice": null,
     "name": "Trafalgar Law (Welcome Pack Vol. 2)",
     "rarity": "R",
@@ -20384,10 +20436,10 @@
     "groupId": 17675
   },
   "OP09-OP09-076 parallel": {
-    "lowPrice": 1.95,
-    "midPrice": 3.19,
+    "lowPrice": 1.94,
+    "midPrice": 3.18,
     "highPrice": 26.0,
-    "marketPrice": 2.63,
+    "marketPrice": 2.6,
     "directLowPrice": null,
     "name": "Roronoa Zoro (Welcome Pack Vol. 2)",
     "rarity": "R",
@@ -20413,7 +20465,7 @@
     "lowPrice": 2.99,
     "midPrice": 4.62,
     "highPrice": 19.95,
-    "marketPrice": 3.89,
+    "marketPrice": 3.93,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Welcome Pack Vol. 2)",
     "rarity": "C",
@@ -20437,9 +20489,9 @@
   },
   "OP05-OP05-037 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.38,
+    "midPrice": 0.35,
     "highPrice": 3.0,
-    "marketPrice": 0.27,
+    "marketPrice": 0.28,
     "directLowPrice": null,
     "name": "Because the Side of Justice Will Be Whichever Side Wins!! (Tournament Pack 2025 Vol. 4)",
     "rarity": "R",
@@ -20489,9 +20541,9 @@
   },
   "OP09-OP09-108 normal": {
     "lowPrice": 0.07,
-    "midPrice": 0.31,
+    "midPrice": 0.3,
     "highPrice": 5.0,
-    "marketPrice": 0.23,
+    "marketPrice": 0.22,
     "directLowPrice": null,
     "name": "Bartholomew Kuma (Tournament Pack 2025 Vol. 4)",
     "rarity": "UC",
@@ -20517,7 +20569,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 5.02,
-    "marketPrice": 0.16,
+    "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Shachi & Penguin (Tournament Pack 2025 Vol. 4)",
     "rarity": "C",
@@ -20541,9 +20593,9 @@
   },
   "OP05-OP05-037 parallel": {
     "lowPrice": 6.0,
-    "midPrice": 8.69,
+    "midPrice": 8.3,
     "highPrice": 30.0,
-    "marketPrice": 7.59,
+    "marketPrice": 7.44,
     "directLowPrice": null,
     "name": "Because the Side of Justice Will Be Whichever Side Wins!! (Winner Pack 2025 Vol. 4)",
     "rarity": "R",
@@ -20566,10 +20618,10 @@
     "groupId": 17675
   },
   "OP06-OP06-051 parallel": {
-    "lowPrice": 4.99,
-    "midPrice": 6.0,
+    "lowPrice": 5.0,
+    "midPrice": 5.61,
     "highPrice": 10.0,
-    "marketPrice": 5.1,
+    "marketPrice": 5.37,
     "directLowPrice": null,
     "name": "Tsuru (Winner Pack 2025 Vol. 4)",
     "rarity": "R",
@@ -20592,10 +20644,10 @@
     "groupId": 17675
   },
   "OP09-OP09-108 parallel": {
-    "lowPrice": 7.49,
-    "midPrice": 10.25,
+    "lowPrice": 7.09,
+    "midPrice": 10.17,
     "highPrice": 25.0,
-    "marketPrice": 9.59,
+    "marketPrice": 9.22,
     "directLowPrice": null,
     "name": "Bartholomew Kuma (Winner Pack 2025 Vol. 4)",
     "rarity": "UC",
@@ -20619,9 +20671,9 @@
   },
   "ST10-ST10-008 parallel": {
     "lowPrice": 3.0,
-    "midPrice": 4.0,
+    "midPrice": 3.82,
     "highPrice": 12.0,
-    "marketPrice": 3.61,
+    "marketPrice": 3.6,
     "directLowPrice": null,
     "name": "Shachi & Penguin (Winner Pack 2025 Vol. 4)",
     "rarity": "C",
@@ -20644,10 +20696,10 @@
     "groupId": 17675
   },
   "P-P-117 normal": {
-    "lowPrice": 1.86,
-    "midPrice": 5.0,
+    "lowPrice": 1.99,
+    "midPrice": 4.99,
     "highPrice": 100.0,
-    "marketPrice": 2.78,
+    "marketPrice": 2.31,
     "directLowPrice": null,
     "name": "Nami - P-117",
     "rarity": "PR",
@@ -20670,10 +20722,10 @@
     "groupId": 17675
   },
   "OP10-OP10-111 parallel": {
-    "lowPrice": 20.0,
-    "midPrice": 35.0,
+    "lowPrice": 25.0,
+    "midPrice": 34.5,
     "highPrice": 200.0,
-    "marketPrice": 30.93,
+    "marketPrice": 30.73,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (Learn Together Deck Set - Set Sail Event)",
     "rarity": "R",
@@ -20696,10 +20748,10 @@
     "groupId": 17675
   },
   "OP10-OP10-113 parallel": {
-    "lowPrice": 49.99,
-    "midPrice": 58.0,
+    "lowPrice": 42.0,
+    "midPrice": 55.0,
     "highPrice": 99.99,
-    "marketPrice": 61.65,
+    "marketPrice": 60.51,
     "directLowPrice": null,
     "name": "Roronoa Zoro (Learn Together Deck Set - Set Sail Event)",
     "rarity": "UC",
@@ -20829,7 +20881,7 @@
     "lowPrice": 550.0,
     "midPrice": 885.1,
     "highPrice": 2000.0,
-    "marketPrice": 530.13,
+    "marketPrice": 558.53,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy - ST01-012 (3rd Anniversary Winner)",
     "rarity": "SR",
@@ -20853,9 +20905,9 @@
   },
   "OP07-OP07-053 alt3": {
     "lowPrice": 158.0,
-    "midPrice": 195.0,
+    "midPrice": 180.0,
     "highPrice": 1000.0,
-    "marketPrice": 151.96,
+    "marketPrice": 153.52,
     "directLowPrice": null,
     "name": "Portgas.D.Ace - OP07-053 (3rd Anniversary Winner)",
     "rarity": "R",
@@ -20879,7 +20931,7 @@
   },
   "OP09-OP09-027 normal": {
     "lowPrice": 93.0,
-    "midPrice": 125.0,
+    "midPrice": 124.4,
     "highPrice": 250.0,
     "marketPrice": 70.94,
     "directLowPrice": null,
@@ -20930,8 +20982,8 @@
     "groupId": 17675
   },
   "EB01-EB01-003 alt6": {
-    "lowPrice": 169.98,
-    "midPrice": 186.59,
+    "lowPrice": 168.96,
+    "midPrice": 185.17,
     "highPrice": 259.98,
     "marketPrice": 199.62,
     "directLowPrice": null,
@@ -20957,7 +21009,7 @@
   },
   "P-P-089 alt6": {
     "lowPrice": 160.0,
-    "midPrice": 198.99,
+    "midPrice": 198.97,
     "highPrice": 249.89,
     "marketPrice": 114.35,
     "directLowPrice": null,
@@ -20982,7 +21034,7 @@
     "groupId": 17675
   },
   "OP07-OP07-047 alt8": {
-    "lowPrice": 179.88,
+    "lowPrice": 179.87,
     "midPrice": 188.97,
     "highPrice": 250.0,
     "marketPrice": 208.6,
@@ -21061,9 +21113,9 @@
   },
   "OP13-OP13-057 normal": {
     "lowPrice": 1.0,
-    "midPrice": 2.48,
+    "midPrice": 2.4,
     "highPrice": 25.0,
-    "marketPrice": 2.13,
+    "marketPrice": 2.11,
     "directLowPrice": null,
     "name": "If I Bowed Down to Power, What's the Point in Living? (3rd Anniversary Treasure Campaign Pack)",
     "rarity": "R",
@@ -21087,9 +21139,9 @@
   },
   "OP13-OP13-019 normal": {
     "lowPrice": 0.86,
-    "midPrice": 2.35,
+    "midPrice": 2.26,
     "highPrice": 25.0,
-    "marketPrice": 2.14,
+    "marketPrice": 1.88,
     "directLowPrice": null,
     "name": "But Ace Here Said You Deserved It!! (3rd Anniversary Treasure Campaign Pack)",
     "rarity": "R",
@@ -21113,9 +21165,9 @@
   },
   "OP13-OP13-040 normal": {
     "lowPrice": 3.69,
-    "midPrice": 6.47,
+    "midPrice": 6.51,
     "highPrice": 100.0,
-    "marketPrice": 5.03,
+    "marketPrice": 4.64,
     "directLowPrice": null,
     "name": "I Know You're Strong... So I'll Go All Out from the Very Start!!! (3rd Anniversary Treasure Campaign Pack)",
     "rarity": "R",
@@ -21141,7 +21193,7 @@
     "lowPrice": 3.0,
     "midPrice": 5.0,
     "highPrice": 50.0,
-    "marketPrice": 3.58,
+    "marketPrice": 4.02,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy - ST10-006 (3rd Anniversary Treasure Campaign Pack)",
     "rarity": "C",
@@ -21164,10 +21216,10 @@
     "groupId": 17675
   },
   "OP07-OP07-033 normal": {
-    "lowPrice": 2.0,
-    "midPrice": 4.5,
+    "lowPrice": 2.1,
+    "midPrice": 4.0,
     "highPrice": 50.0,
-    "marketPrice": 2.63,
+    "marketPrice": 2.82,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy - OP07-033 (3rd Anniversary Treasure Campaign Pack)",
     "rarity": "UC",
@@ -21191,9 +21243,9 @@
   },
   "OP07-OP07-053 alt4": {
     "lowPrice": 0.55,
-    "midPrice": 1.85,
+    "midPrice": 1.78,
     "highPrice": 25.0,
-    "marketPrice": 1.51,
+    "marketPrice": 1.4,
     "directLowPrice": null,
     "name": "Portgas.D.Ace - OP07-053 (3rd Anniversary Treasure Campaign Pack)",
     "rarity": "R",
@@ -21217,9 +21269,9 @@
   },
   "OP10-OP10-049 parallel": {
     "lowPrice": 0.4,
-    "midPrice": 1.95,
+    "midPrice": 1.79,
     "highPrice": 25.0,
-    "marketPrice": 1.45,
+    "marketPrice": 1.66,
     "directLowPrice": null,
     "name": "Sabo - OP10-049 (3rd Anniversary Treasure Campaign Pack)",
     "rarity": "R",
@@ -21294,10 +21346,10 @@
     "groupId": 17675
   },
   "OP07-OP07-021 alt3": {
-    "lowPrice": 4.99,
+    "lowPrice": 5.77,
     "midPrice": 8.01,
     "highPrice": 11.79,
-    "marketPrice": 8.01,
+    "marketPrice": 7.76,
     "directLowPrice": null,
     "name": "Urouge (Online Regional Participation Pack 2025 Vol.1)",
     "rarity": "R",
@@ -21347,7 +21399,7 @@
   },
   "P-P-078 alt3": {
     "lowPrice": 14.0,
-    "midPrice": 18.87,
+    "midPrice": 18.5,
     "highPrice": 39.99,
     "marketPrice": 16.32,
     "directLowPrice": null,
@@ -21375,7 +21427,7 @@
     "lowPrice": 0.65,
     "midPrice": 1.25,
     "highPrice": 4.0,
-    "marketPrice": 1.22,
+    "marketPrice": 1.1,
     "directLowPrice": null,
     "name": "Kouzuki Hiyori (Tournament Pack 2026 Vol. 1)",
     "rarity": "R",
@@ -21398,10 +21450,10 @@
     "groupId": 17675
   },
   "OP12-OP12-062 normal": {
-    "lowPrice": 0.39,
-    "midPrice": 1.22,
+    "lowPrice": 0.32,
+    "midPrice": 1.12,
     "highPrice": 3.95,
-    "marketPrice": 1.15,
+    "marketPrice": 1.02,
     "directLowPrice": null,
     "name": "Vinsmoke Sora (Tournament Pack 2026 Vol. 1)",
     "rarity": "R",
@@ -21425,9 +21477,9 @@
   },
   "OP12-OP12-093 normal": {
     "lowPrice": 0.17,
-    "midPrice": 1.0,
+    "midPrice": 0.99,
     "highPrice": 8.96,
-    "marketPrice": 0.99,
+    "marketPrice": 0.81,
     "directLowPrice": null,
     "name": "Morley (Tournament Pack 2026 Vol. 1)",
     "rarity": "UC",
@@ -21450,10 +21502,10 @@
     "groupId": 17675
   },
   "OP12-OP12-112 parallel": {
-    "lowPrice": 0.43,
-    "midPrice": 1.19,
+    "lowPrice": 0.41,
+    "midPrice": 1.17,
     "highPrice": 8.82,
-    "marketPrice": 1.04,
+    "marketPrice": 0.96,
     "directLowPrice": null,
     "name": "Baby 5 (Tournament Pack 2026 Vol. 1)",
     "rarity": "R",
@@ -21477,9 +21529,9 @@
   },
   "P-P-101 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.92,
+    "midPrice": 0.95,
     "highPrice": 15.0,
-    "marketPrice": 0.7,
+    "marketPrice": 0.85,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper (Store Tournament 2025 Vol. 4)",
     "rarity": "PR",
@@ -21502,10 +21554,10 @@
     "groupId": 17675
   },
   "P-P-102 normal": {
-    "lowPrice": 0.29,
-    "midPrice": 1.23,
+    "lowPrice": 0.4,
+    "midPrice": 1.13,
     "highPrice": 80.0,
-    "marketPrice": 0.75,
+    "marketPrice": 0.9,
     "directLowPrice": null,
     "name": "Nami (Store Tournament 2025 Vol. 4)",
     "rarity": "PR",
@@ -21528,10 +21580,10 @@
     "groupId": 17675
   },
   "P-P-103 normal": {
-    "lowPrice": 0.1,
-    "midPrice": 0.5,
+    "lowPrice": 0.15,
+    "midPrice": 0.51,
     "highPrice": 15.0,
-    "marketPrice": 0.54,
+    "marketPrice": 0.6,
     "directLowPrice": null,
     "name": "Portgas.D.Ace (Store Tournament 2025 Vol. 4)",
     "rarity": "PR",
@@ -21554,10 +21606,10 @@
     "groupId": 17675
   },
   "P-P-104 normal": {
-    "lowPrice": 0.1,
+    "lowPrice": 0.2,
     "midPrice": 0.5,
     "highPrice": 28.0,
-    "marketPrice": 0.35,
+    "marketPrice": 0.41,
     "directLowPrice": null,
     "name": "Shanks (Store Tournament 2025 Vol. 4)",
     "rarity": "PR",
@@ -21580,10 +21632,10 @@
     "groupId": 17675
   },
   "P-P-105 normal": {
-    "lowPrice": 0.25,
-    "midPrice": 1.86,
+    "lowPrice": 0.5,
+    "midPrice": 1.78,
     "highPrice": 15.0,
-    "marketPrice": 0.96,
+    "marketPrice": 1.03,
     "directLowPrice": null,
     "name": "Sabo (Store Tournament 2025 Vol. 4)",
     "rarity": "PR",
@@ -21606,7 +21658,7 @@
     "groupId": 17675
   },
   "P-P-106 normal": {
-    "lowPrice": 0.5,
+    "lowPrice": 0.55,
     "midPrice": 1.45,
     "highPrice": 15.0,
     "marketPrice": 1.11,
@@ -21632,10 +21684,10 @@
     "groupId": 17675
   },
   "P-P-107 normal": {
-    "lowPrice": 4.43,
-    "midPrice": 11.0,
+    "lowPrice": 8.25,
+    "midPrice": 10.61,
     "highPrice": 50.0,
-    "marketPrice": 9.14,
+    "marketPrice": 9.42,
     "directLowPrice": null,
     "name": "Gol.D.Roger (Store Tournament 2025 Vol. 4)",
     "rarity": "PR",
@@ -21659,9 +21711,9 @@
   },
   "OP12-OP12-028 parallel": {
     "lowPrice": 15.0,
-    "midPrice": 18.69,
-    "highPrice": 33.81,
-    "marketPrice": 17.38,
+    "midPrice": 18.5,
+    "highPrice": 30.95,
+    "marketPrice": 17.23,
     "directLowPrice": null,
     "name": "Kouzuki Hiyori (Winner Pack 2026 Vol. 1)",
     "rarity": "R",
@@ -21685,9 +21737,9 @@
   },
   "OP12-OP12-062 parallel": {
     "lowPrice": 4.62,
-    "midPrice": 13.69,
+    "midPrice": 12.09,
     "highPrice": 35.0,
-    "marketPrice": 13.85,
+    "marketPrice": 13.43,
     "directLowPrice": null,
     "name": "Vinsmoke Sora (Winner Pack 2026 Vol. 1)",
     "rarity": "R",
@@ -21710,10 +21762,10 @@
     "groupId": 17675
   },
   "OP12-OP12-093 parallel": {
-    "lowPrice": 8.69,
-    "midPrice": 10.78,
-    "highPrice": 29.99,
-    "marketPrice": 7.7,
+    "lowPrice": 7.68,
+    "midPrice": 10.22,
+    "highPrice": 12.99,
+    "marketPrice": 7.74,
     "directLowPrice": null,
     "name": "Morley (Winner Pack 2026 Vol. 1)",
     "rarity": "UC",
@@ -21737,9 +21789,9 @@
   },
   "OP12-OP12-112 alt2": {
     "lowPrice": 15.0,
-    "midPrice": 21.02,
-    "highPrice": 34.01,
-    "marketPrice": 17.66,
+    "midPrice": 21.25,
+    "highPrice": 29.99,
+    "marketPrice": 16.18,
     "directLowPrice": null,
     "name": "Baby 5 (Winner Pack 2026 Vol. 1)",
     "rarity": "R",
@@ -21762,8 +21814,8 @@
     "groupId": 17675
   },
   "EB02-EB02-041 parallel": {
-    "lowPrice": 12.0,
-    "midPrice": 13.71,
+    "lowPrice": 11.51,
+    "midPrice": 12.5,
     "highPrice": 15.99,
     "marketPrice": 11.69,
     "directLowPrice": null,
@@ -21789,9 +21841,9 @@
   },
   "OP05-OP05-097 normal": {
     "lowPrice": 1.95,
-    "midPrice": 2.44,
-    "highPrice": 14.01,
-    "marketPrice": 2.53,
+    "midPrice": 2.4,
+    "highPrice": 13.35,
+    "marketPrice": 2.46,
     "directLowPrice": null,
     "name": "Mary Geoise (Judge Pack Vol. 7)",
     "rarity": "C",
@@ -21814,8 +21866,8 @@
     "groupId": 17675
   },
   "OP10-OP10-107 normal": {
-    "lowPrice": 6.68,
-    "midPrice": 9.51,
+    "lowPrice": 6.51,
+    "midPrice": 9.27,
     "highPrice": 15.0,
     "marketPrice": 11.03,
     "directLowPrice": null,
@@ -21840,8 +21892,8 @@
     "groupId": 17675
   },
   "OP11-OP11-013 normal": {
-    "lowPrice": 3.67,
-    "midPrice": 6.27,
+    "lowPrice": 3.47,
+    "midPrice": 6.16,
     "highPrice": 29.99,
     "marketPrice": 7.49,
     "directLowPrice": null,
@@ -21866,10 +21918,10 @@
     "groupId": 17675
   },
   "OP11-OP11-017 normal": {
-    "lowPrice": 2.99,
+    "lowPrice": 2.75,
     "midPrice": 3.66,
     "highPrice": 21.48,
-    "marketPrice": 5.0,
+    "marketPrice": 4.25,
     "directLowPrice": null,
     "name": "X.Drake (Judge Pack Vol. 7)",
     "rarity": "UC",
@@ -21895,7 +21947,7 @@
     "lowPrice": 2.67,
     "midPrice": 2.96,
     "highPrice": 6.99,
-    "marketPrice": 3.06,
+    "marketPrice": 3.03,
     "directLowPrice": null,
     "name": "Lord of the Coast (Judge Pack Vol. 7)",
     "rarity": "R",
@@ -21919,7 +21971,7 @@
   },
   "OP11-OP11-030 normal": {
     "lowPrice": 8.0,
-    "midPrice": 11.72,
+    "midPrice": 9.5,
     "highPrice": 29.99,
     "marketPrice": 6.94,
     "directLowPrice": null,
@@ -21944,9 +21996,9 @@
     "groupId": 17675
   },
   "OP11-OP11-053 normal": {
-    "lowPrice": 18.93,
-    "midPrice": 20.0,
-    "highPrice": 20.49,
+    "lowPrice": 18.92,
+    "midPrice": 19.06,
+    "highPrice": 20.75,
     "marketPrice": 21.44,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper (Judge Pack Vol. 7)",
@@ -21971,9 +22023,9 @@
   },
   "OP11-OP11-068 normal": {
     "lowPrice": 0.99,
-    "midPrice": 1.48,
-    "highPrice": 14.01,
-    "marketPrice": 1.42,
+    "midPrice": 1.44,
+    "highPrice": 10.0,
+    "marketPrice": 1.38,
     "directLowPrice": null,
     "name": "Charlotte Daifuku (Judge Pack Vol. 7)",
     "rarity": "UC",
@@ -21996,8 +22048,8 @@
     "groupId": 17675
   },
   "OP11-OP11-089 normal": {
-    "lowPrice": 4.35,
-    "midPrice": 4.4,
+    "lowPrice": 3.93,
+    "midPrice": 4.36,
     "highPrice": 6.0,
     "marketPrice": 2.19,
     "directLowPrice": null,
@@ -22023,7 +22075,7 @@
   },
   "OP11-OP11-112 normal": {
     "lowPrice": 8.68,
-    "midPrice": 10.73,
+    "midPrice": 10.0,
     "highPrice": 19.99,
     "marketPrice": 13.38,
     "directLowPrice": null,
@@ -22048,8 +22100,8 @@
     "groupId": 17675
   },
   "ST17-ST17-005 parallel": {
-    "lowPrice": 4.61,
-    "midPrice": 6.25,
+    "lowPrice": 4.6,
+    "midPrice": 5.89,
     "highPrice": 15.0,
     "marketPrice": 5.77,
     "directLowPrice": null,
@@ -22074,8 +22126,8 @@
     "groupId": 17675
   },
   "OP05-OP05-076 alt2": {
-    "lowPrice": 10000.0,
-    "midPrice": 10000.0,
+    "lowPrice": 9999.0,
+    "midPrice": 9999.5,
     "highPrice": 10000.0,
     "marketPrice": 1392.24,
     "directLowPrice": null,
@@ -22126,10 +22178,10 @@
     "groupId": 17675
   },
   "OP05-OP05-007 normal": {
-    "lowPrice": 1.99,
+    "lowPrice": 1.9,
     "midPrice": 3.0,
     "highPrice": 24.0,
-    "marketPrice": 2.55,
+    "marketPrice": 2.56,
     "directLowPrice": null,
     "name": "Sabo (Illustration Box Vol.5)",
     "rarity": "SR",
@@ -22153,9 +22205,9 @@
   },
   "ST15-ST15-005 alt2": {
     "lowPrice": 3.0,
-    "midPrice": 4.47,
+    "midPrice": 4.34,
     "highPrice": 24.0,
-    "marketPrice": 3.6,
+    "marketPrice": 3.69,
     "directLowPrice": null,
     "name": "Portgas.D.Ace (Illustration Box Vol.5)",
     "rarity": "SR",
@@ -22178,10 +22230,10 @@
     "groupId": 17675
   },
   "P-P-093 normal": {
-    "lowPrice": 11.18,
-    "midPrice": 13.44,
+    "lowPrice": 8.0,
+    "midPrice": 13.0,
     "highPrice": 28.0,
-    "marketPrice": 11.88,
+    "marketPrice": 11.3,
     "directLowPrice": null,
     "name": "Trafalgar Law (Illustration Box Vol.6)",
     "rarity": "PR",
@@ -22204,10 +22256,10 @@
     "groupId": 17675
   },
   "OP12-OP12-108 normal": {
-    "lowPrice": 1.46,
-    "midPrice": 2.96,
+    "lowPrice": 1.11,
+    "midPrice": 2.88,
     "highPrice": 20.0,
-    "marketPrice": 2.16,
+    "marketPrice": 2.4,
     "directLowPrice": null,
     "name": "Donquixote Rosinante (Illustration Box Vol.6)",
     "rarity": "R",
@@ -22233,7 +22285,7 @@
     "lowPrice": 6.99,
     "midPrice": 10.0,
     "highPrice": 49.95,
-    "marketPrice": 8.51,
+    "marketPrice": 8.64,
     "directLowPrice": null,
     "name": "Girl (OP14 Release Event)",
     "rarity": "PR",
@@ -22256,10 +22308,10 @@
     "groupId": 17675
   },
   "P-P-096 parallel": {
-    "lowPrice": 119.99,
-    "midPrice": 144.0,
+    "lowPrice": 126.98,
+    "midPrice": 220.0,
     "highPrice": 1000.77,
-    "marketPrice": 115.14,
+    "marketPrice": 117.97,
     "directLowPrice": null,
     "name": "Girl (OP14 Release Event Winner)",
     "rarity": "PR",

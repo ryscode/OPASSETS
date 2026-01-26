@@ -1,9 +1,9 @@
 {
   "ST02-ST02-001 normal": {
     "lowPrice": 1.07,
-    "midPrice": 3.01,
+    "midPrice": 3.0,
     "highPrice": 29.99,
-    "marketPrice": 1.63,
+    "marketPrice": 1.7,
     "directLowPrice": null,
     "name": "Eustass\"Captain\"Kid (001)",
     "rarity": "L",
@@ -27,9 +27,9 @@
   },
   "ST02-ST02-002 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.19,
-    "highPrice": 501.5,
-    "marketPrice": 0.1,
+    "midPrice": 0.18,
+    "highPrice": 2.0,
+    "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Vito",
     "rarity": "C",
@@ -54,7 +54,7 @@
   "ST02-ST02-003 normal": {
     "lowPrice": 0.09,
     "midPrice": 0.25,
-    "highPrice": 501.5,
+    "highPrice": 2.5,
     "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Urouge",
@@ -106,7 +106,7 @@
   "ST02-ST02-005 normal": {
     "lowPrice": 0.07,
     "midPrice": 0.25,
-    "highPrice": 501.5,
+    "highPrice": 4.99,
     "marketPrice": 0.19,
     "directLowPrice": null,
     "name": "Killer",
@@ -132,8 +132,8 @@
   "ST02-ST02-006 normal": {
     "lowPrice": 0.03,
     "midPrice": 0.2,
-    "highPrice": 501.5,
-    "marketPrice": 0.14,
+    "highPrice": 2.0,
+    "marketPrice": 0.13,
     "directLowPrice": null,
     "name": "Koby",
     "rarity": "C",
@@ -157,9 +157,9 @@
   },
   "ST02-ST02-007 normal": {
     "lowPrice": 0.5,
-    "midPrice": 1.48,
-    "highPrice": 501.5,
-    "marketPrice": 0.89,
+    "midPrice": 1.4,
+    "highPrice": 5.97,
+    "marketPrice": 0.9,
     "directLowPrice": null,
     "name": "Jewelry Bonney",
     "rarity": "C",
@@ -183,9 +183,9 @@
   },
   "ST02-ST02-008 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.52,
-    "highPrice": 501.5,
-    "marketPrice": 0.4,
+    "midPrice": 0.5,
+    "highPrice": 7.99,
+    "marketPrice": 0.39,
     "directLowPrice": null,
     "name": "Scratchmen Apoo",
     "rarity": "C",
@@ -208,10 +208,10 @@
     "groupId": 3191
   },
   "ST02-ST02-009 normal": {
-    "lowPrice": 3.95,
+    "lowPrice": 3.98,
     "midPrice": 5.0,
     "highPrice": 96.02,
-    "marketPrice": 4.5,
+    "marketPrice": 4.39,
     "directLowPrice": null,
     "name": "Trafalgar Law",
     "rarity": "SR",
@@ -236,7 +236,7 @@
   "ST02-ST02-010 normal": {
     "lowPrice": 0.11,
     "midPrice": 0.35,
-    "highPrice": 501.5,
+    "highPrice": 7.0,
     "marketPrice": 0.29,
     "directLowPrice": null,
     "name": "Basil Hawkins",
@@ -262,7 +262,7 @@
   "ST02-ST02-011 normal": {
     "lowPrice": 0.02,
     "midPrice": 0.15,
-    "highPrice": 501.5,
+    "highPrice": 2.0,
     "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Heat",
@@ -287,8 +287,8 @@
   },
   "ST02-ST02-012 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.2,
-    "highPrice": 501.5,
+    "midPrice": 0.19,
+    "highPrice": 2.0,
     "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Bepo",
@@ -313,9 +313,9 @@
   },
   "ST02-ST02-013 normal": {
     "lowPrice": 0.74,
-    "midPrice": 2.22,
+    "midPrice": 2.16,
     "highPrice": 34.99,
-    "marketPrice": 1.5,
+    "marketPrice": 1.66,
     "directLowPrice": null,
     "name": "Eustass\"Captain\"Kid (013)",
     "rarity": "SR",
@@ -340,7 +340,7 @@
   "ST02-ST02-014 normal": {
     "lowPrice": 0.2,
     "midPrice": 0.3,
-    "highPrice": 501.5,
+    "highPrice": 5.0,
     "marketPrice": 0.25,
     "directLowPrice": null,
     "name": "X.Drake",
@@ -364,9 +364,9 @@
     "groupId": 3191
   },
   "ST02-ST02-015 normal": {
-    "lowPrice": 0.07,
+    "lowPrice": 0.1,
     "midPrice": 0.25,
-    "highPrice": 501.5,
+    "highPrice": 2.0,
     "marketPrice": 0.19,
     "directLowPrice": null,
     "name": "Scalpel",
@@ -392,7 +392,7 @@
   "ST02-ST02-016 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.2,
-    "highPrice": 501.5,
+    "highPrice": 2.0,
     "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Repel",
@@ -418,8 +418,8 @@
   "ST02-ST02-017 normal": {
     "lowPrice": 0.68,
     "midPrice": 1.29,
-    "highPrice": 501.5,
-    "marketPrice": 1.1,
+    "highPrice": 4.98,
+    "marketPrice": 1.11,
     "directLowPrice": null,
     "name": "Straw Sword",
     "rarity": "C",

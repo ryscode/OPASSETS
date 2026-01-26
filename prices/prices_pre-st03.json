@@ -1,7 +1,7 @@
 {
   "ST03-ST03-001 normal": {
-    "lowPrice": 118.68,
-    "midPrice": 120.88,
+    "lowPrice": 145.0,
+    "midPrice": 162.5,
     "highPrice": 199.98,
     "marketPrice": 107.11,
     "directLowPrice": null,
@@ -27,9 +27,9 @@
   },
   "ST03-ST03-003 normal": {
     "lowPrice": 13.7,
-    "midPrice": 24.99,
+    "midPrice": 25.99,
     "highPrice": 100.0,
-    "marketPrice": 9.5,
+    "marketPrice": 9.79,
     "directLowPrice": null,
     "name": "Crocodile (003)",
     "rarity": "SR",
@@ -53,9 +53,9 @@
   },
   "ST03-ST03-009 normal": {
     "lowPrice": 14.99,
-    "midPrice": 20.92,
+    "midPrice": 20.95,
     "highPrice": 100.0,
-    "marketPrice": 22.07,
+    "marketPrice": 22.28,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo",
     "rarity": "SR",
@@ -81,7 +81,7 @@
     "lowPrice": 0.86,
     "midPrice": 14.95,
     "highPrice": 50.0,
-    "marketPrice": 4.3,
+    "marketPrice": 4.21,
     "directLowPrice": null,
     "name": "Trafalgar Law",
     "rarity": "C",
@@ -105,7 +105,7 @@
   },
   "ST03-ST03-016 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.37,
+    "midPrice": 0.4,
     "highPrice": 25.0,
     "marketPrice": 0.29,
     "directLowPrice": null,
@@ -159,7 +159,7 @@
     "lowPrice": 3.15,
     "midPrice": 5.0,
     "highPrice": 50.0,
-    "marketPrice": 4.76,
+    "marketPrice": 4.73,
     "directLowPrice": null,
     "name": "Sables",
     "rarity": "C",
@@ -183,7 +183,7 @@
   },
   "ST03-ST03-012 normal": {
     "lowPrice": 0.14,
-    "midPrice": 0.84,
+    "midPrice": 0.77,
     "highPrice": 25.0,
     "marketPrice": 0.31,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "ST03-ST03-014 normal": {
     "lowPrice": 6.34,
-    "midPrice": 10.0,
+    "midPrice": 9.99,
     "highPrice": 50.0,
     "marketPrice": 2.69,
     "directLowPrice": null,
@@ -286,7 +286,7 @@
     "groupId": 17660
   },
   "ST03-ST03-004 normal": {
-    "lowPrice": 0.5,
+    "lowPrice": 0.75,
     "midPrice": 1.0,
     "highPrice": 50.0,
     "marketPrice": 0.87,
@@ -313,7 +313,7 @@
   },
   "ST03-ST03-002 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.35,
+    "midPrice": 0.33,
     "highPrice": 25.0,
     "marketPrice": 0.21,
     "directLowPrice": null,
@@ -390,10 +390,10 @@
     "groupId": 17660
   },
   "ST03-ST03-013 normal": {
-    "lowPrice": 9.9,
-    "midPrice": 14.85,
+    "lowPrice": 8.99,
+    "midPrice": 13.6,
     "highPrice": 250.0,
-    "marketPrice": 12.45,
+    "marketPrice": 11.93,
     "directLowPrice": null,
     "name": "Boa Hancock",
     "rarity": "C",

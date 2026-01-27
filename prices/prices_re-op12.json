@@ -27,7 +27,7 @@
   },
   "OP12-OP12-111 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.58,
+    "midPrice": 0.5,
     "highPrice": 2.99,
     "marketPrice": 0.31,
     "directLowPrice": null,
@@ -105,9 +105,9 @@
   },
   "OP12-OP12-105 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.54,
+    "midPrice": 0.53,
     "highPrice": 3.0,
-    "marketPrice": 0.44,
+    "marketPrice": 0.4,
     "directLowPrice": null,
     "name": "Trafalgar Lammy",
     "rarity": "C",
@@ -157,9 +157,9 @@
   },
   "OP12-OP12-101 normal": {
     "lowPrice": 1.22,
-    "midPrice": 2.39,
+    "midPrice": 2.5,
     "highPrice": 8.73,
-    "marketPrice": 1.38,
+    "marketPrice": 1.4,
     "directLowPrice": null,
     "name": "Jewelry Bonney (101)",
     "rarity": "C",
@@ -183,7 +183,7 @@
   },
   "OP12-OP12-096 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.74,
+    "midPrice": 0.71,
     "highPrice": 10.0,
     "marketPrice": 0.62,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "OP12-OP12-095 normal": {
     "lowPrice": 0.49,
-    "midPrice": 1.19,
+    "midPrice": 1.0,
     "highPrice": 3.39,
     "marketPrice": 0.58,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "OP12-OP12-091 normal": {
     "lowPrice": 0.32,
-    "midPrice": 0.61,
+    "midPrice": 0.56,
     "highPrice": 5.73,
     "marketPrice": 0.48,
     "directLowPrice": null,
@@ -261,7 +261,7 @@
   },
   "OP12-OP12-090 normal": {
     "lowPrice": 0.7,
-    "midPrice": 1.04,
+    "midPrice": 1.03,
     "highPrice": 3.6,
     "marketPrice": 0.97,
     "directLowPrice": null,
@@ -338,10 +338,10 @@
     "groupId": 24406
   },
   "OP12-OP12-082 normal": {
-    "lowPrice": 0.11,
+    "lowPrice": 0.15,
     "midPrice": 0.29,
     "highPrice": 2.99,
-    "marketPrice": 0.21,
+    "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "Issho",
     "rarity": "C",
@@ -417,9 +417,9 @@
   },
   "OP12-OP12-075 normal": {
     "lowPrice": 17.01,
-    "midPrice": 27.67,
+    "midPrice": 23.5,
     "highPrice": 100000.0,
-    "marketPrice": 17.03,
+    "marketPrice": 17.46,
     "directLowPrice": null,
     "name": "Ms. All Sunday",
     "rarity": "C",
@@ -443,7 +443,7 @@
   },
   "OP12-OP12-074 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.42,
+    "midPrice": 0.4,
     "highPrice": 5.0,
     "marketPrice": 0.34,
     "directLowPrice": null,
@@ -469,7 +469,7 @@
   },
   "OP12-OP12-069 normal": {
     "lowPrice": 0.49,
-    "midPrice": 1.52,
+    "midPrice": 1.47,
     "highPrice": 3.99,
     "marketPrice": 0.69,
     "directLowPrice": null,
@@ -521,7 +521,7 @@
   },
   "OP12-OP12-066 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.37,
+    "midPrice": 0.34,
     "highPrice": 0.99,
     "marketPrice": 0.31,
     "directLowPrice": null,
@@ -573,7 +573,7 @@
   },
   "OP12-OP12-058 normal": {
     "lowPrice": 0.97,
-    "midPrice": 1.21,
+    "midPrice": 1.22,
     "highPrice": 4.0,
     "marketPrice": 1.1,
     "directLowPrice": null,
@@ -599,7 +599,7 @@
   },
   "OP12-OP12-057 normal": {
     "lowPrice": 1.65,
-    "midPrice": 3.31,
+    "midPrice": 3.03,
     "highPrice": 5.94,
     "marketPrice": 1.74,
     "directLowPrice": null,
@@ -651,7 +651,7 @@
   },
   "OP12-OP12-052 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.35,
+    "midPrice": 0.34,
     "highPrice": 2.0,
     "marketPrice": 0.21,
     "directLowPrice": null,
@@ -677,9 +677,9 @@
   },
   "OP12-OP12-048 normal": {
     "lowPrice": 0.8,
-    "midPrice": 2.0,
+    "midPrice": 1.92,
     "highPrice": 9.99,
-    "marketPrice": 1.14,
+    "marketPrice": 1.12,
     "directLowPrice": null,
     "name": "Donquixote Rosinante (048)",
     "rarity": "C",
@@ -703,7 +703,7 @@
   },
   "OP12-OP12-046 normal": {
     "lowPrice": 0.98,
-    "midPrice": 1.72,
+    "midPrice": 2.0,
     "highPrice": 8.0,
     "marketPrice": 1.38,
     "directLowPrice": null,
@@ -755,9 +755,9 @@
   },
   "OP12-OP12-042 normal": {
     "lowPrice": 0.39,
-    "midPrice": 1.74,
+    "midPrice": 1.3,
     "highPrice": 10.0,
-    "marketPrice": 0.82,
+    "marketPrice": 0.84,
     "directLowPrice": null,
     "name": "Alvida",
     "rarity": "C",
@@ -781,7 +781,7 @@
   },
   "OP12-OP12-038 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.9,
+    "midPrice": 0.75,
     "highPrice": 3.6,
     "marketPrice": 0.53,
     "directLowPrice": null,
@@ -834,8 +834,8 @@
   "OP12-OP12-035 normal": {
     "lowPrice": 0.2,
     "midPrice": 0.5,
-    "highPrice": 4.0,
-    "marketPrice": 0.29,
+    "highPrice": 2.0,
+    "marketPrice": 0.3,
     "directLowPrice": null,
     "name": "Morgan",
     "rarity": "C",
@@ -887,7 +887,7 @@
     "lowPrice": 0.02,
     "midPrice": 0.3,
     "highPrice": 1.41,
-    "marketPrice": 0.2,
+    "marketPrice": 0.21,
     "directLowPrice": null,
     "name": "Kin'emon",
     "rarity": "C",
@@ -911,7 +911,7 @@
   },
   "OP12-OP12-024 normal": {
     "lowPrice": 0.7,
-    "midPrice": 0.95,
+    "midPrice": 0.94,
     "highPrice": 3.0,
     "marketPrice": 0.79,
     "directLowPrice": null,
@@ -937,7 +937,7 @@
   },
   "OP12-OP12-022 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.95,
+    "midPrice": 0.65,
     "highPrice": 5.0,
     "marketPrice": 0.44,
     "directLowPrice": null,
@@ -962,8 +962,8 @@
     "groupId": 24406
   },
   "OP12-OP12-021 normal": {
-    "lowPrice": 0.1,
-    "midPrice": 0.37,
+    "lowPrice": 0.18,
+    "midPrice": 0.38,
     "highPrice": 2.99,
     "marketPrice": 0.29,
     "directLowPrice": null,
@@ -1015,7 +1015,7 @@
   },
   "OP12-OP12-016 normal": {
     "lowPrice": 0.9,
-    "midPrice": 2.25,
+    "midPrice": 2.13,
     "highPrice": 9.89,
     "marketPrice": 1.36,
     "directLowPrice": null,
@@ -1093,8 +1093,8 @@
   },
   "OP12-OP12-011 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.47,
-    "highPrice": 3.4,
+    "midPrice": 0.46,
+    "highPrice": 3.0,
     "marketPrice": 0.38,
     "directLowPrice": null,
     "name": "Duval",
@@ -1119,9 +1119,9 @@
   },
   "OP12-OP12-007 normal": {
     "lowPrice": 0.87,
-    "midPrice": 1.94,
+    "midPrice": 1.87,
     "highPrice": 5.0,
-    "marketPrice": 1.18,
+    "marketPrice": 1.19,
     "directLowPrice": null,
     "name": "Shanks (007)",
     "rarity": "C",
@@ -1146,7 +1146,7 @@
   "OP12-OP12-005 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.3,
-    "highPrice": 1.4,
+    "highPrice": 1.39,
     "marketPrice": 0.25,
     "directLowPrice": null,
     "name": "Shiki",
@@ -1171,9 +1171,9 @@
   },
   "OP12-OP12-002 normal": {
     "lowPrice": 1.9,
-    "midPrice": 2.12,
+    "midPrice": 2.02,
     "highPrice": 2.99,
-    "marketPrice": 1.94,
+    "marketPrice": 1.91,
     "directLowPrice": null,
     "name": "Edward.Newgate",
     "rarity": "UC",
@@ -1197,7 +1197,7 @@
   },
   "OP12-OP12-003 normal": {
     "lowPrice": 0.34,
-    "midPrice": 1.17,
+    "midPrice": 1.06,
     "highPrice": 5.01,
     "marketPrice": 0.96,
     "directLowPrice": null,
@@ -1223,7 +1223,7 @@
   },
   "OP12-OP12-004 normal": {
     "lowPrice": 0.88,
-    "midPrice": 1.42,
+    "midPrice": 1.35,
     "highPrice": 2.98,
     "marketPrice": 1.24,
     "directLowPrice": null,
@@ -1249,7 +1249,7 @@
   },
   "OP12-OP12-010 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.52,
+    "midPrice": 0.51,
     "highPrice": 2.0,
     "marketPrice": 0.46,
     "directLowPrice": null,
@@ -1301,7 +1301,7 @@
   },
   "OP12-OP12-023 normal": {
     "lowPrice": 3.0,
-    "midPrice": 4.0,
+    "midPrice": 3.81,
     "highPrice": 7.07,
     "marketPrice": 3.61,
     "directLowPrice": null,
@@ -1379,7 +1379,7 @@
   },
   "OP12-OP12-029 normal": {
     "lowPrice": 4.97,
-    "midPrice": 8.0,
+    "midPrice": 7.75,
     "highPrice": 14.15,
     "marketPrice": 7.07,
     "directLowPrice": null,
@@ -1430,7 +1430,7 @@
     "groupId": 24406
   },
   "OP12-OP12-049 normal": {
-    "lowPrice": 3.5,
+    "lowPrice": 8.25,
     "midPrice": 9.99,
     "highPrice": 10.61,
     "marketPrice": 5.1,
@@ -1457,7 +1457,7 @@
   },
   "OP12-OP12-050 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.41,
+    "midPrice": 0.4,
     "highPrice": 2.95,
     "marketPrice": 0.31,
     "directLowPrice": null,
@@ -1483,7 +1483,7 @@
   },
   "OP12-OP12-055 normal": {
     "lowPrice": 0.9,
-    "midPrice": 1.94,
+    "midPrice": 1.88,
     "highPrice": 3.91,
     "marketPrice": 1.53,
     "directLowPrice": null,
@@ -1535,7 +1535,7 @@
   },
   "OP12-OP12-065 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.99,
+    "midPrice": 0.91,
     "highPrice": 3.49,
     "marketPrice": 0.83,
     "directLowPrice": null,
@@ -1561,9 +1561,9 @@
   },
   "OP12-OP12-068 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.65,
+    "midPrice": 0.64,
     "highPrice": 5.01,
-    "marketPrice": 0.64,
+    "marketPrice": 0.63,
     "directLowPrice": null,
     "name": "Gin",
     "rarity": "UC",
@@ -1587,9 +1587,9 @@
   },
   "OP12-OP12-072 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.64,
+    "midPrice": 0.63,
     "highPrice": 2.99,
-    "marketPrice": 0.38,
+    "marketPrice": 0.39,
     "directLowPrice": null,
     "name": "Zeff",
     "rarity": "UC",
@@ -1641,7 +1641,7 @@
     "lowPrice": 1.11,
     "midPrice": 1.87,
     "highPrice": 3.04,
-    "marketPrice": 1.11,
+    "marketPrice": 1.07,
     "directLowPrice": null,
     "name": "Brochette Blow",
     "rarity": "UC",
@@ -1665,7 +1665,7 @@
   },
   "OP12-OP12-083 normal": {
     "lowPrice": 0.61,
-    "midPrice": 1.23,
+    "midPrice": 1.2,
     "highPrice": 3.95,
     "marketPrice": 1.2,
     "directLowPrice": null,
@@ -1743,7 +1743,7 @@
   },
   "OP12-OP12-093 normal": {
     "lowPrice": 3.95,
-    "midPrice": 4.86,
+    "midPrice": 6.93,
     "highPrice": 11.79,
     "marketPrice": 4.51,
     "directLowPrice": null,
@@ -1819,35 +1819,9 @@
     "description": null,
     "groupId": 24406
   },
-  "OP12-OP12-106 normal": {
-    "lowPrice": 2.0,
-    "midPrice": 2.0,
-    "highPrice": 2.0,
-    "marketPrice": 2.78,
-    "directLowPrice": null,
-    "name": "Trafalgar Law (106)",
-    "rarity": "UC",
-    "power": "7000",
-    "cost": "6",
-    "life": null,
-    "category": "Character",
-    "colors": "Yellow",
-    "attributes": "Slash",
-    "types": "Heart Pirates;Supernovas;Dressrosa",
-    "effect": null,
-    "trigger": null,
-    "counter": "1000",
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/649323_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Character",
-    "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
-    "groupId": 24406
-  },
   "OP12-OP12-113 normal": {
-    "lowPrice": 4.0,
-    "midPrice": 27.5,
+    "lowPrice": 25.0,
+    "midPrice": 30.0,
     "highPrice": 500.0,
     "marketPrice": 3.35,
     "directLowPrice": null,
@@ -1873,7 +1847,7 @@
   },
   "OP12-OP12-114 normal": {
     "lowPrice": 1.19,
-    "midPrice": 2.49,
+    "midPrice": 2.47,
     "highPrice": 3.5,
     "marketPrice": 1.52,
     "directLowPrice": null,

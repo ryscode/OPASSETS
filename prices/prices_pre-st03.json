@@ -1,7 +1,7 @@
 {
   "ST03-ST03-001 normal": {
     "lowPrice": 140.0,
-    "midPrice": 147.5,
+    "midPrice": 145.0,
     "highPrice": 199.98,
     "marketPrice": 107.11,
     "directLowPrice": null,
@@ -27,7 +27,7 @@
   },
   "ST03-ST03-003 normal": {
     "lowPrice": 13.7,
-    "midPrice": 24.9,
+    "midPrice": 25.99,
     "highPrice": 100.0,
     "marketPrice": 10.58,
     "directLowPrice": null,
@@ -53,7 +53,7 @@
   },
   "ST03-ST03-009 normal": {
     "lowPrice": 14.99,
-    "midPrice": 20.95,
+    "midPrice": 21.28,
     "highPrice": 100.0,
     "marketPrice": 22.08,
     "directLowPrice": null,
@@ -105,7 +105,7 @@
   },
   "ST03-ST03-016 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.45,
+    "midPrice": 0.4,
     "highPrice": 25.0,
     "marketPrice": 0.29,
     "directLowPrice": null,
@@ -157,7 +157,7 @@
   },
   "ST03-ST03-015 normal": {
     "lowPrice": 3.15,
-    "midPrice": 5.09,
+    "midPrice": 5.18,
     "highPrice": 50.0,
     "marketPrice": 4.7,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "ST03-ST03-014 normal": {
     "lowPrice": 5.34,
-    "midPrice": 9.11,
+    "midPrice": 9.99,
     "highPrice": 50.0,
     "marketPrice": 2.69,
     "directLowPrice": null,
@@ -286,8 +286,8 @@
     "groupId": 17660
   },
   "ST03-ST03-004 normal": {
-    "lowPrice": 0.75,
-    "midPrice": 1.0,
+    "lowPrice": 0.5,
+    "midPrice": 0.99,
     "highPrice": 50.0,
     "marketPrice": 0.87,
     "directLowPrice": null,
@@ -313,7 +313,7 @@
   },
   "ST03-ST03-002 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.34,
+    "midPrice": 0.33,
     "highPrice": 25.0,
     "marketPrice": 0.21,
     "directLowPrice": null,
@@ -339,7 +339,7 @@
   },
   "ST03-ST03-005 normal": {
     "lowPrice": 1.77,
-    "midPrice": 2.99,
+    "midPrice": 2.98,
     "highPrice": 100.0,
     "marketPrice": 2.5,
     "directLowPrice": null,
@@ -365,7 +365,7 @@
   },
   "ST03-ST03-011 normal": {
     "lowPrice": 5.25,
-    "midPrice": 6.5,
+    "midPrice": 7.17,
     "highPrice": 50.0,
     "marketPrice": 8.15,
     "directLowPrice": null,
@@ -390,10 +390,10 @@
     "groupId": 17660
   },
   "ST03-ST03-013 normal": {
-    "lowPrice": 8.99,
-    "midPrice": 13.8,
+    "lowPrice": 7.68,
+    "midPrice": 13.7,
     "highPrice": 250.0,
-    "marketPrice": 10.61,
+    "marketPrice": 10.51,
     "directLowPrice": null,
     "name": "Boa Hancock",
     "rarity": "C",

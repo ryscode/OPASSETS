@@ -1,0 +1,39 @@
+{
+  "date": "2026-01-28",
+  "market": 18,
+  "expansionId": 6456,
+  "expansionName": "OP15",
+  "count": 2,
+  "priceGuides": [
+    {
+      "idProduct": 867936,
+      "idCategory": 1624,
+      "avg": null,
+      "low": 2600,
+      "trend": null,
+      "avg1": null,
+      "avg7": null,
+      "avg30": null,
+      "productName": "OP15 Booster Box Case",
+      "productCategoryName": "One Piece Booster Boxes"
+    },
+    {
+      "idProduct": 867939,
+      "idCategory": 1624,
+      "avg": 154,
+      "low": 229,
+      "trend": 232.93,
+      "avg1": null,
+      "avg7": null,
+      "avg30": null,
+      "avg-foil": null,
+      "low-foil": null,
+      "trend-foil": 0,
+      "avg1-foil": null,
+      "avg7-foil": null,
+      "avg30-foil": null,
+      "productName": "OP15 Booster Box",
+      "productCategoryName": "One Piece Booster Boxes"
+    }
+  ]
+}

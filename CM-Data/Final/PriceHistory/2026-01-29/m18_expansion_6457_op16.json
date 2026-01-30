@@ -1,0 +1,39 @@
+{
+  "date": "2026-01-29",
+  "market": 18,
+  "expansionId": 6457,
+  "expansionName": "OP16",
+  "count": 2,
+  "priceGuides": [
+    {
+      "idProduct": 867937,
+      "idCategory": 1624,
+      "avg": null,
+      "low": 2750,
+      "trend": null,
+      "avg1": null,
+      "avg7": null,
+      "avg30": null,
+      "productName": "OP16 Booster Box Case",
+      "productCategoryName": "One Piece Booster Boxes"
+    },
+    {
+      "idProduct": 867938,
+      "idCategory": 1624,
+      "avg": 250,
+      "low": 199.99,
+      "trend": 250,
+      "avg1": null,
+      "avg7": null,
+      "avg30": null,
+      "avg-foil": null,
+      "low-foil": null,
+      "trend-foil": 0,
+      "avg1-foil": null,
+      "avg7-foil": null,
+      "avg30-foil": null,
+      "productName": "OP16 Booster Box",
+      "productCategoryName": "One Piece Booster Boxes"
+    }
+  ]
+}

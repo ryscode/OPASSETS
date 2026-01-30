@@ -1,0 +1,57 @@
+{
+  "date": "2026-01-29",
+  "market": 18,
+  "expansionId": 6449,
+  "expansionName": "Heroines Edition",
+  "count": 3,
+  "priceGuides": [
+    {
+      "idProduct": 867330,
+      "idCategory": 1622,
+      "avg": 5.95,
+      "low": null,
+      "trend": 5.95,
+      "avg1": null,
+      "avg7": null,
+      "avg30": null,
+      "avg-foil": null,
+      "low-foil": null,
+      "trend-foil": 0,
+      "avg1-foil": null,
+      "avg7-foil": null,
+      "avg30-foil": null,
+      "productName": "Heroines Edition Booster",
+      "productCategoryName": "One Piece Booster"
+    },
+    {
+      "idProduct": 867331,
+      "idCategory": 1624,
+      "avg": 249.95,
+      "low": 336,
+      "trend": 363.75,
+      "avg1": null,
+      "avg7": null,
+      "avg30": null,
+      "avg-foil": null,
+      "low-foil": null,
+      "trend-foil": 0,
+      "avg1-foil": null,
+      "avg7-foil": null,
+      "avg30-foil": null,
+      "productName": "Heroines Edition Booster Box",
+      "productCategoryName": "One Piece Booster Boxes"
+    },
+    {
+      "idProduct": 867332,
+      "idCategory": 1624,
+      "avg": 4999.8,
+      "low": 4499.95,
+      "trend": null,
+      "avg1": null,
+      "avg7": null,
+      "avg30": null,
+      "productName": "Heroines Edition Booster Box Case (12x Booster Box)",
+      "productCategoryName": "One Piece Booster Boxes"
+    }
+  ]
+}

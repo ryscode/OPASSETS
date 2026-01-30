@@ -1,9 +1,9 @@
 {
   "ST10-ST10-001 normal": {
-    "lowPrice": 2.99,
-    "midPrice": 4.21,
+    "lowPrice": 3.0,
+    "midPrice": 4.2,
     "highPrice": 45.0,
-    "marketPrice": 3.25,
+    "marketPrice": 3.28,
     "directLowPrice": null,
     "name": "Trafalgar Law (001)",
     "rarity": "L",
@@ -26,10 +26,10 @@
     "groupId": 23243
   },
   "ST10-ST10-002 normal": {
-    "lowPrice": 15.0,
-    "midPrice": 43.0,
-    "highPrice": 150.0,
-    "marketPrice": 20.84,
+    "lowPrice": 20.99,
+    "midPrice": 48.99,
+    "highPrice": 149.95,
+    "marketPrice": 20.94,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (002)",
     "rarity": "L",
@@ -53,9 +53,9 @@
   },
   "ST10-ST10-003 normal": {
     "lowPrice": 1.0,
-    "midPrice": 3.38,
+    "midPrice": 3.15,
     "highPrice": 25.0,
-    "marketPrice": 2.78,
+    "marketPrice": 2.76,
     "directLowPrice": null,
     "name": "Eustass\"Captain\"Kid (003)",
     "rarity": "L",
@@ -131,7 +131,7 @@
   },
   "ST10-ST10-006 normal": {
     "lowPrice": 1.0,
-    "midPrice": 3.16,
+    "midPrice": 3.08,
     "highPrice": 50.0,
     "marketPrice": 2.52,
     "directLowPrice": null,
@@ -182,7 +182,7 @@
     "groupId": 23243
   },
   "ST10-ST10-008 normal": {
-    "lowPrice": 0.07,
+    "lowPrice": 0.08,
     "midPrice": 0.25,
     "highPrice": 20.0,
     "marketPrice": 0.14,
@@ -235,9 +235,9 @@
   },
   "ST10-ST10-010 normal": {
     "lowPrice": 1.0,
-    "midPrice": 2.53,
+    "midPrice": 3.02,
     "highPrice": 50.0,
-    "marketPrice": 1.98,
+    "marketPrice": 2.05,
     "directLowPrice": null,
     "name": "Trafalgar Law (010)",
     "rarity": "SR",
@@ -260,7 +260,7 @@
     "groupId": 23243
   },
   "ST10-ST10-011 normal": {
-    "lowPrice": 0.05,
+    "lowPrice": 0.08,
     "midPrice": 0.2,
     "highPrice": 2.0,
     "marketPrice": 0.13,
@@ -286,7 +286,7 @@
     "groupId": 23243
   },
   "ST10-ST10-012 normal": {
-    "lowPrice": 0.05,
+    "lowPrice": 0.09,
     "midPrice": 0.25,
     "highPrice": 2.0,
     "marketPrice": 0.18,
@@ -312,7 +312,7 @@
     "groupId": 23243
   },
   "ST10-ST10-013 normal": {
-    "lowPrice": 0.58,
+    "lowPrice": 0.5,
     "midPrice": 1.42,
     "highPrice": 25.0,
     "marketPrice": 0.89,
@@ -338,8 +338,8 @@
     "groupId": 23243
   },
   "ST10-ST10-014 normal": {
-    "lowPrice": 0.05,
-    "midPrice": 0.2,
+    "lowPrice": 0.1,
+    "midPrice": 0.21,
     "highPrice": 2.0,
     "marketPrice": 0.15,
     "directLowPrice": null,
@@ -366,8 +366,8 @@
   "ST10-ST10-015 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.24,
-    "highPrice": 14.0,
-    "marketPrice": 0.2,
+    "highPrice": 10.0,
+    "marketPrice": 0.19,
     "directLowPrice": null,
     "name": "Gum-Gum Giant Sumo Slap",
     "rarity": "C",
@@ -393,7 +393,7 @@
     "lowPrice": 0.15,
     "midPrice": 0.25,
     "highPrice": 25.0,
-    "marketPrice": 0.23,
+    "marketPrice": 0.22,
     "directLowPrice": null,
     "name": "Gum-Gum Kong Gatling",
     "rarity": "C",
@@ -416,7 +416,7 @@
     "groupId": 23243
   },
   "ST10-ST10-017 normal": {
-    "lowPrice": 0.05,
+    "lowPrice": 0.1,
     "midPrice": 0.25,
     "highPrice": 25.0,
     "marketPrice": 0.23,

@@ -1,9 +1,9 @@
 {
   "OP02-OP02-001 normal": {
-    "lowPrice": 0.25,
+    "lowPrice": 0.41,
     "midPrice": 0.99,
     "highPrice": 25.0,
-    "marketPrice": 0.74,
+    "marketPrice": 0.71,
     "directLowPrice": null,
     "name": "Edward.Newgate (OP02-001)",
     "rarity": "L",
@@ -29,7 +29,7 @@
     "lowPrice": 0.27,
     "midPrice": 0.42,
     "highPrice": 10.0,
-    "marketPrice": 0.34,
+    "marketPrice": 0.33,
     "directLowPrice": null,
     "name": "Jozu",
     "rarity": "R",
@@ -286,10 +286,10 @@
     "groupId": 23490
   },
   "ST15-ST15-004 normal": {
-    "lowPrice": 1.0,
-    "midPrice": 3.08,
+    "lowPrice": 1.25,
+    "midPrice": 3.0,
     "highPrice": 25.0,
-    "marketPrice": 1.48,
+    "marketPrice": 1.46,
     "directLowPrice": null,
     "name": "Thatch",
     "rarity": "C",
@@ -312,10 +312,10 @@
     "groupId": 23490
   },
   "ST15-ST15-005 normal": {
-    "lowPrice": 0.75,
+    "lowPrice": 0.5,
     "midPrice": 1.25,
     "highPrice": 50.0,
-    "marketPrice": 1.05,
+    "marketPrice": 0.98,
     "directLowPrice": null,
     "name": "Portgas.D.Ace",
     "rarity": "SR",

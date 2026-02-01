@@ -53,7 +53,7 @@
   },
   "OP03-OP03-107 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.17,
+    "midPrice": 0.15,
     "highPrice": 5.0,
     "marketPrice": 0.11,
     "directLowPrice": null,
@@ -78,9 +78,9 @@
     "groupId": 23495
   },
   "OP03-OP03-110 normal": {
-    "lowPrice": 0.04,
+    "lowPrice": 0.05,
     "midPrice": 0.15,
-    "highPrice": 1.32,
+    "highPrice": 1.33,
     "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Charlotte Smoothie",
@@ -159,7 +159,7 @@
     "lowPrice": 0.25,
     "midPrice": 1.0,
     "highPrice": 10.0,
-    "marketPrice": 0.57,
+    "marketPrice": 0.6,
     "directLowPrice": null,
     "name": "Charlotte Katakuri (ST20-001)",
     "rarity": "SR",
@@ -182,7 +182,7 @@
     "groupId": 23495
   },
   "ST20-ST20-002 normal": {
-    "lowPrice": 0.04,
+    "lowPrice": 0.05,
     "midPrice": 0.2,
     "highPrice": 2.45,
     "marketPrice": 0.17,
@@ -234,8 +234,8 @@
     "groupId": 23495
   },
   "ST20-ST20-004 normal": {
-    "lowPrice": 0.09,
-    "midPrice": 0.21,
+    "lowPrice": 0.1,
+    "midPrice": 0.22,
     "highPrice": 2.0,
     "marketPrice": 0.19,
     "directLowPrice": null,
@@ -261,9 +261,9 @@
   },
   "ST20-ST20-005 normal": {
     "lowPrice": 0.5,
-    "midPrice": 1.46,
+    "midPrice": 1.25,
     "highPrice": 25.0,
-    "marketPrice": 1.03,
+    "marketPrice": 1.01,
     "directLowPrice": null,
     "name": "Charlotte Linlin",
     "rarity": "SR",

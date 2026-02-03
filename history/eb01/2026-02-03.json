@@ -1,0 +1,882 @@
+{
+  "EB01-EB01-001 normal": {
+    "name": "Kouzuki Oden",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.23,
+      "high": 5.0,
+      "market": 0.19,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-001 parallel": {
+    "name": "Kouzuki Oden (Alternate Art)",
+    "groupId": 23333,
+    "prices": {
+      "low": 65.0,
+      "mid": 72.97,
+      "high": 250.0,
+      "market": 68.77,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-002 normal": {
+    "name": "Izo",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.65,
+      "mid": 1.0,
+      "high": 25.0,
+      "market": 0.9,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-003 normal": {
+    "name": "Kid & Killer",
+    "groupId": 23333,
+    "prices": {
+      "low": 2.5,
+      "mid": 5.23,
+      "high": 50.0,
+      "market": 3.55,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-003 parallel": {
+    "name": "Kid & Killer (Alternate Art)",
+    "groupId": 23333,
+    "prices": {
+      "low": 16.98,
+      "mid": 24.98,
+      "high": 99.99,
+      "market": 18.51,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-004 normal": {
+    "name": "Koza",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.5,
+      "market": 0.05,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-005 normal": {
+    "name": "Doma",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.5,
+      "market": 0.07,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-006 normal": {
+    "name": "Tony Tony.Chopper",
+    "groupId": 23333,
+    "prices": {
+      "low": 25.0,
+      "mid": 30.0,
+      "high": 100.0,
+      "market": 26.32,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-006 parallel": {
+    "name": "Tony Tony.Chopper (Alternate Art)",
+    "groupId": 23333,
+    "prices": {
+      "low": 70.0,
+      "mid": 75.0,
+      "high": 220.0,
+      "market": 67.74,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-006 alt2": {
+    "name": "Tony Tony.Chopper (Alternate Art) (Manga)",
+    "groupId": 23333,
+    "prices": {
+      "low": 3250.01,
+      "mid": 3377.5,
+      "high": 12000.0,
+      "market": 1789.69,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-007 normal": {
+    "name": "Yamato",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.2,
+      "high": 5.0,
+      "market": 0.19,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-008 normal": {
+    "name": "LittleOars Jr.",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.04,
+      "mid": 0.22,
+      "high": 25.0,
+      "market": 0.16,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-009 normal": {
+    "name": "Just Shut Up and Come with Us!!!!",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.02,
+      "mid": 0.24,
+      "high": 2.74,
+      "market": 0.15,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-010 normal": {
+    "name": "There's No Way You Could Defeat Me!!",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.26,
+      "high": 25.0,
+      "market": 0.27,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-011 normal": {
+    "name": "Mini-Merry",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.12,
+      "high": 5.0,
+      "market": 0.09,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-012 normal": {
+    "name": "Cavendish",
+    "groupId": 23333,
+    "prices": {
+      "low": 4.22,
+      "mid": 7.42,
+      "high": 42.99,
+      "market": 5.83,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-012 parallel": {
+    "name": "Cavendish (Alternate Art)",
+    "groupId": 23333,
+    "prices": {
+      "low": 37.0,
+      "mid": 47.27,
+      "high": 120.0,
+      "market": 39.56,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-013 normal": {
+    "name": "Kouzuki Hiyori",
+    "groupId": 23333,
+    "prices": {
+      "low": 1.78,
+      "mid": 3.5,
+      "high": 50.0,
+      "market": 3.02,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-013 parallel": {
+    "name": "Kouzuki Hiyori (Alternate Art)",
+    "groupId": 23333,
+    "prices": {
+      "low": 23.21,
+      "mid": 28.22,
+      "high": 100.0,
+      "market": 24.73,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-014 normal": {
+    "name": "Sanji",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.45,
+      "mid": 0.99,
+      "high": 50.0,
+      "market": 0.77,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-015 normal": {
+    "name": "Scratchmen Apoo",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.99,
+      "mid": 2.0,
+      "high": 25.0,
+      "market": 1.65,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-016 normal": {
+    "name": "Bingoh",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.52,
+      "market": 0.05,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-017 normal": {
+    "name": "Blueno (017)",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 1.98,
+      "market": 0.09,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-018 normal": {
+    "name": "Mountain God",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.12,
+      "high": 1.5,
+      "market": 0.08,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-019 normal": {
+    "name": "Off-White",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.4,
+      "mid": 0.56,
+      "high": 25.0,
+      "market": 0.53,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-020 normal": {
+    "name": "Chambres",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.5,
+      "market": 0.09,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-021 normal": {
+    "name": "Hannyabal",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.2,
+      "high": 5.0,
+      "market": 0.15,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-021 parallel": {
+    "name": "Hannyabal (Alternate Art)",
+    "groupId": 23333,
+    "prices": {
+      "low": 18.69,
+      "mid": 24.95,
+      "high": 99.99,
+      "market": 21.07,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-022 normal": {
+    "name": "Inazuma",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.5,
+      "mid": 1.43,
+      "high": 25.0,
+      "market": 1.07,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-022 parallel": {
+    "name": "Inazuma (Alternate Art)",
+    "groupId": 23333,
+    "prices": {
+      "low": 9.99,
+      "mid": 23.52,
+      "high": 49.99,
+      "market": 11.61,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-023 normal": {
+    "name": "Edward Weevil",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.5,
+      "mid": 1.54,
+      "high": 25.0,
+      "market": 1.19,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-024 normal": {
+    "name": "Hamlet",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.5,
+      "market": 0.06,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-025 normal": {
+    "name": "Fourtricks",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.56,
+      "market": 0.04,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-026 normal": {
+    "name": "Prince Bellett",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.52,
+      "market": 0.05,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-027 normal": {
+    "name": "Mr. 1 (Daz.Bonez)",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.2,
+      "mid": 0.63,
+      "high": 25.0,
+      "market": 0.46,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-027 parallel": {
+    "name": "Mr. 1 (Daz.Bonez) (Alternate Art)",
+    "groupId": 23333,
+    "prices": {
+      "low": 2.95,
+      "mid": 6.88,
+      "high": 28.0,
+      "market": 3.53,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-028 normal": {
+    "name": "Gum-Gum Champion Rifle",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.05,
+      "mid": 0.25,
+      "high": 25.0,
+      "market": 0.22,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-029 normal": {
+    "name": "Sorry. I'm a Goner.",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 1.5,
+      "market": 0.07,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-030 normal": {
+    "name": "Loguetown",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.13,
+      "high": 1.5,
+      "market": 0.12,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-031 normal": {
+    "name": "Kalifa",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.08,
+      "mid": 0.25,
+      "high": 25.0,
+      "market": 0.2,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-031 parallel": {
+    "name": "Kalifa (Alternate Art)",
+    "groupId": 23333,
+    "prices": {
+      "low": 6.43,
+      "mid": 10.0,
+      "high": 100.0,
+      "market": 6.28,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-032 normal": {
+    "name": "Army Wolves",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.5,
+      "market": 0.06,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-033 normal": {
+    "name": "Blueno (033)",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.09,
+      "mid": 0.25,
+      "high": 99.0,
+      "market": 0.17,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-034 normal": {
+    "name": "Ms. Wednesday",
+    "groupId": 23333,
+    "prices": {
+      "low": 1.04,
+      "mid": 4.48,
+      "high": 50.0,
+      "market": 3.83,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-034 parallel": {
+    "name": "Ms. Wednesday (Alternate Art)",
+    "groupId": 23333,
+    "prices": {
+      "low": 21.99,
+      "mid": 27.95,
+      "high": 49.99,
+      "market": 22.91,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-035 normal": {
+    "name": "Ms. Monday",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.5,
+      "market": 0.05,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-036 normal": {
+    "name": "Minochihuahua",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.5,
+      "market": 0.08,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-037 normal": {
+    "name": "Mr. 9",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.5,
+      "market": 0.05,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-038 normal": {
+    "name": "Oh Come My Way",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 1.5,
+      "market": 0.1,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-039 normal": {
+    "name": "Conquerer of Three Worlds Ragnaraku",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.4,
+      "mid": 0.71,
+      "high": 25.0,
+      "market": 0.51,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-040 normal": {
+    "name": "Kyros",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.2,
+      "high": 5.0,
+      "market": 0.17,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-040 parallel": {
+    "name": "Kyros (Alternate Art)",
+    "groupId": 23333,
+    "prices": {
+      "low": 25.89,
+      "mid": 33.5,
+      "high": 120.0,
+      "market": 25.6,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-041 normal": {
+    "name": "Crocus",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.5,
+      "market": 0.06,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-042 normal": {
+    "name": "Scarlet",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.28,
+      "high": 25.0,
+      "market": 0.27,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-043 normal": {
+    "name": "Spandine",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.14,
+      "mid": 0.39,
+      "high": 25.0,
+      "market": 0.27,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-044 normal": {
+    "name": "Funkfreed",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.5,
+      "market": 0.07,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-045 normal": {
+    "name": "Brook (045)",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.12,
+      "high": 1.5,
+      "market": 0.1,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-046 normal": {
+    "name": "Brook (046)",
+    "groupId": 23333,
+    "prices": {
+      "low": 1.49,
+      "mid": 2.59,
+      "high": 100.0,
+      "market": 1.73,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-046 parallel": {
+    "name": "Brook (046) (Alternate Art)",
+    "groupId": 23333,
+    "prices": {
+      "low": 56.0,
+      "mid": 69.5,
+      "high": 149.99,
+      "market": 49.01,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-047 normal": {
+    "name": "Laboon (047)",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.2,
+      "high": 5.0,
+      "market": 0.15,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-048 normal": {
+    "name": "Laboon (048)",
+    "groupId": 23333,
+    "prices": {
+      "low": 2.0,
+      "mid": 5.2,
+      "high": 39.98,
+      "market": 2.6,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-048 parallel": {
+    "name": "Laboon (048) (Alternate Art)",
+    "groupId": 23333,
+    "prices": {
+      "low": 78.4,
+      "mid": 99.97,
+      "high": 153.82,
+      "market": 51.93,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-049 normal": {
+    "name": "T-Bone",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.6,
+      "mid": 1.28,
+      "high": 50.0,
+      "market": 0.94,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-049 parallel": {
+    "name": "T-Bone (Alternate Art)",
+    "groupId": 23333,
+    "prices": {
+      "low": 8.0,
+      "mid": 10.89,
+      "high": 80.0,
+      "market": 9.41,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-050 normal": {
+    "name": "...I Want to Live!!",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.2,
+      "high": 5.0,
+      "market": 0.18,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-051 normal": {
+    "name": "Finger Pistol",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.5,
+      "mid": 2.0,
+      "high": 25.0,
+      "market": 1.17,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-052 normal": {
+    "name": "Viola",
+    "groupId": 23333,
+    "prices": {
+      "low": 5.0,
+      "mid": 9.0,
+      "high": 50.0,
+      "market": 7.22,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-052 parallel": {
+    "name": "Viola (Alternate Art)",
+    "groupId": 23333,
+    "prices": {
+      "low": 19.5,
+      "mid": 23.5,
+      "high": 48.0,
+      "market": 19.5,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-053 normal": {
+    "name": "Gastino",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.11,
+      "high": 1.5,
+      "market": 0.08,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-054 normal": {
+    "name": "Gan.Fall",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.04,
+      "mid": 0.25,
+      "high": 25.0,
+      "market": 0.2,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-055 normal": {
+    "name": "Charlotte Compote",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.5,
+      "market": 0.09,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-056 normal": {
+    "name": "Charlotte Flampe",
+    "groupId": 23333,
+    "prices": {
+      "low": 1.7,
+      "mid": 3.0,
+      "high": 25.0,
+      "market": 2.12,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-056 parallel": {
+    "name": "Charlotte Flampe (Alternate Art)",
+    "groupId": 23333,
+    "prices": {
+      "low": 17.49,
+      "mid": 20.28,
+      "high": 79.94,
+      "market": 18.64,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-057 normal": {
+    "name": "Shirahoshi",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.95,
+      "mid": 2.62,
+      "high": 30.0,
+      "market": 1.39,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-057 parallel": {
+    "name": "Shirahoshi (Alternate Art)",
+    "groupId": 23333,
+    "prices": {
+      "low": 15.01,
+      "mid": 21.0,
+      "high": 80.0,
+      "market": 17.64,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-058 normal": {
+    "name": "Mont Blanc Cricket",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.1,
+      "high": 1.5,
+      "market": 0.06,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-059 normal": {
+    "name": "Kingdom Come",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.25,
+      "mid": 0.66,
+      "high": 25.0,
+      "market": 0.49,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-060 normal": {
+    "name": "Did Someone Say...Kami?",
+    "groupId": 23333,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 1.5,
+      "market": 0.06,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-061 normal": {
+    "name": "Mr.2.Bon.Kurei (Bentham)",
+    "groupId": 23333,
+    "prices": {
+      "low": 25.0,
+      "mid": 35.4,
+      "high": 80.0,
+      "market": 28.49,
+      "directLow": null
+    }
+  },
+  "EB01-EB01-061 parallel": {
+    "name": "Mr.2.Bon.Kurei (Bentham) (Alternate Art)",
+    "groupId": 23333,
+    "prices": {
+      "low": 99.99,
+      "mid": 270.0,
+      "high": 2000.0,
+      "market": 171.02,
+      "directLow": null
+    }
+  }
+}

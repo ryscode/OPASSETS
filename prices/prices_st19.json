@@ -1,7 +1,7 @@
 {
   "OP02-OP02-093 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.93,
+    "midPrice": 0.95,
     "highPrice": 50.0,
     "marketPrice": 0.76,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "ST19-ST19-001 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.18,
+    "midPrice": 0.17,
     "highPrice": 7.5,
     "marketPrice": 0.13,
     "directLowPrice": null,
@@ -261,7 +261,7 @@
   },
   "ST19-ST19-002 normal": {
     "lowPrice": 0.41,
-    "midPrice": 1.0,
+    "midPrice": 0.99,
     "highPrice": 10.0,
     "marketPrice": 0.51,
     "directLowPrice": null,
@@ -286,7 +286,7 @@
     "groupId": 23494
   },
   "ST19-ST19-003 normal": {
-    "lowPrice": 0.56,
+    "lowPrice": 0.4,
     "midPrice": 1.0,
     "highPrice": 12.5,
     "marketPrice": 0.76,
@@ -312,10 +312,10 @@
     "groupId": 23494
   },
   "ST19-ST19-004 normal": {
-    "lowPrice": 0.85,
-    "midPrice": 1.26,
+    "lowPrice": 0.5,
+    "midPrice": 1.25,
     "highPrice": 25.0,
-    "marketPrice": 1.14,
+    "marketPrice": 1.09,
     "directLowPrice": null,
     "name": "Hina",
     "rarity": "SR",
@@ -338,7 +338,7 @@
     "groupId": 23494
   },
   "ST19-ST19-005 normal": {
-    "lowPrice": 0.11,
+    "lowPrice": 0.1,
     "midPrice": 0.24,
     "highPrice": 3.0,
     "marketPrice": 0.16,

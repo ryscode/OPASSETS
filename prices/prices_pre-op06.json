@@ -105,9 +105,9 @@
   },
   "OP06-OP06-014 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.5,
+    "midPrice": 0.49,
     "highPrice": 10.0,
-    "marketPrice": 0.26,
+    "marketPrice": 0.29,
     "directLowPrice": null,
     "name": "Ratchet",
     "rarity": "C",
@@ -363,9 +363,35 @@
     "description": "[Main] K.O. up to 2 of your opponent's rested Characters with a cost of 3 or less.\r\n<br>\r\n<br>\r\n<br>\r\n[Trigger] Activate this card's [Main] effect.",
     "groupId": 23424
   },
+  "OP06-OP06-041 normal": {
+    "lowPrice": 7.89,
+    "midPrice": 7.89,
+    "highPrice": 7.89,
+    "marketPrice": 3.54,
+    "directLowPrice": null,
+    "name": "The Ark Noah",
+    "rarity": "C",
+    "power": null,
+    "cost": "6",
+    "life": null,
+    "category": "Stage",
+    "colors": "Green",
+    "attributes": null,
+    "types": "Fish-Man Island",
+    "effect": "yes",
+    "trigger": "yes",
+    "counter": null,
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/541690_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Stage",
+    "description": "[On Play] Rest all of your opponent's Characters.\r\n<br>\r\n<br>\r\n<br>\r\n[Trigger] Play this card.",
+    "groupId": 23424
+  },
   "OP06-OP06-048 normal": {
     "lowPrice": 1.0,
-    "midPrice": 2.57,
+    "midPrice": 2.41,
     "highPrice": 5.0,
     "marketPrice": 1.5,
     "directLowPrice": null,
@@ -625,7 +651,7 @@
   },
   "OP06-OP06-070 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.29,
+    "midPrice": 0.3,
     "highPrice": 2.0,
     "marketPrice": 0.28,
     "directLowPrice": null,
@@ -676,7 +702,7 @@
     "groupId": 23424
   },
   "OP06-OP06-075 normal": {
-    "lowPrice": 0.2,
+    "lowPrice": 0.19,
     "midPrice": 0.5,
     "highPrice": 10.0,
     "marketPrice": 0.2,
@@ -703,9 +729,9 @@
   },
   "OP06-OP06-079 normal": {
     "lowPrice": 1.4,
-    "midPrice": 1.75,
+    "midPrice": 1.76,
     "highPrice": 36.99,
-    "marketPrice": 1.61,
+    "marketPrice": 1.6,
     "directLowPrice": null,
     "name": "Kingdom of GERMA",
     "rarity": "C",
@@ -755,7 +781,7 @@
   },
   "OP06-OP06-084 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.51,
+    "midPrice": 0.5,
     "highPrice": 4.99,
     "marketPrice": 0.42,
     "directLowPrice": null,
@@ -859,7 +885,7 @@
   },
   "OP06-OP06-096 normal": {
     "lowPrice": 2.0,
-    "midPrice": 22.97,
+    "midPrice": 22.96,
     "highPrice": 25.0,
     "marketPrice": 0.87,
     "directLowPrice": null,
@@ -885,7 +911,7 @@
   },
   "OP06-OP06-098 normal": {
     "lowPrice": 3.26,
-    "midPrice": 4.51,
+    "midPrice": 4.5,
     "highPrice": 20.0,
     "marketPrice": 3.83,
     "directLowPrice": null,
@@ -937,7 +963,7 @@
   },
   "OP06-OP06-102 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.87,
+    "midPrice": 0.95,
     "highPrice": 4.53,
     "marketPrice": 0.65,
     "directLowPrice": null,
@@ -1067,7 +1093,7 @@
   },
   "OP06-OP06-112 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.66,
+    "midPrice": 0.65,
     "highPrice": 2.2,
     "marketPrice": 0.28,
     "directLowPrice": null,
@@ -1171,7 +1197,7 @@
   },
   "OP06-OP06-006 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.86,
+    "midPrice": 1.56,
     "highPrice": 5.25,
     "marketPrice": 0.85,
     "directLowPrice": null,
@@ -1249,9 +1275,9 @@
   },
   "OP06-OP06-019 normal": {
     "lowPrice": 1.2,
-    "midPrice": 1.97,
+    "midPrice": 1.98,
     "highPrice": 5.0,
-    "marketPrice": 1.95,
+    "marketPrice": 2.0,
     "directLowPrice": null,
     "name": "Blue Dragon Seal Water Stream",
     "rarity": "UC",
@@ -1379,7 +1405,7 @@
   },
   "OP06-OP06-038 normal": {
     "lowPrice": 4.2,
-    "midPrice": 8.99,
+    "midPrice": 7.19,
     "highPrice": 13.76,
     "marketPrice": 1.16,
     "directLowPrice": null,
@@ -1405,9 +1431,9 @@
   },
   "OP06-OP06-044 normal": {
     "lowPrice": 10.55,
-    "midPrice": 14.98,
+    "midPrice": 16.39,
     "highPrice": 24.5,
-    "marketPrice": 8.71,
+    "marketPrice": 8.92,
     "directLowPrice": null,
     "name": "Gion",
     "rarity": "UC",
@@ -1457,7 +1483,7 @@
   },
   "OP06-OP06-046 normal": {
     "lowPrice": 0.9,
-    "midPrice": 1.8,
+    "midPrice": 1.99,
     "highPrice": 4.0,
     "marketPrice": 0.64,
     "directLowPrice": null,
@@ -1560,8 +1586,8 @@
     "groupId": 23424
   },
   "OP06-OP06-063 normal": {
-    "lowPrice": 7.92,
-    "midPrice": 12.0,
+    "lowPrice": 7.67,
+    "midPrice": 11.84,
     "highPrice": 24.38,
     "marketPrice": 8.49,
     "directLowPrice": null,
@@ -1586,10 +1612,10 @@
     "groupId": 23424
   },
   "OP06-OP06-071 normal": {
-    "lowPrice": 2.85,
-    "midPrice": 3.0,
+    "lowPrice": 2.91,
+    "midPrice": 3.24,
     "highPrice": 6.45,
-    "marketPrice": 3.0,
+    "marketPrice": 3.11,
     "directLowPrice": null,
     "name": "Gild Tesoro",
     "rarity": "UC",
@@ -1613,7 +1639,7 @@
   },
   "OP06-OP06-073 normal": {
     "lowPrice": 3.9,
-    "midPrice": 4.33,
+    "midPrice": 4.27,
     "highPrice": 6.64,
     "marketPrice": 3.96,
     "directLowPrice": null,
@@ -1691,7 +1717,7 @@
   },
   "OP06-OP06-083 normal": {
     "lowPrice": 1.2,
-    "midPrice": 2.55,
+    "midPrice": 3.0,
     "highPrice": 21.75,
     "marketPrice": 1.4,
     "directLowPrice": null,
@@ -1821,7 +1847,7 @@
   },
   "OP06-OP06-100 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.54,
+    "midPrice": 1.52,
     "highPrice": 7.0,
     "marketPrice": 0.94,
     "directLowPrice": null,

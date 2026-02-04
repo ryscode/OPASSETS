@@ -183,7 +183,7 @@
   },
   "OP05-OP05-013 normal": {
     "lowPrice": 1.8,
-    "midPrice": 2.06,
+    "midPrice": 2.07,
     "highPrice": 8.0,
     "marketPrice": 1.65,
     "directLowPrice": null,
@@ -209,8 +209,8 @@
   },
   "OP05-OP05-014 normal": {
     "lowPrice": 1.0,
-    "midPrice": 1.88,
-    "highPrice": 3.36,
+    "midPrice": 2.0,
+    "highPrice": 3.55,
     "marketPrice": 1.07,
     "directLowPrice": null,
     "name": "Pell",
@@ -287,7 +287,7 @@
   },
   "OP05-OP05-021 normal": {
     "lowPrice": 18.67,
-    "midPrice": 22.0,
+    "midPrice": 22.34,
     "highPrice": 39.99,
     "marketPrice": 22.68,
     "directLowPrice": null,
@@ -390,9 +390,9 @@
     "groupId": 23368
   },
   "OP05-OP05-027 normal": {
-    "lowPrice": 45.99,
-    "midPrice": 48.0,
-    "highPrice": 50.0,
+    "lowPrice": 50.0,
+    "midPrice": 54.9,
+    "highPrice": 59.79,
     "marketPrice": 15.04,
     "directLowPrice": null,
     "name": "Trafalgar Law (027)",
@@ -469,7 +469,7 @@
   },
   "OP05-OP05-031 normal": {
     "lowPrice": 0.2,
-    "midPrice": 1.5,
+    "midPrice": 0.5,
     "highPrice": 7.88,
     "marketPrice": 0.41,
     "directLowPrice": null,
@@ -547,7 +547,7 @@
   },
   "OP05-OP05-036 normal": {
     "lowPrice": 4.0,
-    "midPrice": 8.56,
+    "midPrice": 10.25,
     "highPrice": 50.0,
     "marketPrice": 4.5,
     "directLowPrice": null,
@@ -833,7 +833,7 @@
   },
   "OP05-OP05-056 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.68,
+    "midPrice": 0.75,
     "highPrice": 4.99,
     "marketPrice": 0.37,
     "directLowPrice": null,
@@ -910,9 +910,9 @@
     "groupId": 23368
   },
   "OP05-OP05-061 normal": {
-    "lowPrice": 58.0,
-    "midPrice": 59.9,
-    "highPrice": 61.7,
+    "lowPrice": 50.0,
+    "midPrice": 51.5,
+    "highPrice": 59.9,
     "marketPrice": 16.32,
     "directLowPrice": null,
     "name": "Uso-Hachi",
@@ -936,8 +936,8 @@
     "groupId": 23368
   },
   "OP05-OP05-062 normal": {
-    "lowPrice": 186.98,
-    "midPrice": 200.49,
+    "lowPrice": 183.98,
+    "midPrice": 199.99,
     "highPrice": 2000.0,
     "marketPrice": 93.93,
     "directLowPrice": null,
@@ -988,8 +988,8 @@
     "groupId": 23368
   },
   "OP05-OP05-065 normal": {
-    "lowPrice": 26.71,
-    "midPrice": 31.95,
+    "lowPrice": 30.0,
+    "midPrice": 33.84,
     "highPrice": 40.0,
     "marketPrice": 19.27,
     "directLowPrice": null,
@@ -1170,10 +1170,10 @@
     "groupId": 23368
   },
   "OP05-OP05-077 normal": {
-    "lowPrice": 4.9,
-    "midPrice": 7.24,
+    "lowPrice": 4.98,
+    "midPrice": 7.16,
     "highPrice": 20.0,
-    "marketPrice": 6.98,
+    "marketPrice": 6.69,
     "directLowPrice": null,
     "name": "Gamma Knife",
     "rarity": "C",
@@ -1275,7 +1275,7 @@
   },
   "OP05-OP05-083 normal": {
     "lowPrice": 0.39,
-    "midPrice": 0.6,
+    "midPrice": 0.59,
     "highPrice": 3.49,
     "marketPrice": 0.57,
     "directLowPrice": null,
@@ -1300,8 +1300,8 @@
     "groupId": 23368
   },
   "OP05-OP05-084 normal": {
-    "lowPrice": 3.08,
-    "midPrice": 5.84,
+    "lowPrice": 3.07,
+    "midPrice": 5.85,
     "highPrice": 40.0,
     "marketPrice": 6.55,
     "directLowPrice": null,
@@ -1327,7 +1327,7 @@
   },
   "OP05-OP05-085 normal": {
     "lowPrice": 8.7,
-    "midPrice": 20.0,
+    "midPrice": 30.0,
     "highPrice": 50.0,
     "marketPrice": 7.08,
     "directLowPrice": null,
@@ -1352,7 +1352,7 @@
     "groupId": 23368
   },
   "OP05-OP05-089 normal": {
-    "lowPrice": 5.27,
+    "lowPrice": 5.25,
     "midPrice": 7.83,
     "highPrice": 50.0,
     "marketPrice": 4.29,
@@ -1535,7 +1535,7 @@
   },
   "OP05-OP05-103 normal": {
     "lowPrice": 4.15,
-    "midPrice": 5.31,
+    "midPrice": 5.33,
     "highPrice": 6.5,
     "marketPrice": 5.39,
     "directLowPrice": null,
@@ -1561,7 +1561,7 @@
   },
   "OP05-OP05-104 normal": {
     "lowPrice": 8.0,
-    "midPrice": 12.07,
+    "midPrice": 12.03,
     "highPrice": 14.77,
     "marketPrice": 12.52,
     "directLowPrice": null,
@@ -1637,35 +1637,9 @@
     "description": null,
     "groupId": 23368
   },
-  "OP05-OP05-109 normal": {
-    "lowPrice": 0.5,
-    "midPrice": 0.8,
-    "highPrice": 3.83,
-    "marketPrice": 0.44,
-    "directLowPrice": null,
-    "name": "Pagaya",
-    "rarity": "C",
-    "power": "1000",
-    "cost": "1",
-    "life": null,
-    "category": "Character",
-    "colors": "Yellow",
-    "attributes": "Wisdom",
-    "types": "Sky Island",
-    "effect": null,
-    "trigger": "yes",
-    "counter": "1000",
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/530956_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Character",
-    "description": "[Once Per Turn] When a [Trigger] activates, draw 2 cards and trash 2 cards from your hand.",
-    "groupId": 23368
-  },
   "OP05-OP05-110 normal": {
-    "lowPrice": 10.15,
-    "midPrice": 11.65,
+    "lowPrice": 10.2,
+    "midPrice": 11.76,
     "highPrice": 50.0,
     "marketPrice": 10.2,
     "directLowPrice": null,

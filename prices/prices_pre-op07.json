@@ -105,7 +105,7 @@
   },
   "OP07-OP07-012 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.44,
+    "midPrice": 0.39,
     "highPrice": 10.0,
     "marketPrice": 0.23,
     "directLowPrice": null,
@@ -131,7 +131,7 @@
   },
   "OP07-OP07-018 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.49,
+    "midPrice": 0.48,
     "highPrice": 2.0,
     "marketPrice": 0.48,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "OP07-OP07-025 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.29,
+    "midPrice": 0.3,
     "highPrice": 4.99,
     "marketPrice": 0.2,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "OP07-OP07-027 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.47,
+    "midPrice": 0.46,
     "highPrice": 4.99,
     "marketPrice": 0.33,
     "directLowPrice": null,
@@ -261,7 +261,7 @@
   },
   "OP07-OP07-028 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.37,
+    "midPrice": 0.35,
     "highPrice": 10.0,
     "marketPrice": 0.25,
     "directLowPrice": null,
@@ -287,7 +287,7 @@
   },
   "OP07-OP07-030 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.5,
+    "midPrice": 0.43,
     "highPrice": 2.0,
     "marketPrice": 0.38,
     "directLowPrice": null,
@@ -313,9 +313,9 @@
   },
   "OP07-OP07-035 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.88,
+    "midPrice": 0.78,
     "highPrice": 4.98,
-    "marketPrice": 0.54,
+    "marketPrice": 0.61,
     "directLowPrice": null,
     "name": "Karmic Punishment",
     "rarity": "C",
@@ -339,7 +339,7 @@
   },
   "OP07-OP07-039 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.49,
+    "midPrice": 0.47,
     "highPrice": 5.0,
     "marketPrice": 0.26,
     "directLowPrice": null,
@@ -417,7 +417,7 @@
   },
   "OP07-OP07-049 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.49,
+    "midPrice": 0.45,
     "highPrice": 10.0,
     "marketPrice": 0.31,
     "directLowPrice": null,
@@ -469,7 +469,7 @@
   },
   "OP07-OP07-052 normal": {
     "lowPrice": 0.22,
-    "midPrice": 0.73,
+    "midPrice": 0.7,
     "highPrice": 3.0,
     "marketPrice": 0.38,
     "directLowPrice": null,
@@ -495,9 +495,9 @@
   },
   "OP07-OP07-055 normal": {
     "lowPrice": 1.88,
-    "midPrice": 2.9,
+    "midPrice": 2.85,
     "highPrice": 6.03,
-    "marketPrice": 2.69,
+    "marketPrice": 2.66,
     "directLowPrice": null,
     "name": "Snake Dance",
     "rarity": "C",
@@ -625,9 +625,9 @@
   },
   "OP07-OP07-067 normal": {
     "lowPrice": 0.14,
-    "midPrice": 0.4,
+    "midPrice": 0.39,
     "highPrice": 2.99,
-    "marketPrice": 0.25,
+    "marketPrice": 0.26,
     "directLowPrice": null,
     "name": "Tonjit",
     "rarity": "C",
@@ -783,7 +783,7 @@
     "lowPrice": 0.11,
     "midPrice": 0.4,
     "highPrice": 2.0,
-    "marketPrice": 0.3,
+    "marketPrice": 0.29,
     "directLowPrice": null,
     "name": "Gismonda",
     "rarity": "C",
@@ -806,7 +806,7 @@
     "groupId": 23512
   },
   "OP07-OP07-086 normal": {
-    "lowPrice": 0.19,
+    "lowPrice": 0.2,
     "midPrice": 0.62,
     "highPrice": 10.0,
     "marketPrice": 0.61,
@@ -833,7 +833,7 @@
   },
   "OP07-OP07-087 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.38,
+    "midPrice": 0.35,
     "highPrice": 3.0,
     "marketPrice": 0.21,
     "directLowPrice": null,
@@ -861,7 +861,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.5,
     "highPrice": 2.0,
-    "marketPrice": 0.26,
+    "marketPrice": 0.27,
     "directLowPrice": null,
     "name": "Maha",
     "rarity": "C",
@@ -937,7 +937,7 @@
   },
   "OP07-OP07-099 normal": {
     "lowPrice": 15.0,
-    "midPrice": 18.09,
+    "midPrice": 18.5,
     "highPrice": 24.68,
     "marketPrice": 10.34,
     "directLowPrice": null,
@@ -1014,8 +1014,8 @@
     "groupId": 23512
   },
   "OP07-OP07-103 normal": {
-    "lowPrice": 11.41,
-    "midPrice": 22.3,
+    "lowPrice": 11.51,
+    "midPrice": 24.15,
     "highPrice": 90.0,
     "marketPrice": 9.4,
     "directLowPrice": null,
@@ -1069,7 +1069,7 @@
     "lowPrice": 0.3,
     "midPrice": 0.56,
     "highPrice": 4.99,
-    "marketPrice": 0.46,
+    "marketPrice": 0.48,
     "directLowPrice": null,
     "name": "Vega Force 01",
     "rarity": "C",
@@ -1118,10 +1118,10 @@
     "groupId": 23512
   },
   "OP07-OP07-115 normal": {
-    "lowPrice": 29.98,
+    "lowPrice": 24.99,
     "midPrice": 29.99,
     "highPrice": 44.99,
-    "marketPrice": 8.08,
+    "marketPrice": 9.09,
     "directLowPrice": null,
     "name": "I Re-Quasar Helllp!!",
     "rarity": "C",
@@ -1145,7 +1145,7 @@
   },
   "OP07-OP07-117 normal": {
     "lowPrice": 12.99,
-    "midPrice": 13.65,
+    "midPrice": 13.64,
     "highPrice": 20.0,
     "marketPrice": 2.26,
     "directLowPrice": null,
@@ -1275,7 +1275,7 @@
   },
   "OP07-OP07-023 normal": {
     "lowPrice": 0.21,
-    "midPrice": 0.48,
+    "midPrice": 0.47,
     "highPrice": 4.99,
     "marketPrice": 0.38,
     "directLowPrice": null,
@@ -1301,9 +1301,9 @@
   },
   "OP07-OP07-031 normal": {
     "lowPrice": 4.19,
-    "midPrice": 5.12,
+    "midPrice": 5.25,
     "highPrice": 19.75,
-    "marketPrice": 4.93,
+    "marketPrice": 4.95,
     "directLowPrice": null,
     "name": "Bartolomeo",
     "rarity": "UC",
@@ -1355,7 +1355,7 @@
     "lowPrice": 13.0,
     "midPrice": 14.0,
     "highPrice": 15.0,
-    "marketPrice": 8.86,
+    "marketPrice": 9.54,
     "directLowPrice": null,
     "name": "Roronoa Zoro (034)",
     "rarity": "UC",
@@ -1379,7 +1379,7 @@
   },
   "OP07-OP07-037 normal": {
     "lowPrice": 2.2,
-    "midPrice": 3.41,
+    "midPrice": 3.33,
     "highPrice": 29.98,
     "marketPrice": 2.91,
     "directLowPrice": null,
@@ -1430,8 +1430,8 @@
     "groupId": 23512
   },
   "OP07-OP07-041 normal": {
-    "lowPrice": 15.49,
-    "midPrice": 17.0,
+    "lowPrice": 15.16,
+    "midPrice": 16.99,
     "highPrice": 30.0,
     "marketPrice": 6.46,
     "directLowPrice": null,
@@ -1456,10 +1456,10 @@
     "groupId": 23512
   },
   "OP07-OP07-043 normal": {
-    "lowPrice": 3.99,
-    "midPrice": 12.98,
+    "lowPrice": 13.0,
+    "midPrice": 13.99,
     "highPrice": 14.99,
-    "marketPrice": 2.16,
+    "marketPrice": 3.47,
     "directLowPrice": null,
     "name": "Salome",
     "rarity": "UC",
@@ -1508,8 +1508,8 @@
     "groupId": 23512
   },
   "OP07-OP07-056 normal": {
-    "lowPrice": 19.5,
-    "midPrice": 21.0,
+    "lowPrice": 18.68,
+    "midPrice": 20.95,
     "highPrice": 28.0,
     "marketPrice": 19.95,
     "directLowPrice": null,
@@ -1535,7 +1535,7 @@
   },
   "OP07-OP07-060 normal": {
     "lowPrice": 2.79,
-    "midPrice": 7.51,
+    "midPrice": 7.5,
     "highPrice": 8.48,
     "marketPrice": 2.85,
     "directLowPrice": null,
@@ -1561,7 +1561,7 @@
   },
   "OP07-OP07-065 normal": {
     "lowPrice": 6.0,
-    "midPrice": 6.36,
+    "midPrice": 6.47,
     "highPrice": 13.0,
     "marketPrice": 6.34,
     "directLowPrice": null,
@@ -1587,7 +1587,7 @@
   },
   "OP07-OP07-068 normal": {
     "lowPrice": 0.39,
-    "midPrice": 0.75,
+    "midPrice": 0.72,
     "highPrice": 2.0,
     "marketPrice": 0.66,
     "directLowPrice": null,
@@ -1635,32 +1635,6 @@
     "finish": null,
     "cardType": "Character",
     "description": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, play up to 1 [Foxy Pirates] type card with a cost of 4 or less from your hand.",
-    "groupId": 23512
-  },
-  "OP07-OP07-075 normal": {
-    "lowPrice": 3.19,
-    "midPrice": 3.19,
-    "highPrice": 3.19,
-    "marketPrice": 3.16,
-    "directLowPrice": null,
-    "name": "Slow-Slow Beam",
-    "rarity": "UC",
-    "power": null,
-    "cost": "1",
-    "life": null,
-    "category": "Event",
-    "colors": "Purple",
-    "attributes": null,
-    "types": "Foxy Pirates",
-    "effect": null,
-    "trigger": null,
-    "counter": null,
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/552119_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Event",
-    "description": "[Counter] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Give up to 1 each of your opponent's Leader and Character cards -2000 power during this turn.",
     "groupId": 23512
   },
   "OP07-OP07-082 normal": {
@@ -1745,7 +1719,7 @@
     "lowPrice": 0.48,
     "midPrice": 0.69,
     "highPrice": 5.0,
-    "marketPrice": 0.62,
+    "marketPrice": 0.63,
     "directLowPrice": null,
     "name": "Joseph",
     "rarity": "UC",
@@ -1846,10 +1820,10 @@
     "groupId": 23512
   },
   "OP07-OP07-104 normal": {
-    "lowPrice": 98.69,
-    "midPrice": 120.0,
+    "lowPrice": 98.68,
+    "midPrice": 119.67,
     "highPrice": 999.99,
-    "marketPrice": 75.97,
+    "marketPrice": 77.06,
     "directLowPrice": null,
     "name": "Nico Robin",
     "rarity": "UC",

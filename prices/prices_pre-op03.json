@@ -1,7 +1,7 @@
 {
   "OP03-OP03-004 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.29,
+    "midPrice": 0.3,
     "highPrice": 5.78,
     "marketPrice": 0.54,
     "directLowPrice": null,
@@ -26,10 +26,10 @@
     "groupId": 23232
   },
   "OP03-OP03-006 normal": {
-    "lowPrice": 0.34,
+    "lowPrice": 0.29,
     "midPrice": 0.85,
     "highPrice": 15.09,
-    "marketPrice": 0.34,
+    "marketPrice": 0.33,
     "directLowPrice": null,
     "name": "Speed Jil",
     "rarity": "C",
@@ -53,7 +53,7 @@
   },
   "OP03-OP03-007 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.96,
+    "midPrice": 0.92,
     "highPrice": 4.99,
     "marketPrice": 0.47,
     "directLowPrice": null,
@@ -79,7 +79,7 @@
   },
   "OP03-OP03-009 normal": {
     "lowPrice": 0.69,
-    "midPrice": 1.2,
+    "midPrice": 1.0,
     "highPrice": 6.94,
     "marketPrice": 0.83,
     "directLowPrice": null,
@@ -184,8 +184,8 @@
   "OP03-OP03-023 normal": {
     "lowPrice": 0.25,
     "midPrice": 0.51,
-    "highPrice": 16.95,
-    "marketPrice": 0.51,
+    "highPrice": 19.94,
+    "marketPrice": 0.52,
     "directLowPrice": null,
     "name": "Alvida",
     "rarity": "C",
@@ -260,7 +260,7 @@
     "groupId": 23232
   },
   "OP03-OP03-032 normal": {
-    "lowPrice": 4.42,
+    "lowPrice": 3.73,
     "midPrice": 9.0,
     "highPrice": 25.0,
     "marketPrice": 2.36,
@@ -287,7 +287,7 @@
   },
   "OP03-OP03-035 normal": {
     "lowPrice": 0.7,
-    "midPrice": 0.9,
+    "midPrice": 0.94,
     "highPrice": 4.99,
     "marketPrice": 0.94,
     "directLowPrice": null,
@@ -314,8 +314,8 @@
   "OP03-OP03-036 normal": {
     "lowPrice": 0.5,
     "midPrice": 1.43,
-    "highPrice": 16.95,
-    "marketPrice": 0.62,
+    "highPrice": 19.94,
+    "marketPrice": 0.63,
     "directLowPrice": null,
     "name": "Out-of-the-Bag",
     "rarity": "C",
@@ -546,9 +546,9 @@
     "groupId": 23232
   },
   "OP03-OP03-061 normal": {
-    "lowPrice": 5.51,
-    "midPrice": 18.02,
-    "highPrice": 21.82,
+    "lowPrice": 4.0,
+    "midPrice": 14.15,
+    "highPrice": 20.0,
     "marketPrice": 1.57,
     "directLowPrice": null,
     "name": "Kiwi & Mozu",
@@ -651,7 +651,7 @@
   },
   "OP03-OP03-069 normal": {
     "lowPrice": 0.35,
-    "midPrice": 1.06,
+    "midPrice": 1.0,
     "highPrice": 2.85,
     "marketPrice": 0.53,
     "directLowPrice": null,
@@ -781,7 +781,7 @@
   },
   "OP03-OP03-084 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.7,
+    "midPrice": 0.68,
     "highPrice": 2.29,
     "marketPrice": 0.65,
     "directLowPrice": null,
@@ -835,7 +835,7 @@
     "lowPrice": 0.34,
     "midPrice": 0.7,
     "highPrice": 10.0,
-    "marketPrice": 0.39,
+    "marketPrice": 0.4,
     "directLowPrice": null,
     "name": "Nero",
     "rarity": "C",
@@ -861,7 +861,7 @@
     "lowPrice": 0.39,
     "midPrice": 1.69,
     "highPrice": 4.99,
-    "marketPrice": 0.52,
+    "marketPrice": 0.53,
     "directLowPrice": null,
     "name": "Helmeppo",
     "rarity": "C",
@@ -913,7 +913,7 @@
     "lowPrice": 10.0,
     "midPrice": 24.12,
     "highPrice": 49.99,
-    "marketPrice": 6.3,
+    "marketPrice": 6.72,
     "directLowPrice": null,
     "name": "Enies Lobby",
     "rarity": "C",
@@ -939,7 +939,7 @@
     "lowPrice": 2.22,
     "midPrice": 63.61,
     "highPrice": 125.0,
-    "marketPrice": 1.39,
+    "marketPrice": 1.54,
     "directLowPrice": null,
     "name": "Camie",
     "rarity": "C",
@@ -989,9 +989,9 @@
   },
   "OP03-OP03-106 normal": {
     "lowPrice": 0.25,
-    "midPrice": 1.0,
+    "midPrice": 0.9,
     "highPrice": 19.01,
-    "marketPrice": 0.74,
+    "marketPrice": 0.75,
     "directLowPrice": null,
     "name": "Charlotte Opera",
     "rarity": "C",
@@ -1041,7 +1041,7 @@
   },
   "OP03-OP03-109 normal": {
     "lowPrice": 0.22,
-    "midPrice": 0.59,
+    "midPrice": 0.61,
     "highPrice": 4.99,
     "marketPrice": 0.47,
     "directLowPrice": null,
@@ -1225,7 +1225,7 @@
     "lowPrice": 13.0,
     "midPrice": 19.68,
     "highPrice": 20.0,
-    "marketPrice": 11.22,
+    "marketPrice": 11.41,
     "directLowPrice": null,
     "name": "Buggy (008)",
     "rarity": "UC",
@@ -1432,7 +1432,7 @@
   "OP03-OP03-034 normal": {
     "lowPrice": 1.4,
     "midPrice": 1.75,
-    "highPrice": 16.95,
+    "highPrice": 19.94,
     "marketPrice": 1.46,
     "directLowPrice": null,
     "name": "Buchi",
@@ -1457,7 +1457,7 @@
   },
   "OP03-OP03-039 normal": {
     "lowPrice": 1.45,
-    "midPrice": 1.96,
+    "midPrice": 1.91,
     "highPrice": 21.38,
     "marketPrice": 1.59,
     "directLowPrice": null,
@@ -1483,7 +1483,7 @@
   },
   "OP03-OP03-045 normal": {
     "lowPrice": 0.93,
-    "midPrice": 2.32,
+    "midPrice": 1.69,
     "highPrice": 55.0,
     "marketPrice": 0.94,
     "directLowPrice": null,
@@ -1509,7 +1509,7 @@
   },
   "OP03-OP03-048 normal": {
     "lowPrice": 22.0,
-    "midPrice": 25.88,
+    "midPrice": 25.77,
     "highPrice": 100.0,
     "marketPrice": 26.57,
     "directLowPrice": null,
@@ -1534,7 +1534,7 @@
     "groupId": 23232
   },
   "OP03-OP03-049 normal": {
-    "lowPrice": 0.69,
+    "lowPrice": 0.68,
     "midPrice": 0.94,
     "highPrice": 7.13,
     "marketPrice": 0.68,
@@ -1587,7 +1587,7 @@
   },
   "OP03-OP03-056 normal": {
     "lowPrice": 8.11,
-    "midPrice": 9.85,
+    "midPrice": 9.68,
     "highPrice": 25.0,
     "marketPrice": 8.84,
     "directLowPrice": null,
@@ -1612,8 +1612,8 @@
     "groupId": 23232
   },
   "OP03-OP03-059 normal": {
-    "lowPrice": 3.46,
-    "midPrice": 3.57,
+    "lowPrice": 3.43,
+    "midPrice": 3.54,
     "highPrice": 5.0,
     "marketPrice": 3.66,
     "directLowPrice": null,
@@ -1664,7 +1664,7 @@
     "groupId": 23232
   },
   "OP03-OP03-063 normal": {
-    "lowPrice": 0.86,
+    "lowPrice": 0.84,
     "midPrice": 1.1,
     "highPrice": 10.69,
     "marketPrice": 0.95,
@@ -1716,8 +1716,8 @@
     "groupId": 23232
   },
   "OP03-OP03-074 normal": {
-    "lowPrice": 12.94,
-    "midPrice": 14.7,
+    "lowPrice": 12.95,
+    "midPrice": 14.8,
     "highPrice": 50.0,
     "marketPrice": 13.46,
     "directLowPrice": null,
@@ -1769,7 +1769,7 @@
   },
   "OP03-OP03-088 normal": {
     "lowPrice": 2.04,
-    "midPrice": 3.34,
+    "midPrice": 3.2,
     "highPrice": 19.23,
     "marketPrice": 2.34,
     "directLowPrice": null,
@@ -1795,7 +1795,7 @@
   },
   "OP03-OP03-093 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.04,
+    "midPrice": 1.02,
     "highPrice": 4.0,
     "marketPrice": 1.05,
     "directLowPrice": null,
@@ -1821,9 +1821,9 @@
   },
   "OP03-OP03-094 normal": {
     "lowPrice": 6.0,
-    "midPrice": 8.14,
+    "midPrice": 8.22,
     "highPrice": 55.0,
-    "marketPrice": 7.99,
+    "marketPrice": 7.89,
     "directLowPrice": null,
     "name": "Air Door",
     "rarity": "UC",
@@ -1875,7 +1875,7 @@
     "lowPrice": 1.96,
     "midPrice": 5.44,
     "highPrice": 60.0,
-    "marketPrice": 1.96,
+    "marketPrice": 1.89,
     "directLowPrice": null,
     "name": "Shirley",
     "rarity": "UC",

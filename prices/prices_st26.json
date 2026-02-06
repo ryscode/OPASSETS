@@ -1,9 +1,9 @@
 {
   "OP09-OP09-061 normal": {
-    "lowPrice": 7.5,
-    "midPrice": 10.99,
+    "lowPrice": 6.9,
+    "midPrice": 10.75,
     "highPrice": 50.0,
-    "marketPrice": 9.41,
+    "marketPrice": 9.46,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (OP09-061)",
     "rarity": "L",
@@ -26,10 +26,10 @@
     "groupId": 24285
   },
   "ST26-ST26-003 normal": {
-    "lowPrice": 0.99,
-    "midPrice": 1.83,
-    "highPrice": 10.0,
-    "marketPrice": 1.81,
+    "lowPrice": 1.0,
+    "midPrice": 1.9,
+    "highPrice": 7.5,
+    "marketPrice": 1.66,
     "directLowPrice": null,
     "name": "Nico Robin",
     "rarity": "SR",
@@ -52,7 +52,7 @@
     "groupId": 24285
   },
   "ST26-ST26-005 normal": {
-    "lowPrice": 2.67,
+    "lowPrice": 2.68,
     "midPrice": 4.0,
     "highPrice": 15.0,
     "marketPrice": 3.33,
@@ -81,7 +81,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 2.99,
-    "marketPrice": 0.15,
+    "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Soba Mask",
     "rarity": "C",
@@ -107,7 +107,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 2.99,
-    "marketPrice": 0.21,
+    "marketPrice": 0.22,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper",
     "rarity": "C",
@@ -131,9 +131,9 @@
   },
   "ST26-ST26-004 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.16,
+    "midPrice": 0.15,
     "highPrice": 1.31,
-    "marketPrice": 0.12,
+    "marketPrice": 0.13,
     "directLowPrice": null,
     "name": "General Franky",
     "rarity": "C",

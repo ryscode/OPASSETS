@@ -1,9 +1,9 @@
 {
   "ST04-ST04-001 normal": {
     "lowPrice": 6.49,
-    "midPrice": 8.13,
-    "highPrice": 80.0,
-    "marketPrice": 7.63,
+    "midPrice": 8.06,
+    "highPrice": 20.0,
+    "marketPrice": 7.58,
     "directLowPrice": null,
     "name": "Kaido (001)",
     "rarity": "L",
@@ -27,7 +27,7 @@
   },
   "ST04-ST04-002 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.31,
+    "midPrice": 0.3,
     "highPrice": 3.94,
     "marketPrice": 0.22,
     "directLowPrice": null,
@@ -105,9 +105,9 @@
   },
   "ST04-ST04-005 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.31,
-    "highPrice": 35.7,
-    "marketPrice": 0.29,
+    "midPrice": 0.34,
+    "highPrice": 20.0,
+    "marketPrice": 0.31,
     "directLowPrice": null,
     "name": "Queen",
     "rarity": "C",
@@ -131,7 +131,7 @@
   },
   "ST04-ST04-006 normal": {
     "lowPrice": 0.04,
-    "midPrice": 0.2,
+    "midPrice": 0.18,
     "highPrice": 1.35,
     "marketPrice": 0.12,
     "directLowPrice": null,
@@ -209,9 +209,9 @@
   },
   "ST04-ST04-009 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.17,
+    "midPrice": 0.15,
     "highPrice": 1.32,
-    "marketPrice": 0.12,
+    "marketPrice": 0.13,
     "directLowPrice": null,
     "name": "Ginrummy",
     "rarity": "C",
@@ -366,7 +366,7 @@
   "ST04-ST04-015 normal": {
     "lowPrice": 0.09,
     "midPrice": 0.25,
-    "highPrice": 1.41,
+    "highPrice": 1.4,
     "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "Brachio Bomber",
@@ -419,7 +419,7 @@
     "lowPrice": 0.2,
     "midPrice": 0.4,
     "highPrice": 1.95,
-    "marketPrice": 0.36,
+    "marketPrice": 0.37,
     "directLowPrice": null,
     "name": "Onigashima Island",
     "rarity": "C",

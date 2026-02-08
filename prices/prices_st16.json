@@ -3,7 +3,7 @@
     "lowPrice": 0.03,
     "midPrice": 0.25,
     "highPrice": 5.0,
-    "marketPrice": 0.2,
+    "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Bartolomeo",
     "rarity": "PR",
@@ -79,7 +79,7 @@
   },
   "P-P-059 normal": {
     "lowPrice": 0.07,
-    "midPrice": 0.19,
+    "midPrice": 0.18,
     "highPrice": 5.0,
     "marketPrice": 0.15,
     "directLowPrice": null,
@@ -105,7 +105,7 @@
   },
   "P-P-060 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.18,
+    "midPrice": 0.17,
     "highPrice": 5.0,
     "marketPrice": 0.16,
     "directLowPrice": null,
@@ -130,7 +130,7 @@
     "groupId": 23491
   },
   "P-P-061 normal": {
-    "lowPrice": 1.43,
+    "lowPrice": 1.4,
     "midPrice": 2.18,
     "highPrice": 9.99,
     "marketPrice": 1.86,
@@ -159,7 +159,7 @@
     "lowPrice": 0.63,
     "midPrice": 1.42,
     "highPrice": 25.0,
-    "marketPrice": 1.33,
+    "marketPrice": 1.38,
     "directLowPrice": null,
     "name": "Uta (ST11-001)",
     "rarity": "L",
@@ -183,7 +183,7 @@
   },
   "ST11-ST11-003 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.19,
+    "midPrice": 0.18,
     "highPrice": 1.98,
     "marketPrice": 0.18,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "ST11-ST11-004 normal": {
     "lowPrice": 0.13,
-    "midPrice": 0.27,
+    "midPrice": 0.28,
     "highPrice": 5.0,
     "marketPrice": 0.29,
     "directLowPrice": null,
@@ -260,10 +260,10 @@
     "groupId": 23491
   },
   "ST16-ST16-001 normal": {
-    "lowPrice": 0.33,
-    "midPrice": 0.69,
+    "lowPrice": 0.25,
+    "midPrice": 0.71,
     "highPrice": 9.9,
-    "marketPrice": 0.61,
+    "marketPrice": 0.59,
     "directLowPrice": null,
     "name": "Uta (ST16-001)",
     "rarity": "SR",
@@ -339,9 +339,9 @@
   },
   "ST16-ST16-004 normal": {
     "lowPrice": 1.99,
-    "midPrice": 3.95,
+    "midPrice": 3.97,
     "highPrice": 9.99,
-    "marketPrice": 2.99,
+    "marketPrice": 3.0,
     "directLowPrice": null,
     "name": "Shanks",
     "rarity": "SR",
@@ -364,10 +364,10 @@
     "groupId": 23491
   },
   "ST16-ST16-005 normal": {
-    "lowPrice": 0.06,
+    "lowPrice": 0.07,
     "midPrice": 0.33,
     "highPrice": 2.9,
-    "marketPrice": 0.25,
+    "marketPrice": 0.26,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (ST16-005)",
     "rarity": "C",

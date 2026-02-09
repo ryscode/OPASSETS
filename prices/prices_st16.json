@@ -27,9 +27,9 @@
   },
   "P-P-057 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.18,
+    "midPrice": 0.2,
     "highPrice": 5.0,
-    "marketPrice": 0.15,
+    "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "Fleeting Lullaby",
     "rarity": "PR",
@@ -52,7 +52,7 @@
     "groupId": 23491
   },
   "P-P-058 normal": {
-    "lowPrice": 0.08,
+    "lowPrice": 0.07,
     "midPrice": 0.2,
     "highPrice": 5.0,
     "marketPrice": 0.17,
@@ -79,7 +79,7 @@
   },
   "P-P-059 normal": {
     "lowPrice": 0.07,
-    "midPrice": 0.18,
+    "midPrice": 0.19,
     "highPrice": 5.0,
     "marketPrice": 0.15,
     "directLowPrice": null,
@@ -104,8 +104,8 @@
     "groupId": 23491
   },
   "P-P-060 normal": {
-    "lowPrice": 0.02,
-    "midPrice": 0.17,
+    "lowPrice": 0.01,
+    "midPrice": 0.18,
     "highPrice": 5.0,
     "marketPrice": 0.16,
     "directLowPrice": null,
@@ -131,7 +131,7 @@
   },
   "P-P-061 normal": {
     "lowPrice": 1.4,
-    "midPrice": 2.18,
+    "midPrice": 2.05,
     "highPrice": 9.99,
     "marketPrice": 1.86,
     "directLowPrice": null,
@@ -157,9 +157,9 @@
   },
   "ST11-ST11-001 normal": {
     "lowPrice": 0.63,
-    "midPrice": 1.42,
+    "midPrice": 1.5,
     "highPrice": 25.0,
-    "marketPrice": 1.38,
+    "marketPrice": 1.4,
     "directLowPrice": null,
     "name": "Uta (ST11-001)",
     "rarity": "L",
@@ -183,7 +183,7 @@
   },
   "ST11-ST11-003 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.18,
+    "midPrice": 0.19,
     "highPrice": 1.98,
     "marketPrice": 0.18,
     "directLowPrice": null,
@@ -339,9 +339,9 @@
   },
   "ST16-ST16-004 normal": {
     "lowPrice": 1.99,
-    "midPrice": 3.97,
+    "midPrice": 3.96,
     "highPrice": 9.99,
-    "marketPrice": 3.0,
+    "marketPrice": 3.05,
     "directLowPrice": null,
     "name": "Shanks",
     "rarity": "SR",

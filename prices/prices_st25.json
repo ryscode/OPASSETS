@@ -1,7 +1,7 @@
 {
   "OP09-OP09-042 normal": {
     "lowPrice": 0.88,
-    "midPrice": 1.75,
+    "midPrice": 1.58,
     "highPrice": 10.0,
     "marketPrice": 1.37,
     "directLowPrice": null,
@@ -27,9 +27,9 @@
   },
   "ST25-ST25-003 normal": {
     "lowPrice": 0.92,
-    "midPrice": 1.75,
+    "midPrice": 1.74,
     "highPrice": 14.0,
-    "marketPrice": 1.05,
+    "marketPrice": 1.03,
     "directLowPrice": null,
     "name": "Crocodile & Mihawk",
     "rarity": "SR",
@@ -53,9 +53,9 @@
   },
   "ST25-ST25-004 normal": {
     "lowPrice": 0.28,
-    "midPrice": 0.95,
+    "midPrice": 0.97,
     "highPrice": 95.0,
-    "marketPrice": 0.63,
+    "marketPrice": 0.62,
     "directLowPrice": null,
     "name": "Buggy",
     "rarity": "SR",
@@ -81,7 +81,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 1.32,
-    "marketPrice": 0.11,
+    "marketPrice": 0.1,
     "directLowPrice": null,
     "name": "Alvida (Reprint)",
     "rarity": "UC",
@@ -286,10 +286,10 @@
     "groupId": 24284
   },
   "ST25-ST25-001 normal": {
-    "lowPrice": 0.6,
+    "lowPrice": 0.59,
     "midPrice": 0.99,
     "highPrice": 3.25,
-    "marketPrice": 0.81,
+    "marketPrice": 0.82,
     "directLowPrice": null,
     "name": "Alvida",
     "rarity": "C",
@@ -315,7 +315,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.18,
     "highPrice": 2.99,
-    "marketPrice": 0.1,
+    "marketPrice": 0.09,
     "directLowPrice": null,
     "name": "Cabaji",
     "rarity": "C",

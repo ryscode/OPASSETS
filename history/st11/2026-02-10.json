@@ -1,0 +1,57 @@
+{
+  "ST11-ST11-001 normal": {
+    "name": "Uta (001)",
+    "groupId": 23250,
+    "prices": {
+      "low": 1.35,
+      "mid": 2.29,
+      "high": 25.0,
+      "market": 2.53,
+      "directLow": null
+    }
+  },
+  "ST11-ST11-002 normal": {
+    "name": "Uta (002)",
+    "groupId": 23250,
+    "prices": {
+      "low": 0.95,
+      "mid": 1.85,
+      "high": 50.0,
+      "market": 1.41,
+      "directLow": null
+    }
+  },
+  "ST11-ST11-003 normal": {
+    "name": "Backlight",
+    "groupId": 23250,
+    "prices": {
+      "low": 0.06,
+      "mid": 0.24,
+      "high": 1.98,
+      "market": 0.12,
+      "directLow": null
+    }
+  },
+  "ST11-ST11-004 normal": {
+    "name": "New Genesis",
+    "groupId": 23250,
+    "prices": {
+      "low": 0.19,
+      "mid": 0.46,
+      "high": 6.5,
+      "market": 0.33,
+      "directLow": null
+    }
+  },
+  "ST11-ST11-005 normal": {
+    "name": "I'm invincible",
+    "groupId": 23250,
+    "prices": {
+      "low": 0.01,
+      "mid": 0.15,
+      "high": 1.98,
+      "market": 0.13,
+      "directLow": null
+    }
+  }
+}

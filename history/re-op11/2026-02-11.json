@@ -1,0 +1,827 @@
+{
+  "OP11-OP11-002 normal": {
+    "name": "Ain",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.19,
+      "mid": 0.41,
+      "high": 1.0,
+      "market": 0.35,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-003 normal": {
+    "name": "Usopp",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.45,
+      "mid": 0.87,
+      "high": 4.4,
+      "market": 0.72,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-005 normal": {
+    "name": "Smoker",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.15,
+      "mid": 0.54,
+      "high": 10.0,
+      "market": 0.28,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-006 normal": {
+    "name": "Zephyr",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.35,
+      "high": 2.49,
+      "market": 0.21,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-007 normal": {
+    "name": "Tashigi",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.5,
+      "mid": 0.77,
+      "high": 2.0,
+      "market": 0.5,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-009 normal": {
+    "name": "Nico Robin",
+    "groupId": 24242,
+    "prices": {
+      "low": 11.0,
+      "mid": 19.9,
+      "high": 98.69,
+      "market": 17.0,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-011 normal": {
+    "name": "Bins",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.35,
+      "high": 2.99,
+      "market": 0.2,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-012 normal": {
+    "name": "Franky",
+    "groupId": 24242,
+    "prices": {
+      "low": 3.0,
+      "mid": 3.28,
+      "high": 3.28,
+      "market": 3.28,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-015 normal": {
+    "name": "Mocha",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.09,
+      "mid": 0.3,
+      "high": 2.99,
+      "market": 0.22,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-016 normal": {
+    "name": "Roronoa Zoro",
+    "groupId": 24242,
+    "prices": {
+      "low": 7.35,
+      "mid": 8.25,
+      "high": 20.0,
+      "market": 2.83,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-017 normal": {
+    "name": "X.Drake",
+    "groupId": 24242,
+    "prices": {
+      "low": 2.95,
+      "mid": 4.55,
+      "high": 5.79,
+      "market": 4.55,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-019 normal": {
+    "name": "Glorp Web!!",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.05,
+      "mid": 0.48,
+      "high": 11.3,
+      "market": 0.25,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-020 normal": {
+    "name": "X Calibur",
+    "groupId": 24242,
+    "prices": {
+      "low": 1.24,
+      "mid": 1.51,
+      "high": 9.99,
+      "market": 1.51,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-024 normal": {
+    "name": "Aladine",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.2,
+      "mid": 0.43,
+      "high": 15.49,
+      "market": 0.27,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-025 normal": {
+    "name": "Ishilly",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.35,
+      "mid": 0.99,
+      "high": 9.99,
+      "market": 0.47,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-026 normal": {
+    "name": "Scaled Neptunian",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.71,
+      "mid": 0.85,
+      "high": 3.99,
+      "market": 0.83,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-027 normal": {
+    "name": "Bulge-Eyed Neptunian",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.25,
+      "mid": 0.49,
+      "high": 3.99,
+      "market": 0.3,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-029 normal": {
+    "name": "Charlotte Praline",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.8,
+      "mid": 1.17,
+      "high": 8.75,
+      "market": 0.96,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-032 normal": {
+    "name": "Surume",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.5,
+      "mid": 0.83,
+      "high": 3.99,
+      "market": 0.78,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-033 normal": {
+    "name": "Bird Neptunian",
+    "groupId": 24242,
+    "prices": {
+      "low": 4.17,
+      "mid": 7.99,
+      "high": 15.49,
+      "market": 4.17,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-034 normal": {
+    "name": "Hatchan",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.15,
+      "mid": 0.49,
+      "high": 2.5,
+      "market": 0.35,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-035 normal": {
+    "name": "Fisher Tiger",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.24,
+      "mid": 0.5,
+      "high": 5.0,
+      "market": 0.43,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-036 normal": {
+    "name": "Spotted Neptunian",
+    "groupId": 24242,
+    "prices": {
+      "low": 2.31,
+      "mid": 3.87,
+      "high": 9.49,
+      "market": 2.72,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-037 normal": {
+    "name": "Ancient Weapon Poseidon",
+    "groupId": 24242,
+    "prices": {
+      "low": 4.99,
+      "mid": 6.16,
+      "high": 9.99,
+      "market": 5.64,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-039 normal": {
+    "name": "Vagabond Drill",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.2,
+      "mid": 0.68,
+      "high": 10.99,
+      "market": 0.55,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-042 normal": {
+    "name": "Vito",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.09,
+      "mid": 0.35,
+      "high": 10.99,
+      "market": 0.25,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-043 normal": {
+    "name": "Vinsmoke Ichiji",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.74,
+      "mid": 1.0,
+      "high": 2.99,
+      "market": 0.87,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-044 normal": {
+    "name": "Vinsmoke Judge",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.05,
+      "mid": 0.5,
+      "high": 1.99,
+      "market": 0.28,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-045 normal": {
+    "name": "Vinsmoke Niji",
+    "groupId": 24242,
+    "prices": {
+      "low": 2.49,
+      "mid": 4.0,
+      "high": 6.73,
+      "market": 4.22,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-046 normal": {
+    "name": "Vinsmoke Yonji",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.19,
+      "mid": 0.49,
+      "high": 4.99,
+      "market": 0.4,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-050 normal": {
+    "name": "Gotti",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.05,
+      "mid": 0.5,
+      "high": 18.99,
+      "market": 0.21,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-052 normal": {
+    "name": "Charlotte Lola",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.35,
+      "high": 3.0,
+      "market": 0.22,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-053 normal": {
+    "name": "Tony Tony.Chopper",
+    "groupId": 24242,
+    "prices": {
+      "low": 7.0,
+      "mid": 9.0,
+      "high": 18.49,
+      "market": 4.06,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-055 normal": {
+    "name": "Bartolomeo",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.6,
+      "mid": 0.82,
+      "high": 1.97,
+      "market": 0.82,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-057 normal": {
+    "name": "Pedro",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.35,
+      "high": 2.99,
+      "market": 0.19,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-058 normal": {
+    "name": "Monkey.D.Luffy (058)",
+    "groupId": 24242,
+    "prices": {
+      "low": 17.99,
+      "mid": 21.0,
+      "high": 100.0,
+      "market": 6.63,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-059 normal": {
+    "name": "Gum-Gum King Cobra",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.25,
+      "mid": 0.5,
+      "high": 11.3,
+      "market": 0.32,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-061 normal": {
+    "name": "Gum-Gum Jet Culverin",
+    "groupId": 24242,
+    "prices": {
+      "low": 3.52,
+      "mid": 3.72,
+      "high": 5.05,
+      "market": 3.72,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-063 normal": {
+    "name": "Little Sadi",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.24,
+      "mid": 0.49,
+      "high": 4.99,
+      "market": 0.41,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-064 normal": {
+    "name": "Saldeath",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.35,
+      "high": 2.0,
+      "market": 0.18,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-065 normal": {
+    "name": "Charlotte Anana",
+    "groupId": 24242,
+    "prices": {
+      "low": 3.38,
+      "mid": 3.99,
+      "high": 6.0,
+      "market": 4.23,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-068 normal": {
+    "name": "Charlotte Daifuku",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.5,
+      "mid": 1.05,
+      "high": 20.0,
+      "market": 1.1,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-072 normal": {
+    "name": "Charlotte Mont-d'or",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.64,
+      "mid": 2.2,
+      "high": 11.99,
+      "market": 2.18,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-074 normal": {
+    "name": "Streusen",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.59,
+      "mid": 1.36,
+      "high": 11.3,
+      "market": 1.39,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-075 normal": {
+    "name": "Jaguar.D.Saul",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.35,
+      "mid": 1.75,
+      "high": 18.99,
+      "market": 0.53,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-076 normal": {
+    "name": "Hannyabal",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.35,
+      "high": 11.3,
+      "market": 0.28,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-077 normal": {
+    "name": "Randolph",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.2,
+      "mid": 0.46,
+      "high": 11.3,
+      "market": 0.32,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-078 normal": {
+    "name": "Decuplets",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.39,
+      "mid": 0.67,
+      "high": 3.5,
+      "market": 0.64,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-079 normal": {
+    "name": "When Two Men Are Fighting the Last Thing I Need Is Some Half-Hearted Assistance!!!!",
+    "groupId": 24242,
+    "prices": {
+      "low": 1.2,
+      "mid": 1.52,
+      "high": 8.99,
+      "market": 1.47,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-081 normal": {
+    "name": "Cognac Mama-Mash",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.35,
+      "high": 1.49,
+      "market": 0.29,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-085 normal": {
+    "name": "Kurozumi Orochi",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.2,
+      "mid": 0.36,
+      "high": 2.49,
+      "market": 0.29,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-086 normal": {
+    "name": "Coribou",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.25,
+      "high": 1.99,
+      "market": 0.17,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-087 normal": {
+    "name": "Miss Sarahebi",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.25,
+      "mid": 0.96,
+      "high": 40.0,
+      "market": 0.38,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-088 normal": {
+    "name": "Shu",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.05,
+      "mid": 0.35,
+      "high": 11.3,
+      "market": 0.21,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-089 normal": {
+    "name": "Black Maria",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.42,
+      "mid": 0.99,
+      "high": 4.99,
+      "market": 0.65,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-090 normal": {
+    "name": "Briscola",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.05,
+      "mid": 0.35,
+      "high": 15.0,
+      "market": 0.15,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-091 normal": {
+    "name": "Berry Good",
+    "groupId": 24242,
+    "prices": {
+      "low": 2.94,
+      "mid": 4.15,
+      "high": 11.0,
+      "market": 4.33,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-093 normal": {
+    "name": "Bogard",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.9,
+      "mid": 1.16,
+      "high": 3.99,
+      "market": 1.12,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-094 normal": {
+    "name": "Morgan",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.15,
+      "mid": 0.4,
+      "high": 11.3,
+      "market": 0.33,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-096 normal": {
+    "name": "Ripper",
+    "groupId": 24242,
+    "prices": {
+      "low": 6.99,
+      "mid": 11.27,
+      "high": 15.54,
+      "market": 6.73,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-097 normal": {
+    "name": "After All These Years I'm Losing My Edge!!!",
+    "groupId": 24242,
+    "prices": {
+      "low": 21.99,
+      "mid": 29.63,
+      "high": 85.0,
+      "market": 20.41,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-098 normal": {
+    "name": "Blue Hole",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.02,
+      "mid": 0.42,
+      "high": 3.99,
+      "market": 0.23,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-100 normal": {
+    "name": "Otohime",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.99,
+      "mid": 1.03,
+      "high": 1.5,
+      "market": 1.03,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-102 normal": {
+    "name": "Camie",
+    "groupId": 24242,
+    "prices": {
+      "low": 9.98,
+      "mid": 11.55,
+      "high": 12.28,
+      "market": 2.93,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-103 normal": {
+    "name": "Long-Jaw Neptunian",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.48,
+      "mid": 0.98,
+      "high": 3.49,
+      "market": 0.56,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-105 normal": {
+    "name": "Charlotte Chiffon",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.5,
+      "mid": 0.83,
+      "high": 9.89,
+      "market": 0.63,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-107 normal": {
+    "name": "Topknot Neptunian",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.4,
+      "mid": 1.35,
+      "high": 7.99,
+      "market": 1.27,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-109 normal": {
+    "name": "Pappag",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.23,
+      "mid": 0.5,
+      "high": 11.3,
+      "market": 0.26,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-110 normal": {
+    "name": "Fukaboshi",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.12,
+      "mid": 0.39,
+      "high": 8.99,
+      "market": 0.27,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-111 normal": {
+    "name": "Mamboshi",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.35,
+      "mid": 0.56,
+      "high": 4.99,
+      "market": 0.5,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-112 normal": {
+    "name": "Megalo",
+    "groupId": 24242,
+    "prices": {
+      "low": 2.21,
+      "mid": 2.44,
+      "high": 2.99,
+      "market": 2.43,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-113 normal": {
+    "name": "Ryuboshi",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.1,
+      "mid": 0.26,
+      "high": 3.49,
+      "market": 0.19,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-115 normal": {
+    "name": "You're Just Not My Type!",
+    "groupId": 24242,
+    "prices": {
+      "low": 4.19,
+      "mid": 5.21,
+      "high": 18.49,
+      "market": 5.17,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-116 normal": {
+    "name": "Merman Combat Ultramarine",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.94,
+      "mid": 1.27,
+      "high": 11.3,
+      "market": 1.28,
+      "directLow": null
+    }
+  },
+  "OP11-OP11-117 normal": {
+    "name": "Fish-Man Island",
+    "groupId": 24242,
+    "prices": {
+      "low": 0.25,
+      "mid": 0.49,
+      "high": 7.99,
+      "market": 0.4,
+      "directLow": null
+    }
+  }
+}

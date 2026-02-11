@@ -29,7 +29,7 @@
     "lowPrice": 0.25,
     "midPrice": 0.4,
     "highPrice": 10.0,
-    "marketPrice": 0.33,
+    "marketPrice": 0.34,
     "directLowPrice": null,
     "name": "Jozu",
     "rarity": "R",
@@ -104,8 +104,8 @@
     "groupId": 23490
   },
   "OP03-OP03-003 normal": {
-    "lowPrice": 0.04,
-    "midPrice": 0.2,
+    "lowPrice": 0.03,
+    "midPrice": 0.19,
     "highPrice": 1.32,
     "marketPrice": 0.15,
     "directLowPrice": null,
@@ -210,7 +210,7 @@
   "ST15-ST15-001 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 1.46,
+    "highPrice": 1.0,
     "marketPrice": 0.07,
     "directLowPrice": null,
     "name": "Atmos",
@@ -234,10 +234,10 @@
     "groupId": 23490
   },
   "ST15-ST15-002 normal": {
-    "lowPrice": 0.37,
+    "lowPrice": 0.39,
     "midPrice": 0.99,
     "highPrice": 25.0,
-    "marketPrice": 0.61,
+    "marketPrice": 0.59,
     "directLowPrice": null,
     "name": "Edward.Newgate (ST15-002)",
     "rarity": "SR",
@@ -289,7 +289,7 @@
     "lowPrice": 1.23,
     "midPrice": 3.0,
     "highPrice": 25.0,
-    "marketPrice": 1.49,
+    "marketPrice": 1.46,
     "directLowPrice": null,
     "name": "Thatch",
     "rarity": "C",

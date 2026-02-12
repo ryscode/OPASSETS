@@ -1,7 +1,7 @@
 {
   "ST03-ST03-001 normal": {
     "lowPrice": 95.99,
-    "midPrice": 120.99,
+    "midPrice": 115.0,
     "highPrice": 199.98,
     "marketPrice": 120.5,
     "directLowPrice": null,
@@ -27,7 +27,7 @@
   },
   "ST03-ST03-003 normal": {
     "lowPrice": 4.27,
-    "midPrice": 14.26,
+    "midPrice": 14.0,
     "highPrice": 100.0,
     "marketPrice": 10.86,
     "directLowPrice": null,
@@ -52,7 +52,7 @@
     "groupId": 17660
   },
   "ST03-ST03-009 normal": {
-    "lowPrice": 9.47,
+    "lowPrice": 9.43,
     "midPrice": 18.97,
     "highPrice": 100.0,
     "marketPrice": 21.59,
@@ -105,7 +105,7 @@
   },
   "ST03-ST03-016 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.4,
+    "midPrice": 0.49,
     "highPrice": 25.0,
     "marketPrice": 0.28,
     "directLowPrice": null,
@@ -131,7 +131,7 @@
   },
   "ST03-ST03-007 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.85,
+    "midPrice": 0.8,
     "highPrice": 50.0,
     "marketPrice": 0.37,
     "directLowPrice": null,
@@ -157,9 +157,9 @@
   },
   "ST03-ST03-015 normal": {
     "lowPrice": 3.75,
-    "midPrice": 5.75,
+    "midPrice": 5.5,
     "highPrice": 50.0,
-    "marketPrice": 4.78,
+    "marketPrice": 4.76,
     "directLowPrice": null,
     "name": "Sables",
     "rarity": "C",
@@ -261,9 +261,9 @@
   },
   "ST03-ST03-006 normal": {
     "lowPrice": 0.4,
-    "midPrice": 2.4,
+    "midPrice": 3.25,
     "highPrice": 25.0,
-    "marketPrice": 1.81,
+    "marketPrice": 1.9,
     "directLowPrice": null,
     "name": "Jinbe",
     "rarity": "C",
@@ -341,7 +341,7 @@
     "lowPrice": 1.5,
     "midPrice": 2.99,
     "highPrice": 100.0,
-    "marketPrice": 2.62,
+    "marketPrice": 2.63,
     "directLowPrice": null,
     "name": "Dracule Mihawk",
     "rarity": "C",
@@ -367,7 +367,7 @@
     "lowPrice": 5.5,
     "midPrice": 7.48,
     "highPrice": 50.0,
-    "marketPrice": 5.42,
+    "marketPrice": 5.41,
     "directLowPrice": null,
     "name": "Buggy",
     "rarity": "C",
@@ -393,7 +393,7 @@
     "lowPrice": 7.5,
     "midPrice": 18.0,
     "highPrice": 250.0,
-    "marketPrice": 12.42,
+    "marketPrice": 12.72,
     "directLowPrice": null,
     "name": "Boa Hancock",
     "rarity": "C",

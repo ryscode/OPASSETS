@@ -1,9 +1,9 @@
 {
   "P-P-029 normal": {
-    "lowPrice": 0.03,
-    "midPrice": 0.24,
+    "lowPrice": 0.01,
+    "midPrice": 0.25,
     "highPrice": 5.0,
-    "marketPrice": 0.17,
+    "marketPrice": 0.19,
     "directLowPrice": null,
     "name": "Bartolomeo",
     "rarity": "PR",
@@ -27,7 +27,7 @@
   },
   "P-P-057 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.19,
+    "midPrice": 0.2,
     "highPrice": 5.0,
     "marketPrice": 0.19,
     "directLowPrice": null,
@@ -52,7 +52,7 @@
     "groupId": 23491
   },
   "P-P-058 normal": {
-    "lowPrice": 0.06,
+    "lowPrice": 0.07,
     "midPrice": 0.2,
     "highPrice": 5.0,
     "marketPrice": 0.19,
@@ -131,7 +131,7 @@
   },
   "P-P-061 normal": {
     "lowPrice": 1.4,
-    "midPrice": 2.03,
+    "midPrice": 2.01,
     "highPrice": 9.99,
     "marketPrice": 1.75,
     "directLowPrice": null,
@@ -157,9 +157,9 @@
   },
   "ST11-ST11-001 normal": {
     "lowPrice": 0.63,
-    "midPrice": 1.49,
+    "midPrice": 1.5,
     "highPrice": 25.0,
-    "marketPrice": 1.32,
+    "marketPrice": 1.21,
     "directLowPrice": null,
     "name": "Uta (ST11-001)",
     "rarity": "L",
@@ -183,7 +183,7 @@
   },
   "ST11-ST11-003 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.18,
+    "midPrice": 0.19,
     "highPrice": 1.98,
     "marketPrice": 0.18,
     "directLowPrice": null,
@@ -208,8 +208,8 @@
     "groupId": 23491
   },
   "ST11-ST11-004 normal": {
-    "lowPrice": 0.09,
-    "midPrice": 0.28,
+    "lowPrice": 0.1,
+    "midPrice": 0.29,
     "highPrice": 5.0,
     "marketPrice": 0.3,
     "directLowPrice": null,
@@ -260,8 +260,8 @@
     "groupId": 23491
   },
   "ST16-ST16-001 normal": {
-    "lowPrice": 0.3,
-    "midPrice": 0.69,
+    "lowPrice": 0.27,
+    "midPrice": 0.7,
     "highPrice": 9.9,
     "marketPrice": 0.55,
     "directLowPrice": null,
@@ -287,7 +287,7 @@
   },
   "ST16-ST16-002 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.19,
+    "midPrice": 0.2,
     "highPrice": 2.49,
     "marketPrice": 0.11,
     "directLowPrice": null,
@@ -338,8 +338,8 @@
     "groupId": 23491
   },
   "ST16-ST16-004 normal": {
-    "lowPrice": 1.5,
-    "midPrice": 3.79,
+    "lowPrice": 1.99,
+    "midPrice": 3.83,
     "highPrice": 9.99,
     "marketPrice": 2.79,
     "directLowPrice": null,
@@ -364,7 +364,7 @@
     "groupId": 23491
   },
   "ST16-ST16-005 normal": {
-    "lowPrice": 0.06,
+    "lowPrice": 0.07,
     "midPrice": 0.32,
     "highPrice": 2.9,
     "marketPrice": 0.27,

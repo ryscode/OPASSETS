@@ -1,9 +1,9 @@
 {
   "ST05-ST05-001 normal": {
     "lowPrice": 2.0,
-    "midPrice": 3.0,
+    "midPrice": 3.5,
     "highPrice": 50.0,
-    "marketPrice": 2.86,
+    "marketPrice": 2.9,
     "directLowPrice": null,
     "name": "Shanks",
     "rarity": "L",
@@ -26,8 +26,8 @@
     "groupId": 17687
   },
   "ST05-ST05-004 normal": {
-    "lowPrice": 0.7,
-    "midPrice": 1.58,
+    "lowPrice": 0.5,
+    "midPrice": 1.42,
     "highPrice": 32.0,
     "marketPrice": 1.14,
     "directLowPrice": null,
@@ -79,7 +79,7 @@
   },
   "ST05-ST05-006 normal": {
     "lowPrice": 0.6,
-    "midPrice": 0.96,
+    "midPrice": 0.97,
     "highPrice": 25.0,
     "marketPrice": 0.83,
     "directLowPrice": null,
@@ -130,7 +130,7 @@
     "groupId": 17687
   },
   "ST05-ST05-010 normal": {
-    "lowPrice": 0.06,
+    "lowPrice": 0.07,
     "midPrice": 0.25,
     "highPrice": 10.0,
     "marketPrice": 0.22,
@@ -157,9 +157,9 @@
   },
   "ST05-ST05-011 normal": {
     "lowPrice": 1.52,
-    "midPrice": 4.0,
+    "midPrice": 3.78,
     "highPrice": 50.0,
-    "marketPrice": 2.58,
+    "marketPrice": 2.42,
     "directLowPrice": null,
     "name": "Douglas Bullet",
     "rarity": "SR",
@@ -182,10 +182,10 @@
     "groupId": 17687
   },
   "ST05-ST05-014 normal": {
-    "lowPrice": 1.85,
-    "midPrice": 2.36,
+    "lowPrice": 1.83,
+    "midPrice": 2.31,
     "highPrice": 10.0,
-    "marketPrice": 1.85,
+    "marketPrice": 1.83,
     "directLowPrice": null,
     "name": "Buena Festa",
     "rarity": "C",
@@ -211,7 +211,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.25,
     "highPrice": 10.0,
-    "marketPrice": 0.22,
+    "marketPrice": 0.21,
     "directLowPrice": null,
     "name": "Union Armada",
     "rarity": "C",
@@ -339,7 +339,7 @@
   },
   "ST05-ST05-012 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.18,
+    "midPrice": 0.19,
     "highPrice": 1.0,
     "marketPrice": 0.1,
     "directLowPrice": null,
@@ -391,7 +391,7 @@
   },
   "ST05-ST05-015 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.16,
+    "midPrice": 0.15,
     "highPrice": 10.0,
     "marketPrice": 0.06,
     "directLowPrice": null,

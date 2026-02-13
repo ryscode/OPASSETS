@@ -53,8 +53,8 @@
   },
   "OP05-OP05-008 normal": {
     "lowPrice": 7.92,
-    "midPrice": 9.57,
-    "highPrice": 15.15,
+    "midPrice": 9.26,
+    "highPrice": 30.0,
     "marketPrice": 9.32,
     "directLowPrice": null,
     "name": "Chaka",
@@ -79,7 +79,7 @@
   },
   "OP05-OP05-009 normal": {
     "lowPrice": 0.25,
-    "midPrice": 1.06,
+    "midPrice": 1.11,
     "highPrice": 6.0,
     "marketPrice": 0.34,
     "directLowPrice": null,
@@ -104,8 +104,8 @@
     "groupId": 23368
   },
   "OP05-OP05-010 normal": {
-    "lowPrice": 250.0,
-    "midPrice": 268.75,
+    "lowPrice": 287.5,
+    "midPrice": 287.5,
     "highPrice": 287.5,
     "marketPrice": 156.46,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "OP05-OP05-014 normal": {
     "lowPrice": 1.0,
-    "midPrice": 2.0,
+    "midPrice": 1.75,
     "highPrice": 10.0,
     "marketPrice": 1.07,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "OP05-OP05-018 normal": {
     "lowPrice": 3.99,
-    "midPrice": 5.23,
+    "midPrice": 5.62,
     "highPrice": 100.0,
     "marketPrice": 4.27,
     "directLowPrice": null,
@@ -393,7 +393,7 @@
     "lowPrice": 150.0,
     "midPrice": 150.0,
     "highPrice": 150.0,
-    "marketPrice": 18.37,
+    "marketPrice": 19.07,
     "directLowPrice": null,
     "name": "Trafalgar Law (027)",
     "rarity": "UC",
@@ -419,7 +419,7 @@
     "lowPrice": 4.9,
     "midPrice": 12.45,
     "highPrice": 20.0,
-    "marketPrice": 3.88,
+    "marketPrice": 3.94,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo (028)",
     "rarity": "C",
@@ -469,7 +469,7 @@
   },
   "OP05-OP05-031 normal": {
     "lowPrice": 0.2,
-    "midPrice": 2.5,
+    "midPrice": 2.7,
     "highPrice": 7.88,
     "marketPrice": 0.3,
     "directLowPrice": null,
@@ -573,7 +573,7 @@
   },
   "OP05-OP05-038 normal": {
     "lowPrice": 13.0,
-    "midPrice": 19.99,
+    "midPrice": 13.0,
     "highPrice": 30.0,
     "marketPrice": 5.94,
     "directLowPrice": null,
@@ -651,7 +651,7 @@
   },
   "OP05-OP05-044 normal": {
     "lowPrice": 1.07,
-    "midPrice": 3.7,
+    "midPrice": 3.85,
     "highPrice": 8.8,
     "marketPrice": 0.92,
     "directLowPrice": null,
@@ -703,7 +703,7 @@
   },
   "OP05-OP05-046 normal": {
     "lowPrice": 1.0,
-    "midPrice": 1.76,
+    "midPrice": 1.69,
     "highPrice": 8.74,
     "marketPrice": 1.64,
     "directLowPrice": null,
@@ -729,7 +729,7 @@
   },
   "OP05-OP05-047 normal": {
     "lowPrice": 0.98,
-    "midPrice": 1.22,
+    "midPrice": 1.2,
     "highPrice": 3.39,
     "marketPrice": 1.15,
     "directLowPrice": null,
@@ -807,9 +807,9 @@
   },
   "OP05-OP05-052 normal": {
     "lowPrice": 1.99,
-    "midPrice": 5.0,
+    "midPrice": 3.93,
     "highPrice": 50.0,
-    "marketPrice": 2.72,
+    "marketPrice": 2.85,
     "directLowPrice": null,
     "name": "Maynard",
     "rarity": "C",
@@ -859,8 +859,8 @@
   },
   "OP05-OP05-056 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.96,
-    "highPrice": 4.99,
+    "midPrice": 0.86,
+    "highPrice": 2.0,
     "marketPrice": 0.38,
     "directLowPrice": null,
     "name": "X.Barrels",
@@ -989,8 +989,8 @@
   },
   "OP05-OP05-063 normal": {
     "lowPrice": 34.99,
-    "midPrice": 34.99,
-    "highPrice": 34.99,
+    "midPrice": 90.0,
+    "highPrice": 145.0,
     "marketPrice": 39.95,
     "directLowPrice": null,
     "name": "O-Robi",
@@ -1016,8 +1016,8 @@
   "OP05-OP05-065 normal": {
     "lowPrice": 30.0,
     "midPrice": 33.84,
-    "highPrice": 40.0,
-    "marketPrice": 19.27,
+    "highPrice": 100.0,
+    "marketPrice": 19.21,
     "directLowPrice": null,
     "name": "San-Gorou",
     "rarity": "C",
@@ -1066,7 +1066,7 @@
     "groupId": 23368
   },
   "OP05-OP05-068 normal": {
-    "lowPrice": 23.0,
+    "lowPrice": 19.99,
     "midPrice": 48.0,
     "highPrice": 200.0,
     "marketPrice": 8.43,
@@ -1171,7 +1171,7 @@
   },
   "OP05-OP05-075 normal": {
     "lowPrice": 1.5,
-    "midPrice": 2.06,
+    "midPrice": 2.0,
     "highPrice": 2.7,
     "marketPrice": 2.01,
     "directLowPrice": null,
@@ -1197,7 +1197,7 @@
   },
   "OP05-OP05-077 normal": {
     "lowPrice": 5.99,
-    "midPrice": 7.92,
+    "midPrice": 7.81,
     "highPrice": 20.0,
     "marketPrice": 6.59,
     "directLowPrice": null,
@@ -1223,7 +1223,7 @@
   },
   "OP05-OP05-078 normal": {
     "lowPrice": 12.98,
-    "midPrice": 15.49,
+    "midPrice": 15.73,
     "highPrice": 19.99,
     "marketPrice": 13.64,
     "directLowPrice": null,
@@ -1275,7 +1275,7 @@
   },
   "OP05-OP05-081 normal": {
     "lowPrice": 7.99,
-    "midPrice": 10.5,
+    "midPrice": 11.0,
     "highPrice": 23.0,
     "marketPrice": 9.08,
     "directLowPrice": null,
@@ -1301,7 +1301,7 @@
   },
   "OP05-OP05-083 normal": {
     "lowPrice": 0.39,
-    "midPrice": 0.6,
+    "midPrice": 0.62,
     "highPrice": 3.49,
     "marketPrice": 0.56,
     "directLowPrice": null,
@@ -1327,7 +1327,7 @@
   },
   "OP05-OP05-084 normal": {
     "lowPrice": 3.07,
-    "midPrice": 5.83,
+    "midPrice": 5.68,
     "highPrice": 40.0,
     "marketPrice": 5.69,
     "directLowPrice": null,
@@ -1378,8 +1378,8 @@
     "groupId": 23368
   },
   "OP05-OP05-089 normal": {
-    "lowPrice": 3.85,
-    "midPrice": 7.18,
+    "lowPrice": 3.77,
+    "midPrice": 5.18,
     "highPrice": 50.0,
     "marketPrice": 4.29,
     "directLowPrice": null,
@@ -1431,7 +1431,7 @@
   },
   "OP05-OP05-092 normal": {
     "lowPrice": 2.0,
-    "midPrice": 3.25,
+    "midPrice": 3.18,
     "highPrice": 15.0,
     "marketPrice": 3.1,
     "directLowPrice": null,
@@ -1458,7 +1458,7 @@
   "OP05-OP05-095 normal": {
     "lowPrice": 1.99,
     "midPrice": 4.81,
-    "highPrice": 7.47,
+    "highPrice": 6.5,
     "marketPrice": 3.34,
     "directLowPrice": null,
     "name": "Dragon Claw",
@@ -1509,7 +1509,7 @@
   },
   "OP05-OP05-097 normal": {
     "lowPrice": 7.22,
-    "midPrice": 9.19,
+    "midPrice": 9.0,
     "highPrice": 30.0,
     "marketPrice": 9.54,
     "directLowPrice": null,
@@ -1561,9 +1561,9 @@
   },
   "OP05-OP05-103 normal": {
     "lowPrice": 4.0,
-    "midPrice": 5.33,
-    "highPrice": 6.5,
-    "marketPrice": 5.39,
+    "midPrice": 5.28,
+    "highPrice": 6.66,
+    "marketPrice": 4.62,
     "directLowPrice": null,
     "name": "Kotori",
     "rarity": "UC",
@@ -1612,8 +1612,8 @@
     "groupId": 23368
   },
   "OP05-OP05-107 normal": {
-    "lowPrice": 0.75,
-    "midPrice": 1.81,
+    "lowPrice": 0.5,
+    "midPrice": 1.41,
     "highPrice": 50.0,
     "marketPrice": 0.63,
     "directLowPrice": null,
@@ -1742,8 +1742,8 @@
     "groupId": 23368
   },
   "OP05-OP05-113 normal": {
-    "lowPrice": 0.51,
-    "midPrice": 0.96,
+    "lowPrice": 0.55,
+    "midPrice": 0.98,
     "highPrice": 20.0,
     "marketPrice": 0.73,
     "directLowPrice": null,
@@ -1769,7 +1769,7 @@
   },
   "OP05-OP05-114 normal": {
     "lowPrice": 3.12,
-    "midPrice": 5.88,
+    "midPrice": 5.77,
     "highPrice": 19.0,
     "marketPrice": 4.0,
     "directLowPrice": null,
@@ -1820,10 +1820,10 @@
     "groupId": 23368
   },
   "OP05-OP05-117 normal": {
-    "lowPrice": 9.0,
+    "lowPrice": 5.44,
     "midPrice": 11.4,
     "highPrice": 13.0,
-    "marketPrice": 5.04,
+    "marketPrice": 5.62,
     "directLowPrice": null,
     "name": "Upper Yard",
     "rarity": "UC",

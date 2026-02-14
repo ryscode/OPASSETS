@@ -313,7 +313,7 @@
   },
   "OP05-OP05-024 normal": {
     "lowPrice": 0.86,
-    "midPrice": 1.17,
+    "midPrice": 1.19,
     "highPrice": 2.84,
     "marketPrice": 1.13,
     "directLowPrice": null,
@@ -339,7 +339,7 @@
   },
   "OP05-OP05-025 normal": {
     "lowPrice": 0.72,
-    "midPrice": 1.0,
+    "midPrice": 1.04,
     "highPrice": 3.99,
     "marketPrice": 0.81,
     "directLowPrice": null,
@@ -495,7 +495,7 @@
   },
   "OP05-OP05-033 normal": {
     "lowPrice": 1.0,
-    "midPrice": 1.18,
+    "midPrice": 1.35,
     "highPrice": 4.49,
     "marketPrice": 1.06,
     "directLowPrice": null,
@@ -521,7 +521,7 @@
   },
   "OP05-OP05-035 normal": {
     "lowPrice": 0.69,
-    "midPrice": 0.76,
+    "midPrice": 0.75,
     "highPrice": 3.0,
     "marketPrice": 0.76,
     "directLowPrice": null,
@@ -831,32 +831,6 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
     "groupId": 23368
   },
-  "OP05-OP05-054 normal": {
-    "lowPrice": 125.0,
-    "midPrice": 125.0,
-    "highPrice": 125.0,
-    "marketPrice": 42.66,
-    "directLowPrice": null,
-    "name": "Monkey.D.Garp",
-    "rarity": "UC",
-    "power": "3000",
-    "cost": "3",
-    "life": null,
-    "category": "Character",
-    "colors": "Blue",
-    "attributes": "Strike",
-    "types": "Navy",
-    "effect": "yes",
-    "trigger": null,
-    "counter": "2000",
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/530922_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Character",
-    "description": "[On Play] Draw 2 cards and place 2 cards from your hand at the bottom of your deck in any order.",
-    "groupId": 23368
-  },
   "OP05-OP05-056 normal": {
     "lowPrice": 0.25,
     "midPrice": 0.86,
@@ -884,7 +858,7 @@
     "groupId": 23368
   },
   "OP05-OP05-058 normal": {
-    "lowPrice": 4.0,
+    "lowPrice": 3.99,
     "midPrice": 13.91,
     "highPrice": 29.93,
     "marketPrice": 2.49,
@@ -911,7 +885,7 @@
   },
   "OP05-OP05-059 normal": {
     "lowPrice": 3.45,
-    "midPrice": 3.91,
+    "midPrice": 3.89,
     "highPrice": 6.5,
     "marketPrice": 3.82,
     "directLowPrice": null,
@@ -962,8 +936,8 @@
     "groupId": 23368
   },
   "OP05-OP05-062 normal": {
-    "lowPrice": 199.99,
-    "midPrice": 575.5,
+    "lowPrice": 198.69,
+    "midPrice": 200.99,
     "highPrice": 2000.0,
     "marketPrice": 110.68,
     "directLowPrice": null,
@@ -988,8 +962,8 @@
     "groupId": 23368
   },
   "OP05-OP05-063 normal": {
-    "lowPrice": 34.99,
-    "midPrice": 90.0,
+    "lowPrice": 145.0,
+    "midPrice": 145.0,
     "highPrice": 145.0,
     "marketPrice": 39.95,
     "directLowPrice": null,
@@ -1041,7 +1015,7 @@
   },
   "OP05-OP05-066 normal": {
     "lowPrice": 5.7,
-    "midPrice": 10.68,
+    "midPrice": 10.69,
     "highPrice": 19.0,
     "marketPrice": 6.09,
     "directLowPrice": null,
@@ -1067,7 +1041,7 @@
   },
   "OP05-OP05-068 normal": {
     "lowPrice": 19.99,
-    "midPrice": 48.0,
+    "midPrice": 45.0,
     "highPrice": 200.0,
     "marketPrice": 8.43,
     "directLowPrice": null,
@@ -1171,7 +1145,7 @@
   },
   "OP05-OP05-075 normal": {
     "lowPrice": 1.5,
-    "midPrice": 2.0,
+    "midPrice": 2.06,
     "highPrice": 2.7,
     "marketPrice": 2.01,
     "directLowPrice": null,
@@ -1378,8 +1352,8 @@
     "groupId": 23368
   },
   "OP05-OP05-089 normal": {
-    "lowPrice": 3.77,
-    "midPrice": 5.18,
+    "lowPrice": 3.69,
+    "midPrice": 5.14,
     "highPrice": 50.0,
     "marketPrice": 4.29,
     "directLowPrice": null,
@@ -1457,7 +1431,7 @@
   },
   "OP05-OP05-095 normal": {
     "lowPrice": 1.99,
-    "midPrice": 4.81,
+    "midPrice": 4.79,
     "highPrice": 6.5,
     "marketPrice": 3.34,
     "directLowPrice": null,
@@ -1509,7 +1483,7 @@
   },
   "OP05-OP05-097 normal": {
     "lowPrice": 7.22,
-    "midPrice": 9.0,
+    "midPrice": 9.1,
     "highPrice": 30.0,
     "marketPrice": 9.54,
     "directLowPrice": null,
@@ -1588,7 +1562,7 @@
   "OP05-OP05-104 normal": {
     "lowPrice": 8.0,
     "midPrice": 12.0,
-    "highPrice": 12.99,
+    "highPrice": 14.77,
     "marketPrice": 11.91,
     "directLowPrice": null,
     "name": "Conis",
@@ -1612,8 +1586,8 @@
     "groupId": 23368
   },
   "OP05-OP05-107 normal": {
-    "lowPrice": 0.5,
-    "midPrice": 1.41,
+    "lowPrice": 0.75,
+    "midPrice": 1.81,
     "highPrice": 50.0,
     "marketPrice": 0.63,
     "directLowPrice": null,
@@ -1743,7 +1717,7 @@
   },
   "OP05-OP05-113 normal": {
     "lowPrice": 0.55,
-    "midPrice": 0.98,
+    "midPrice": 0.99,
     "highPrice": 20.0,
     "marketPrice": 0.73,
     "directLowPrice": null,
@@ -1820,7 +1794,7 @@
     "groupId": 23368
   },
   "OP05-OP05-117 normal": {
-    "lowPrice": 5.44,
+    "lowPrice": 10.0,
     "midPrice": 11.4,
     "highPrice": 13.0,
     "marketPrice": 5.62,

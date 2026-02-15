@@ -1,6 +1,6 @@
 {
   "OP09-OP09-042 normal": {
-    "lowPrice": 0.6,
+    "lowPrice": 0.5,
     "midPrice": 2.0,
     "highPrice": 10.0,
     "marketPrice": 1.45,
@@ -27,7 +27,7 @@
   },
   "ST25-ST25-003 normal": {
     "lowPrice": 0.89,
-    "midPrice": 1.71,
+    "midPrice": 1.69,
     "highPrice": 14.0,
     "marketPrice": 1.11,
     "directLowPrice": null,
@@ -53,9 +53,9 @@
   },
   "ST25-ST25-004 normal": {
     "lowPrice": 0.28,
-    "midPrice": 0.96,
+    "midPrice": 0.89,
     "highPrice": 95.0,
-    "marketPrice": 0.59,
+    "marketPrice": 0.58,
     "directLowPrice": null,
     "name": "Buggy",
     "rarity": "SR",
@@ -235,7 +235,7 @@
   },
   "OP09-OP09-056 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.14,
+    "midPrice": 0.13,
     "highPrice": 1.33,
     "marketPrice": 0.12,
     "directLowPrice": null,
@@ -287,9 +287,9 @@
   },
   "ST25-ST25-001 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.97,
+    "midPrice": 0.95,
     "highPrice": 2.97,
-    "marketPrice": 0.74,
+    "marketPrice": 0.73,
     "directLowPrice": null,
     "name": "Alvida",
     "rarity": "C",
@@ -364,8 +364,8 @@
     "groupId": 24284
   },
   "P-P-084 normal": {
-    "lowPrice": 0.15,
-    "midPrice": 0.43,
+    "lowPrice": 0.18,
+    "midPrice": 0.42,
     "highPrice": 1.99,
     "marketPrice": 0.4,
     "directLowPrice": null,

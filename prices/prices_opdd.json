@@ -1,9 +1,9 @@
 {
   "OP01-OP01-001 normal": {
     "lowPrice": 3.0,
-    "midPrice": 5.75,
-    "highPrice": 49.99,
-    "marketPrice": 4.96,
+    "midPrice": 5.74,
+    "highPrice": 29.97,
+    "marketPrice": 5.0,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
     "rarity": "L",
@@ -27,7 +27,7 @@
   },
   "P-P-001 normal": {
     "lowPrice": 7.69,
-    "midPrice": 15.0,
+    "midPrice": 14.99,
     "highPrice": 151.0,
     "marketPrice": 7.48,
     "directLowPrice": null,
@@ -52,7 +52,7 @@
     "groupId": 23907
   },
   "OP01-OP01-004 normal": {
-    "lowPrice": 0.01,
+    "lowPrice": 0.09,
     "midPrice": 0.33,
     "highPrice": 25.0,
     "marketPrice": 0.21,
@@ -81,7 +81,7 @@
     "lowPrice": 0.25,
     "midPrice": 0.47,
     "highPrice": 0.59,
-    "marketPrice": 0.29,
+    "marketPrice": 0.3,
     "directLowPrice": null,
     "name": "Uta",
     "rarity": "R",
@@ -130,10 +130,10 @@
     "groupId": 23907
   },
   "OP01-OP01-013 normal": {
-    "lowPrice": 0.54,
-    "midPrice": 1.49,
+    "lowPrice": 0.57,
+    "midPrice": 1.44,
     "highPrice": 10.0,
-    "marketPrice": 0.93,
+    "marketPrice": 0.99,
     "directLowPrice": null,
     "name": "Sanji",
     "rarity": "R",
@@ -156,7 +156,7 @@
     "groupId": 23907
   },
   "OP01-OP01-016 normal": {
-    "lowPrice": 1.95,
+    "lowPrice": 1.93,
     "midPrice": 2.74,
     "highPrice": 4.99,
     "marketPrice": 2.98,
@@ -209,7 +209,7 @@
   },
   "OP02-OP02-015 normal": {
     "lowPrice": 0.43,
-    "midPrice": 0.57,
+    "midPrice": 0.56,
     "highPrice": 1.79,
     "marketPrice": 0.47,
     "directLowPrice": null,
@@ -260,7 +260,7 @@
     "groupId": 23907
   },
   "ST01-ST01-006 normal": {
-    "lowPrice": 0.26,
+    "lowPrice": 0.25,
     "midPrice": 0.5,
     "highPrice": 1.59,
     "marketPrice": 0.33,
@@ -416,8 +416,8 @@
     "groupId": 23907
   },
   "OP01-OP01-003 normal": {
-    "lowPrice": 2.73,
-    "midPrice": 6.9,
+    "lowPrice": 2.69,
+    "midPrice": 6.7,
     "highPrice": 100.0,
     "marketPrice": 3.24,
     "directLowPrice": null,
@@ -494,8 +494,8 @@
     "groupId": 23907
   },
   "OP01-OP01-029 normal": {
-    "lowPrice": 2.06,
-    "midPrice": 3.04,
+    "lowPrice": 2.0,
+    "midPrice": 2.97,
     "highPrice": 7.98,
     "marketPrice": 3.12,
     "directLowPrice": null,

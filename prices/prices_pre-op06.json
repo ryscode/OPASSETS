@@ -27,7 +27,7 @@
   },
   "OP06-OP06-004 normal": {
     "lowPrice": 0.14,
-    "midPrice": 0.49,
+    "midPrice": 0.43,
     "highPrice": 4.99,
     "marketPrice": 0.15,
     "directLowPrice": null,
@@ -157,7 +157,7 @@
   },
   "OP06-OP06-017 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.53,
+    "midPrice": 0.51,
     "highPrice": 4.99,
     "marketPrice": 0.41,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "OP06-OP06-026 normal": {
     "lowPrice": 0.22,
-    "midPrice": 0.67,
+    "midPrice": 0.66,
     "highPrice": 4.99,
     "marketPrice": 0.53,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "OP06-OP06-027 normal": {
     "lowPrice": 0.12,
-    "midPrice": 0.69,
+    "midPrice": 0.6,
     "highPrice": 19.92,
     "marketPrice": 0.17,
     "directLowPrice": null,
@@ -237,7 +237,7 @@
     "lowPrice": 0.25,
     "midPrice": 0.54,
     "highPrice": 3.52,
-    "marketPrice": 0.43,
+    "marketPrice": 0.41,
     "directLowPrice": null,
     "name": "Zeo",
     "rarity": "C",
@@ -261,7 +261,7 @@
   },
   "OP06-OP06-030 normal": {
     "lowPrice": 0.36,
-    "midPrice": 0.71,
+    "midPrice": 0.61,
     "highPrice": 32.0,
     "marketPrice": 0.39,
     "directLowPrice": null,
@@ -287,7 +287,7 @@
   },
   "OP06-OP06-032 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.9,
+    "midPrice": 0.72,
     "highPrice": 4.99,
     "marketPrice": 0.35,
     "directLowPrice": null,
@@ -363,6 +363,32 @@
     "description": "[Main] K.O. up to 2 of your opponent's rested Characters with a cost of 3 or less.\r\n<br>\r\n<br>\r\n<br>\r\n[Trigger] Activate this card's [Main] effect.",
     "groupId": 23424
   },
+  "OP06-OP06-048 normal": {
+    "lowPrice": 4.99,
+    "midPrice": 4.99,
+    "highPrice": 4.99,
+    "marketPrice": 1.87,
+    "directLowPrice": null,
+    "name": "Zeff",
+    "rarity": "C",
+    "power": "3000",
+    "cost": "3",
+    "life": null,
+    "category": "Character",
+    "colors": "Blue",
+    "attributes": "Strike",
+    "types": "East Blue",
+    "effect": null,
+    "trigger": null,
+    "counter": "1000",
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/541691_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[Your Turn] When your opponent activates [Blocker] or an Event, if your Leader has the [East Blue] type, you may trash 4 cards from the top of your deck.",
+    "groupId": 23424
+  },
   "OP06-OP06-049 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.49,
@@ -391,7 +417,7 @@
   },
   "OP06-OP06-052 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.5,
+    "midPrice": 0.49,
     "highPrice": 8.0,
     "marketPrice": 0.36,
     "directLowPrice": null,
@@ -417,9 +443,9 @@
   },
   "OP06-OP06-053 normal": {
     "lowPrice": 0.07,
-    "midPrice": 0.48,
+    "midPrice": 0.47,
     "highPrice": 3.13,
-    "marketPrice": 0.4,
+    "marketPrice": 0.41,
     "directLowPrice": null,
     "name": "Jaguar.D.Saul",
     "rarity": "C",
@@ -443,8 +469,8 @@
   },
   "OP06-OP06-055 normal": {
     "lowPrice": 0.5,
-    "midPrice": 2.25,
-    "highPrice": 13.96,
+    "midPrice": 2.0,
+    "highPrice": 16.95,
     "marketPrice": 0.61,
     "directLowPrice": null,
     "name": "Monkey.D.Garp",
@@ -469,7 +495,7 @@
   },
   "OP06-OP06-057 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.5,
+    "midPrice": 0.45,
     "highPrice": 2.0,
     "marketPrice": 0.38,
     "directLowPrice": null,
@@ -495,7 +521,7 @@
   },
   "OP06-OP06-060 normal": {
     "lowPrice": 1.9,
-    "midPrice": 2.36,
+    "midPrice": 2.34,
     "highPrice": 14.55,
     "marketPrice": 2.3,
     "directLowPrice": null,
@@ -521,7 +547,7 @@
   },
   "OP06-OP06-064 normal": {
     "lowPrice": 0.9,
-    "midPrice": 1.56,
+    "midPrice": 1.5,
     "highPrice": 9.88,
     "marketPrice": 1.0,
     "directLowPrice": null,
@@ -572,7 +598,7 @@
     "groupId": 23424
   },
   "OP06-OP06-068 normal": {
-    "lowPrice": 6.25,
+    "lowPrice": 5.93,
     "midPrice": 8.2,
     "highPrice": 20.01,
     "marketPrice": 6.59,
@@ -651,7 +677,7 @@
   },
   "OP06-OP06-075 normal": {
     "lowPrice": 0.19,
-    "midPrice": 0.51,
+    "midPrice": 0.5,
     "highPrice": 10.0,
     "marketPrice": 0.2,
     "directLowPrice": null,
@@ -677,7 +703,7 @@
   },
   "OP06-OP06-079 normal": {
     "lowPrice": 0.99,
-    "midPrice": 1.75,
+    "midPrice": 1.74,
     "highPrice": 36.99,
     "marketPrice": 1.58,
     "directLowPrice": null,
@@ -703,7 +729,7 @@
   },
   "OP06-OP06-082 normal": {
     "lowPrice": 1.11,
-    "midPrice": 3.0,
+    "midPrice": 2.69,
     "highPrice": 8.38,
     "marketPrice": 1.31,
     "directLowPrice": null,
@@ -807,7 +833,7 @@
   },
   "OP06-OP06-094 normal": {
     "lowPrice": 0.34,
-    "midPrice": 0.54,
+    "midPrice": 0.5,
     "highPrice": 3.21,
     "marketPrice": 0.44,
     "directLowPrice": null,
@@ -861,7 +887,7 @@
     "lowPrice": 3.3,
     "midPrice": 4.51,
     "highPrice": 20.0,
-    "marketPrice": 3.88,
+    "marketPrice": 4.1,
     "directLowPrice": null,
     "name": "Thriller Bark",
     "rarity": "C",
@@ -885,7 +911,7 @@
   },
   "OP06-OP06-099 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.93,
+    "midPrice": 0.8,
     "highPrice": 16.95,
     "marketPrice": 0.51,
     "directLowPrice": null,
@@ -937,7 +963,7 @@
   },
   "OP06-OP06-103 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.43,
+    "midPrice": 0.4,
     "highPrice": 3.0,
     "marketPrice": 0.36,
     "directLowPrice": null,
@@ -963,7 +989,7 @@
   },
   "OP06-OP06-105 normal": {
     "lowPrice": 0.5,
-    "midPrice": 1.0,
+    "midPrice": 0.99,
     "highPrice": 4.99,
     "marketPrice": 0.61,
     "directLowPrice": null,
@@ -989,7 +1015,7 @@
   },
   "OP06-OP06-108 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.59,
+    "midPrice": 0.51,
     "highPrice": 6.21,
     "marketPrice": 0.46,
     "directLowPrice": null,
@@ -1015,7 +1041,7 @@
   },
   "OP06-OP06-111 normal": {
     "lowPrice": 2.0,
-    "midPrice": 4.99,
+    "midPrice": 4.5,
     "highPrice": 13.0,
     "marketPrice": 3.39,
     "directLowPrice": null,
@@ -1041,7 +1067,7 @@
   },
   "OP06-OP06-112 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.8,
+    "midPrice": 0.62,
     "highPrice": 2.2,
     "marketPrice": 0.28,
     "directLowPrice": null,
@@ -1067,7 +1093,7 @@
   },
   "OP06-OP06-113 normal": {
     "lowPrice": 1.47,
-    "midPrice": 3.0,
+    "midPrice": 2.96,
     "highPrice": 24.95,
     "marketPrice": 1.55,
     "directLowPrice": null,
@@ -1094,7 +1120,7 @@
   "OP06-OP06-117 normal": {
     "lowPrice": 1.49,
     "midPrice": 2.99,
-    "highPrice": 7.58,
+    "highPrice": 12.7,
     "marketPrice": 2.54,
     "directLowPrice": null,
     "name": "The Ark Maxim",
@@ -1119,7 +1145,7 @@
   },
   "OP06-OP06-003 normal": {
     "lowPrice": 4.99,
-    "midPrice": 6.73,
+    "midPrice": 6.17,
     "highPrice": 136571.51,
     "marketPrice": 7.74,
     "directLowPrice": null,
@@ -1145,7 +1171,7 @@
   },
   "OP06-OP06-006 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.81,
+    "midPrice": 1.04,
     "highPrice": 5.25,
     "marketPrice": 0.85,
     "directLowPrice": null,
@@ -1301,7 +1327,7 @@
   },
   "OP06-OP06-031 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.68,
+    "midPrice": 0.65,
     "highPrice": 5.0,
     "marketPrice": 0.65,
     "directLowPrice": null,
@@ -1328,7 +1354,7 @@
   "OP06-OP06-034 normal": {
     "lowPrice": 0.84,
     "midPrice": 1.8,
-    "highPrice": 8.88,
+    "highPrice": 4.0,
     "marketPrice": 0.85,
     "directLowPrice": null,
     "name": "Hyouzou",
@@ -1353,7 +1379,7 @@
   },
   "OP06-OP06-038 normal": {
     "lowPrice": 2.0,
-    "midPrice": 5.32,
+    "midPrice": 5.3,
     "highPrice": 13.76,
     "marketPrice": 1.26,
     "directLowPrice": null,
@@ -1405,7 +1431,7 @@
   },
   "OP06-OP06-045 normal": {
     "lowPrice": 0.99,
-    "midPrice": 3.05,
+    "midPrice": 2.79,
     "highPrice": 5.0,
     "marketPrice": 1.27,
     "directLowPrice": null,
@@ -1433,7 +1459,7 @@
     "lowPrice": 0.9,
     "midPrice": 1.99,
     "highPrice": 4.0,
-    "marketPrice": 0.67,
+    "marketPrice": 0.63,
     "directLowPrice": null,
     "name": "Sakazuki",
     "rarity": "UC",
@@ -1457,7 +1483,7 @@
   },
   "OP06-OP06-054 normal": {
     "lowPrice": 0.5,
-    "midPrice": 1.65,
+    "midPrice": 1.02,
     "highPrice": 45.0,
     "marketPrice": 0.62,
     "directLowPrice": null,
@@ -1483,7 +1509,7 @@
   },
   "OP06-OP06-056 normal": {
     "lowPrice": 0.9,
-    "midPrice": 1.3,
+    "midPrice": 1.41,
     "highPrice": 18.21,
     "marketPrice": 1.08,
     "directLowPrice": null,
@@ -1535,7 +1561,7 @@
   },
   "OP06-OP06-063 normal": {
     "lowPrice": 6.0,
-    "midPrice": 9.75,
+    "midPrice": 9.16,
     "highPrice": 24.38,
     "marketPrice": 8.49,
     "directLowPrice": null,
@@ -1613,7 +1639,7 @@
   },
   "OP06-OP06-076 normal": {
     "lowPrice": 4.6,
-    "midPrice": 5.91,
+    "midPrice": 5.9,
     "highPrice": 13.0,
     "marketPrice": 5.69,
     "directLowPrice": null,
@@ -1639,7 +1665,7 @@
   },
   "OP06-OP06-078 normal": {
     "lowPrice": 4.75,
-    "midPrice": 6.02,
+    "midPrice": 6.0,
     "highPrice": 15.52,
     "marketPrice": 5.92,
     "directLowPrice": null,
@@ -1665,7 +1691,7 @@
   },
   "OP06-OP06-083 normal": {
     "lowPrice": 1.2,
-    "midPrice": 2.27,
+    "midPrice": 2.3,
     "highPrice": 3.0,
     "marketPrice": 1.43,
     "directLowPrice": null,
@@ -1743,7 +1769,7 @@
   },
   "OP06-OP06-091 normal": {
     "lowPrice": 4.0,
-    "midPrice": 5.2,
+    "midPrice": 5.25,
     "highPrice": 14.59,
     "marketPrice": 3.0,
     "directLowPrice": null,
@@ -1771,7 +1797,7 @@
     "lowPrice": 1.72,
     "midPrice": 4.29,
     "highPrice": 14.95,
-    "marketPrice": 1.07,
+    "marketPrice": 1.09,
     "directLowPrice": null,
     "name": "Shadows Asgard",
     "rarity": "UC",
@@ -1795,7 +1821,7 @@
   },
   "OP06-OP06-100 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.41,
+    "midPrice": 1.38,
     "highPrice": 7.0,
     "marketPrice": 0.94,
     "directLowPrice": null,
@@ -1847,7 +1873,7 @@
   },
   "OP06-OP06-110 normal": {
     "lowPrice": 1.42,
-    "midPrice": 1.81,
+    "midPrice": 1.72,
     "highPrice": 4.99,
     "marketPrice": 1.44,
     "directLowPrice": null,

@@ -1,7 +1,7 @@
 {
   "OP02-OP02-003 normal": {
     "lowPrice": 1.75,
-    "midPrice": 1.99,
+    "midPrice": 2.0,
     "highPrice": 7.99,
     "marketPrice": 1.84,
     "directLowPrice": null,
@@ -105,7 +105,7 @@
   },
   "OP02-OP02-053 normal": {
     "lowPrice": 2.0,
-    "midPrice": 3.55,
+    "midPrice": 3.54,
     "highPrice": 9.99,
     "marketPrice": 3.05,
     "directLowPrice": null,
@@ -236,7 +236,7 @@
   "OP02-OP02-081 normal": {
     "lowPrice": 1.5,
     "midPrice": 2.6,
-    "highPrice": 33.91,
+    "highPrice": 35.14,
     "marketPrice": 2.5,
     "directLowPrice": null,
     "name": "Domino",
@@ -287,7 +287,7 @@
   },
   "OP02-OP02-055 normal": {
     "lowPrice": 38.75,
-    "midPrice": 39.99,
+    "midPrice": 39.97,
     "highPrice": 60.0,
     "marketPrice": 6.24,
     "directLowPrice": null,
@@ -495,7 +495,7 @@
   },
   "OP02-OP02-033 normal": {
     "lowPrice": 16.54,
-    "midPrice": 29.5,
+    "midPrice": 20.97,
     "highPrice": 39.0,
     "marketPrice": 2.05,
     "directLowPrice": null,
@@ -523,7 +523,7 @@
     "lowPrice": 1.93,
     "midPrice": 2.45,
     "highPrice": 11.99,
-    "marketPrice": 2.25,
+    "marketPrice": 2.23,
     "directLowPrice": null,
     "name": "Kingdew",
     "rarity": "C",
@@ -547,7 +547,7 @@
   },
   "OP02-OP02-097 normal": {
     "lowPrice": 0.29,
-    "midPrice": 0.56,
+    "midPrice": 0.51,
     "highPrice": 13.95,
     "marketPrice": 0.51,
     "directLowPrice": null,
@@ -650,7 +650,7 @@
     "groupId": 22934
   },
   "OP02-OP02-024 normal": {
-    "lowPrice": 39.0,
+    "lowPrice": 35.0,
     "midPrice": 55.0,
     "highPrice": 299.99,
     "marketPrice": 19.67,
@@ -703,7 +703,7 @@
   },
   "OP02-OP02-038 normal": {
     "lowPrice": 3.69,
-    "midPrice": 4.99,
+    "midPrice": 5.0,
     "highPrice": 33.0,
     "marketPrice": 4.94,
     "directLowPrice": null,
@@ -729,7 +729,7 @@
   },
   "OP02-OP02-070 normal": {
     "lowPrice": 2.95,
-    "midPrice": 3.55,
+    "midPrice": 3.44,
     "highPrice": 10.0,
     "marketPrice": 2.46,
     "directLowPrice": null,
@@ -754,8 +754,8 @@
     "groupId": 22934
   },
   "OP02-OP02-043 normal": {
-    "lowPrice": 43.96,
-    "midPrice": 48.49,
+    "lowPrice": 40.0,
+    "midPrice": 46.99,
     "highPrice": 75.0,
     "marketPrice": 13.87,
     "directLowPrice": null,
@@ -781,7 +781,7 @@
   },
   "OP02-OP02-074 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.63,
+    "midPrice": 0.61,
     "highPrice": 3.1,
     "marketPrice": 0.67,
     "directLowPrice": null,
@@ -909,32 +909,6 @@
     "description": "[When Attacking] If there is a Character with a cost of 0, your opponent cannot activate the [Blocker] of any Character with a cost of 5 or less during this battle.",
     "groupId": 22934
   },
-  "OP02-OP02-105 normal": {
-    "lowPrice": 4.99,
-    "midPrice": 4.99,
-    "highPrice": 4.99,
-    "marketPrice": 1.49,
-    "directLowPrice": null,
-    "name": "Tashigi",
-    "rarity": "C",
-    "power": "5000",
-    "cost": "3",
-    "life": null,
-    "category": "Character",
-    "colors": "Black",
-    "attributes": "Slash",
-    "types": "Navy",
-    "effect": "yes",
-    "trigger": null,
-    "counter": null,
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/486688_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Character",
-    "description": "[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters -3 cost during this turn.",
-    "groupId": 22934
-  },
   "OP02-OP02-007 normal": {
     "lowPrice": 2.89,
     "midPrice": 4.99,
@@ -962,8 +936,8 @@
     "groupId": 22934
   },
   "OP02-OP02-045 normal": {
-    "lowPrice": 2.06,
-    "midPrice": 2.56,
+    "lowPrice": 2.09,
+    "midPrice": 2.57,
     "highPrice": 35.0,
     "marketPrice": 2.21,
     "directLowPrice": null,
@@ -988,10 +962,10 @@
     "groupId": 22934
   },
   "OP02-OP02-035 normal": {
-    "lowPrice": 10.99,
-    "midPrice": 15.31,
+    "lowPrice": 10.0,
+    "midPrice": 12.62,
     "highPrice": 35.0,
-    "marketPrice": 4.7,
+    "marketPrice": 4.74,
     "directLowPrice": null,
     "name": "Trafalgar Law",
     "rarity": "C",
@@ -1015,7 +989,7 @@
   },
   "OP02-OP02-028 normal": {
     "lowPrice": 4.07,
-    "midPrice": 7.46,
+    "midPrice": 7.99,
     "highPrice": 22.0,
     "marketPrice": 5.28,
     "directLowPrice": null,
@@ -1041,7 +1015,7 @@
   },
   "OP02-OP02-091 normal": {
     "lowPrice": 0.45,
-    "midPrice": 1.58,
+    "midPrice": 1.42,
     "highPrice": 99.0,
     "marketPrice": 0.63,
     "directLowPrice": null,
@@ -1093,7 +1067,7 @@
   },
   "OP02-OP02-116 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.47,
+    "midPrice": 0.48,
     "highPrice": 1234.0,
     "marketPrice": 0.39,
     "directLowPrice": null,
@@ -1171,7 +1145,7 @@
   },
   "OP02-OP02-067 normal": {
     "lowPrice": 2.0,
-    "midPrice": 3.09,
+    "midPrice": 3.28,
     "highPrice": 15.98,
     "marketPrice": 3.76,
     "directLowPrice": null,
@@ -1248,10 +1222,10 @@
     "groupId": 22934
   },
   "OP02-OP02-059 normal": {
-    "lowPrice": 33.9,
-    "midPrice": 97.0,
+    "lowPrice": 31.0,
+    "midPrice": 160.0,
     "highPrice": 250.0,
-    "marketPrice": 32.51,
+    "marketPrice": 32.67,
     "directLowPrice": null,
     "name": "Boa Hancock",
     "rarity": "UC",
@@ -1301,7 +1275,7 @@
   },
   "OP02-OP02-005 normal": {
     "lowPrice": 0.93,
-    "midPrice": 2.17,
+    "midPrice": 1.99,
     "highPrice": 10.0,
     "marketPrice": 1.09,
     "directLowPrice": null,
@@ -1431,7 +1405,7 @@
   },
   "OP02-OP02-113 normal": {
     "lowPrice": 0.7,
-    "midPrice": 1.19,
+    "midPrice": 1.14,
     "highPrice": 15.95,
     "marketPrice": 0.99,
     "directLowPrice": null,
@@ -1457,7 +1431,7 @@
   },
   "OP02-OP02-090 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.6,
+    "midPrice": 1.7,
     "highPrice": 1248.95,
     "marketPrice": 0.61,
     "directLowPrice": null,
@@ -1561,7 +1535,7 @@
   },
   "OP02-OP02-031 normal": {
     "lowPrice": 1.25,
-    "midPrice": 3.4,
+    "midPrice": 4.09,
     "highPrice": 16.0,
     "marketPrice": 1.21,
     "directLowPrice": null,
@@ -1587,7 +1561,7 @@
   },
   "OP02-OP02-015 normal": {
     "lowPrice": 4.29,
-    "midPrice": 5.75,
+    "midPrice": 5.63,
     "highPrice": 20.75,
     "marketPrice": 4.67,
     "directLowPrice": null,
@@ -1612,7 +1586,7 @@
     "groupId": 22934
   },
   "OP02-OP02-086 normal": {
-    "lowPrice": 0.47,
+    "lowPrice": 0.43,
     "midPrice": 0.6,
     "highPrice": 2.0,
     "marketPrice": 0.56,
@@ -1716,10 +1690,10 @@
     "groupId": 22934
   },
   "OP02-OP02-037 normal": {
-    "lowPrice": 16.66,
-    "midPrice": 18.1,
+    "lowPrice": 13.65,
+    "midPrice": 18.0,
     "highPrice": 100.0,
-    "marketPrice": 18.4,
+    "marketPrice": 17.99,
     "directLowPrice": null,
     "name": "Nico Robin",
     "rarity": "UC",
@@ -1795,7 +1769,7 @@
   },
   "OP02-OP02-032 normal": {
     "lowPrice": 2.45,
-    "midPrice": 2.87,
+    "midPrice": 2.86,
     "highPrice": 2987.59,
     "marketPrice": 2.59,
     "directLowPrice": null,
@@ -1872,7 +1846,7 @@
     "groupId": 22934
   },
   "OP02-OP02-106 normal": {
-    "lowPrice": 1.48,
+    "lowPrice": 1.17,
     "midPrice": 2.62,
     "highPrice": 22.0,
     "marketPrice": 2.26,
@@ -1899,7 +1873,7 @@
   },
   "OP02-OP02-022 normal": {
     "lowPrice": 2.99,
-    "midPrice": 3.57,
+    "midPrice": 3.58,
     "highPrice": 25.93,
     "marketPrice": 3.41,
     "directLowPrice": null,

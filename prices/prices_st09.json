@@ -1,9 +1,9 @@
 {
   "ST09-ST09-001 normal": {
-    "lowPrice": 3.0,
-    "midPrice": 4.04,
+    "lowPrice": 2.99,
+    "midPrice": 4.0,
     "highPrice": 10.0,
-    "marketPrice": 3.55,
+    "marketPrice": 3.52,
     "directLowPrice": null,
     "name": "Yamato (001)",
     "rarity": "L",
@@ -52,10 +52,10 @@
     "groupId": 22957
   },
   "ST09-ST09-005 normal": {
-    "lowPrice": 0.8,
-    "midPrice": 1.19,
+    "lowPrice": 0.7,
+    "midPrice": 1.17,
     "highPrice": 1025.0,
-    "marketPrice": 0.95,
+    "marketPrice": 1.0,
     "directLowPrice": null,
     "name": "Kouzuki Oden",
     "rarity": "SR",
@@ -104,7 +104,7 @@
     "groupId": 22957
   },
   "ST09-ST09-008 normal": {
-    "lowPrice": 0.03,
+    "lowPrice": 0.04,
     "midPrice": 0.15,
     "highPrice": 1.98,
     "marketPrice": 0.07,
@@ -339,7 +339,7 @@
   },
   "ST09-ST09-003 normal": {
     "lowPrice": 0.08,
-    "midPrice": 0.21,
+    "midPrice": 0.2,
     "highPrice": 5.0,
     "marketPrice": 0.19,
     "directLowPrice": null,

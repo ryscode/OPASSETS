@@ -28,7 +28,7 @@
   "OP03-OP03-006 normal": {
     "lowPrice": 0.34,
     "midPrice": 0.85,
-    "highPrice": 12.1,
+    "highPrice": 15.09,
     "marketPrice": 0.34,
     "directLowPrice": null,
     "name": "Speed Jil",
@@ -183,7 +183,7 @@
   },
   "OP03-OP03-023 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.51,
+    "midPrice": 0.52,
     "highPrice": 25.92,
     "marketPrice": 0.52,
     "directLowPrice": null,
@@ -260,7 +260,7 @@
     "groupId": 23232
   },
   "OP03-OP03-032 normal": {
-    "lowPrice": 4.81,
+    "lowPrice": 3.37,
     "midPrice": 9.9,
     "highPrice": 250.0,
     "marketPrice": 3.06,
@@ -313,7 +313,7 @@
   },
   "OP03-OP03-036 normal": {
     "lowPrice": 0.5,
-    "midPrice": 1.1,
+    "midPrice": 1.05,
     "highPrice": 25.92,
     "marketPrice": 0.74,
     "directLowPrice": null,
@@ -469,7 +469,7 @@
   },
   "OP03-OP03-053 normal": {
     "lowPrice": 1.99,
-    "midPrice": 2.74,
+    "midPrice": 3.28,
     "highPrice": 3.49,
     "marketPrice": 0.54,
     "directLowPrice": null,
@@ -491,32 +491,6 @@
     "finish": null,
     "cardType": "Character",
     "description": "[DON!! x1] If you have 20 or less cards in your deck, this Character gains +2000 power.",
-    "groupId": 23232
-  },
-  "OP03-OP03-054 normal": {
-    "lowPrice": 12.89,
-    "midPrice": 12.89,
-    "highPrice": 12.89,
-    "marketPrice": 5.94,
-    "directLowPrice": null,
-    "name": "Usopp's Rubber Band of Doom!!!",
-    "rarity": "C",
-    "power": null,
-    "cost": "1",
-    "life": null,
-    "category": "Event",
-    "colors": "Blue",
-    "attributes": null,
-    "types": "Straw Hat Crew;East Blue",
-    "effect": null,
-    "trigger": "yes",
-    "counter": null,
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/501665_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Event",
-    "description": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, you may trash 1 card from the top of your deck.\r\n<br>\r\n[Trigger] Draw 1 card and you may trash 1 card from the top of your deck.",
     "groupId": 23232
   },
   "OP03-OP03-055 normal": {
@@ -729,7 +703,7 @@
   },
   "OP03-OP03-082 normal": {
     "lowPrice": 0.48,
-    "midPrice": 1.61,
+    "midPrice": 1.62,
     "highPrice": 19.99,
     "marketPrice": 0.86,
     "directLowPrice": null,
@@ -807,7 +781,7 @@
   },
   "OP03-OP03-085 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.73,
+    "midPrice": 0.76,
     "highPrice": 9.0,
     "marketPrice": 0.53,
     "directLowPrice": null,
@@ -885,7 +859,7 @@
   },
   "OP03-OP03-095 normal": {
     "lowPrice": 3.0,
-    "midPrice": 4.25,
+    "midPrice": 4.52,
     "highPrice": 30.0,
     "marketPrice": 4.11,
     "directLowPrice": null,
@@ -1041,7 +1015,7 @@
   },
   "OP03-OP03-109 normal": {
     "lowPrice": 0.22,
-    "midPrice": 0.8,
+    "midPrice": 0.82,
     "highPrice": 4.99,
     "marketPrice": 0.45,
     "directLowPrice": null,
@@ -1093,7 +1067,7 @@
   },
   "OP03-OP03-120 normal": {
     "lowPrice": 0.85,
-    "midPrice": 2.31,
+    "midPrice": 2.34,
     "highPrice": 13.15,
     "marketPrice": 1.69,
     "directLowPrice": null,
@@ -1119,7 +1093,7 @@
   },
   "OP03-OP03-121 normal": {
     "lowPrice": 0.98,
-    "midPrice": 1.32,
+    "midPrice": 1.33,
     "highPrice": 5.95,
     "marketPrice": 1.22,
     "directLowPrice": null,
@@ -1275,9 +1249,9 @@
   },
   "OP03-OP03-014 normal": {
     "lowPrice": 9.99,
-    "midPrice": 14.89,
+    "midPrice": 15.29,
     "highPrice": 19.2,
-    "marketPrice": 14.12,
+    "marketPrice": 14.31,
     "directLowPrice": null,
     "name": "Monkey.D.Garp",
     "rarity": "UC",
@@ -1379,7 +1353,7 @@
   },
   "OP03-OP03-029 normal": {
     "lowPrice": 2.42,
-    "midPrice": 2.56,
+    "midPrice": 2.49,
     "highPrice": 3.0,
     "marketPrice": 2.26,
     "directLowPrice": null,
@@ -1431,7 +1405,7 @@
   },
   "OP03-OP03-034 normal": {
     "lowPrice": 1.48,
-    "midPrice": 1.74,
+    "midPrice": 1.67,
     "highPrice": 25.92,
     "marketPrice": 1.48,
     "directLowPrice": null,
@@ -1457,7 +1431,7 @@
   },
   "OP03-OP03-039 normal": {
     "lowPrice": 1.45,
-    "midPrice": 2.23,
+    "midPrice": 2.33,
     "highPrice": 21.38,
     "marketPrice": 1.63,
     "directLowPrice": null,
@@ -1483,7 +1457,7 @@
   },
   "OP03-OP03-045 normal": {
     "lowPrice": 4.99,
-    "midPrice": 10.0,
+    "midPrice": 11.98,
     "highPrice": 55.0,
     "marketPrice": 0.96,
     "directLowPrice": null,
@@ -1561,8 +1535,8 @@
   },
   "OP03-OP03-050 normal": {
     "lowPrice": 3.0,
-    "midPrice": 4.19,
-    "highPrice": 5.13,
+    "midPrice": 4.37,
+    "highPrice": 5.34,
     "marketPrice": 3.2,
     "directLowPrice": null,
     "name": "Boodle",
@@ -1717,7 +1691,7 @@
   },
   "OP03-OP03-074 normal": {
     "lowPrice": 11.63,
-    "midPrice": 14.89,
+    "midPrice": 14.45,
     "highPrice": 50.0,
     "marketPrice": 12.95,
     "directLowPrice": null,
@@ -1742,10 +1716,10 @@
     "groupId": 23232
   },
   "OP03-OP03-079 normal": {
-    "lowPrice": 1.39,
-    "midPrice": 1.49,
+    "lowPrice": 1.48,
+    "midPrice": 1.57,
     "highPrice": 25.0,
-    "marketPrice": 1.65,
+    "marketPrice": 1.58,
     "directLowPrice": null,
     "name": "Vergo",
     "rarity": "UC",
@@ -1769,7 +1743,7 @@
   },
   "OP03-OP03-088 normal": {
     "lowPrice": 2.04,
-    "midPrice": 2.9,
+    "midPrice": 2.86,
     "highPrice": 19.23,
     "marketPrice": 2.4,
     "directLowPrice": null,
@@ -1951,8 +1925,8 @@
   },
   "OP03-OP03-117 normal": {
     "lowPrice": 1.02,
-    "midPrice": 1.65,
-    "highPrice": 3.0,
+    "midPrice": 2.07,
+    "highPrice": 64.99,
     "marketPrice": 1.04,
     "directLowPrice": null,
     "name": "Napoleon",
@@ -1977,7 +1951,7 @@
   },
   "OP03-OP03-118 normal": {
     "lowPrice": 3.6,
-    "midPrice": 4.91,
+    "midPrice": 4.65,
     "highPrice": 19.24,
     "marketPrice": 4.91,
     "directLowPrice": null,

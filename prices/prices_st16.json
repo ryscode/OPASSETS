@@ -1,7 +1,7 @@
 {
   "P-P-029 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.23,
+    "midPrice": 0.25,
     "highPrice": 5.0,
     "marketPrice": 0.18,
     "directLowPrice": null,
@@ -79,7 +79,7 @@
   },
   "P-P-059 normal": {
     "lowPrice": 0.07,
-    "midPrice": 0.18,
+    "midPrice": 0.19,
     "highPrice": 5.0,
     "marketPrice": 0.15,
     "directLowPrice": null,
@@ -105,9 +105,9 @@
   },
   "P-P-060 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.19,
+    "midPrice": 0.18,
     "highPrice": 5.0,
-    "marketPrice": 0.19,
+    "marketPrice": 0.18,
     "directLowPrice": null,
     "name": "Tot Musica",
     "rarity": "PR",
@@ -130,10 +130,10 @@
     "groupId": 23491
   },
   "P-P-061 normal": {
-    "lowPrice": 0.2,
+    "lowPrice": 0.19,
     "midPrice": 1.95,
     "highPrice": 20.0,
-    "marketPrice": 1.55,
+    "marketPrice": 1.54,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (P-061)",
     "rarity": "PR",
@@ -157,9 +157,9 @@
   },
   "ST11-ST11-001 normal": {
     "lowPrice": 0.63,
-    "midPrice": 1.5,
+    "midPrice": 1.63,
     "highPrice": 25.0,
-    "marketPrice": 1.17,
+    "marketPrice": 1.19,
     "directLowPrice": null,
     "name": "Uta (ST11-001)",
     "rarity": "L",
@@ -183,7 +183,7 @@
   },
   "ST11-ST11-003 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.18,
+    "midPrice": 0.19,
     "highPrice": 1.98,
     "marketPrice": 0.18,
     "directLowPrice": null,
@@ -237,7 +237,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.21,
     "highPrice": 1.98,
-    "marketPrice": 0.21,
+    "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "I'm invincible",
     "rarity": "C",
@@ -261,9 +261,9 @@
   },
   "ST16-ST16-001 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.64,
+    "midPrice": 0.65,
     "highPrice": 9.9,
-    "marketPrice": 0.5,
+    "marketPrice": 0.52,
     "directLowPrice": null,
     "name": "Uta (ST16-001)",
     "rarity": "SR",
@@ -341,7 +341,7 @@
     "lowPrice": 1.99,
     "midPrice": 3.96,
     "highPrice": 10.0,
-    "marketPrice": 3.14,
+    "marketPrice": 3.56,
     "directLowPrice": null,
     "name": "Shanks",
     "rarity": "SR",

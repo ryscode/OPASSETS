@@ -27,7 +27,7 @@
   },
   "OP05-OP05-004 normal": {
     "lowPrice": 29.99,
-    "midPrice": 32.01,
+    "midPrice": 31.99,
     "highPrice": 34.92,
     "marketPrice": 32.03,
     "directLowPrice": null,
@@ -53,7 +53,7 @@
   },
   "OP05-OP05-008 normal": {
     "lowPrice": 7.92,
-    "midPrice": 9.57,
+    "midPrice": 9.32,
     "highPrice": 30.0,
     "marketPrice": 9.32,
     "directLowPrice": null,
@@ -156,7 +156,7 @@
     "groupId": 23368
   },
   "OP05-OP05-012 normal": {
-    "lowPrice": 0.98,
+    "lowPrice": 1.61,
     "midPrice": 2.1,
     "highPrice": 2.25,
     "marketPrice": 1.73,
@@ -209,7 +209,7 @@
   },
   "OP05-OP05-014 normal": {
     "lowPrice": 1.0,
-    "midPrice": 1.6,
+    "midPrice": 1.5,
     "highPrice": 10.0,
     "marketPrice": 1.07,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "OP05-OP05-018 normal": {
     "lowPrice": 4.03,
-    "midPrice": 6.67,
+    "midPrice": 6.7,
     "highPrice": 100.0,
     "marketPrice": 4.27,
     "directLowPrice": null,
@@ -442,10 +442,10 @@
     "groupId": 23368
   },
   "OP05-OP05-029 normal": {
-    "lowPrice": 19.95,
-    "midPrice": 25.0,
+    "lowPrice": 25.0,
+    "midPrice": 30.0,
     "highPrice": 35.0,
-    "marketPrice": 13.61,
+    "marketPrice": 13.75,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo (029)",
     "rarity": "UC",
@@ -547,7 +547,7 @@
   },
   "OP05-OP05-036 normal": {
     "lowPrice": 4.0,
-    "midPrice": 10.25,
+    "midPrice": 9.0,
     "highPrice": 50.0,
     "marketPrice": 4.5,
     "directLowPrice": null,
@@ -573,7 +573,7 @@
   },
   "OP05-OP05-038 normal": {
     "lowPrice": 19.98,
-    "midPrice": 22.24,
+    "midPrice": 22.45,
     "highPrice": 30.0,
     "marketPrice": 6.32,
     "directLowPrice": null,
@@ -599,8 +599,8 @@
   },
   "OP05-OP05-039 normal": {
     "lowPrice": 9.0,
-    "midPrice": 12.06,
-    "highPrice": 15.12,
+    "midPrice": 12.94,
+    "highPrice": 16.88,
     "marketPrice": 3.53,
     "directLowPrice": null,
     "name": "Stick-Stickem Meteora",
@@ -625,7 +625,7 @@
   },
   "OP05-OP05-040 normal": {
     "lowPrice": 4.95,
-    "midPrice": 6.0,
+    "midPrice": 5.88,
     "highPrice": 10.99,
     "marketPrice": 6.25,
     "directLowPrice": null,
@@ -806,8 +806,8 @@
     "groupId": 23368
   },
   "OP05-OP05-052 normal": {
-    "lowPrice": 1.69,
-    "midPrice": 2.85,
+    "lowPrice": 2.18,
+    "midPrice": 3.93,
     "highPrice": 50.0,
     "marketPrice": 2.42,
     "directLowPrice": null,
@@ -829,6 +829,32 @@
     "finish": null,
     "cardType": "Character",
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
+    "groupId": 23368
+  },
+  "OP05-OP05-054 normal": {
+    "lowPrice": 125.0,
+    "midPrice": 125.0,
+    "highPrice": 125.0,
+    "marketPrice": 45.55,
+    "directLowPrice": null,
+    "name": "Monkey.D.Garp",
+    "rarity": "UC",
+    "power": "3000",
+    "cost": "3",
+    "life": null,
+    "category": "Character",
+    "colors": "Blue",
+    "attributes": "Strike",
+    "types": "Navy",
+    "effect": "yes",
+    "trigger": null,
+    "counter": "2000",
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/530922_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[On Play] Draw 2 cards and place 2 cards from your hand at the bottom of your deck in any order.",
     "groupId": 23368
   },
   "OP05-OP05-056 normal": {
@@ -989,7 +1015,7 @@
   },
   "OP05-OP05-065 normal": {
     "lowPrice": 30.0,
-    "midPrice": 33.84,
+    "midPrice": 35.0,
     "highPrice": 100.0,
     "marketPrice": 19.21,
     "directLowPrice": null,
@@ -1250,7 +1276,7 @@
   "OP05-OP05-080 normal": {
     "lowPrice": 5.99,
     "midPrice": 6.0,
-    "highPrice": 6.0,
+    "highPrice": 8.0,
     "marketPrice": 7.61,
     "directLowPrice": null,
     "name": "Elizabello II",
@@ -1327,7 +1353,7 @@
   },
   "OP05-OP05-084 normal": {
     "lowPrice": 3.07,
-    "midPrice": 5.6,
+    "midPrice": 5.63,
     "highPrice": 40.0,
     "marketPrice": 5.53,
     "directLowPrice": null,
@@ -1378,8 +1404,8 @@
     "groupId": 23368
   },
   "OP05-OP05-089 normal": {
-    "lowPrice": 3.07,
-    "midPrice": 4.35,
+    "lowPrice": 3.01,
+    "midPrice": 4.34,
     "highPrice": 50.0,
     "marketPrice": 4.29,
     "directLowPrice": null,
@@ -1431,7 +1457,7 @@
   },
   "OP05-OP05-092 normal": {
     "lowPrice": 2.0,
-    "midPrice": 3.18,
+    "midPrice": 3.25,
     "highPrice": 15.0,
     "marketPrice": 3.06,
     "directLowPrice": null,
@@ -1483,7 +1509,7 @@
   },
   "OP05-OP05-096 normal": {
     "lowPrice": 14.16,
-    "midPrice": 19.37,
+    "midPrice": 17.98,
     "highPrice": 50.0,
     "marketPrice": null,
     "directLowPrice": null,
@@ -1639,7 +1665,7 @@
   },
   "OP05-OP05-108 normal": {
     "lowPrice": 0.5,
-    "midPrice": 2.94,
+    "midPrice": 2.97,
     "highPrice": 14.99,
     "marketPrice": 0.6,
     "directLowPrice": null,
@@ -1665,7 +1691,7 @@
   },
   "OP05-OP05-110 normal": {
     "lowPrice": 10.0,
-    "midPrice": 12.1,
+    "midPrice": 12.0,
     "highPrice": 50.0,
     "marketPrice": 10.57,
     "directLowPrice": null,
@@ -1716,7 +1742,7 @@
     "groupId": 23368
   },
   "OP05-OP05-112 normal": {
-    "lowPrice": 0.4,
+    "lowPrice": 0.39,
     "midPrice": 0.75,
     "highPrice": 3.44,
     "marketPrice": 0.68,
@@ -1768,7 +1794,7 @@
     "groupId": 23368
   },
   "OP05-OP05-114 normal": {
-    "lowPrice": 3.12,
+    "lowPrice": 3.82,
     "midPrice": 7.62,
     "highPrice": 19.0,
     "marketPrice": 3.82,

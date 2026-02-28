@@ -3,7 +3,7 @@
   "market": 18,
   "expansionId": 5598,
   "expansionName": "Unknown OP01",
-  "count": 43,
+  "count": 44,
   "priceGuides": [
     {
       "idProduct": 696703,
@@ -699,6 +699,18 @@
       "avg7": null,
       "avg30": null,
       "productName": "Makino (OP02-015)",
+      "productCategoryName": "One Piece Single"
+    },
+    {
+      "idProduct": 874396,
+      "idCategory": 1621,
+      "avg": null,
+      "low": null,
+      "trend": null,
+      "avg1": null,
+      "avg7": null,
+      "avg30": null,
+      "productName": "Tashigi (OP12-031)",
       "productCategoryName": "One Piece Single"
     }
   ]

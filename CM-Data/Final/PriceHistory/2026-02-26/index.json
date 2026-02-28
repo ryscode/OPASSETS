@@ -41,7 +41,7 @@
     {
       "expansionId": 5244,
       "expansionName": "ST01-ST04: Deck Set",
-      "count": 255,
+      "count": 259,
       "file": "m18_expansion_5244_st01_st04_deck_set.json"
     },
     {
@@ -53,7 +53,7 @@
     {
       "expansionId": 5262,
       "expansionName": "DON!! Card Pack Vol.1",
-      "count": 404,
+      "count": 405,
       "file": "m18_expansion_5262_don_card_pack_vol_1.json"
     },
     {
@@ -89,7 +89,7 @@
     {
       "expansionId": 5303,
       "expansionName": "Kingdoms of Intrigue Dash Pack",
-      "count": 373,
+      "count": 374,
       "file": "m18_expansion_5303_kingdoms_of_intrigue_dash_pack.json"
     },
     {
@@ -191,7 +191,7 @@
     {
       "expansionId": 5510,
       "expansionName": "Chinese New Year Red Envelope - Roronoa Zoro",
-      "count": 325,
+      "count": 336,
       "file": "m18_expansion_5510_chinese_new_year_red_envelope_roronoa_zoro.json"
     },
     {
@@ -281,7 +281,7 @@
     {
       "expansionId": 5598,
       "expansionName": "Unknown OP01",
-      "count": 43,
+      "count": 44,
       "file": "m18_expansion_5598_unknown_op01.json"
     },
     {
@@ -677,7 +677,7 @@
     {
       "expansionId": 6432,
       "expansionName": "Carrying on his Will",
-      "count": 214,
+      "count": 215,
       "file": "m18_expansion_6432_carrying_on_his_will.json"
     },
     {
@@ -701,7 +701,7 @@
     {
       "expansionId": 6449,
       "expansionName": "Heroines Edition",
-      "count": 104,
+      "count": 109,
       "file": "m18_expansion_6449_heroines_edition.json"
     },
     {
@@ -735,10 +735,10 @@
       "file": "m18_expansion_6498_unknown_op01.json"
     },
     {
-      "expansionId": null,
-      "expansionName": null,
-      "count": 29,
-      "file": "m18_expansion_unknown.json"
+      "expansionId": 6501,
+      "expansionName": "Unknown OP01",
+      "count": 5,
+      "file": "m18_expansion_6501_unknown_op01.json"
     }
   ]
 }

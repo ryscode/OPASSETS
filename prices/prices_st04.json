@@ -54,7 +54,7 @@
   "ST04-ST04-003 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.5,
-    "highPrice": 15.33,
+    "highPrice": 12.0,
     "marketPrice": 0.33,
     "directLowPrice": null,
     "name": "Kaido (003)",
@@ -131,7 +131,7 @@
   },
   "ST04-ST04-006 normal": {
     "lowPrice": 0.04,
-    "midPrice": 0.17,
+    "midPrice": 0.19,
     "highPrice": 1.35,
     "marketPrice": 0.15,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "ST04-ST04-008 normal": {
     "lowPrice": 0.04,
-    "midPrice": 0.2,
+    "midPrice": 0.21,
     "highPrice": 2.0,
     "marketPrice": 0.17,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "ST04-ST04-009 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.16,
+    "midPrice": 0.18,
     "highPrice": 1.32,
     "marketPrice": 0.12,
     "directLowPrice": null,
@@ -236,7 +236,7 @@
   "ST04-ST04-010 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.25,
-    "highPrice": 1.5,
+    "highPrice": 1.32,
     "marketPrice": 0.15,
     "directLowPrice": null,
     "name": "Who's.Who",
@@ -313,7 +313,7 @@
   },
   "ST04-ST04-013 normal": {
     "lowPrice": 0.03,
-    "midPrice": 0.2,
+    "midPrice": 0.19,
     "highPrice": 1.35,
     "marketPrice": 0.1,
     "directLowPrice": null,
@@ -417,9 +417,9 @@
   },
   "ST04-ST04-017 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.41,
+    "midPrice": 0.42,
     "highPrice": 1.95,
-    "marketPrice": 0.38,
+    "marketPrice": 0.4,
     "directLowPrice": null,
     "name": "Onigashima Island",
     "rarity": "C",

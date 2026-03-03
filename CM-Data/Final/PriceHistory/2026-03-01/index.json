@@ -11,7 +11,7 @@
     {
       "expansionId": 5230,
       "expansionName": null,
-      "count": 165,
+      "count": 171,
       "file": "m18_expansion_5230_unknown.json"
     },
     {
@@ -41,7 +41,7 @@
     {
       "expansionId": 5244,
       "expansionName": "ST01-ST04: Deck Set",
-      "count": 260,
+      "count": 261,
       "file": "m18_expansion_5244_st01_st04_deck_set.json"
     },
     {
@@ -741,9 +741,15 @@
       "file": "m18_expansion_6501_unknown_op01.json"
     },
     {
+      "expansionId": 6504,
+      "expansionName": "Unknown OP15",
+      "count": 78,
+      "file": "m18_expansion_6504_unknown_op15.json"
+    },
+    {
       "expansionId": null,
       "expansionName": null,
-      "count": 45,
+      "count": 79,
       "file": "m18_expansion_unknown.json"
     }
   ]

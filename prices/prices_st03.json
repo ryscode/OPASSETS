@@ -1,7 +1,7 @@
 {
   "ST03-ST03-001 normal": {
     "lowPrice": 0.5,
-    "midPrice": 4.95,
+    "midPrice": 4.85,
     "highPrice": 19.99,
     "marketPrice": 4.54,
     "directLowPrice": null,
@@ -29,7 +29,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.14,
     "highPrice": 1.32,
-    "marketPrice": 0.05,
+    "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Edward Weevil",
     "rarity": "C",
@@ -55,7 +55,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.5,
     "highPrice": 5.0,
-    "marketPrice": 0.46,
+    "marketPrice": 0.48,
     "directLowPrice": null,
     "name": "Crocodile (003)",
     "rarity": "SR",
@@ -81,7 +81,7 @@
     "lowPrice": 0.04,
     "midPrice": 0.24,
     "highPrice": 11.5,
-    "marketPrice": 0.13,
+    "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Gecko Moria",
     "rarity": "C",
@@ -131,7 +131,7 @@
   },
   "ST03-ST03-006 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.23,
+    "midPrice": 0.25,
     "highPrice": 1.36,
     "marketPrice": 0.12,
     "directLowPrice": null,
@@ -208,10 +208,10 @@
     "groupId": 3192
   },
   "ST03-ST03-009 normal": {
-    "lowPrice": 3.0,
-    "midPrice": 3.95,
+    "lowPrice": 2.75,
+    "midPrice": 3.97,
     "highPrice": 10.0,
-    "marketPrice": 3.66,
+    "marketPrice": 3.65,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo",
     "rarity": "SR",
@@ -260,10 +260,10 @@
     "groupId": 3192
   },
   "ST03-ST03-011 normal": {
-    "lowPrice": 0.03,
-    "midPrice": 0.2,
+    "lowPrice": 0.04,
+    "midPrice": 0.21,
     "highPrice": 1.54,
-    "marketPrice": 0.1,
+    "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Buggy",
     "rarity": "C",
@@ -365,9 +365,9 @@
   },
   "ST03-ST03-015 normal": {
     "lowPrice": 2.3,
-    "midPrice": 3.2,
+    "midPrice": 3.24,
     "highPrice": 5.71,
-    "marketPrice": 3.37,
+    "marketPrice": 3.36,
     "directLowPrice": null,
     "name": "Sables",
     "rarity": "C",
@@ -417,7 +417,7 @@
   },
   "ST03-ST03-017 normal": {
     "lowPrice": 2.45,
-    "midPrice": 3.36,
+    "midPrice": 3.37,
     "highPrice": 8.25,
     "marketPrice": 2.91,
     "directLowPrice": null,

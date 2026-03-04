@@ -1,9 +1,9 @@
 {
   "ST01-ST01-001 normal": {
     "lowPrice": 4.5,
-    "midPrice": 11.92,
+    "midPrice": 12.0,
     "highPrice": 25.0,
-    "marketPrice": 7.76,
+    "marketPrice": 7.7,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy",
     "rarity": "L",
@@ -29,7 +29,7 @@
     "lowPrice": 1.95,
     "midPrice": 2.41,
     "highPrice": 20.0,
-    "marketPrice": 2.35,
+    "marketPrice": 2.36,
     "directLowPrice": null,
     "name": "Onigashima Island",
     "rarity": "C",
@@ -53,7 +53,7 @@
   },
   "ST01-ST01-005 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.2,
+    "midPrice": 0.22,
     "highPrice": 0.99,
     "marketPrice": 0.14,
     "directLowPrice": null,
@@ -81,7 +81,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.23,
     "highPrice": 5.0,
-    "marketPrice": 0.15,
+    "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Blast Breath",
     "rarity": "C",
@@ -105,9 +105,9 @@
   },
   "ST01-ST01-007 normal": {
     "lowPrice": 2.5,
-    "midPrice": 5.44,
+    "midPrice": 5.46,
     "highPrice": 21.49,
-    "marketPrice": 4.58,
+    "marketPrice": 4.46,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "C",
@@ -131,7 +131,7 @@
   },
   "ST01-ST01-014 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.22,
+    "midPrice": 0.23,
     "highPrice": 5.0,
     "marketPrice": 0.17,
     "directLowPrice": null,
@@ -209,9 +209,9 @@
   },
   "ST01-ST01-016 normal": {
     "lowPrice": 1.0,
-    "midPrice": 2.0,
+    "midPrice": 2.37,
     "highPrice": 6.0,
-    "marketPrice": 1.55,
+    "marketPrice": 1.56,
     "directLowPrice": null,
     "name": "Diable Jambe",
     "rarity": "C",
@@ -235,7 +235,7 @@
   },
   "ST04-ST04-014 normal": {
     "lowPrice": 0.5,
-    "midPrice": 1.39,
+    "midPrice": 1.38,
     "highPrice": 13.0,
     "marketPrice": 1.24,
     "directLowPrice": null,
@@ -313,7 +313,7 @@
   },
   "ST04-ST04-008 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.42,
+    "midPrice": 0.44,
     "highPrice": 1.53,
     "marketPrice": 0.43,
     "directLowPrice": null,
@@ -365,7 +365,7 @@
   },
   "ST04-ST04-004 normal": {
     "lowPrice": 0.74,
-    "midPrice": 0.94,
+    "midPrice": 0.96,
     "highPrice": 5.0,
     "marketPrice": 0.87,
     "directLowPrice": null,
@@ -443,9 +443,9 @@
   },
   "ST04-ST04-003 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.58,
+    "midPrice": 0.54,
     "highPrice": 4.99,
-    "marketPrice": 0.38,
+    "marketPrice": 0.37,
     "directLowPrice": null,
     "name": "Kaido (003)",
     "rarity": "SR",
@@ -469,7 +469,7 @@
   },
   "ST02-ST02-009 normal": {
     "lowPrice": 3.31,
-    "midPrice": 5.41,
+    "midPrice": 5.4,
     "highPrice": 17.99,
     "marketPrice": 4.97,
     "directLowPrice": null,
@@ -520,10 +520,10 @@
     "groupId": 23890
   },
   "ST04-ST04-001 normal": {
-    "lowPrice": 2.99,
-    "midPrice": 3.99,
+    "lowPrice": 2.97,
+    "midPrice": 4.0,
     "highPrice": 6.98,
-    "marketPrice": 4.18,
+    "marketPrice": 4.13,
     "directLowPrice": null,
     "name": "Kaido (001)",
     "rarity": "L",
@@ -547,7 +547,7 @@
   },
   "ST02-ST02-015 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.51,
+    "midPrice": 0.5,
     "highPrice": 4.99,
     "marketPrice": 0.44,
     "directLowPrice": null,
@@ -598,10 +598,10 @@
     "groupId": 23890
   },
   "ST03-ST03-017 normal": {
-    "lowPrice": 1.99,
+    "lowPrice": 2.0,
     "midPrice": 3.54,
     "highPrice": 10.85,
-    "marketPrice": 2.64,
+    "marketPrice": 2.57,
     "directLowPrice": null,
     "name": "Love-Love Mellow",
     "rarity": "C",
@@ -651,9 +651,9 @@
   },
   "ST03-ST03-015 normal": {
     "lowPrice": 3.0,
-    "midPrice": 3.57,
+    "midPrice": 3.54,
     "highPrice": 5.49,
-    "marketPrice": 3.49,
+    "marketPrice": 3.48,
     "directLowPrice": null,
     "name": "Sables",
     "rarity": "C",
@@ -728,7 +728,7 @@
     "groupId": 23890
   },
   "ST03-ST03-007 normal": {
-    "lowPrice": 0.09,
+    "lowPrice": 0.14,
     "midPrice": 0.24,
     "highPrice": 1.45,
     "marketPrice": 0.16,
@@ -755,7 +755,7 @@
   },
   "ST02-ST02-017 normal": {
     "lowPrice": 0.95,
-    "midPrice": 1.66,
+    "midPrice": 1.53,
     "highPrice": 4.99,
     "marketPrice": 1.37,
     "directLowPrice": null,

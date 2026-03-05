@@ -1,7 +1,7 @@
 {
   "OP02-OP02-003 normal": {
     "lowPrice": 1.75,
-    "midPrice": 2.0,
+    "midPrice": 2.01,
     "highPrice": 7.99,
     "marketPrice": 1.84,
     "directLowPrice": null,
@@ -52,8 +52,8 @@
     "groupId": 22934
   },
   "OP02-OP02-084 normal": {
-    "lowPrice": 3.0,
-    "midPrice": 3.5,
+    "lowPrice": 0.75,
+    "midPrice": 3.0,
     "highPrice": 1266.89,
     "marketPrice": 0.66,
     "directLowPrice": null,
@@ -79,7 +79,7 @@
   },
   "OP02-OP02-052 normal": {
     "lowPrice": 4.22,
-    "midPrice": 6.3,
+    "midPrice": 5.65,
     "highPrice": 16.58,
     "marketPrice": 7.04,
     "directLowPrice": null,
@@ -157,7 +157,7 @@
   },
   "OP02-OP02-107 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.9,
+    "midPrice": 0.95,
     "highPrice": 1266.89,
     "marketPrice": 0.7,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "OP02-OP02-080 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.67,
+    "midPrice": 0.74,
     "highPrice": 3.5,
     "marketPrice": 0.45,
     "directLowPrice": null,
@@ -235,8 +235,8 @@
   },
   "OP02-OP02-081 normal": {
     "lowPrice": 1.5,
-    "midPrice": 2.42,
-    "highPrice": 47.54,
+    "midPrice": 2.41,
+    "highPrice": 48.78,
     "marketPrice": 2.33,
     "directLowPrice": null,
     "name": "Domino",
@@ -259,10 +259,36 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
     "groupId": 22934
   },
+  "OP02-OP02-108 normal": {
+    "lowPrice": 29.99,
+    "midPrice": 29.99,
+    "highPrice": 29.99,
+    "marketPrice": 5.86,
+    "directLowPrice": null,
+    "name": "Donquixote Rosinante",
+    "rarity": "C",
+    "power": "2000",
+    "cost": "2",
+    "life": null,
+    "category": "Character",
+    "colors": "Black",
+    "attributes": "Special",
+    "types": "Donquixote Pirates;Navy",
+    "effect": null,
+    "trigger": null,
+    "counter": "1000",
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/486643_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
+    "groupId": 22934
+  },
   "OP02-OP02-055 normal": {
     "lowPrice": 38.75,
-    "midPrice": 39.35,
-    "highPrice": 39.95,
+    "midPrice": 39.95,
+    "highPrice": 39.99,
     "marketPrice": 6.24,
     "directLowPrice": null,
     "name": "Dracule Mihawk",
@@ -391,7 +417,7 @@
   },
   "OP02-OP02-066 normal": {
     "lowPrice": 4.6,
-    "midPrice": 7.88,
+    "midPrice": 7.81,
     "highPrice": 50.0,
     "marketPrice": 6.72,
     "directLowPrice": null,
@@ -417,7 +443,7 @@
   },
   "OP02-OP02-109 normal": {
     "lowPrice": 0.44,
-    "midPrice": 0.85,
+    "midPrice": 0.99,
     "highPrice": 7.0,
     "marketPrice": 0.67,
     "directLowPrice": null,
@@ -443,7 +469,7 @@
   },
   "OP02-OP02-100 normal": {
     "lowPrice": 0.43,
-    "midPrice": 3.05,
+    "midPrice": 2.0,
     "highPrice": 4.99,
     "marketPrice": 0.43,
     "directLowPrice": null,
@@ -469,7 +495,7 @@
   },
   "OP02-OP02-033 normal": {
     "lowPrice": 16.54,
-    "midPrice": 20.97,
+    "midPrice": 20.49,
     "highPrice": 39.0,
     "marketPrice": 2.18,
     "directLowPrice": null,
@@ -521,7 +547,7 @@
   },
   "OP02-OP02-097 normal": {
     "lowPrice": 0.29,
-    "midPrice": 0.6,
+    "midPrice": 0.65,
     "highPrice": 13.95,
     "marketPrice": 0.5,
     "directLowPrice": null,
@@ -599,7 +625,7 @@
   },
   "OP02-OP02-016 normal": {
     "lowPrice": 2.95,
-    "midPrice": 3.45,
+    "midPrice": 3.47,
     "highPrice": 14.99,
     "marketPrice": 3.02,
     "directLowPrice": null,
@@ -625,7 +651,7 @@
   },
   "OP02-OP02-024 normal": {
     "lowPrice": 35.0,
-    "midPrice": 54.99,
+    "midPrice": 49.0,
     "highPrice": 299.99,
     "marketPrice": 19.67,
     "directLowPrice": null,
@@ -702,8 +728,8 @@
     "groupId": 22934
   },
   "OP02-OP02-070 normal": {
-    "lowPrice": 2.95,
-    "midPrice": 3.23,
+    "lowPrice": 2.85,
+    "midPrice": 3.0,
     "highPrice": 10.0,
     "marketPrice": 2.46,
     "directLowPrice": null,
@@ -729,8 +755,8 @@
   },
   "OP02-OP02-043 normal": {
     "lowPrice": 43.96,
-    "midPrice": 45.97,
-    "highPrice": 51.49,
+    "midPrice": 46.99,
+    "highPrice": 52.63,
     "marketPrice": 14.31,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
@@ -755,7 +781,7 @@
   },
   "OP02-OP02-074 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.61,
+    "midPrice": 0.64,
     "highPrice": 3.1,
     "marketPrice": 0.67,
     "directLowPrice": null,
@@ -781,7 +807,7 @@
   },
   "OP02-OP02-104 normal": {
     "lowPrice": 0.43,
-    "midPrice": 1.04,
+    "midPrice": 1.0,
     "highPrice": 1266.89,
     "marketPrice": 0.71,
     "directLowPrice": null,
@@ -885,7 +911,7 @@
   },
   "OP02-OP02-007 normal": {
     "lowPrice": 2.89,
-    "midPrice": 4.27,
+    "midPrice": 4.99,
     "highPrice": 25.0,
     "marketPrice": 3.46,
     "directLowPrice": null,
@@ -1015,7 +1041,7 @@
   },
   "OP02-OP02-044 normal": {
     "lowPrice": 4.0,
-    "midPrice": 6.0,
+    "midPrice": 5.75,
     "highPrice": 55.0,
     "marketPrice": 4.99,
     "directLowPrice": null,
@@ -1119,7 +1145,7 @@
   },
   "OP02-OP02-067 normal": {
     "lowPrice": 2.0,
-    "midPrice": 3.28,
+    "midPrice": 3.09,
     "highPrice": 15.98,
     "marketPrice": 3.64,
     "directLowPrice": null,
@@ -1145,7 +1171,7 @@
   },
   "OP02-OP02-057 normal": {
     "lowPrice": 2.0,
-    "midPrice": 2.72,
+    "midPrice": 2.71,
     "highPrice": 30.0,
     "marketPrice": 2.55,
     "directLowPrice": null,
@@ -1196,8 +1222,8 @@
     "groupId": 22934
   },
   "OP02-OP02-059 normal": {
-    "lowPrice": 49.99,
-    "midPrice": 250.0,
+    "lowPrice": 33.65,
+    "midPrice": 49.99,
     "highPrice": 250.0,
     "marketPrice": 32.67,
     "directLowPrice": null,
@@ -1249,7 +1275,7 @@
   },
   "OP02-OP02-005 normal": {
     "lowPrice": 0.93,
-    "midPrice": 1.41,
+    "midPrice": 1.46,
     "highPrice": 10.0,
     "marketPrice": 1.09,
     "directLowPrice": null,
@@ -1275,7 +1301,7 @@
   },
   "OP02-OP02-078 normal": {
     "lowPrice": 0.5,
-    "midPrice": 2.0,
+    "midPrice": 1.81,
     "highPrice": 22.0,
     "marketPrice": 0.59,
     "directLowPrice": null,
@@ -1326,8 +1352,8 @@
     "groupId": 22934
   },
   "OP02-OP02-056 normal": {
-    "lowPrice": 3.56,
-    "midPrice": 5.88,
+    "lowPrice": 3.0,
+    "midPrice": 4.99,
     "highPrice": 9.0,
     "marketPrice": 2.6,
     "directLowPrice": null,
@@ -1405,9 +1431,9 @@
   },
   "OP02-OP02-090 normal": {
     "lowPrice": 0.5,
-    "midPrice": 2.8,
+    "midPrice": 633.7,
     "highPrice": 1266.89,
-    "marketPrice": 0.6,
+    "marketPrice": 0.71,
     "directLowPrice": null,
     "name": "Hydra",
     "rarity": "UC",
@@ -1431,7 +1457,7 @@
   },
   "OP02-OP02-117 normal": {
     "lowPrice": 4.93,
-    "midPrice": 5.7,
+    "midPrice": 5.6,
     "highPrice": 25.0,
     "marketPrice": 5.08,
     "directLowPrice": null,
@@ -1483,7 +1509,7 @@
   },
   "OP02-OP02-094 normal": {
     "lowPrice": 0.99,
-    "midPrice": 1.27,
+    "midPrice": 1.33,
     "highPrice": 25.0,
     "marketPrice": 1.21,
     "directLowPrice": null,
@@ -1509,7 +1535,7 @@
   },
   "OP02-OP02-031 normal": {
     "lowPrice": 1.25,
-    "midPrice": 8.92,
+    "midPrice": 9.61,
     "highPrice": 16.0,
     "marketPrice": 1.21,
     "directLowPrice": null,
@@ -1639,7 +1665,7 @@
   },
   "OP02-OP02-063 normal": {
     "lowPrice": 1.37,
-    "midPrice": 3.23,
+    "midPrice": 3.95,
     "highPrice": 85.0,
     "marketPrice": 1.51,
     "directLowPrice": null,
@@ -1743,7 +1769,7 @@
   },
   "OP02-OP02-032 normal": {
     "lowPrice": 2.45,
-    "midPrice": 2.98,
+    "midPrice": 2.86,
     "highPrice": 4025.08,
     "marketPrice": 2.59,
     "directLowPrice": null,
@@ -1821,9 +1847,9 @@
   },
   "OP02-OP02-106 normal": {
     "lowPrice": 1.17,
-    "midPrice": 2.6,
+    "midPrice": 2.5,
     "highPrice": 5.89,
-    "marketPrice": 2.26,
+    "marketPrice": 2.11,
     "directLowPrice": null,
     "name": "Tsuru",
     "rarity": "UC",
@@ -1847,7 +1873,7 @@
   },
   "OP02-OP02-022 normal": {
     "lowPrice": 2.99,
-    "midPrice": 3.5,
+    "midPrice": 3.54,
     "highPrice": 25.93,
     "marketPrice": 3.41,
     "directLowPrice": null,

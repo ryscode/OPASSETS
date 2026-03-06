@@ -1,7 +1,7 @@
 {
   "OP09-OP09-001 normal": {
     "lowPrice": 0.2,
-    "midPrice": 1.24,
+    "midPrice": 1.25,
     "highPrice": 10.0,
     "marketPrice": 1.13,
     "directLowPrice": null,
@@ -26,10 +26,10 @@
     "groupId": 24282
   },
   "ST23-ST23-001 normal": {
-    "lowPrice": 6.51,
-    "midPrice": 8.2,
+    "lowPrice": 6.7,
+    "midPrice": 8.18,
     "highPrice": 50.0,
-    "marketPrice": 7.34,
+    "marketPrice": 7.41,
     "directLowPrice": null,
     "name": "Uta",
     "rarity": "SR",
@@ -157,7 +157,7 @@
   },
   "OP09-OP09-006 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.11,
+    "midPrice": 0.12,
     "highPrice": 1.29,
     "marketPrice": 0.02,
     "directLowPrice": null,
@@ -262,7 +262,7 @@
   "OP09-OP09-013 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.15,
-    "highPrice": 1.31,
+    "highPrice": 1.3,
     "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Yasopp (Reprint)",

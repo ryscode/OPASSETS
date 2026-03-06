@@ -1,7 +1,7 @@
 {
   "OP05-OP05-003 normal": {
     "lowPrice": 17.99,
-    "midPrice": 27.49,
+    "midPrice": 25.75,
     "highPrice": 39.99,
     "marketPrice": 19.49,
     "directLowPrice": null,
@@ -27,7 +27,7 @@
   },
   "OP05-OP05-004 normal": {
     "lowPrice": 29.99,
-    "midPrice": 31.0,
+    "midPrice": 31.99,
     "highPrice": 34.92,
     "marketPrice": 32.03,
     "directLowPrice": null,
@@ -52,8 +52,8 @@
     "groupId": 23368
   },
   "OP05-OP05-008 normal": {
-    "lowPrice": 7.0,
-    "midPrice": 8.95,
+    "lowPrice": 7.74,
+    "midPrice": 9.0,
     "highPrice": 30.0,
     "marketPrice": 9.32,
     "directLowPrice": null,
@@ -79,8 +79,8 @@
   },
   "OP05-OP05-009 normal": {
     "lowPrice": 0.33,
-    "midPrice": 1.11,
-    "highPrice": 6.0,
+    "midPrice": 1.06,
+    "highPrice": 2.99,
     "marketPrice": 0.33,
     "directLowPrice": null,
     "name": "Toh-Toh",
@@ -130,7 +130,7 @@
     "groupId": 23368
   },
   "OP05-OP05-011 normal": {
-    "lowPrice": 10.5,
+    "lowPrice": 11.9,
     "midPrice": 14.26,
     "highPrice": 35.0,
     "marketPrice": 14.26,
@@ -209,7 +209,7 @@
   },
   "OP05-OP05-014 normal": {
     "lowPrice": 1.0,
-    "midPrice": 1.79,
+    "midPrice": 1.9,
     "highPrice": 10.0,
     "marketPrice": 1.07,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "OP05-OP05-018 normal": {
     "lowPrice": 4.03,
-    "midPrice": 5.24,
+    "midPrice": 5.26,
     "highPrice": 100.0,
     "marketPrice": 4.71,
     "directLowPrice": null,
@@ -287,7 +287,7 @@
   },
   "OP05-OP05-021 normal": {
     "lowPrice": 16.55,
-    "midPrice": 20.0,
+    "midPrice": 20.24,
     "highPrice": 39.99,
     "marketPrice": 22.1,
     "directLowPrice": null,
@@ -416,9 +416,9 @@
     "groupId": 23368
   },
   "OP05-OP05-028 normal": {
-    "lowPrice": 6.23,
-    "midPrice": 13.12,
-    "highPrice": 20.0,
+    "lowPrice": 3.72,
+    "midPrice": 4.98,
+    "highPrice": 6.23,
     "marketPrice": 5.28,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo (028)",
@@ -442,8 +442,8 @@
     "groupId": 23368
   },
   "OP05-OP05-029 normal": {
-    "lowPrice": 25.0,
-    "midPrice": 30.0,
+    "lowPrice": 24.99,
+    "midPrice": 28.0,
     "highPrice": 35.0,
     "marketPrice": 13.75,
     "directLowPrice": null,
@@ -547,7 +547,7 @@
   },
   "OP05-OP05-036 normal": {
     "lowPrice": 4.0,
-    "midPrice": 9.1,
+    "midPrice": 9.19,
     "highPrice": 50.0,
     "marketPrice": 4.5,
     "directLowPrice": null,
@@ -572,8 +572,8 @@
     "groupId": 23368
   },
   "OP05-OP05-038 normal": {
-    "lowPrice": 18.99,
-    "midPrice": 22.45,
+    "lowPrice": 19.99,
+    "midPrice": 27.9,
     "highPrice": 30.0,
     "marketPrice": 7.62,
     "directLowPrice": null,
@@ -599,7 +599,7 @@
   },
   "OP05-OP05-039 normal": {
     "lowPrice": 9.0,
-    "midPrice": 9.0,
+    "midPrice": 10.8,
     "highPrice": 12.6,
     "marketPrice": 3.53,
     "directLowPrice": null,
@@ -703,7 +703,7 @@
   },
   "OP05-OP05-046 normal": {
     "lowPrice": 1.0,
-    "midPrice": 1.67,
+    "midPrice": 1.69,
     "highPrice": 8.74,
     "marketPrice": 1.64,
     "directLowPrice": null,
@@ -806,8 +806,8 @@
     "groupId": 23368
   },
   "OP05-OP05-052 normal": {
-    "lowPrice": 2.0,
-    "midPrice": 2.8,
+    "lowPrice": 2.18,
+    "midPrice": 2.85,
     "highPrice": 50.0,
     "marketPrice": 2.42,
     "directLowPrice": null,
@@ -829,32 +829,6 @@
     "finish": null,
     "cardType": "Character",
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
-    "groupId": 23368
-  },
-  "OP05-OP05-053 normal": {
-    "lowPrice": 20.0,
-    "midPrice": 20.0,
-    "highPrice": 20.0,
-    "marketPrice": 2.02,
-    "directLowPrice": null,
-    "name": "Mozambia",
-    "rarity": "C",
-    "power": "2000",
-    "cost": "1",
-    "life": null,
-    "category": "Character",
-    "colors": "Blue",
-    "attributes": "Slash",
-    "types": "Navy",
-    "effect": null,
-    "trigger": null,
-    "counter": "1000",
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/530921_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Character",
-    "description": "[Your Turn][Once Per Turn] When you draw a card outside of your Draw Phase, this Character gains +2000 power during this turn.",
     "groupId": 23368
   },
   "OP05-OP05-054 normal": {
@@ -937,7 +911,7 @@
   },
   "OP05-OP05-059 normal": {
     "lowPrice": 3.45,
-    "midPrice": 3.91,
+    "midPrice": 3.99,
     "highPrice": 5.82,
     "marketPrice": 3.83,
     "directLowPrice": null,
@@ -962,8 +936,8 @@
     "groupId": 23368
   },
   "OP05-OP05-061 normal": {
-    "lowPrice": 40.0,
-    "midPrice": 43.1,
+    "lowPrice": 44.99,
+    "midPrice": 46.34,
     "highPrice": 50.0,
     "marketPrice": 17.1,
     "directLowPrice": null,
@@ -1014,8 +988,8 @@
     "groupId": 23368
   },
   "OP05-OP05-063 normal": {
-    "lowPrice": 139.99,
-    "midPrice": 142.5,
+    "lowPrice": 99.99,
+    "midPrice": 139.99,
     "highPrice": 145.0,
     "marketPrice": 40.63,
     "directLowPrice": null,
@@ -1041,7 +1015,7 @@
   },
   "OP05-OP05-065 normal": {
     "lowPrice": 30.0,
-    "midPrice": 33.0,
+    "midPrice": 33.6,
     "highPrice": 100.0,
     "marketPrice": 19.21,
     "directLowPrice": null,
@@ -1092,7 +1066,7 @@
     "groupId": 23368
   },
   "OP05-OP05-068 normal": {
-    "lowPrice": 45.0,
+    "lowPrice": 39.99,
     "midPrice": 45.99,
     "highPrice": 200.0,
     "marketPrice": 8.43,
@@ -1144,8 +1118,8 @@
     "groupId": 23368
   },
   "OP05-OP05-072 normal": {
-    "lowPrice": 29.99,
-    "midPrice": 74.5,
+    "lowPrice": 59.99,
+    "midPrice": 89.0,
     "highPrice": 90.0,
     "marketPrice": 2.88,
     "directLowPrice": null,
@@ -1222,8 +1196,8 @@
     "groupId": 23368
   },
   "OP05-OP05-077 normal": {
-    "lowPrice": 8.0,
-    "midPrice": 9.0,
+    "lowPrice": 8.99,
+    "midPrice": 10.02,
     "highPrice": 20.0,
     "marketPrice": 6.57,
     "directLowPrice": null,
@@ -1275,7 +1249,7 @@
   },
   "OP05-OP05-079 normal": {
     "lowPrice": 25.0,
-    "midPrice": 29.41,
+    "midPrice": 29.99,
     "highPrice": 65.0,
     "marketPrice": 13.61,
     "directLowPrice": null,
@@ -1300,7 +1274,7 @@
     "groupId": 23368
   },
   "OP05-OP05-080 normal": {
-    "lowPrice": 5.0,
+    "lowPrice": 5.99,
     "midPrice": 6.0,
     "highPrice": 6.0,
     "marketPrice": 7.61,
@@ -1431,8 +1405,8 @@
   },
   "OP05-OP05-087 normal": {
     "lowPrice": 4.45,
-    "midPrice": 5.22,
-    "highPrice": 5.99,
+    "midPrice": 4.45,
+    "highPrice": 4.45,
     "marketPrice": 3.31,
     "directLowPrice": null,
     "name": "Hakuba",
@@ -1456,8 +1430,8 @@
     "groupId": 23368
   },
   "OP05-OP05-089 normal": {
-    "lowPrice": 2.8,
-    "midPrice": 4.1,
+    "lowPrice": 2.77,
+    "midPrice": 4.2,
     "highPrice": 50.0,
     "marketPrice": 4.29,
     "directLowPrice": null,
@@ -1482,8 +1456,8 @@
     "groupId": 23368
   },
   "OP05-OP05-090 normal": {
-    "lowPrice": 2.0,
-    "midPrice": 2.29,
+    "lowPrice": 2.18,
+    "midPrice": 2.31,
     "highPrice": 397.17,
     "marketPrice": 2.29,
     "directLowPrice": null,
@@ -1587,7 +1561,7 @@
   },
   "OP05-OP05-097 normal": {
     "lowPrice": 7.22,
-    "midPrice": 8.92,
+    "midPrice": 8.75,
     "highPrice": 30.0,
     "marketPrice": 9.24,
     "directLowPrice": null,
@@ -1717,7 +1691,7 @@
   },
   "OP05-OP05-108 normal": {
     "lowPrice": 0.5,
-    "midPrice": 2.72,
+    "midPrice": 2.94,
     "highPrice": 14.99,
     "marketPrice": 0.6,
     "directLowPrice": null,

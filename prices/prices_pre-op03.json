@@ -1,7 +1,7 @@
 {
   "OP03-OP03-004 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.38,
+    "midPrice": 0.45,
     "highPrice": 5.78,
     "marketPrice": 0.53,
     "directLowPrice": null,
@@ -27,8 +27,8 @@
   },
   "OP03-OP03-006 normal": {
     "lowPrice": 0.34,
-    "midPrice": 0.93,
-    "highPrice": 15.09,
+    "midPrice": 1.0,
+    "highPrice": 45.0,
     "marketPrice": 0.34,
     "directLowPrice": null,
     "name": "Speed Jil",
@@ -105,9 +105,9 @@
   },
   "OP03-OP03-010 normal": {
     "lowPrice": 0.49,
-    "midPrice": 0.85,
+    "midPrice": 0.84,
     "highPrice": 12.94,
-    "marketPrice": 0.83,
+    "marketPrice": 0.9,
     "directLowPrice": null,
     "name": "Fossa",
     "rarity": "C",
@@ -183,8 +183,8 @@
   },
   "OP03-OP03-023 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.52,
-    "highPrice": 34.89,
+    "midPrice": 0.56,
+    "highPrice": 34.9,
     "marketPrice": 0.52,
     "directLowPrice": null,
     "name": "Alvida",
@@ -209,8 +209,8 @@
   },
   "OP03-OP03-027 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.82,
-    "highPrice": 4.75,
+    "midPrice": 0.85,
+    "highPrice": 40.0,
     "marketPrice": 0.66,
     "directLowPrice": null,
     "name": "Sham",
@@ -236,7 +236,7 @@
   "OP03-OP03-031 normal": {
     "lowPrice": 0.32,
     "midPrice": 1.0,
-    "highPrice": 2.3,
+    "highPrice": 50.0,
     "marketPrice": 0.4,
     "directLowPrice": null,
     "name": "Pearl",
@@ -260,7 +260,7 @@
     "groupId": 23232
   },
   "OP03-OP03-032 normal": {
-    "lowPrice": 5.0,
+    "lowPrice": 4.51,
     "midPrice": 9.45,
     "highPrice": 250.0,
     "marketPrice": 3.19,
@@ -287,8 +287,8 @@
   },
   "OP03-OP03-035 normal": {
     "lowPrice": 0.73,
-    "midPrice": 0.93,
-    "highPrice": 4.99,
+    "midPrice": 1.0,
+    "highPrice": 42.99,
     "marketPrice": 0.93,
     "directLowPrice": null,
     "name": "Momoo",
@@ -312,10 +312,10 @@
     "groupId": 23232
   },
   "OP03-OP03-036 normal": {
-    "lowPrice": 0.5,
-    "midPrice": 1.0,
-    "highPrice": 34.89,
-    "marketPrice": 0.75,
+    "lowPrice": 0.73,
+    "midPrice": 1.05,
+    "highPrice": 34.9,
+    "marketPrice": 0.82,
     "directLowPrice": null,
     "name": "Out-of-the-Bag",
     "rarity": "C",
@@ -365,8 +365,8 @@
   },
   "OP03-OP03-042 normal": {
     "lowPrice": 0.5,
-    "midPrice": 1.09,
-    "highPrice": 4.99,
+    "midPrice": 1.25,
+    "highPrice": 65.0,
     "marketPrice": 0.97,
     "directLowPrice": null,
     "name": "Usopp's Pirate Crew",
@@ -417,8 +417,8 @@
   },
   "OP03-OP03-046 normal": {
     "lowPrice": 0.21,
-    "midPrice": 0.52,
-    "highPrice": 4.99,
+    "midPrice": 0.75,
+    "highPrice": 40.0,
     "marketPrice": 0.44,
     "directLowPrice": null,
     "name": "Genzo",
@@ -443,8 +443,8 @@
   },
   "OP03-OP03-052 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.5,
-    "highPrice": 2.0,
+    "midPrice": 0.51,
+    "highPrice": 44.0,
     "marketPrice": 0.52,
     "directLowPrice": null,
     "name": "Merry",
@@ -470,7 +470,7 @@
   "OP03-OP03-053 normal": {
     "lowPrice": 1.99,
     "midPrice": 3.28,
-    "highPrice": 3.49,
+    "highPrice": 85.0,
     "marketPrice": 0.55,
     "directLowPrice": null,
     "name": "Yosaku & Johnny",
@@ -624,7 +624,7 @@
     "groupId": 23232
   },
   "OP03-OP03-068 normal": {
-    "lowPrice": 0.97,
+    "lowPrice": 0.96,
     "midPrice": 1.28,
     "highPrice": 12.0,
     "marketPrice": 1.13,
@@ -651,8 +651,8 @@
   },
   "OP03-OP03-069 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.74,
-    "highPrice": 1.79,
+    "midPrice": 1.0,
+    "highPrice": 125.0,
     "marketPrice": 0.51,
     "directLowPrice": null,
     "name": "Minorhinoceros",
@@ -677,7 +677,7 @@
   },
   "OP03-OP03-073 normal": {
     "lowPrice": 0.47,
-    "midPrice": 3.3,
+    "midPrice": 3.15,
     "highPrice": 5.9,
     "marketPrice": 0.42,
     "directLowPrice": null,
@@ -781,7 +781,7 @@
   },
   "OP03-OP03-084 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.7,
+    "midPrice": 0.69,
     "highPrice": 2.29,
     "marketPrice": 0.62,
     "directLowPrice": null,
@@ -807,7 +807,7 @@
   },
   "OP03-OP03-085 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.56,
+    "midPrice": 0.59,
     "highPrice": 9.0,
     "marketPrice": 0.55,
     "directLowPrice": null,
@@ -833,7 +833,7 @@
   },
   "OP03-OP03-087 normal": {
     "lowPrice": 0.29,
-    "midPrice": 0.89,
+    "midPrice": 0.7,
     "highPrice": 10.0,
     "marketPrice": 0.44,
     "directLowPrice": null,
@@ -963,9 +963,9 @@
   },
   "OP03-OP03-103 normal": {
     "lowPrice": 0.27,
-    "midPrice": 0.58,
+    "midPrice": 0.54,
     "highPrice": 3.9,
-    "marketPrice": 0.5,
+    "marketPrice": 0.56,
     "directLowPrice": null,
     "name": "Bobbin the Disposer",
     "rarity": "C",
@@ -1119,7 +1119,7 @@
   },
   "OP03-OP03-121 normal": {
     "lowPrice": 0.98,
-    "midPrice": 1.32,
+    "midPrice": 1.34,
     "highPrice": 5.95,
     "marketPrice": 1.23,
     "directLowPrice": null,
@@ -1300,8 +1300,8 @@
     "groupId": 23232
   },
   "OP03-OP03-015 normal": {
-    "lowPrice": 2.77,
-    "midPrice": 3.23,
+    "lowPrice": 1.75,
+    "midPrice": 3.2,
     "highPrice": 6.71,
     "marketPrice": 2.87,
     "directLowPrice": null,
@@ -1432,7 +1432,7 @@
   "OP03-OP03-034 normal": {
     "lowPrice": 1.4,
     "midPrice": 1.58,
-    "highPrice": 34.89,
+    "highPrice": 34.9,
     "marketPrice": 1.4,
     "directLowPrice": null,
     "name": "Buchi",
@@ -1457,7 +1457,7 @@
   },
   "OP03-OP03-039 normal": {
     "lowPrice": 1.45,
-    "midPrice": 1.99,
+    "midPrice": 1.91,
     "highPrice": 21.38,
     "marketPrice": 1.63,
     "directLowPrice": null,
@@ -1482,8 +1482,8 @@
     "groupId": 23232
   },
   "OP03-OP03-045 normal": {
-    "lowPrice": 4.99,
-    "midPrice": 8.0,
+    "lowPrice": 1.0,
+    "midPrice": 5.99,
     "highPrice": 15.0,
     "marketPrice": 0.97,
     "directLowPrice": null,
@@ -1534,8 +1534,8 @@
     "groupId": 23232
   },
   "OP03-OP03-049 normal": {
-    "lowPrice": 0.74,
-    "midPrice": 0.98,
+    "lowPrice": 0.98,
+    "midPrice": 1.03,
     "highPrice": 7.13,
     "marketPrice": 0.69,
     "directLowPrice": null,
@@ -1561,7 +1561,7 @@
   },
   "OP03-OP03-050 normal": {
     "lowPrice": 3.0,
-    "midPrice": 5.77,
+    "midPrice": 5.8,
     "highPrice": 7.68,
     "marketPrice": 3.2,
     "directLowPrice": null,
@@ -1587,7 +1587,7 @@
   },
   "OP03-OP03-056 normal": {
     "lowPrice": 7.0,
-    "midPrice": 9.21,
+    "midPrice": 9.0,
     "highPrice": 25.0,
     "marketPrice": 8.74,
     "directLowPrice": null,
@@ -1664,9 +1664,9 @@
     "groupId": 23232
   },
   "OP03-OP03-063 normal": {
-    "lowPrice": 0.81,
-    "midPrice": 1.1,
-    "highPrice": 10.69,
+    "lowPrice": 0.8,
+    "midPrice": 1.2,
+    "highPrice": 40.0,
     "marketPrice": 0.95,
     "directLowPrice": null,
     "name": "Zambai",
@@ -1769,7 +1769,7 @@
   },
   "OP03-OP03-088 normal": {
     "lowPrice": 2.0,
-    "midPrice": 2.87,
+    "midPrice": 2.93,
     "highPrice": 19.23,
     "marketPrice": 2.44,
     "directLowPrice": null,
@@ -1795,7 +1795,7 @@
   },
   "OP03-OP03-093 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.3,
+    "midPrice": 1.31,
     "highPrice": 5.9,
     "marketPrice": 1.31,
     "directLowPrice": null,
@@ -1898,8 +1898,8 @@
     "groupId": 23232
   },
   "OP03-OP03-105 normal": {
-    "lowPrice": 1.0,
-    "midPrice": 1.71,
+    "lowPrice": 1.25,
+    "midPrice": 1.56,
     "highPrice": 3.75,
     "marketPrice": 1.22,
     "directLowPrice": null,

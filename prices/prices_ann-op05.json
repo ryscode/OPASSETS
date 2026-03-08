@@ -130,10 +130,10 @@
     "groupId": 23368
   },
   "OP05-OP05-011 normal": {
-    "lowPrice": 11.9,
-    "midPrice": 14.26,
+    "lowPrice": 8.95,
+    "midPrice": 13.86,
     "highPrice": 35.0,
-    "marketPrice": 14.26,
+    "marketPrice": 13.86,
     "directLowPrice": null,
     "name": "Bartholomew Kuma",
     "rarity": "C",
@@ -287,7 +287,7 @@
   },
   "OP05-OP05-021 normal": {
     "lowPrice": 16.55,
-    "midPrice": 20.24,
+    "midPrice": 20.48,
     "highPrice": 39.99,
     "marketPrice": 22.1,
     "directLowPrice": null,
@@ -313,7 +313,7 @@
   },
   "OP05-OP05-024 normal": {
     "lowPrice": 0.86,
-    "midPrice": 1.25,
+    "midPrice": 1.23,
     "highPrice": 2.84,
     "marketPrice": 1.13,
     "directLowPrice": null,
@@ -339,7 +339,7 @@
   },
   "OP05-OP05-025 normal": {
     "lowPrice": 0.72,
-    "midPrice": 1.19,
+    "midPrice": 1.1,
     "highPrice": 3.99,
     "marketPrice": 0.81,
     "directLowPrice": null,
@@ -495,7 +495,7 @@
   },
   "OP05-OP05-033 normal": {
     "lowPrice": 1.0,
-    "midPrice": 1.27,
+    "midPrice": 1.23,
     "highPrice": 4.49,
     "marketPrice": 1.06,
     "directLowPrice": null,
@@ -521,8 +521,8 @@
   },
   "OP05-OP05-035 normal": {
     "lowPrice": 0.69,
-    "midPrice": 0.78,
-    "highPrice": 2.0,
+    "midPrice": 0.76,
+    "highPrice": 1.99,
     "marketPrice": 1.19,
     "directLowPrice": null,
     "name": "Bellamy",
@@ -547,7 +547,7 @@
   },
   "OP05-OP05-036 normal": {
     "lowPrice": 4.0,
-    "midPrice": 9.0,
+    "midPrice": 10.25,
     "highPrice": 50.0,
     "marketPrice": 4.5,
     "directLowPrice": null,
@@ -571,36 +571,10 @@
     "description": "[Blocker] <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>\r\n<br>\r\n[On Block] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
     "groupId": 23368
   },
-  "OP05-OP05-038 normal": {
-    "lowPrice": 19.99,
-    "midPrice": 30.0,
-    "highPrice": 31.25,
-    "marketPrice": 7.62,
-    "directLowPrice": null,
-    "name": "Charlestone",
-    "rarity": "C",
-    "power": null,
-    "cost": "2",
-    "life": null,
-    "category": "Event",
-    "colors": "Green",
-    "attributes": null,
-    "types": "Donquixote Pirates",
-    "effect": null,
-    "trigger": "yes",
-    "counter": null,
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/530911_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Event",
-    "description": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, you may trash 1 card from your hand. If you do, set up to 3 of your DON!! cards as active.\r\n<br>\r\n[Trigger] Rest up to 1 of your opponent's Leader or Character cards with a cost of 3 or less.",
-    "groupId": 23368
-  },
   "OP05-OP05-039 normal": {
     "lowPrice": 9.0,
-    "midPrice": 12.06,
-    "highPrice": 15.12,
+    "midPrice": 12.94,
+    "highPrice": 16.88,
     "marketPrice": 3.53,
     "directLowPrice": null,
     "name": "Stick-Stickem Meteora",
@@ -676,8 +650,8 @@
     "groupId": 23368
   },
   "OP05-OP05-045 normal": {
-    "lowPrice": 1.0,
-    "midPrice": 1.45,
+    "lowPrice": 1.43,
+    "midPrice": 1.46,
     "highPrice": 7.0,
     "marketPrice": 1.44,
     "directLowPrice": null,
@@ -729,7 +703,7 @@
   },
   "OP05-OP05-047 normal": {
     "lowPrice": 0.91,
-    "midPrice": 1.24,
+    "midPrice": 1.23,
     "highPrice": 5.99,
     "marketPrice": 1.07,
     "directLowPrice": null,
@@ -807,7 +781,7 @@
   },
   "OP05-OP05-052 normal": {
     "lowPrice": 2.17,
-    "midPrice": 3.04,
+    "midPrice": 3.13,
     "highPrice": 50.0,
     "marketPrice": 2.42,
     "directLowPrice": null,
@@ -910,8 +884,8 @@
     "groupId": 23368
   },
   "OP05-OP05-058 normal": {
-    "lowPrice": 0.6,
-    "midPrice": 13.89,
+    "lowPrice": 3.99,
+    "midPrice": 13.9,
     "highPrice": 29.93,
     "marketPrice": 3.14,
     "directLowPrice": null,
@@ -937,8 +911,8 @@
   },
   "OP05-OP05-059 normal": {
     "lowPrice": 3.45,
-    "midPrice": 3.99,
-    "highPrice": 6.0,
+    "midPrice": 3.91,
+    "highPrice": 5.82,
     "marketPrice": 3.83,
     "directLowPrice": null,
     "name": "Let Us Begin the World of Violence!!",
@@ -1171,8 +1145,8 @@
   },
   "OP05-OP05-073 normal": {
     "lowPrice": 22.98,
-    "midPrice": 23.99,
-    "highPrice": 45.0,
+    "midPrice": 24.5,
+    "highPrice": 99999.99,
     "marketPrice": 11.77,
     "directLowPrice": null,
     "name": "Miss Doublefinger(Zala)",
@@ -1379,7 +1353,7 @@
   },
   "OP05-OP05-084 normal": {
     "lowPrice": 3.4,
-    "midPrice": 5.6,
+    "midPrice": 5.67,
     "highPrice": 40.0,
     "marketPrice": 5.53,
     "directLowPrice": null,
@@ -1456,10 +1430,10 @@
     "groupId": 23368
   },
   "OP05-OP05-089 normal": {
-    "lowPrice": 2.71,
-    "midPrice": 4.17,
+    "lowPrice": 2.73,
+    "midPrice": 4.29,
     "highPrice": 50.0,
-    "marketPrice": 4.29,
+    "marketPrice": 4.03,
     "directLowPrice": null,
     "name": "Saint Mjosgard",
     "rarity": "C",
@@ -1510,7 +1484,7 @@
   "OP05-OP05-092 normal": {
     "lowPrice": 2.0,
     "midPrice": 3.25,
-    "highPrice": 15.0,
+    "highPrice": 6.0,
     "marketPrice": 3.06,
     "directLowPrice": null,
     "name": "Saint Rosward",
@@ -1561,8 +1535,8 @@
   },
   "OP05-OP05-096 normal": {
     "lowPrice": 14.16,
-    "midPrice": 18.74,
-    "highPrice": 50.0,
+    "midPrice": 19.37,
+    "highPrice": 99999.99,
     "marketPrice": null,
     "directLowPrice": null,
     "name": "I Bid 500 Million!!",
@@ -1666,7 +1640,7 @@
   "OP05-OP05-104 normal": {
     "lowPrice": 10.51,
     "midPrice": 12.32,
-    "highPrice": 14.77,
+    "highPrice": 99999.99,
     "marketPrice": 11.78,
     "directLowPrice": null,
     "name": "Conis",
@@ -1690,7 +1664,7 @@
     "groupId": 23368
   },
   "OP05-OP05-107 normal": {
-    "lowPrice": 0.64,
+    "lowPrice": 0.86,
     "midPrice": 1.01,
     "highPrice": 50.0,
     "marketPrice": 0.72,
@@ -1744,7 +1718,7 @@
   "OP05-OP05-110 normal": {
     "lowPrice": 10.0,
     "midPrice": 11.0,
-    "highPrice": 50.0,
+    "highPrice": 99999.99,
     "marketPrice": 10.57,
     "directLowPrice": null,
     "name": "Holly",
@@ -1901,7 +1875,7 @@
     "lowPrice": 11.0,
     "midPrice": 11.65,
     "highPrice": 13.0,
-    "marketPrice": 6.16,
+    "marketPrice": 6.34,
     "directLowPrice": null,
     "name": "Upper Yard",
     "rarity": "UC",

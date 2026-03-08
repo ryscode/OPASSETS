@@ -1,9 +1,9 @@
 {
   "ST04-ST04-001 normal": {
     "lowPrice": 4.49,
-    "midPrice": 6.92,
-    "highPrice": 80.0,
-    "marketPrice": 6.92,
+    "midPrice": 6.8,
+    "highPrice": 99999.99,
+    "marketPrice": 6.8,
     "directLowPrice": null,
     "name": "Kaido (001)",
     "rarity": "L",
@@ -80,7 +80,7 @@
   "ST04-ST04-004 normal": {
     "lowPrice": 0.15,
     "midPrice": 0.5,
-    "highPrice": 25.0,
+    "highPrice": 99999.99,
     "marketPrice": 0.46,
     "directLowPrice": null,
     "name": "King",
@@ -106,7 +106,7 @@
   "ST04-ST04-005 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.3,
-    "highPrice": 35.7,
+    "highPrice": 99999.99,
     "marketPrice": 0.27,
     "directLowPrice": null,
     "name": "Queen",
@@ -211,7 +211,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 1.32,
-    "marketPrice": 0.13,
+    "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Ginrummy",
     "rarity": "C",
@@ -235,7 +235,7 @@
   },
   "ST04-ST04-010 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.21,
+    "midPrice": 0.25,
     "highPrice": 1.32,
     "marketPrice": 0.17,
     "directLowPrice": null,
@@ -340,7 +340,7 @@
   "ST04-ST04-014 normal": {
     "lowPrice": 0.32,
     "midPrice": 0.62,
-    "highPrice": 7.65,
+    "highPrice": 99999.99,
     "marketPrice": 0.57,
     "directLowPrice": null,
     "name": "Lead Performer \"Disaster\"",
@@ -366,7 +366,7 @@
   "ST04-ST04-015 normal": {
     "lowPrice": 0.09,
     "midPrice": 0.25,
-    "highPrice": 1.4,
+    "highPrice": 99999.99,
     "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "Brachio Bomber",
@@ -391,7 +391,7 @@
   },
   "ST04-ST04-016 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.18,
+    "midPrice": 0.17,
     "highPrice": 8.4,
     "marketPrice": 0.11,
     "directLowPrice": null,

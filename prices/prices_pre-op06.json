@@ -1,7 +1,7 @@
 {
   "OP06-OP06-002 normal": {
     "lowPrice": 1.39,
-    "midPrice": 2.13,
+    "midPrice": 2.0,
     "highPrice": 4.99,
     "marketPrice": 1.58,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "OP06-OP06-026 normal": {
     "lowPrice": 0.22,
-    "midPrice": 0.87,
+    "midPrice": 0.89,
     "highPrice": 4.99,
     "marketPrice": 0.57,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "OP06-OP06-027 normal": {
     "lowPrice": 0.14,
-    "midPrice": 0.5,
+    "midPrice": 0.49,
     "highPrice": 19.92,
     "marketPrice": 0.17,
     "directLowPrice": null,
@@ -261,7 +261,7 @@
   },
   "OP06-OP06-030 normal": {
     "lowPrice": 0.37,
-    "midPrice": 0.66,
+    "midPrice": 0.69,
     "highPrice": 32.0,
     "marketPrice": 0.39,
     "directLowPrice": null,
@@ -287,7 +287,7 @@
   },
   "OP06-OP06-032 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.5,
+    "midPrice": 0.66,
     "highPrice": 50.0,
     "marketPrice": 0.35,
     "directLowPrice": null,
@@ -363,32 +363,6 @@
     "description": "[Main] K.O. up to 2 of your opponent's rested Characters with a cost of 3 or less.\r\n<br>\r\n<br>\r\n<br>\r\n[Trigger] Activate this card's [Main] effect.",
     "groupId": 23424
   },
-  "OP06-OP06-048 normal": {
-    "lowPrice": 1.5,
-    "midPrice": 1.5,
-    "highPrice": 1.5,
-    "marketPrice": 2.27,
-    "directLowPrice": null,
-    "name": "Zeff",
-    "rarity": "C",
-    "power": "3000",
-    "cost": "3",
-    "life": null,
-    "category": "Character",
-    "colors": "Blue",
-    "attributes": "Strike",
-    "types": "East Blue",
-    "effect": null,
-    "trigger": null,
-    "counter": "1000",
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/541691_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Character",
-    "description": "[Your Turn] When your opponent activates [Blocker] or an Event, if your Leader has the [East Blue] type, you may trash 4 cards from the top of your deck.",
-    "groupId": 23424
-  },
   "OP06-OP06-049 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.49,
@@ -443,7 +417,7 @@
   },
   "OP06-OP06-053 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.43,
+    "midPrice": 0.41,
     "highPrice": 90.0,
     "marketPrice": 0.41,
     "directLowPrice": null,
@@ -495,7 +469,7 @@
   },
   "OP06-OP06-057 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.5,
+    "midPrice": 0.53,
     "highPrice": 2.05,
     "marketPrice": 0.38,
     "directLowPrice": null,
@@ -521,8 +495,8 @@
   },
   "OP06-OP06-060 normal": {
     "lowPrice": 1.85,
-    "midPrice": 2.42,
-    "highPrice": 14.55,
+    "midPrice": 2.46,
+    "highPrice": 99999.99,
     "marketPrice": 2.37,
     "directLowPrice": null,
     "name": "Vinsmoke Ichiji (060)",
@@ -547,8 +521,8 @@
   },
   "OP06-OP06-064 normal": {
     "lowPrice": 0.9,
-    "midPrice": 1.87,
-    "highPrice": 20.0,
+    "midPrice": 1.89,
+    "highPrice": 99999.99,
     "marketPrice": 1.0,
     "directLowPrice": null,
     "name": "Vinsmoke Niji (064)",
@@ -573,7 +547,7 @@
   },
   "OP06-OP06-066 normal": {
     "lowPrice": 0.59,
-    "midPrice": 0.99,
+    "midPrice": 1.0,
     "highPrice": 6.95,
     "marketPrice": 0.84,
     "directLowPrice": null,
@@ -599,9 +573,9 @@
   },
   "OP06-OP06-068 normal": {
     "lowPrice": 5.93,
-    "midPrice": 8.59,
-    "highPrice": 20.01,
-    "marketPrice": 6.86,
+    "midPrice": 8.98,
+    "highPrice": 99999.99,
+    "marketPrice": 6.97,
     "directLowPrice": null,
     "name": "Vinsmoke Reiju (068)",
     "rarity": "C",
@@ -703,8 +677,8 @@
   },
   "OP06-OP06-079 normal": {
     "lowPrice": 0.99,
-    "midPrice": 1.68,
-    "highPrice": 36.99,
+    "midPrice": 1.7,
+    "highPrice": 99999.99,
     "marketPrice": 1.59,
     "directLowPrice": null,
     "name": "Kingdom of GERMA",
@@ -729,9 +703,9 @@
   },
   "OP06-OP06-082 normal": {
     "lowPrice": 1.11,
-    "midPrice": 2.85,
-    "highPrice": 8.38,
-    "marketPrice": 1.31,
+    "midPrice": 3.0,
+    "highPrice": 99999.99,
+    "marketPrice": 1.34,
     "directLowPrice": null,
     "name": "Inuppe",
     "rarity": "C",
@@ -755,8 +729,8 @@
   },
   "OP06-OP06-084 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.79,
-    "highPrice": 4.99,
+    "midPrice": 0.85,
+    "highPrice": 55.0,
     "marketPrice": 0.45,
     "directLowPrice": null,
     "name": "Jigoro of the Wind",
@@ -782,7 +756,7 @@
   "OP06-OP06-087 normal": {
     "lowPrice": 2.76,
     "midPrice": 5.0,
-    "highPrice": 6.0,
+    "highPrice": 99999.99,
     "marketPrice": 2.76,
     "directLowPrice": null,
     "name": "Cerberus",
@@ -808,7 +782,7 @@
   "OP06-OP06-089 normal": {
     "lowPrice": 0.2,
     "midPrice": 0.5,
-    "highPrice": 10.0,
+    "highPrice": 40.0,
     "marketPrice": 0.42,
     "directLowPrice": null,
     "name": "Taralan",
@@ -833,9 +807,9 @@
   },
   "OP06-OP06-094 normal": {
     "lowPrice": 0.34,
-    "midPrice": 0.54,
+    "midPrice": 0.56,
     "highPrice": 3.33,
-    "marketPrice": 0.43,
+    "marketPrice": 0.45,
     "directLowPrice": null,
     "name": "Lola",
     "rarity": "C",
@@ -885,8 +859,8 @@
   },
   "OP06-OP06-098 normal": {
     "lowPrice": 3.42,
-    "midPrice": 4.5,
-    "highPrice": 20.0,
+    "midPrice": 4.51,
+    "highPrice": 99999.99,
     "marketPrice": 4.05,
     "directLowPrice": null,
     "name": "Thriller Bark",
@@ -911,8 +885,8 @@
   },
   "OP06-OP06-099 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.99,
-    "highPrice": 16.95,
+    "midPrice": 1.0,
+    "highPrice": 80.0,
     "marketPrice": 0.51,
     "directLowPrice": null,
     "name": "Aisa",
@@ -937,7 +911,7 @@
   },
   "OP06-OP06-102 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.87,
+    "midPrice": 1.0,
     "highPrice": 4.53,
     "marketPrice": 0.65,
     "directLowPrice": null,
@@ -964,7 +938,7 @@
   "OP06-OP06-103 normal": {
     "lowPrice": 0.18,
     "midPrice": 0.42,
-    "highPrice": 3.0,
+    "highPrice": 85.0,
     "marketPrice": 0.37,
     "directLowPrice": null,
     "name": "Kawamatsu",
@@ -990,7 +964,7 @@
   "OP06-OP06-105 normal": {
     "lowPrice": 0.5,
     "midPrice": 0.99,
-    "highPrice": 4.99,
+    "highPrice": 40.0,
     "marketPrice": 0.61,
     "directLowPrice": null,
     "name": "Genbo",
@@ -1067,7 +1041,7 @@
   },
   "OP06-OP06-112 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.5,
+    "midPrice": 0.54,
     "highPrice": 2.2,
     "marketPrice": 0.44,
     "directLowPrice": null,
@@ -1093,8 +1067,8 @@
   },
   "OP06-OP06-113 normal": {
     "lowPrice": 1.95,
-    "midPrice": 3.65,
-    "highPrice": 24.95,
+    "midPrice": 4.0,
+    "highPrice": 165.0,
     "marketPrice": 1.54,
     "directLowPrice": null,
     "name": "Raki",
@@ -1121,7 +1095,7 @@
     "lowPrice": 1.49,
     "midPrice": 2.2,
     "highPrice": 5.0,
-    "marketPrice": 2.64,
+    "marketPrice": 2.72,
     "directLowPrice": null,
     "name": "The Ark Maxim",
     "rarity": "C",
@@ -1145,7 +1119,7 @@
   },
   "OP06-OP06-003 normal": {
     "lowPrice": 4.99,
-    "midPrice": 6.15,
+    "midPrice": 6.04,
     "highPrice": 136571.51,
     "marketPrice": 6.48,
     "directLowPrice": null,
@@ -1250,7 +1224,7 @@
   "OP06-OP06-019 normal": {
     "lowPrice": 1.2,
     "midPrice": 1.73,
-    "highPrice": 5.0,
+    "highPrice": 99999.99,
     "marketPrice": 2.0,
     "directLowPrice": null,
     "name": "Blue Dragon Seal Water Stream",
@@ -1275,7 +1249,7 @@
   },
   "OP06-OP06-024 normal": {
     "lowPrice": 0.96,
-    "midPrice": 1.49,
+    "midPrice": 1.5,
     "highPrice": 4.99,
     "marketPrice": 0.87,
     "directLowPrice": null,
@@ -1456,8 +1430,8 @@
     "groupId": 23424
   },
   "OP06-OP06-046 normal": {
-    "lowPrice": 0.5,
-    "midPrice": 1.99,
+    "lowPrice": 0.9,
+    "midPrice": 2.05,
     "highPrice": 4.0,
     "marketPrice": 0.7,
     "directLowPrice": null,
@@ -1509,7 +1483,7 @@
   },
   "OP06-OP06-056 normal": {
     "lowPrice": 0.9,
-    "midPrice": 1.21,
+    "midPrice": 1.23,
     "highPrice": 18.21,
     "marketPrice": 1.1,
     "directLowPrice": null,
@@ -1561,7 +1535,7 @@
   },
   "OP06-OP06-063 normal": {
     "lowPrice": 7.41,
-    "midPrice": 9.85,
+    "midPrice": 9.7,
     "highPrice": 24.38,
     "marketPrice": 8.17,
     "directLowPrice": null,
@@ -1587,8 +1561,8 @@
   },
   "OP06-OP06-071 normal": {
     "lowPrice": 2.91,
-    "midPrice": 3.64,
-    "highPrice": 6.45,
+    "midPrice": 4.19,
+    "highPrice": 99999.99,
     "marketPrice": 3.11,
     "directLowPrice": null,
     "name": "Gild Tesoro",
@@ -1613,7 +1587,7 @@
   },
   "OP06-OP06-073 normal": {
     "lowPrice": 3.79,
-    "midPrice": 4.5,
+    "midPrice": 4.71,
     "highPrice": 5.75,
     "marketPrice": 3.96,
     "directLowPrice": null,
@@ -1639,7 +1613,7 @@
   },
   "OP06-OP06-076 normal": {
     "lowPrice": 4.44,
-    "midPrice": 5.9,
+    "midPrice": 5.85,
     "highPrice": 13.0,
     "marketPrice": 5.69,
     "directLowPrice": null,
@@ -1717,7 +1691,7 @@
   },
   "OP06-OP06-085 normal": {
     "lowPrice": 3.0,
-    "midPrice": 5.84,
+    "midPrice": 5.74,
     "highPrice": 8.0,
     "marketPrice": 5.17,
     "directLowPrice": null,
@@ -1821,7 +1795,7 @@
   },
   "OP06-OP06-100 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.75,
+    "midPrice": 1.71,
     "highPrice": 7.0,
     "marketPrice": 1.53,
     "directLowPrice": null,
@@ -1846,7 +1820,7 @@
     "groupId": 23424
   },
   "OP06-OP06-109 normal": {
-    "lowPrice": 1.25,
+    "lowPrice": 1.49,
     "midPrice": 3.3,
     "highPrice": 4.99,
     "marketPrice": 3.3,
@@ -1873,8 +1847,8 @@
   },
   "OP06-OP06-110 normal": {
     "lowPrice": 1.42,
-    "midPrice": 1.74,
-    "highPrice": 4.99,
+    "midPrice": 2.57,
+    "highPrice": 99999.99,
     "marketPrice": 1.5,
     "directLowPrice": null,
     "name": "Nekomamushi",
@@ -1899,7 +1873,7 @@
   },
   "OP06-OP06-114 normal": {
     "lowPrice": 2.68,
-    "midPrice": 3.15,
+    "midPrice": 3.08,
     "highPrice": 19.0,
     "marketPrice": 2.86,
     "directLowPrice": null,

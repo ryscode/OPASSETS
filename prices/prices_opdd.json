@@ -1,9 +1,9 @@
 {
   "OP01-OP01-001 normal": {
     "lowPrice": 3.0,
-    "midPrice": 5.29,
+    "midPrice": 5.36,
     "highPrice": 29.97,
-    "marketPrice": 5.14,
+    "marketPrice": 5.13,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
     "rarity": "L",
@@ -131,7 +131,7 @@
   },
   "OP01-OP01-013 normal": {
     "lowPrice": 0.5,
-    "midPrice": 1.17,
+    "midPrice": 1.15,
     "highPrice": 10.0,
     "marketPrice": 0.62,
     "directLowPrice": null,
@@ -159,7 +159,7 @@
     "lowPrice": 0.38,
     "midPrice": 2.68,
     "highPrice": 4.99,
-    "marketPrice": 2.88,
+    "marketPrice": 2.85,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "R",
@@ -313,7 +313,7 @@
   },
   "ST01-ST01-011 normal": {
     "lowPrice": 0.64,
-    "midPrice": 0.75,
+    "midPrice": 0.76,
     "highPrice": 4.99,
     "marketPrice": 0.77,
     "directLowPrice": null,
@@ -341,7 +341,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.35,
     "highPrice": 3.02,
-    "marketPrice": 0.35,
+    "marketPrice": 0.38,
     "directLowPrice": null,
     "name": "Guard Point",
     "rarity": "C",
@@ -416,10 +416,10 @@
     "groupId": 23907
   },
   "OP01-OP01-003 normal": {
-    "lowPrice": 6.0,
-    "midPrice": 12.79,
+    "lowPrice": 9.49,
+    "midPrice": 18.75,
     "highPrice": 100.0,
-    "marketPrice": 3.87,
+    "marketPrice": 5.78,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (003)",
     "rarity": "L",
@@ -494,10 +494,10 @@
     "groupId": 23907
   },
   "OP01-OP01-029 normal": {
-    "lowPrice": 1.0,
+    "lowPrice": 2.0,
     "midPrice": 3.16,
     "highPrice": 7.98,
-    "marketPrice": 3.52,
+    "marketPrice": 3.54,
     "directLowPrice": null,
     "name": "Radical Beam!!",
     "rarity": "UC",

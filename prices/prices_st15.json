@@ -1,7 +1,7 @@
 {
   "OP02-OP02-001 normal": {
     "lowPrice": 0.44,
-    "midPrice": 1.04,
+    "midPrice": 1.05,
     "highPrice": 25.0,
     "marketPrice": 1.03,
     "directLowPrice": null,
@@ -29,7 +29,7 @@
     "lowPrice": 0.24,
     "midPrice": 0.4,
     "highPrice": 10.0,
-    "marketPrice": 0.31,
+    "marketPrice": 0.32,
     "directLowPrice": null,
     "name": "Jozu",
     "rarity": "R",
@@ -79,7 +79,7 @@
   },
   "OP02-OP02-019 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.13,
+    "midPrice": 0.14,
     "highPrice": 1.29,
     "marketPrice": 0.1,
     "directLowPrice": null,
@@ -104,7 +104,7 @@
     "groupId": 23490
   },
   "OP03-OP03-003 normal": {
-    "lowPrice": 0.04,
+    "lowPrice": 0.03,
     "midPrice": 0.18,
     "highPrice": 1.35,
     "marketPrice": 0.15,
@@ -234,10 +234,10 @@
     "groupId": 23490
   },
   "ST15-ST15-002 normal": {
-    "lowPrice": 0.2,
-    "midPrice": 0.84,
+    "lowPrice": 0.19,
+    "midPrice": 0.77,
     "highPrice": 25.0,
-    "marketPrice": 0.47,
+    "marketPrice": 0.5,
     "directLowPrice": null,
     "name": "Edward.Newgate (ST15-002)",
     "rarity": "SR",

@@ -53,7 +53,7 @@
   },
   "OP09-OP09-007 normal": {
     "lowPrice": 0.22,
-    "midPrice": 0.43,
+    "midPrice": 0.44,
     "highPrice": 4.0,
     "marketPrice": 0.36,
     "directLowPrice": null,
@@ -78,9 +78,9 @@
     "groupId": 23590
   },
   "OP09-OP09-010 normal": {
-    "lowPrice": 0.1,
-    "midPrice": 0.39,
-    "highPrice": 99999.99,
+    "lowPrice": 0.09,
+    "midPrice": 0.37,
+    "highPrice": 1.5,
     "marketPrice": 0.2,
     "directLowPrice": null,
     "name": "Bonk Punch",
@@ -157,7 +157,7 @@
   },
   "OP09-OP09-019 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.51,
+    "midPrice": 0.5,
     "highPrice": 2.0,
     "marketPrice": 0.33,
     "directLowPrice": null,
@@ -184,7 +184,7 @@
   "OP09-OP09-021 normal": {
     "lowPrice": 0.33,
     "midPrice": 2.0,
-    "highPrice": 99999.99,
+    "highPrice": 5.0,
     "marketPrice": 1.82,
     "directLowPrice": null,
     "name": "Red Force",
@@ -209,8 +209,8 @@
   },
   "OP09-OP09-024 normal": {
     "lowPrice": 0.25,
-    "midPrice": 1.0,
-    "highPrice": 99999.99,
+    "midPrice": 0.99,
+    "highPrice": 9.75,
     "marketPrice": 0.57,
     "directLowPrice": null,
     "name": "Usopp (024)",
@@ -314,7 +314,7 @@
   "OP09-OP09-036 normal": {
     "lowPrice": 9.0,
     "midPrice": 11.0,
-    "highPrice": 99999.99,
+    "highPrice": 49.99,
     "marketPrice": 10.54,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (036)",
@@ -365,7 +365,7 @@
   },
   "OP09-OP09-041 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.52,
+    "midPrice": 0.57,
     "highPrice": 1.98,
     "marketPrice": 0.43,
     "directLowPrice": null,
@@ -391,7 +391,7 @@
   },
   "OP09-OP09-047 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.7,
+    "midPrice": 0.73,
     "highPrice": 3.0,
     "marketPrice": 0.5,
     "directLowPrice": null,
@@ -417,8 +417,8 @@
   },
   "OP09-OP09-049 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.4,
-    "highPrice": 99999.99,
+    "midPrice": 0.39,
+    "highPrice": 1.41,
     "marketPrice": 0.28,
     "directLowPrice": null,
     "name": "Jozu",
@@ -442,9 +442,9 @@
     "groupId": 23590
   },
   "OP09-OP09-052 normal": {
-    "lowPrice": 0.19,
+    "lowPrice": 0.15,
     "midPrice": 0.49,
-    "highPrice": 99999.99,
+    "highPrice": 5.0,
     "marketPrice": 0.21,
     "directLowPrice": null,
     "name": "Marco",
@@ -469,7 +469,7 @@
   },
   "OP09-OP09-054 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.97,
+    "midPrice": 0.96,
     "highPrice": 2.68,
     "marketPrice": 0.82,
     "directLowPrice": null,
@@ -547,7 +547,7 @@
   },
   "OP09-OP09-060 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.93,
+    "midPrice": 1.91,
     "highPrice": 4.0,
     "marketPrice": 1.72,
     "directLowPrice": null,
@@ -599,7 +599,7 @@
   },
   "OP09-OP09-067 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.46,
+    "midPrice": 0.45,
     "highPrice": 10.0,
     "marketPrice": 0.26,
     "directLowPrice": null,
@@ -624,10 +624,10 @@
     "groupId": 23590
   },
   "OP09-OP09-071 normal": {
-    "lowPrice": 6.89,
+    "lowPrice": 7.85,
     "midPrice": 13.48,
-    "highPrice": 99999.99,
-    "marketPrice": 12.57,
+    "highPrice": 999.99,
+    "marketPrice": 12.33,
     "directLowPrice": null,
     "name": "Nico Robin (071)",
     "rarity": "C",
@@ -651,7 +651,7 @@
   },
   "OP09-OP09-073 normal": {
     "lowPrice": 1.19,
-    "midPrice": 1.99,
+    "midPrice": 2.0,
     "highPrice": 5.0,
     "marketPrice": 1.49,
     "directLowPrice": null,
@@ -678,8 +678,8 @@
   "OP09-OP09-074 normal": {
     "lowPrice": 0.75,
     "midPrice": 1.0,
-    "highPrice": 12.62,
-    "marketPrice": 0.91,
+    "highPrice": 12.73,
+    "marketPrice": 0.92,
     "directLowPrice": null,
     "name": "Bepo",
     "rarity": "C",
@@ -755,9 +755,9 @@
   },
   "OP09-OP09-082 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.4,
+    "midPrice": 0.39,
     "highPrice": 1.99,
-    "marketPrice": 0.18,
+    "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Avalo Pizarro",
     "rarity": "C",
@@ -807,7 +807,7 @@
   },
   "OP09-OP09-087 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.99,
+    "midPrice": 0.87,
     "highPrice": 4.98,
     "marketPrice": 0.56,
     "directLowPrice": null,
@@ -834,8 +834,8 @@
   "OP09-OP09-091 normal": {
     "lowPrice": 0.5,
     "midPrice": 1.25,
-    "highPrice": 99999.99,
-    "marketPrice": 1.1,
+    "highPrice": 6.0,
+    "marketPrice": 1.11,
     "directLowPrice": null,
     "name": "Vasco Shot",
     "rarity": "C",
@@ -886,7 +886,7 @@
   "OP09-OP09-094 normal": {
     "lowPrice": 0.05,
     "midPrice": 0.4,
-    "highPrice": 99999.99,
+    "highPrice": 5.07,
     "marketPrice": 0.15,
     "directLowPrice": null,
     "name": "Peachbeard",
@@ -911,8 +911,8 @@
   },
   "OP09-OP09-097 normal": {
     "lowPrice": 1.5,
-    "midPrice": 3.25,
-    "highPrice": 99999.99,
+    "midPrice": 3.09,
+    "highPrice": 12.99,
     "marketPrice": 3.13,
     "directLowPrice": null,
     "name": "Black Vortex",
@@ -936,9 +936,9 @@
     "groupId": 23590
   },
   "OP09-OP09-099 normal": {
-    "lowPrice": 0.97,
-    "midPrice": 2.43,
-    "highPrice": 99999.99,
+    "lowPrice": 0.95,
+    "midPrice": 2.0,
+    "highPrice": 10.0,
     "marketPrice": 1.57,
     "directLowPrice": null,
     "name": "Fullalead",
@@ -963,7 +963,7 @@
   },
   "OP09-OP09-105 normal": {
     "lowPrice": 0.7,
-    "midPrice": 1.0,
+    "midPrice": 1.04,
     "highPrice": 5.99,
     "marketPrice": 0.93,
     "directLowPrice": null,
@@ -989,7 +989,7 @@
   },
   "OP09-OP09-106 normal": {
     "lowPrice": 1.25,
-    "midPrice": 2.08,
+    "midPrice": 2.14,
     "highPrice": 15.0,
     "marketPrice": 1.92,
     "directLowPrice": null,
@@ -1016,7 +1016,7 @@
   "OP09-OP09-110 normal": {
     "lowPrice": 0.1,
     "midPrice": 0.44,
-    "highPrice": 99999.99,
+    "highPrice": 1.99,
     "marketPrice": 0.32,
     "directLowPrice": null,
     "name": "Pierre",
@@ -1041,7 +1041,7 @@
   },
   "OP09-OP09-111 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.78,
+    "midPrice": 0.75,
     "highPrice": 20.0,
     "marketPrice": 0.43,
     "directLowPrice": null,
@@ -1119,8 +1119,8 @@
   },
   "OP09-OP09-114 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.41,
-    "highPrice": 99999.99,
+    "midPrice": 0.43,
+    "highPrice": 6.0,
     "marketPrice": 0.19,
     "directLowPrice": null,
     "name": "Lindbergh",
@@ -1171,9 +1171,9 @@
   },
   "OP09-OP09-008 normal": {
     "lowPrice": 1.59,
-    "midPrice": 2.7,
-    "highPrice": 99999.99,
-    "marketPrice": 2.46,
+    "midPrice": 2.59,
+    "highPrice": 7.0,
+    "marketPrice": 2.35,
     "directLowPrice": null,
     "name": "Building Snake",
     "rarity": "UC",
@@ -1197,7 +1197,7 @@
   },
   "OP09-OP09-011 normal": {
     "lowPrice": 0.95,
-    "midPrice": 1.39,
+    "midPrice": 1.41,
     "highPrice": 6.52,
     "marketPrice": 1.3,
     "directLowPrice": null,
@@ -1274,8 +1274,8 @@
     "groupId": 23590
   },
   "OP09-OP09-018 normal": {
-    "lowPrice": 0.4,
-    "midPrice": 0.6,
+    "lowPrice": 0.43,
+    "midPrice": 0.61,
     "highPrice": 6.77,
     "marketPrice": 0.5,
     "directLowPrice": null,
@@ -1301,7 +1301,7 @@
   },
   "OP09-OP09-025 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.75,
+    "midPrice": 0.73,
     "highPrice": 2.0,
     "marketPrice": 0.7,
     "directLowPrice": null,
@@ -1327,8 +1327,8 @@
   },
   "OP09-OP09-027 normal": {
     "lowPrice": 2.9,
-    "midPrice": 3.75,
-    "highPrice": 99999.99,
+    "midPrice": 3.69,
+    "highPrice": 8.0,
     "marketPrice": 3.48,
     "directLowPrice": null,
     "name": "Sabo (027)",
@@ -1380,7 +1380,7 @@
   "OP09-OP09-032 normal": {
     "lowPrice": 2.49,
     "midPrice": 3.49,
-    "highPrice": 99999.99,
+    "highPrice": 5.06,
     "marketPrice": 3.49,
     "directLowPrice": null,
     "name": "Donquixote Rosinante (032)",
@@ -1431,7 +1431,7 @@
   },
   "OP09-OP09-040 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.99,
+    "midPrice": 1.0,
     "highPrice": 9.99,
     "marketPrice": 0.63,
     "directLowPrice": null,
@@ -1457,8 +1457,8 @@
   },
   "OP09-OP09-043 normal": {
     "lowPrice": 0.7,
-    "midPrice": 1.69,
-    "highPrice": 99999.99,
+    "midPrice": 1.63,
+    "highPrice": 5.25,
     "marketPrice": 1.48,
     "directLowPrice": null,
     "name": "Alvida",
@@ -1535,9 +1535,9 @@
   },
   "OP09-OP09-053 normal": {
     "lowPrice": 0.78,
-    "midPrice": 1.16,
-    "highPrice": 99999.99,
-    "marketPrice": 1.04,
+    "midPrice": 1.21,
+    "highPrice": 11.0,
+    "marketPrice": 1.13,
     "directLowPrice": null,
     "name": "Mohji",
     "rarity": "UC",
@@ -1587,7 +1587,7 @@
   },
   "OP09-OP09-064 normal": {
     "lowPrice": 0.91,
-    "midPrice": 1.23,
+    "midPrice": 1.35,
     "highPrice": 5.0,
     "marketPrice": 1.06,
     "directLowPrice": null,
@@ -1613,7 +1613,7 @@
   },
   "OP09-OP09-066 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.5,
+    "midPrice": 0.49,
     "highPrice": 1.89,
     "marketPrice": 0.47,
     "directLowPrice": null,
@@ -1639,8 +1639,8 @@
   },
   "OP09-OP09-068 normal": {
     "lowPrice": 6.1,
-    "midPrice": 8.0,
-    "highPrice": 99999.99,
+    "midPrice": 7.05,
+    "highPrice": 8.0,
     "marketPrice": 4.56,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper (067)",
@@ -1665,8 +1665,8 @@
   },
   "OP09-OP09-070 normal": {
     "lowPrice": 11.94,
-    "midPrice": 15.0,
-    "highPrice": 99999.99,
+    "midPrice": 14.86,
+    "highPrice": 50.0,
     "marketPrice": 14.74,
     "directLowPrice": null,
     "name": "Nami (070)",
@@ -1693,7 +1693,7 @@
     "lowPrice": 0.7,
     "midPrice": 1.0,
     "highPrice": 8.0,
-    "marketPrice": 0.74,
+    "marketPrice": 0.75,
     "directLowPrice": null,
     "name": "Eustass\"Captain\"Kid",
     "rarity": "UC",
@@ -1718,7 +1718,7 @@
   "OP09-OP09-077 normal": {
     "lowPrice": 1.35,
     "midPrice": 2.19,
-    "highPrice": 99999.99,
+    "highPrice": 7.95,
     "marketPrice": 1.74,
     "directLowPrice": null,
     "name": "Gum-Gum Lightning",
@@ -1743,8 +1743,8 @@
   },
   "OP09-OP09-084 normal": {
     "lowPrice": 2.49,
-    "midPrice": 3.4,
-    "highPrice": 8.0,
+    "midPrice": 3.33,
+    "highPrice": 17.5,
     "marketPrice": 2.89,
     "directLowPrice": null,
     "name": "Catarina Devon",
@@ -1821,7 +1821,7 @@
   },
   "OP09-OP09-098 normal": {
     "lowPrice": 1.3,
-    "midPrice": 3.7,
+    "midPrice": 3.76,
     "highPrice": 22.99,
     "marketPrice": 3.42,
     "directLowPrice": null,
@@ -1847,8 +1847,8 @@
   },
   "OP09-OP09-100 normal": {
     "lowPrice": 2.99,
-    "midPrice": 4.5,
-    "highPrice": 99999.99,
+    "midPrice": 4.46,
+    "highPrice": 20.0,
     "marketPrice": 4.18,
     "directLowPrice": null,
     "name": "Karasu",
@@ -1874,7 +1874,7 @@
   "OP09-OP09-108 normal": {
     "lowPrice": 3.25,
     "midPrice": 5.0,
-    "highPrice": 99999.99,
+    "highPrice": 20.0,
     "marketPrice": 4.95,
     "directLowPrice": null,
     "name": "Bartholomew Kuma",

@@ -1,7 +1,7 @@
 {
   "P-P-029 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.23,
+    "midPrice": 0.22,
     "highPrice": 5.0,
     "marketPrice": 0.17,
     "directLowPrice": null,
@@ -133,7 +133,7 @@
     "lowPrice": 0.24,
     "midPrice": 1.95,
     "highPrice": 20.0,
-    "marketPrice": 0.96,
+    "marketPrice": 1.02,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (P-061)",
     "rarity": "PR",
@@ -157,9 +157,9 @@
   },
   "ST11-ST11-001 normal": {
     "lowPrice": 0.63,
-    "midPrice": 2.0,
+    "midPrice": 1.99,
     "highPrice": 25.0,
-    "marketPrice": 1.33,
+    "marketPrice": 1.42,
     "directLowPrice": null,
     "name": "Uta (ST11-001)",
     "rarity": "L",
@@ -208,7 +208,7 @@
     "groupId": 23491
   },
   "ST11-ST11-004 normal": {
-    "lowPrice": 0.04,
+    "lowPrice": 0.09,
     "midPrice": 0.25,
     "highPrice": 5.0,
     "marketPrice": 0.24,
@@ -261,7 +261,7 @@
   },
   "ST16-ST16-001 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.64,
+    "midPrice": 0.62,
     "highPrice": 9.9,
     "marketPrice": 0.45,
     "directLowPrice": null,
@@ -339,9 +339,9 @@
   },
   "ST16-ST16-004 normal": {
     "lowPrice": 1.99,
-    "midPrice": 3.95,
+    "midPrice": 3.92,
     "highPrice": 10.0,
-    "marketPrice": 3.42,
+    "marketPrice": 3.39,
     "directLowPrice": null,
     "name": "Shanks",
     "rarity": "SR",
@@ -364,10 +364,10 @@
     "groupId": 23491
   },
   "ST16-ST16-005 normal": {
-    "lowPrice": 0.07,
-    "midPrice": 0.3,
+    "lowPrice": 0.19,
+    "midPrice": 0.31,
     "highPrice": 2.9,
-    "marketPrice": 0.25,
+    "marketPrice": 0.26,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (ST16-005)",
     "rarity": "C",

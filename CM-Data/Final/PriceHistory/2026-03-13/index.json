@@ -191,7 +191,7 @@
     {
       "expansionId": 5510,
       "expansionName": "Chinese New Year Red Envelope - Roronoa Zoro",
-      "count": 337,
+      "count": 338,
       "file": "m18_expansion_5510_chinese_new_year_red_envelope_roronoa_zoro.json"
     },
     {
@@ -745,6 +745,12 @@
       "expansionName": "Adventure on Kami's Island",
       "count": 157,
       "file": "m18_expansion_6504_adventure_on_kami_s_island.json"
+    },
+    {
+      "expansionId": null,
+      "expansionName": null,
+      "count": 5,
+      "file": "m18_expansion_unknown.json"
     }
   ]
 }

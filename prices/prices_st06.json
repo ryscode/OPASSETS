@@ -1,7 +1,7 @@
 {
   "ST06-ST06-001 normal": {
     "lowPrice": 0.86,
-    "midPrice": 1.88,
+    "midPrice": 1.8,
     "highPrice": 25.0,
     "marketPrice": 1.61,
     "directLowPrice": null,
@@ -27,7 +27,7 @@
   },
   "ST06-ST06-002 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.25,
+    "midPrice": 0.26,
     "highPrice": 10.0,
     "marketPrice": 0.26,
     "directLowPrice": null,
@@ -53,9 +53,9 @@
   },
   "ST06-ST06-004 normal": {
     "lowPrice": 0.97,
-    "midPrice": 1.67,
+    "midPrice": 1.65,
     "highPrice": 25.0,
-    "marketPrice": 1.44,
+    "marketPrice": 1.42,
     "directLowPrice": null,
     "name": "Smoker",
     "rarity": "SR",
@@ -104,10 +104,10 @@
     "groupId": 17699
   },
   "ST06-ST06-006 normal": {
-    "lowPrice": 0.68,
+    "lowPrice": 0.67,
     "midPrice": 1.0,
     "highPrice": 25.0,
-    "marketPrice": 0.84,
+    "marketPrice": 0.83,
     "directLowPrice": null,
     "name": "Tashigi",
     "rarity": "C",
@@ -131,9 +131,9 @@
   },
   "ST06-ST06-012 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.99,
+    "midPrice": 1.0,
     "highPrice": 10.0,
-    "marketPrice": 0.76,
+    "marketPrice": 0.71,
     "directLowPrice": null,
     "name": "Monkey.D.Garp",
     "rarity": "SR",
@@ -158,8 +158,8 @@
   "ST06-ST06-015 normal": {
     "lowPrice": 2.9,
     "midPrice": 4.99,
-    "highPrice": 27.99,
-    "marketPrice": 3.78,
+    "highPrice": 25.0,
+    "marketPrice": 3.77,
     "directLowPrice": null,
     "name": "Great Eruption",
     "rarity": "C",
@@ -234,7 +234,7 @@
     "groupId": 17699
   },
   "ST06-ST06-007 normal": {
-    "lowPrice": 0.03,
+    "lowPrice": 0.02,
     "midPrice": 0.15,
     "highPrice": 1.15,
     "marketPrice": 0.08,
@@ -417,9 +417,9 @@
   },
   "ST06-ST06-017 normal": {
     "lowPrice": 0.9,
-    "midPrice": 2.1,
+    "midPrice": 2.2,
     "highPrice": 25.0,
-    "marketPrice": 1.41,
+    "marketPrice": 1.43,
     "directLowPrice": null,
     "name": "Navy HQ",
     "rarity": "C",

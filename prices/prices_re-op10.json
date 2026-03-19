@@ -53,7 +53,7 @@
   },
   "OP10-OP10-007 normal": {
     "lowPrice": 0.3,
-    "midPrice": 1.12,
+    "midPrice": 1.11,
     "highPrice": 70.0,
     "marketPrice": 0.54,
     "directLowPrice": null,
@@ -365,8 +365,8 @@
   },
   "OP10-OP10-026 normal": {
     "lowPrice": 0.57,
-    "midPrice": 1.77,
-    "highPrice": 6.86,
+    "midPrice": 1.81,
+    "highPrice": 50.0,
     "marketPrice": 0.57,
     "directLowPrice": null,
     "name": "Kin'emon (026)",
@@ -391,7 +391,7 @@
   },
   "OP10-OP10-027 normal": {
     "lowPrice": 3.15,
-    "midPrice": 4.31,
+    "midPrice": 5.7,
     "highPrice": 20.0,
     "marketPrice": 3.24,
     "directLowPrice": null,
@@ -416,7 +416,7 @@
     "groupId": 24068
   },
   "OP10-OP10-028 normal": {
-    "lowPrice": 0.64,
+    "lowPrice": 0.65,
     "midPrice": 1.72,
     "highPrice": 80.0,
     "marketPrice": 0.66,
@@ -444,7 +444,7 @@
   "OP10-OP10-031 normal": {
     "lowPrice": 0.24,
     "midPrice": 0.49,
-    "highPrice": 2.99,
+    "highPrice": 25.0,
     "marketPrice": 0.32,
     "directLowPrice": null,
     "name": "Sengoku",
@@ -494,10 +494,10 @@
     "groupId": 24068
   },
   "OP10-OP10-034 normal": {
-    "lowPrice": 0.33,
-    "midPrice": 1.1,
+    "lowPrice": 0.4,
+    "midPrice": 1.16,
     "highPrice": 8.45,
-    "marketPrice": 0.51,
+    "marketPrice": 0.5,
     "directLowPrice": null,
     "name": "Franky (034)",
     "rarity": "C",
@@ -521,7 +521,7 @@
   },
   "OP10-OP10-035 normal": {
     "lowPrice": 0.61,
-    "midPrice": 1.71,
+    "midPrice": 0.96,
     "highPrice": 80.0,
     "marketPrice": 0.72,
     "directLowPrice": null,
@@ -625,7 +625,7 @@
   },
   "OP10-OP10-040 normal": {
     "lowPrice": 0.42,
-    "midPrice": 1.27,
+    "midPrice": 1.3,
     "highPrice": 7.08,
     "marketPrice": 0.49,
     "directLowPrice": null,
@@ -703,7 +703,7 @@
   },
   "OP10-OP10-047 normal": {
     "lowPrice": 1.3,
-    "midPrice": 1.57,
+    "midPrice": 1.58,
     "highPrice": 80.0,
     "marketPrice": 1.21,
     "directLowPrice": null,
@@ -909,35 +909,9 @@
     "description": "[On Play] <strong>You may rest 1 of your \"Dressrosa\" type Leader or Stage cards, and return 1 of your \"Dressrosa\" type Characters with a cost of 4 or more to the owner's hand:</strong> Return up to 1 of your opponent's Characters with a cost of 4 or less to the owner's hand.",
     "groupId": 24068
   },
-  "OP10-OP10-060 normal": {
-    "lowPrice": 10.0,
-    "midPrice": 10.0,
-    "highPrice": 10.0,
-    "marketPrice": 1.24,
-    "directLowPrice": null,
-    "name": "Barrier-Barrier Pistol",
-    "rarity": "C",
-    "power": null,
-    "cost": "5",
-    "life": null,
-    "category": "Event",
-    "colors": "Blue",
-    "attributes": null,
-    "types": "Dressrosa;Barto Club",
-    "effect": null,
-    "trigger": "yes",
-    "counter": null,
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/620776_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Event",
-    "description": "[Main] Place up to 1 of your opponent's Characters with 6000 power or less at the bottom of the owner's deck.<br>\r\n<br>\r\n[Trigger] Activate this card's [Main] effect.",
-    "groupId": 24068
-  },
   "OP10-OP10-061 normal": {
     "lowPrice": 1.0,
-    "midPrice": 1.85,
+    "midPrice": 1.81,
     "highPrice": 4.89,
     "marketPrice": 1.48,
     "directLowPrice": null,
@@ -1015,7 +989,7 @@
   },
   "OP10-OP10-068 normal": {
     "lowPrice": 0.08,
-    "midPrice": 0.47,
+    "midPrice": 0.48,
     "highPrice": 46.85,
     "marketPrice": 0.29,
     "directLowPrice": null,
@@ -1041,7 +1015,7 @@
   },
   "OP10-OP10-069 normal": {
     "lowPrice": 0.14,
-    "midPrice": 0.44,
+    "midPrice": 0.45,
     "highPrice": 50.0,
     "marketPrice": 0.25,
     "directLowPrice": null,
@@ -1119,7 +1093,7 @@
   },
   "OP10-OP10-074 normal": {
     "lowPrice": 0.37,
-    "midPrice": 1.35,
+    "midPrice": 1.34,
     "highPrice": 4.99,
     "marketPrice": 0.43,
     "directLowPrice": null,
@@ -1249,9 +1223,9 @@
   },
   "OP10-OP10-080 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.52,
+    "midPrice": 0.51,
     "highPrice": 6.68,
-    "marketPrice": 0.5,
+    "marketPrice": 0.54,
     "directLowPrice": null,
     "name": "Little Black Bears",
     "rarity": "C",
@@ -1275,7 +1249,7 @@
   },
   "OP10-OP10-081 normal": {
     "lowPrice": 0.23,
-    "midPrice": 0.51,
+    "midPrice": 0.5,
     "highPrice": 90.0,
     "marketPrice": 0.3,
     "directLowPrice": null,
@@ -1405,9 +1379,9 @@
   },
   "OP10-OP10-089 normal": {
     "lowPrice": 8.23,
-    "midPrice": 9.98,
+    "midPrice": 9.99,
     "highPrice": 30.0,
-    "marketPrice": 10.22,
+    "marketPrice": 10.17,
     "directLowPrice": null,
     "name": "Nico Robin",
     "rarity": "C",
@@ -1430,7 +1404,7 @@
     "groupId": 24068
   },
   "OP10-OP10-091 normal": {
-    "lowPrice": 0.98,
+    "lowPrice": 1.11,
     "midPrice": 1.86,
     "highPrice": 75.0,
     "marketPrice": 1.22,
@@ -1456,8 +1430,8 @@
     "groupId": 24068
   },
   "OP10-OP10-092 normal": {
-    "lowPrice": 12.0,
-    "midPrice": 12.13,
+    "lowPrice": 11.54,
+    "midPrice": 12.0,
     "highPrice": 13.44,
     "marketPrice": 7.62,
     "directLowPrice": null,
@@ -1505,32 +1479,6 @@
     "finish": null,
     "cardType": "Character",
     "description": "[Activate: Main] <strong>You may trash this Character:</strong> Up to 1 of your black Characters gains +3 cost until the end of your opponent's next turn.",
-    "groupId": 24068
-  },
-  "OP10-OP10-094 normal": {
-    "lowPrice": 5.75,
-    "midPrice": 5.75,
-    "highPrice": 5.75,
-    "marketPrice": 8.55,
-    "directLowPrice": null,
-    "name": "Ryuma",
-    "rarity": "UC",
-    "power": "6000",
-    "cost": "4",
-    "life": null,
-    "category": "Character",
-    "colors": "Black",
-    "attributes": "Slash",
-    "types": "Land of Wano;Thriller Bark Pirates",
-    "effect": null,
-    "trigger": null,
-    "counter": null,
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/620800_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Character",
-    "description": "[DON!! x1] This Character gains [Double Attack].",
     "groupId": 24068
   },
   "OP10-OP10-096 normal": {
@@ -1587,7 +1535,7 @@
   },
   "OP10-OP10-100 normal": {
     "lowPrice": 0.51,
-    "midPrice": 0.74,
+    "midPrice": 0.77,
     "highPrice": 45.0,
     "marketPrice": 0.6,
     "directLowPrice": null,
@@ -1639,7 +1587,7 @@
   },
   "OP10-OP10-102 normal": {
     "lowPrice": 0.49,
-    "midPrice": 0.79,
+    "midPrice": 0.84,
     "highPrice": 20.0,
     "marketPrice": 0.75,
     "directLowPrice": null,
@@ -1665,7 +1613,7 @@
   },
   "OP10-OP10-104 normal": {
     "lowPrice": 0.45,
-    "midPrice": 1.02,
+    "midPrice": 1.01,
     "highPrice": 5.0,
     "marketPrice": 0.46,
     "directLowPrice": null,
@@ -1717,8 +1665,8 @@
   },
   "OP10-OP10-106 normal": {
     "lowPrice": 0.25,
-    "midPrice": 1.1,
-    "highPrice": 4.6,
+    "midPrice": 1.18,
+    "highPrice": 7.0,
     "marketPrice": 1.09,
     "directLowPrice": null,
     "name": "Killer",
@@ -1847,7 +1795,7 @@
   },
   "OP10-OP10-114 normal": {
     "lowPrice": 4.9,
-    "midPrice": 5.19,
+    "midPrice": 5.16,
     "highPrice": 9.47,
     "marketPrice": 5.19,
     "directLowPrice": null,

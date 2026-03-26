@@ -1,9 +1,9 @@
 {
   "ST06-ST06-001 normal": {
     "lowPrice": 0.86,
-    "midPrice": 1.8,
+    "midPrice": 1.78,
     "highPrice": 25.0,
-    "marketPrice": 1.53,
+    "marketPrice": 1.48,
     "directLowPrice": null,
     "name": "Sakazuki",
     "rarity": "L",
@@ -52,10 +52,10 @@
     "groupId": 17699
   },
   "ST06-ST06-004 normal": {
-    "lowPrice": 0.95,
-    "midPrice": 1.68,
+    "lowPrice": 0.97,
+    "midPrice": 1.72,
     "highPrice": 25.0,
-    "marketPrice": 1.45,
+    "marketPrice": 1.4,
     "directLowPrice": null,
     "name": "Smoker",
     "rarity": "SR",
@@ -79,7 +79,7 @@
   },
   "ST06-ST06-010 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.2,
+    "midPrice": 0.21,
     "highPrice": 3.99,
     "marketPrice": 0.15,
     "directLowPrice": null,
@@ -107,7 +107,7 @@
     "lowPrice": 0.67,
     "midPrice": 1.0,
     "highPrice": 25.0,
-    "marketPrice": 0.8,
+    "marketPrice": 0.79,
     "directLowPrice": null,
     "name": "Tashigi",
     "rarity": "C",
@@ -131,7 +131,7 @@
   },
   "ST06-ST06-012 normal": {
     "lowPrice": 0.44,
-    "midPrice": 0.99,
+    "midPrice": 1.0,
     "highPrice": 10.0,
     "marketPrice": 0.65,
     "directLowPrice": null,
@@ -157,7 +157,7 @@
   },
   "ST06-ST06-015 normal": {
     "lowPrice": 2.9,
-    "midPrice": 4.98,
+    "midPrice": 4.97,
     "highPrice": 25.0,
     "marketPrice": 3.8,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "ST06-ST06-007 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.19,
+    "midPrice": 0.18,
     "highPrice": 1.15,
     "marketPrice": 0.09,
     "directLowPrice": null,
@@ -262,7 +262,7 @@
   "ST06-ST06-008 normal": {
     "lowPrice": 0.33,
     "midPrice": 1.0,
-    "highPrice": 19.98,
+    "highPrice": 39.99,
     "marketPrice": 0.8,
     "directLowPrice": null,
     "name": "Hina",
@@ -365,9 +365,9 @@
   },
   "ST06-ST06-014 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.16,
+    "midPrice": 0.15,
     "highPrice": 10.0,
-    "marketPrice": 0.13,
+    "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Shockwave",
     "rarity": "C",

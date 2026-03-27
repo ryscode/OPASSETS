@@ -1,9 +1,9 @@
 {
   "ST09-ST09-001 normal": {
-    "lowPrice": 2.75,
-    "midPrice": 4.0,
+    "lowPrice": 1.2,
+    "midPrice": 3.99,
     "highPrice": 10.0,
-    "marketPrice": 3.3,
+    "marketPrice": 3.37,
     "directLowPrice": null,
     "name": "Yamato (001)",
     "rarity": "L",
@@ -29,7 +29,7 @@
     "lowPrice": 0.25,
     "midPrice": 0.5,
     "highPrice": 10.0,
-    "marketPrice": 0.47,
+    "marketPrice": 0.46,
     "directLowPrice": null,
     "name": "Portgas.D.Ace",
     "rarity": "SR",
@@ -53,7 +53,7 @@
   },
   "ST09-ST09-005 normal": {
     "lowPrice": 0.1,
-    "midPrice": 1.05,
+    "midPrice": 1.03,
     "highPrice": 25.0,
     "marketPrice": 0.9,
     "directLowPrice": null,
@@ -104,7 +104,7 @@
     "groupId": 22957
   },
   "ST09-ST09-008 normal": {
-    "lowPrice": 0.02,
+    "lowPrice": 0.03,
     "midPrice": 0.15,
     "highPrice": 1.98,
     "marketPrice": 0.07,
@@ -131,7 +131,7 @@
   },
   "ST09-ST09-006 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.19,
+    "midPrice": 0.2,
     "highPrice": 1.98,
     "marketPrice": 0.14,
     "directLowPrice": null,
@@ -261,9 +261,9 @@
   },
   "ST09-ST09-012 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.22,
+    "midPrice": 0.21,
     "highPrice": 1.98,
-    "marketPrice": 0.2,
+    "marketPrice": 0.21,
     "directLowPrice": null,
     "name": "Yamato (012)",
     "rarity": "C",
@@ -287,7 +287,7 @@
   },
   "ST09-ST09-013 normal": {
     "lowPrice": 0.07,
-    "midPrice": 0.2,
+    "midPrice": 0.19,
     "highPrice": 1.98,
     "marketPrice": 0.12,
     "directLowPrice": null,
@@ -313,7 +313,7 @@
   },
   "ST09-ST09-014 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.16,
+    "midPrice": 0.15,
     "highPrice": 8.0,
     "marketPrice": 0.13,
     "directLowPrice": null,

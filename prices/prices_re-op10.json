@@ -27,7 +27,7 @@
   },
   "OP10-OP10-006 normal": {
     "lowPrice": 0.87,
-    "midPrice": 0.99,
+    "midPrice": 1.0,
     "highPrice": 4.84,
     "marketPrice": 0.93,
     "directLowPrice": null,
@@ -53,7 +53,7 @@
   },
   "OP10-OP10-007 normal": {
     "lowPrice": 0.3,
-    "midPrice": 1.13,
+    "midPrice": 1.11,
     "highPrice": 70.0,
     "marketPrice": 0.51,
     "directLowPrice": null,
@@ -131,7 +131,7 @@
   },
   "OP10-OP10-013 normal": {
     "lowPrice": 0.77,
-    "midPrice": 2.6,
+    "midPrice": 2.53,
     "highPrice": 8.68,
     "marketPrice": 0.77,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "OP10-OP10-015 normal": {
     "lowPrice": 0.69,
-    "midPrice": 1.27,
+    "midPrice": 1.36,
     "highPrice": 8.68,
     "marketPrice": 1.13,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "OP10-OP10-018 normal": {
     "lowPrice": 0.96,
-    "midPrice": 1.6,
+    "midPrice": 1.59,
     "highPrice": 6.69,
     "marketPrice": 1.39,
     "directLowPrice": null,
@@ -312,7 +312,7 @@
     "groupId": 24068
   },
   "OP10-OP10-023 normal": {
-    "lowPrice": 0.3,
+    "lowPrice": 0.4,
     "midPrice": 0.75,
     "highPrice": 9.94,
     "marketPrice": 0.45,
@@ -365,7 +365,7 @@
   },
   "OP10-OP10-026 normal": {
     "lowPrice": 0.59,
-    "midPrice": 2.0,
+    "midPrice": 1.95,
     "highPrice": 50.0,
     "marketPrice": 0.59,
     "directLowPrice": null,
@@ -391,7 +391,7 @@
   },
   "OP10-OP10-027 normal": {
     "lowPrice": 3.15,
-    "midPrice": 5.7,
+    "midPrice": 9.7,
     "highPrice": 20.0,
     "marketPrice": 3.24,
     "directLowPrice": null,
@@ -417,7 +417,7 @@
   },
   "OP10-OP10-028 normal": {
     "lowPrice": 0.64,
-    "midPrice": 1.88,
+    "midPrice": 1.84,
     "highPrice": 80.0,
     "marketPrice": 0.65,
     "directLowPrice": null,
@@ -495,7 +495,7 @@
   },
   "OP10-OP10-034 normal": {
     "lowPrice": 0.49,
-    "midPrice": 1.04,
+    "midPrice": 0.98,
     "highPrice": 8.68,
     "marketPrice": 0.55,
     "directLowPrice": null,
@@ -520,8 +520,8 @@
     "groupId": 24068
   },
   "OP10-OP10-035 normal": {
-    "lowPrice": 0.61,
-    "midPrice": 1.87,
+    "lowPrice": 0.65,
+    "midPrice": 2.44,
     "highPrice": 80.0,
     "marketPrice": 0.72,
     "directLowPrice": null,
@@ -545,35 +545,9 @@
     "description": "[On K.O.] Rest up to 1 of your opponent's Leader or Character cards with a cost of 5 or less.",
     "groupId": 24068
   },
-  "OP10-OP10-036 normal": {
-    "lowPrice": 30.0,
-    "midPrice": 30.0,
-    "highPrice": 30.0,
-    "marketPrice": 11.13,
-    "directLowPrice": null,
-    "name": "Perona (036)",
-    "rarity": "C",
-    "power": "5000",
-    "cost": "4",
-    "life": null,
-    "category": "Character",
-    "colors": "Green",
-    "attributes": "Special",
-    "types": "Thriller Bark Pirates;ODYSSEY;Muggy Kingdom",
-    "effect": null,
-    "trigger": null,
-    "counter": "1000",
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/620762_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Character",
-    "description": "[Your Turn] [Once Per Turn] If a Character is rested by your effect, set up to 1 of your DON!! cards as active.",
-    "groupId": 24068
-  },
   "OP10-OP10-038 normal": {
-    "lowPrice": 3.3,
-    "midPrice": 4.19,
+    "lowPrice": 3.99,
+    "midPrice": 4.75,
     "highPrice": 7.0,
     "marketPrice": 3.02,
     "directLowPrice": null,
@@ -598,8 +572,8 @@
     "groupId": 24068
   },
   "OP10-OP10-039 normal": {
-    "lowPrice": 0.91,
-    "midPrice": 1.53,
+    "lowPrice": 0.96,
+    "midPrice": 1.47,
     "highPrice": 3.99,
     "marketPrice": 1.07,
     "directLowPrice": null,
@@ -625,7 +599,7 @@
   },
   "OP10-OP10-040 normal": {
     "lowPrice": 0.42,
-    "midPrice": 1.35,
+    "midPrice": 1.32,
     "highPrice": 7.95,
     "marketPrice": 0.49,
     "directLowPrice": null,
@@ -703,7 +677,7 @@
   },
   "OP10-OP10-047 normal": {
     "lowPrice": 1.3,
-    "midPrice": 1.64,
+    "midPrice": 1.6,
     "highPrice": 80.0,
     "marketPrice": 1.23,
     "directLowPrice": null,
@@ -729,7 +703,7 @@
   },
   "OP10-OP10-048 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.49,
+    "midPrice": 0.5,
     "highPrice": 8.68,
     "marketPrice": 0.22,
     "directLowPrice": null,
@@ -780,8 +754,8 @@
     "groupId": 24068
   },
   "OP10-OP10-051 normal": {
-    "lowPrice": 0.8,
-    "midPrice": 1.09,
+    "lowPrice": 0.9,
+    "midPrice": 1.08,
     "highPrice": 58.81,
     "marketPrice": 0.94,
     "directLowPrice": null,
@@ -832,7 +806,7 @@
     "groupId": 24068
   },
   "OP10-OP10-053 normal": {
-    "lowPrice": 0.22,
+    "lowPrice": 0.23,
     "midPrice": 0.49,
     "highPrice": 58.81,
     "marketPrice": 0.26,
@@ -859,7 +833,7 @@
   },
   "OP10-OP10-054 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.64,
+    "midPrice": 0.67,
     "highPrice": 85.0,
     "marketPrice": 0.51,
     "directLowPrice": null,
@@ -909,35 +883,9 @@
     "description": "[On Play] <strong>You may rest 1 of your \"Dressrosa\" type Leader or Stage cards, and return 1 of your \"Dressrosa\" type Characters with a cost of 4 or more to the owner's hand:</strong> Return up to 1 of your opponent's Characters with a cost of 4 or less to the owner's hand.",
     "groupId": 24068
   },
-  "OP10-OP10-060 normal": {
-    "lowPrice": 25.0,
-    "midPrice": 25.0,
-    "highPrice": 25.0,
-    "marketPrice": 4.67,
-    "directLowPrice": null,
-    "name": "Barrier-Barrier Pistol",
-    "rarity": "C",
-    "power": null,
-    "cost": "5",
-    "life": null,
-    "category": "Event",
-    "colors": "Blue",
-    "attributes": null,
-    "types": "Dressrosa;Barto Club",
-    "effect": null,
-    "trigger": "yes",
-    "counter": null,
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/620776_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Event",
-    "description": "[Main] Place up to 1 of your opponent's Characters with 6000 power or less at the bottom of the owner's deck.<br>\r\n<br>\r\n[Trigger] Activate this card's [Main] effect.",
-    "groupId": 24068
-  },
   "OP10-OP10-061 normal": {
     "lowPrice": 1.0,
-    "midPrice": 1.85,
+    "midPrice": 1.82,
     "highPrice": 4.89,
     "marketPrice": 1.48,
     "directLowPrice": null,
@@ -1041,7 +989,7 @@
   },
   "OP10-OP10-069 normal": {
     "lowPrice": 0.14,
-    "midPrice": 0.47,
+    "midPrice": 0.44,
     "highPrice": 50.0,
     "marketPrice": 0.25,
     "directLowPrice": null,
@@ -1066,7 +1014,7 @@
     "groupId": 24068
   },
   "OP10-OP10-070 normal": {
-    "lowPrice": 0.12,
+    "lowPrice": 0.13,
     "midPrice": 0.5,
     "highPrice": 75.0,
     "marketPrice": 0.36,
@@ -1093,7 +1041,7 @@
   },
   "OP10-OP10-073 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.36,
+    "midPrice": 0.35,
     "highPrice": 50.0,
     "marketPrice": 0.29,
     "directLowPrice": null,
@@ -1118,8 +1066,8 @@
     "groupId": 24068
   },
   "OP10-OP10-074 normal": {
-    "lowPrice": 0.37,
-    "midPrice": 1.29,
+    "lowPrice": 0.39,
+    "midPrice": 1.28,
     "highPrice": 7.95,
     "marketPrice": 0.43,
     "directLowPrice": null,
@@ -1197,7 +1145,7 @@
   },
   "OP10-OP10-077 normal": {
     "lowPrice": 0.41,
-    "midPrice": 0.65,
+    "midPrice": 0.64,
     "highPrice": 65.0,
     "marketPrice": 0.53,
     "directLowPrice": null,
@@ -1223,7 +1171,7 @@
   },
   "OP10-OP10-079 normal": {
     "lowPrice": 3.75,
-    "midPrice": 5.03,
+    "midPrice": 5.15,
     "highPrice": 10.69,
     "marketPrice": 4.75,
     "directLowPrice": null,
@@ -1249,7 +1197,7 @@
   },
   "OP10-OP10-080 normal": {
     "lowPrice": 0.2,
-    "midPrice": 0.59,
+    "midPrice": 0.57,
     "highPrice": 4.99,
     "marketPrice": 0.54,
     "directLowPrice": null,
@@ -1275,7 +1223,7 @@
   },
   "OP10-OP10-081 normal": {
     "lowPrice": 0.23,
-    "midPrice": 0.63,
+    "midPrice": 0.64,
     "highPrice": 90.0,
     "marketPrice": 0.3,
     "directLowPrice": null,
@@ -1301,7 +1249,7 @@
   },
   "OP10-OP10-083 normal": {
     "lowPrice": 1.0,
-    "midPrice": 1.79,
+    "midPrice": 1.75,
     "highPrice": 2.99,
     "marketPrice": 1.4,
     "directLowPrice": null,
@@ -1327,7 +1275,7 @@
   },
   "OP10-OP10-084 normal": {
     "lowPrice": 0.08,
-    "midPrice": 0.5,
+    "midPrice": 0.49,
     "highPrice": 45.0,
     "marketPrice": 0.25,
     "directLowPrice": null,
@@ -1353,7 +1301,7 @@
   },
   "OP10-OP10-085 normal": {
     "lowPrice": 0.3,
-    "midPrice": 1.68,
+    "midPrice": 1.58,
     "highPrice": 85.0,
     "marketPrice": 1.47,
     "directLowPrice": null,
@@ -1407,7 +1355,7 @@
     "lowPrice": 18.08,
     "midPrice": 36.0,
     "highPrice": 45.0,
-    "marketPrice": 10.5,
+    "marketPrice": 10.29,
     "directLowPrice": null,
     "name": "Nami (088)",
     "rarity": "UC",
@@ -1431,7 +1379,7 @@
   },
   "OP10-OP10-089 normal": {
     "lowPrice": 8.23,
-    "midPrice": 9.22,
+    "midPrice": 9.66,
     "highPrice": 30.0,
     "marketPrice": 10.09,
     "directLowPrice": null,
@@ -1457,7 +1405,7 @@
   },
   "OP10-OP10-091 normal": {
     "lowPrice": 0.97,
-    "midPrice": 1.4,
+    "midPrice": 1.37,
     "highPrice": 75.0,
     "marketPrice": 1.22,
     "directLowPrice": null,
@@ -1483,9 +1431,9 @@
   },
   "OP10-OP10-092 normal": {
     "lowPrice": 13.33,
-    "midPrice": 16.29,
+    "midPrice": 15.18,
     "highPrice": 20.0,
-    "marketPrice": 8.36,
+    "marketPrice": 8.8,
     "directLowPrice": null,
     "name": "Perona (092)",
     "rarity": "C",
@@ -1509,7 +1457,7 @@
   },
   "OP10-OP10-093 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.56,
+    "midPrice": 0.54,
     "highPrice": 8.68,
     "marketPrice": 0.28,
     "directLowPrice": null,
@@ -1586,8 +1534,8 @@
     "groupId": 24068
   },
   "OP10-OP10-100 normal": {
-    "lowPrice": 0.51,
-    "midPrice": 0.73,
+    "lowPrice": 0.54,
+    "midPrice": 0.7,
     "highPrice": 45.0,
     "marketPrice": 0.6,
     "directLowPrice": null,
@@ -1665,7 +1613,7 @@
   },
   "OP10-OP10-104 normal": {
     "lowPrice": 0.46,
-    "midPrice": 1.04,
+    "midPrice": 1.02,
     "highPrice": 5.0,
     "marketPrice": 0.46,
     "directLowPrice": null,
@@ -1691,7 +1639,7 @@
   },
   "OP10-OP10-105 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.07,
+    "midPrice": 1.06,
     "highPrice": 60.0,
     "marketPrice": 0.94,
     "directLowPrice": null,
@@ -1719,7 +1667,7 @@
     "lowPrice": 0.25,
     "midPrice": 1.22,
     "highPrice": 8.68,
-    "marketPrice": 1.1,
+    "marketPrice": 1.09,
     "directLowPrice": null,
     "name": "Killer",
     "rarity": "UC",
@@ -1769,7 +1717,7 @@
   },
   "OP10-OP10-108 normal": {
     "lowPrice": 1.0,
-    "midPrice": 3.17,
+    "midPrice": 3.07,
     "highPrice": 6.99,
     "marketPrice": 3.26,
     "directLowPrice": null,
@@ -1795,9 +1743,9 @@
   },
   "OP10-OP10-110 normal": {
     "lowPrice": 0.07,
-    "midPrice": 0.58,
+    "midPrice": 0.65,
     "highPrice": 45.0,
-    "marketPrice": 0.36,
+    "marketPrice": 0.37,
     "directLowPrice": null,
     "name": "Heat & Wire",
     "rarity": "C",
@@ -1821,7 +1769,7 @@
   },
   "OP10-OP10-113 normal": {
     "lowPrice": 3.78,
-    "midPrice": 6.24,
+    "midPrice": 5.99,
     "highPrice": 9.99,
     "marketPrice": 4.99,
     "directLowPrice": null,
@@ -1848,7 +1796,7 @@
   "OP10-OP10-114 normal": {
     "lowPrice": 4.9,
     "midPrice": 5.05,
-    "highPrice": 9.47,
+    "highPrice": 8.25,
     "marketPrice": 5.19,
     "directLowPrice": null,
     "name": "X.Drake",
@@ -1900,7 +1848,7 @@
   "OP10-OP10-117 normal": {
     "lowPrice": 4.0,
     "midPrice": 5.0,
-    "highPrice": 10.3,
+    "highPrice": 10.66,
     "marketPrice": 4.66,
     "directLowPrice": null,
     "name": "ROOM",

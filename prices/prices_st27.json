@@ -1,9 +1,9 @@
 {
   "OP09-OP09-081 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.85,
+    "midPrice": 0.75,
     "highPrice": 10.0,
-    "marketPrice": 0.59,
+    "marketPrice": 0.6,
     "directLowPrice": null,
     "name": "Marshall.D.Teach (OP09-081)",
     "rarity": "L",
@@ -27,9 +27,9 @@
   },
   "ST27-ST27-003 normal": {
     "lowPrice": 0.47,
-    "midPrice": 1.81,
+    "midPrice": 1.88,
     "highPrice": 10.0,
-    "marketPrice": 1.49,
+    "marketPrice": 1.48,
     "directLowPrice": null,
     "name": "Kuzan",
     "rarity": "SR",
@@ -52,10 +52,10 @@
     "groupId": 24286
   },
   "ST27-ST27-005 normal": {
-    "lowPrice": 0.39,
-    "midPrice": 1.1,
+    "lowPrice": 0.6,
+    "midPrice": 1.17,
     "highPrice": 10.0,
-    "marketPrice": 1.0,
+    "marketPrice": 1.02,
     "directLowPrice": null,
     "name": "Marshall.D.Teach (ST27-005)",
     "rarity": "SR",
@@ -157,9 +157,9 @@
   },
   "OP09-OP09-083 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.15,
+    "midPrice": 0.16,
     "highPrice": 4.99,
-    "marketPrice": 0.1,
+    "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Van Augur (Reprint)",
     "rarity": "R",
@@ -338,10 +338,10 @@
     "groupId": 24286
   },
   "OP09-OP09-099 normal": {
-    "lowPrice": 0.02,
+    "lowPrice": 0.01,
     "midPrice": 0.15,
     "highPrice": 4.99,
-    "marketPrice": 0.07,
+    "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Fullalead (Reprint)",
     "rarity": "C",

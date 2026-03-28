@@ -1,7 +1,7 @@
 {
   "ST02-ST02-001 normal": {
-    "lowPrice": 68.7,
-    "midPrice": 80.13,
+    "lowPrice": 60.0,
+    "midPrice": 80.0,
     "highPrice": 600.0,
     "marketPrice": 102.77,
     "directLowPrice": null,
@@ -26,10 +26,10 @@
     "groupId": 17658
   },
   "ST02-ST02-013 normal": {
-    "lowPrice": 13.65,
-    "midPrice": 18.37,
+    "lowPrice": 13.92,
+    "midPrice": 19.19,
     "highPrice": 150.0,
-    "marketPrice": 21.46,
+    "marketPrice": 21.13,
     "directLowPrice": null,
     "name": "Eustass\"Captain\"Kid (013)",
     "rarity": "SR",
@@ -52,10 +52,10 @@
     "groupId": 17658
   },
   "ST02-ST02-009 normal": {
-    "lowPrice": 14.99,
-    "midPrice": 18.79,
+    "lowPrice": 14.0,
+    "midPrice": 18.14,
     "highPrice": 300.0,
-    "marketPrice": 20.98,
+    "marketPrice": 19.54,
     "directLowPrice": null,
     "name": "Trafalgar Law",
     "rarity": "SR",
@@ -261,7 +261,7 @@
   },
   "ST02-ST02-006 normal": {
     "lowPrice": 0.74,
-    "midPrice": 2.22,
+    "midPrice": 2.18,
     "highPrice": 25.0,
     "marketPrice": 1.54,
     "directLowPrice": null,
@@ -287,7 +287,7 @@
   },
   "ST02-ST02-005 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.84,
+    "midPrice": 0.87,
     "highPrice": 29.99,
     "marketPrice": 0.56,
     "directLowPrice": null,
@@ -315,7 +315,7 @@
     "lowPrice": 3.5,
     "midPrice": 4.99,
     "highPrice": 50.0,
-    "marketPrice": 4.63,
+    "marketPrice": 4.58,
     "directLowPrice": null,
     "name": "Jewelry Bonney",
     "rarity": "C",
@@ -365,7 +365,7 @@
   },
   "ST02-ST02-004 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.7,
+    "midPrice": 0.75,
     "highPrice": 25.0,
     "marketPrice": 0.4,
     "directLowPrice": null,
@@ -391,7 +391,7 @@
   },
   "ST02-ST02-012 normal": {
     "lowPrice": 2.5,
-    "midPrice": 6.0,
+    "midPrice": 4.75,
     "highPrice": 25.0,
     "marketPrice": 3.51,
     "directLowPrice": null,
@@ -417,8 +417,8 @@
   },
   "ST02-ST02-010 normal": {
     "lowPrice": 0.6,
-    "midPrice": 1.95,
-    "highPrice": 8.9,
+    "midPrice": 1.73,
+    "highPrice": 14.99,
     "marketPrice": 1.31,
     "directLowPrice": null,
     "name": "Basil Hawkins",

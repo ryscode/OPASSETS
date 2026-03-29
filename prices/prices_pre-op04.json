@@ -1,6 +1,6 @@
 {
   "OP04-OP04-003 normal": {
-    "lowPrice": 1.5,
+    "lowPrice": 6.48,
     "midPrice": 8.98,
     "highPrice": 12.99,
     "marketPrice": 1.87,
@@ -26,8 +26,8 @@
     "groupId": 23297
   },
   "OP04-OP04-004 normal": {
-    "lowPrice": 6.0,
-    "midPrice": 6.99,
+    "lowPrice": 5.85,
+    "midPrice": 6.0,
     "highPrice": 22.79,
     "marketPrice": 2.19,
     "directLowPrice": null,
@@ -75,32 +75,6 @@
     "finish": null,
     "cardType": "Character",
     "description": "If you have a [Kung Fu Jugon] other than this Character, this Character gains [Blocker]. <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
-    "groupId": 23297
-  },
-  "OP04-OP04-006 normal": {
-    "lowPrice": 0.5,
-    "midPrice": 0.5,
-    "highPrice": 0.5,
-    "marketPrice": 3.39,
-    "directLowPrice": null,
-    "name": "Koza",
-    "rarity": "UC",
-    "power": "3000",
-    "cost": "3",
-    "life": null,
-    "category": "Character",
-    "colors": "Red",
-    "attributes": "Slash",
-    "types": "Alabasta",
-    "effect": "yes",
-    "trigger": null,
-    "counter": "2000",
-    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/516837_200w.jpg",
-    "frameType": null,
-    "variant": null,
-    "finish": null,
-    "cardType": "Character",
-    "description": "[When Attacking] <strong>You may give your 1 active Leader -5000 power during this turn</strong>: This Character gains +2000 power until the start of your next turn.",
     "groupId": 23297
   },
   "OP04-OP04-007 normal": {
@@ -182,7 +156,7 @@
     "groupId": 23297
   },
   "OP04-OP04-011 normal": {
-    "lowPrice": 18.94,
+    "lowPrice": 18.93,
     "midPrice": 23.99,
     "highPrice": 99.0,
     "marketPrice": 21.04,
@@ -209,7 +183,7 @@
   },
   "OP04-OP04-012 normal": {
     "lowPrice": 0.45,
-    "midPrice": 0.97,
+    "midPrice": 0.99,
     "highPrice": 90.0,
     "marketPrice": 0.53,
     "directLowPrice": null,
@@ -263,7 +237,7 @@
     "lowPrice": 7.99,
     "midPrice": 14.99,
     "highPrice": 100000.0,
-    "marketPrice": 6.66,
+    "marketPrice": 6.73,
     "directLowPrice": null,
     "name": "Happiness Punch",
     "rarity": "C",
@@ -313,7 +287,7 @@
   },
   "OP04-OP04-021 normal": {
     "lowPrice": 3.0,
-    "midPrice": 4.31,
+    "midPrice": 3.9,
     "highPrice": 95.0,
     "marketPrice": 3.37,
     "directLowPrice": null,
@@ -364,8 +338,8 @@
     "groupId": 23297
   },
   "OP04-OP04-023 normal": {
-    "lowPrice": 0.37,
-    "midPrice": 0.95,
+    "lowPrice": 0.4,
+    "midPrice": 1.0,
     "highPrice": 2.25,
     "marketPrice": 0.37,
     "directLowPrice": null,
@@ -390,7 +364,7 @@
     "groupId": 23297
   },
   "OP04-OP04-025 normal": {
-    "lowPrice": 0.2,
+    "lowPrice": 0.1,
     "midPrice": 0.49,
     "highPrice": 3.0,
     "marketPrice": 0.36,
@@ -417,7 +391,7 @@
   },
   "OP04-OP04-027 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.56,
+    "midPrice": 0.58,
     "highPrice": 65.0,
     "marketPrice": 0.38,
     "directLowPrice": null,
@@ -443,7 +417,7 @@
   },
   "OP04-OP04-029 normal": {
     "lowPrice": 0.9,
-    "midPrice": 1.1,
+    "midPrice": 1.14,
     "highPrice": 4.01,
     "marketPrice": 0.96,
     "directLowPrice": null,
@@ -521,7 +495,7 @@
   },
   "OP04-OP04-034 normal": {
     "lowPrice": 1.33,
-    "midPrice": 1.5,
+    "midPrice": 1.45,
     "highPrice": 5.5,
     "marketPrice": 1.55,
     "directLowPrice": null,
@@ -546,7 +520,7 @@
     "groupId": 23297
   },
   "OP04-OP04-036 normal": {
-    "lowPrice": 0.75,
+    "lowPrice": 0.6,
     "midPrice": 0.99,
     "highPrice": 100.0,
     "marketPrice": 0.82,
@@ -574,7 +548,7 @@
   "OP04-OP04-037 normal": {
     "lowPrice": 0.49,
     "midPrice": 2.2,
-    "highPrice": 376.6,
+    "highPrice": 379.58,
     "marketPrice": 1.83,
     "directLowPrice": null,
     "name": "Flapping Thread",
@@ -651,7 +625,7 @@
   },
   "OP04-OP04-042 normal": {
     "lowPrice": 0.45,
-    "midPrice": 0.73,
+    "midPrice": 0.91,
     "highPrice": 22.79,
     "marketPrice": 0.51,
     "directLowPrice": null,
@@ -677,7 +651,7 @@
   },
   "OP04-OP04-046 normal": {
     "lowPrice": 0.9,
-    "midPrice": 1.26,
+    "midPrice": 1.22,
     "highPrice": 5.54,
     "marketPrice": 0.9,
     "directLowPrice": null,
@@ -780,8 +754,8 @@
     "groupId": 23297
   },
   "OP04-OP04-050 normal": {
-    "lowPrice": 4.98,
-    "midPrice": 6.99,
+    "lowPrice": 5.01,
+    "midPrice": 7.69,
     "highPrice": 14.99,
     "marketPrice": 4.45,
     "directLowPrice": null,
@@ -806,8 +780,8 @@
     "groupId": 23297
   },
   "OP04-OP04-052 normal": {
-    "lowPrice": 0.5,
-    "midPrice": 2.85,
+    "lowPrice": 0.52,
+    "midPrice": 3.0,
     "highPrice": 7.13,
     "marketPrice": 0.83,
     "directLowPrice": null,
@@ -833,7 +807,7 @@
   },
   "OP04-OP04-053 normal": {
     "lowPrice": 0.51,
-    "midPrice": 1.0,
+    "midPrice": 1.13,
     "highPrice": 10.0,
     "marketPrice": 0.8,
     "directLowPrice": null,
@@ -859,7 +833,7 @@
   },
   "OP04-OP04-054 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.39,
+    "midPrice": 0.35,
     "highPrice": 40.0,
     "marketPrice": 0.25,
     "directLowPrice": null,
@@ -884,8 +858,8 @@
     "groupId": 23297
   },
   "OP04-OP04-055 normal": {
-    "lowPrice": 0.48,
-    "midPrice": 1.19,
+    "lowPrice": 0.49,
+    "midPrice": 1.49,
     "highPrice": 5.0,
     "marketPrice": 1.05,
     "directLowPrice": null,
@@ -962,8 +936,8 @@
     "groupId": 23297
   },
   "OP04-OP04-061 normal": {
-    "lowPrice": 0.5,
-    "midPrice": 2.99,
+    "lowPrice": 0.9,
+    "midPrice": 3.38,
     "highPrice": 5.0,
     "marketPrice": 0.81,
     "directLowPrice": null,
@@ -989,7 +963,7 @@
   },
   "OP04-OP04-062 normal": {
     "lowPrice": 0.39,
-    "midPrice": 0.64,
+    "midPrice": 0.6,
     "highPrice": 1234.0,
     "marketPrice": 0.57,
     "directLowPrice": null,
@@ -1014,8 +988,8 @@
     "groupId": 23297
   },
   "OP04-OP04-065 normal": {
-    "lowPrice": 0.5,
-    "midPrice": 1.05,
+    "lowPrice": 0.58,
+    "midPrice": 1.34,
     "highPrice": 10.51,
     "marketPrice": 0.54,
     "directLowPrice": null,
@@ -1041,7 +1015,7 @@
   },
   "OP04-OP04-067 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.68,
+    "midPrice": 0.69,
     "highPrice": 1.99,
     "marketPrice": 0.46,
     "directLowPrice": null,
@@ -1093,8 +1067,8 @@
   },
   "OP04-OP04-069 normal": {
     "lowPrice": 2.8,
-    "midPrice": 3.65,
-    "highPrice": 59.7,
+    "midPrice": 4.72,
+    "highPrice": 62.68,
     "marketPrice": 2.76,
     "directLowPrice": null,
     "name": "Mr.2.Bon.Kurei (Bentham)",
@@ -1171,7 +1145,7 @@
   },
   "OP04-OP04-073 normal": {
     "lowPrice": 1.0,
-    "midPrice": 1.31,
+    "midPrice": 1.3,
     "highPrice": 10.54,
     "marketPrice": 1.26,
     "directLowPrice": null,
@@ -1196,8 +1170,8 @@
     "groupId": 23297
   },
   "OP04-OP04-075 normal": {
-    "lowPrice": 0.75,
-    "midPrice": 1.57,
+    "lowPrice": 1.0,
+    "midPrice": 1.75,
     "highPrice": 7.01,
     "marketPrice": 1.25,
     "directLowPrice": null,
@@ -1223,8 +1197,8 @@
   },
   "OP04-OP04-076 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.96,
-    "highPrice": 7.99,
+    "midPrice": 0.99,
+    "highPrice": 10.97,
     "marketPrice": 0.64,
     "directLowPrice": null,
     "name": "Weakness...Is an Unforgivable Sin.",
@@ -1379,7 +1353,7 @@
   },
   "OP04-OP04-085 normal": {
     "lowPrice": 4.25,
-    "midPrice": 6.22,
+    "midPrice": 6.24,
     "highPrice": 16.98,
     "marketPrice": 5.75,
     "directLowPrice": null,
@@ -1431,7 +1405,7 @@
   },
   "OP04-OP04-087 normal": {
     "lowPrice": 4.72,
-    "midPrice": 18.0,
+    "midPrice": 6.0,
     "highPrice": 54.49,
     "marketPrice": 4.04,
     "directLowPrice": null,
@@ -1587,7 +1561,7 @@
   },
   "OP04-OP04-097 normal": {
     "lowPrice": 0.47,
-    "midPrice": 0.94,
+    "midPrice": 0.98,
     "highPrice": 75.0,
     "marketPrice": 0.57,
     "directLowPrice": null,
@@ -1639,7 +1613,7 @@
   },
   "OP04-OP04-101 normal": {
     "lowPrice": 2.99,
-    "midPrice": 8.64,
+    "midPrice": 7.23,
     "highPrice": 12.0,
     "marketPrice": 7.47,
     "directLowPrice": null,
@@ -1719,7 +1693,7 @@
     "lowPrice": 0.25,
     "midPrice": 0.98,
     "highPrice": 47.99,
-    "marketPrice": 0.66,
+    "marketPrice": 0.64,
     "directLowPrice": null,
     "name": "Charlotte Perospero",
     "rarity": "C",
@@ -1743,7 +1717,7 @@
   },
   "OP04-OP04-108 normal": {
     "lowPrice": 1.18,
-    "midPrice": 1.88,
+    "midPrice": 1.9,
     "highPrice": 8.0,
     "marketPrice": 1.48,
     "directLowPrice": null,
@@ -1768,8 +1742,8 @@
     "groupId": 23297
   },
   "OP04-OP04-109 normal": {
-    "lowPrice": 2.19,
-    "midPrice": 2.97,
+    "lowPrice": 2.2,
+    "midPrice": 2.99,
     "highPrice": 50.0,
     "marketPrice": 2.68,
     "directLowPrice": null,
@@ -1794,8 +1768,8 @@
     "groupId": 23297
   },
   "OP04-OP04-110 normal": {
-    "lowPrice": 0.4,
-    "midPrice": 0.57,
+    "lowPrice": 0.35,
+    "midPrice": 0.54,
     "highPrice": 10.0,
     "marketPrice": 0.5,
     "directLowPrice": null,
@@ -1821,7 +1795,7 @@
   },
   "OP04-OP04-111 normal": {
     "lowPrice": 1.99,
-    "midPrice": 2.47,
+    "midPrice": 2.14,
     "highPrice": 8.0,
     "marketPrice": 2.14,
     "directLowPrice": null,
@@ -1873,7 +1847,7 @@
   },
   "OP04-OP04-114 normal": {
     "lowPrice": 0.27,
-    "midPrice": 0.9,
+    "midPrice": 0.95,
     "highPrice": 15.0,
     "marketPrice": 0.36,
     "directLowPrice": null,

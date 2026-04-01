@@ -1,9 +1,9 @@
 {
   "ST01-ST01-001 normal": {
     "lowPrice": 15.89,
-    "midPrice": 35.97,
+    "midPrice": 34.99,
     "highPrice": 120.99,
-    "marketPrice": 32.05,
+    "marketPrice": 32.45,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (001)",
     "rarity": "L",
@@ -29,7 +29,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 3.5,
-    "marketPrice": 0.11,
+    "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Usopp",
     "rarity": "C",
@@ -52,7 +52,7 @@
     "groupId": 3189
   },
   "ST01-ST01-003 normal": {
-    "lowPrice": 0.03,
+    "lowPrice": 0.05,
     "midPrice": 0.2,
     "highPrice": 1.25,
     "marketPrice": 0.13,
@@ -79,7 +79,7 @@
   },
   "ST01-ST01-004 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.41,
+    "midPrice": 0.4,
     "highPrice": 5.0,
     "marketPrice": 0.3,
     "directLowPrice": null,
@@ -130,7 +130,7 @@
     "groupId": 3189
   },
   "ST01-ST01-006 normal": {
-    "lowPrice": 0.09,
+    "lowPrice": 0.08,
     "midPrice": 0.25,
     "highPrice": 5.0,
     "marketPrice": 0.2,
@@ -156,10 +156,10 @@
     "groupId": 3189
   },
   "ST01-ST01-007 normal": {
-    "lowPrice": 0.75,
+    "lowPrice": 0.7,
     "midPrice": 1.91,
     "highPrice": 28.7,
-    "marketPrice": 1.45,
+    "marketPrice": 1.5,
     "directLowPrice": null,
     "name": "Nami",
     "rarity": "C",
@@ -182,9 +182,9 @@
     "groupId": 3189
   },
   "ST01-ST01-008 normal": {
-    "lowPrice": 0.04,
-    "midPrice": 0.24,
-    "highPrice": 1.36,
+    "lowPrice": 0.01,
+    "midPrice": 0.25,
+    "highPrice": 1.32,
     "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Nico Robin",
@@ -209,7 +209,7 @@
   },
   "ST01-ST01-009 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.2,
+    "midPrice": 0.22,
     "highPrice": 2.0,
     "marketPrice": 0.14,
     "directLowPrice": null,
@@ -234,7 +234,7 @@
     "groupId": 3189
   },
   "ST01-ST01-010 normal": {
-    "lowPrice": 0.03,
+    "lowPrice": 0.04,
     "midPrice": 0.2,
     "highPrice": 2.0,
     "marketPrice": 0.13,
@@ -263,7 +263,7 @@
     "lowPrice": 0.1,
     "midPrice": 0.5,
     "highPrice": 19.0,
-    "marketPrice": 0.36,
+    "marketPrice": 0.37,
     "directLowPrice": null,
     "name": "Brook",
     "rarity": "C",
@@ -287,9 +287,9 @@
   },
   "ST01-ST01-012 normal": {
     "lowPrice": 2.5,
-    "midPrice": 4.08,
+    "midPrice": 4.03,
     "highPrice": 21.49,
-    "marketPrice": 3.03,
+    "marketPrice": 3.04,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (012)",
     "rarity": "SR",
@@ -313,7 +313,7 @@
   },
   "ST01-ST01-013 normal": {
     "lowPrice": 0.99,
-    "midPrice": 1.9,
+    "midPrice": 1.96,
     "highPrice": 15.0,
     "marketPrice": 1.51,
     "directLowPrice": null,
@@ -341,7 +341,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 6.0,
-    "marketPrice": 0.12,
+    "marketPrice": 0.11,
     "directLowPrice": null,
     "name": "Guard Point",
     "rarity": "C",
@@ -367,7 +367,7 @@
     "lowPrice": 0.09,
     "midPrice": 0.35,
     "highPrice": 9.49,
-    "marketPrice": 0.26,
+    "marketPrice": 0.27,
     "directLowPrice": null,
     "name": "Gum-Gum Jet Pistol",
     "rarity": "C",
@@ -390,7 +390,7 @@
     "groupId": 3189
   },
   "ST01-ST01-016 normal": {
-    "lowPrice": 0.28,
+    "lowPrice": 0.26,
     "midPrice": 0.72,
     "highPrice": 15.0,
     "marketPrice": 0.59,

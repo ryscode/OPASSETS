@@ -1,9 +1,9 @@
 {
   "OP09-OP09-001 normal": {
-    "lowPrice": 0.2,
+    "lowPrice": 0.5,
     "midPrice": 1.25,
     "highPrice": 500.0,
-    "marketPrice": 0.89,
+    "marketPrice": 0.94,
     "directLowPrice": null,
     "name": "Shanks (Reprint)",
     "rarity": "L",
@@ -27,9 +27,9 @@
   },
   "ST23-ST23-001 normal": {
     "lowPrice": 6.99,
-    "midPrice": 9.02,
+    "midPrice": 9.18,
     "highPrice": 50.0,
-    "marketPrice": 7.99,
+    "marketPrice": 8.12,
     "directLowPrice": null,
     "name": "Uta",
     "rarity": "SR",
@@ -104,7 +104,7 @@
     "groupId": 24282
   },
   "ST23-ST23-004 normal": {
-    "lowPrice": 0.06,
+    "lowPrice": 0.05,
     "midPrice": 0.2,
     "highPrice": 5.0,
     "marketPrice": 0.12,
@@ -159,7 +159,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 1.29,
-    "marketPrice": 0.03,
+    "marketPrice": 0.02,
     "directLowPrice": null,
     "name": "Howling Gab (Reprint)",
     "rarity": "C",
@@ -262,7 +262,7 @@
   "OP09-OP09-013 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.12,
-    "highPrice": 1.32,
+    "highPrice": 1.3,
     "marketPrice": 0.06,
     "directLowPrice": null,
     "name": "Yasopp (Reprint)",
@@ -287,7 +287,7 @@
   },
   "OP09-OP09-015 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.11,
+    "midPrice": 0.12,
     "highPrice": 1.37,
     "marketPrice": 0.06,
     "directLowPrice": null,

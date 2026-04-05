@@ -1,9 +1,9 @@
 {
   "ST01-ST01-001 normal": {
     "lowPrice": 16.9,
-    "midPrice": 35.31,
+    "midPrice": 35.27,
     "highPrice": 120.99,
-    "marketPrice": 32.9,
+    "marketPrice": 33.06,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (001)",
     "rarity": "L",
@@ -29,7 +29,7 @@
     "lowPrice": 0.02,
     "midPrice": 0.2,
     "highPrice": 3.5,
-    "marketPrice": 0.11,
+    "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Usopp",
     "rarity": "C",
@@ -156,7 +156,7 @@
     "groupId": 3189
   },
   "ST01-ST01-007 normal": {
-    "lowPrice": 0.55,
+    "lowPrice": 0.5,
     "midPrice": 1.76,
     "highPrice": 28.7,
     "marketPrice": 1.41,
@@ -184,7 +184,7 @@
   "ST01-ST01-008 normal": {
     "lowPrice": 0.01,
     "midPrice": 0.25,
-    "highPrice": 1.32,
+    "highPrice": 900.0,
     "marketPrice": 0.16,
     "directLowPrice": null,
     "name": "Nico Robin",
@@ -286,10 +286,10 @@
     "groupId": 3189
   },
   "ST01-ST01-012 normal": {
-    "lowPrice": 2.5,
-    "midPrice": 4.08,
+    "lowPrice": 2.4,
+    "midPrice": 4.01,
     "highPrice": 21.49,
-    "marketPrice": 3.29,
+    "marketPrice": 3.34,
     "directLowPrice": null,
     "name": "Monkey.D.Luffy (012)",
     "rarity": "SR",
@@ -313,9 +313,9 @@
   },
   "ST01-ST01-013 normal": {
     "lowPrice": 1.0,
-    "midPrice": 1.82,
+    "midPrice": 1.99,
     "highPrice": 15.0,
-    "marketPrice": 1.48,
+    "marketPrice": 1.49,
     "directLowPrice": null,
     "name": "Roronoa Zoro",
     "rarity": "SR",
@@ -341,7 +341,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.2,
     "highPrice": 6.0,
-    "marketPrice": 0.11,
+    "marketPrice": 0.12,
     "directLowPrice": null,
     "name": "Guard Point",
     "rarity": "C",
@@ -365,7 +365,7 @@
   },
   "ST01-ST01-015 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.32,
+    "midPrice": 0.31,
     "highPrice": 9.49,
     "marketPrice": 0.27,
     "directLowPrice": null,
@@ -419,7 +419,7 @@
     "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 1.63,
-    "marketPrice": 0.2,
+    "marketPrice": 0.19,
     "directLowPrice": null,
     "name": "Thousand Sunny",
     "rarity": "C",

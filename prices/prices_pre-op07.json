@@ -53,7 +53,7 @@
   },
   "OP07-OP07-009 normal": {
     "lowPrice": 0.08,
-    "midPrice": 0.4,
+    "midPrice": 0.45,
     "highPrice": 10.0,
     "marketPrice": 0.21,
     "directLowPrice": null,
@@ -157,7 +157,7 @@
   },
   "OP07-OP07-020 normal": {
     "lowPrice": 0.24,
-    "midPrice": 0.58,
+    "midPrice": 0.54,
     "highPrice": 2.0,
     "marketPrice": 0.4,
     "directLowPrice": null,
@@ -183,7 +183,7 @@
   },
   "OP07-OP07-024 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.87,
+    "midPrice": 0.88,
     "highPrice": 65.0,
     "marketPrice": 0.4,
     "directLowPrice": null,
@@ -209,7 +209,7 @@
   },
   "OP07-OP07-025 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.36,
+    "midPrice": 0.35,
     "highPrice": 4.99,
     "marketPrice": 0.18,
     "directLowPrice": null,
@@ -235,7 +235,7 @@
   },
   "OP07-OP07-027 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.85,
+    "midPrice": 0.99,
     "highPrice": 4.99,
     "marketPrice": 0.35,
     "directLowPrice": null,
@@ -261,7 +261,7 @@
   },
   "OP07-OP07-028 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.49,
+    "midPrice": 0.45,
     "highPrice": 80.0,
     "marketPrice": 0.24,
     "directLowPrice": null,
@@ -339,7 +339,7 @@
   },
   "OP07-OP07-039 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.49,
+    "midPrice": 0.47,
     "highPrice": 5.0,
     "marketPrice": 0.38,
     "directLowPrice": null,
@@ -417,7 +417,7 @@
   },
   "OP07-OP07-049 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.53,
+    "midPrice": 0.56,
     "highPrice": 10.0,
     "marketPrice": 0.51,
     "directLowPrice": null,
@@ -443,7 +443,7 @@
   },
   "OP07-OP07-050 normal": {
     "lowPrice": 2.52,
-    "midPrice": 13.51,
+    "midPrice": 10.0,
     "highPrice": 175.0,
     "marketPrice": 2.02,
     "directLowPrice": null,
@@ -521,9 +521,9 @@
   },
   "OP07-OP07-058 normal": {
     "lowPrice": 0.3,
-    "midPrice": 0.56,
+    "midPrice": 0.55,
     "highPrice": 5.25,
-    "marketPrice": 0.55,
+    "marketPrice": 0.52,
     "directLowPrice": null,
     "name": "Island of Women",
     "rarity": "C",
@@ -572,8 +572,8 @@
     "groupId": 23512
   },
   "OP07-OP07-062 normal": {
-    "lowPrice": 0.96,
-    "midPrice": 1.91,
+    "lowPrice": 0.56,
+    "midPrice": 1.57,
     "highPrice": 4.99,
     "marketPrice": 0.53,
     "directLowPrice": null,
@@ -624,7 +624,7 @@
     "groupId": 23512
   },
   "OP07-OP07-067 normal": {
-    "lowPrice": 0.13,
+    "lowPrice": 0.15,
     "midPrice": 0.4,
     "highPrice": 2.0,
     "marketPrice": 0.27,
@@ -703,7 +703,7 @@
   },
   "OP07-OP07-076 normal": {
     "lowPrice": 6.0,
-    "midPrice": 10.17,
+    "midPrice": 10.1,
     "highPrice": 19.99,
     "marketPrice": 9.57,
     "directLowPrice": null,
@@ -729,9 +729,9 @@
   },
   "OP07-OP07-078 normal": {
     "lowPrice": 1.82,
-    "midPrice": 2.14,
+    "midPrice": 2.15,
     "highPrice": 3.13,
-    "marketPrice": 1.98,
+    "marketPrice": 2.02,
     "directLowPrice": null,
     "name": "Megaton Nine-Tails Rush",
     "rarity": "C",
@@ -884,7 +884,7 @@
     "groupId": 23512
   },
   "OP07-OP07-090 normal": {
-    "lowPrice": 0.25,
+    "lowPrice": 0.18,
     "midPrice": 0.5,
     "highPrice": 4.99,
     "marketPrice": 0.36,
@@ -937,9 +937,9 @@
   },
   "OP07-OP07-099 normal": {
     "lowPrice": 7.4,
-    "midPrice": 9.99,
+    "midPrice": 11.49,
     "highPrice": 24.68,
-    "marketPrice": 14.78,
+    "marketPrice": 14.18,
     "directLowPrice": null,
     "name": "Usopp",
     "rarity": "C",
@@ -962,10 +962,10 @@
     "groupId": 23512
   },
   "OP07-OP07-100 normal": {
-    "lowPrice": 0.5,
+    "lowPrice": 0.4,
     "midPrice": 0.99,
     "highPrice": 5.25,
-    "marketPrice": 0.92,
+    "marketPrice": 0.97,
     "directLowPrice": null,
     "name": "Edison",
     "rarity": "C",
@@ -1017,7 +1017,7 @@
     "lowPrice": 8.18,
     "midPrice": 9.72,
     "highPrice": 50.0,
-    "marketPrice": 9.73,
+    "marketPrice": 9.66,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper (103)",
     "rarity": "C",
@@ -1040,7 +1040,7 @@
     "groupId": 23512
   },
   "OP07-OP07-106 normal": {
-    "lowPrice": 0.19,
+    "lowPrice": 0.18,
     "midPrice": 0.39,
     "highPrice": 2.0,
     "marketPrice": 0.25,
@@ -1066,8 +1066,8 @@
     "groupId": 23512
   },
   "OP07-OP07-108 normal": {
-    "lowPrice": 0.4,
-    "midPrice": 0.6,
+    "lowPrice": 0.3,
+    "midPrice": 0.5,
     "highPrice": 55.0,
     "marketPrice": 0.45,
     "directLowPrice": null,
@@ -1092,7 +1092,7 @@
     "groupId": 23512
   },
   "OP07-OP07-110 normal": {
-    "lowPrice": 0.88,
+    "lowPrice": 0.8,
     "midPrice": 2.0,
     "highPrice": 70.0,
     "marketPrice": 0.98,
@@ -1171,7 +1171,7 @@
   },
   "OP07-OP07-008 normal": {
     "lowPrice": 0.44,
-    "midPrice": 0.73,
+    "midPrice": 0.69,
     "highPrice": 2.0,
     "marketPrice": 0.66,
     "directLowPrice": null,
@@ -1355,7 +1355,7 @@
     "lowPrice": 15.0,
     "midPrice": 18.91,
     "highPrice": 18.99,
-    "marketPrice": 11.76,
+    "marketPrice": 12.21,
     "directLowPrice": null,
     "name": "Roronoa Zoro (034)",
     "rarity": "UC",
@@ -1405,7 +1405,7 @@
   },
   "OP07-OP07-040 normal": {
     "lowPrice": 2.98,
-    "midPrice": 5.21,
+    "midPrice": 5.05,
     "highPrice": 25.69,
     "marketPrice": 4.53,
     "directLowPrice": null,
@@ -1431,7 +1431,7 @@
   },
   "OP07-OP07-041 normal": {
     "lowPrice": 9.54,
-    "midPrice": 15.61,
+    "midPrice": 15.33,
     "highPrice": 30.0,
     "marketPrice": 7.07,
     "directLowPrice": null,
@@ -1482,10 +1482,10 @@
     "groupId": 23512
   },
   "OP07-OP07-048 normal": {
-    "lowPrice": 1.95,
-    "midPrice": 8.6,
+    "lowPrice": 2.75,
+    "midPrice": 9.26,
     "highPrice": 50.0,
-    "marketPrice": 1.76,
+    "marketPrice": 1.81,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo",
     "rarity": "UC",
@@ -1509,7 +1509,7 @@
   },
   "OP07-OP07-056 normal": {
     "lowPrice": 16.66,
-    "midPrice": 19.98,
+    "midPrice": 19.84,
     "highPrice": 27.01,
     "marketPrice": 20.5,
     "directLowPrice": null,
@@ -1561,7 +1561,7 @@
   },
   "OP07-OP07-068 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.74,
+    "midPrice": 0.75,
     "highPrice": 2.0,
     "marketPrice": 0.65,
     "directLowPrice": null,
@@ -1664,7 +1664,7 @@
     "groupId": 23512
   },
   "OP07-OP07-083 normal": {
-    "lowPrice": 2.33,
+    "lowPrice": 2.34,
     "midPrice": 2.36,
     "highPrice": 9.99,
     "marketPrice": 2.4,
@@ -1717,7 +1717,7 @@
   },
   "OP07-OP07-092 normal": {
     "lowPrice": 0.49,
-    "midPrice": 0.66,
+    "midPrice": 0.69,
     "highPrice": 5.0,
     "marketPrice": 0.65,
     "directLowPrice": null,
@@ -1795,7 +1795,7 @@
   },
   "OP07-OP07-101 normal": {
     "lowPrice": 4.43,
-    "midPrice": 7.19,
+    "midPrice": 7.26,
     "highPrice": 101.19,
     "marketPrice": 6.83,
     "directLowPrice": null,
@@ -1899,8 +1899,8 @@
   },
   "OP07-OP07-114 normal": {
     "lowPrice": 5.0,
-    "midPrice": 7.95,
-    "highPrice": 10.89,
+    "midPrice": 10.89,
+    "highPrice": 20.0,
     "marketPrice": 5.1,
     "directLowPrice": null,
     "name": "He Possesses the World's Most Brilliant Mind",

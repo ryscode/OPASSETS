@@ -27,7 +27,7 @@
   },
   "OP04-OP04-004 normal": {
     "lowPrice": 4.95,
-    "midPrice": 6.19,
+    "midPrice": 5.95,
     "highPrice": 100.0,
     "marketPrice": 2.27,
     "directLowPrice": null,
@@ -77,6 +77,32 @@
     "description": "If you have a [Kung Fu Jugon] other than this Character, this Character gains [Blocker]. <em>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</em>",
     "groupId": 23297
   },
+  "OP04-OP04-006 normal": {
+    "lowPrice": 4.99,
+    "midPrice": 4.99,
+    "highPrice": 4.99,
+    "marketPrice": 3.39,
+    "directLowPrice": null,
+    "name": "Koza",
+    "rarity": "UC",
+    "power": "3000",
+    "cost": "3",
+    "life": null,
+    "category": "Character",
+    "colors": "Red",
+    "attributes": "Slash",
+    "types": "Alabasta",
+    "effect": "yes",
+    "trigger": null,
+    "counter": "2000",
+    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/516837_200w.jpg",
+    "frameType": null,
+    "variant": null,
+    "finish": null,
+    "cardType": "Character",
+    "description": "[When Attacking] <strong>You may give your 1 active Leader -5000 power during this turn</strong>: This Character gains +2000 power until the start of your next turn.",
+    "groupId": 23297
+  },
   "OP04-OP04-007 normal": {
     "lowPrice": 1.8,
     "midPrice": 2.0,
@@ -105,7 +131,7 @@
   },
   "OP04-OP04-009 normal": {
     "lowPrice": 5.91,
-    "midPrice": 7.65,
+    "midPrice": 7.44,
     "highPrice": 20.0,
     "marketPrice": 5.91,
     "directLowPrice": null,
@@ -133,7 +159,7 @@
     "lowPrice": 15.99,
     "midPrice": 23.99,
     "highPrice": 222.22,
-    "marketPrice": 12.87,
+    "marketPrice": 13.21,
     "directLowPrice": null,
     "name": "Tony Tony.Chopper",
     "rarity": "C",
@@ -234,7 +260,7 @@
     "groupId": 23297
   },
   "OP04-OP04-017 normal": {
-    "lowPrice": 5.99,
+    "lowPrice": 5.49,
     "midPrice": 13.33,
     "highPrice": 100000.0,
     "marketPrice": 6.73,
@@ -287,7 +313,7 @@
   },
   "OP04-OP04-021 normal": {
     "lowPrice": 3.0,
-    "midPrice": 3.71,
+    "midPrice": 3.72,
     "highPrice": 95.0,
     "marketPrice": 3.37,
     "directLowPrice": null,
@@ -312,8 +338,8 @@
     "groupId": 23297
   },
   "OP04-OP04-022 normal": {
-    "lowPrice": 0.99,
-    "midPrice": 1.13,
+    "lowPrice": 1.0,
+    "midPrice": 1.25,
     "highPrice": 2.29,
     "marketPrice": 1.06,
     "directLowPrice": null,
@@ -365,7 +391,7 @@
   },
   "OP04-OP04-025 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.43,
+    "midPrice": 0.48,
     "highPrice": 3.0,
     "marketPrice": 0.36,
     "directLowPrice": null,
@@ -417,7 +443,7 @@
   },
   "OP04-OP04-029 normal": {
     "lowPrice": 0.9,
-    "midPrice": 1.09,
+    "midPrice": 1.04,
     "highPrice": 4.01,
     "marketPrice": 0.96,
     "directLowPrice": null,
@@ -520,7 +546,7 @@
     "groupId": 23297
   },
   "OP04-OP04-036 normal": {
-    "lowPrice": 0.59,
+    "lowPrice": 0.6,
     "midPrice": 0.99,
     "highPrice": 100.0,
     "marketPrice": 0.82,
@@ -729,7 +755,7 @@
   },
   "OP04-OP04-049 normal": {
     "lowPrice": 0.6,
-    "midPrice": 0.95,
+    "midPrice": 0.9,
     "highPrice": 85.0,
     "marketPrice": 0.7,
     "directLowPrice": null,
@@ -781,7 +807,7 @@
   },
   "OP04-OP04-052 normal": {
     "lowPrice": 0.52,
-    "midPrice": 2.62,
+    "midPrice": 2.54,
     "highPrice": 7.13,
     "marketPrice": 0.86,
     "directLowPrice": null,
@@ -833,7 +859,7 @@
   },
   "OP04-OP04-054 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.4,
+    "midPrice": 0.46,
     "highPrice": 40.0,
     "marketPrice": 0.25,
     "directLowPrice": null,
@@ -936,8 +962,8 @@
     "groupId": 23297
   },
   "OP04-OP04-061 normal": {
-    "lowPrice": 0.89,
-    "midPrice": 2.99,
+    "lowPrice": 0.9,
+    "midPrice": 3.16,
     "highPrice": 5.0,
     "marketPrice": 0.89,
     "directLowPrice": null,
@@ -963,7 +989,7 @@
   },
   "OP04-OP04-062 normal": {
     "lowPrice": 0.39,
-    "midPrice": 0.6,
+    "midPrice": 0.67,
     "highPrice": 1234.0,
     "marketPrice": 0.57,
     "directLowPrice": null,
@@ -989,7 +1015,7 @@
   },
   "OP04-OP04-065 normal": {
     "lowPrice": 0.55,
-    "midPrice": 1.7,
+    "midPrice": 1.49,
     "highPrice": 6.0,
     "marketPrice": 0.55,
     "directLowPrice": null,
@@ -1067,7 +1093,7 @@
   },
   "OP04-OP04-069 normal": {
     "lowPrice": 2.8,
-    "midPrice": 4.76,
+    "midPrice": 4.87,
     "highPrice": 74.64,
     "marketPrice": 2.76,
     "directLowPrice": null,
@@ -1093,7 +1119,7 @@
   },
   "OP04-OP04-070 normal": {
     "lowPrice": 4.07,
-    "midPrice": 4.59,
+    "midPrice": 4.67,
     "highPrice": 6.05,
     "marketPrice": 3.74,
     "directLowPrice": null,
@@ -1171,7 +1197,7 @@
   },
   "OP04-OP04-075 normal": {
     "lowPrice": 1.0,
-    "midPrice": 1.88,
+    "midPrice": 1.86,
     "highPrice": 7.01,
     "marketPrice": 1.25,
     "directLowPrice": null,
@@ -1197,7 +1223,7 @@
   },
   "OP04-OP04-076 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.73,
+    "midPrice": 0.76,
     "highPrice": 2.98,
     "marketPrice": 0.66,
     "directLowPrice": null,
@@ -1275,7 +1301,7 @@
   },
   "OP04-OP04-079 normal": {
     "lowPrice": 2.8,
-    "midPrice": 3.52,
+    "midPrice": 3.5,
     "highPrice": 10.01,
     "marketPrice": 3.28,
     "directLowPrice": null,
@@ -1431,7 +1457,7 @@
   },
   "OP04-OP04-088 normal": {
     "lowPrice": 4.0,
-    "midPrice": 5.0,
+    "midPrice": 5.05,
     "highPrice": 8.46,
     "marketPrice": 4.94,
     "directLowPrice": null,
@@ -1534,7 +1560,7 @@
     "groupId": 23297
   },
   "OP04-OP04-096 normal": {
-    "lowPrice": 2.96,
+    "lowPrice": 2.75,
     "midPrice": 3.87,
     "highPrice": 17.42,
     "marketPrice": 3.36,
@@ -1560,8 +1586,8 @@
     "groupId": 23297
   },
   "OP04-OP04-097 normal": {
-    "lowPrice": 0.5,
-    "midPrice": 0.88,
+    "lowPrice": 0.47,
+    "midPrice": 0.8,
     "highPrice": 75.0,
     "marketPrice": 0.57,
     "directLowPrice": null,
@@ -1586,8 +1612,8 @@
     "groupId": 23297
   },
   "OP04-OP04-098 normal": {
-    "lowPrice": 0.75,
-    "midPrice": 1.09,
+    "lowPrice": 0.74,
+    "midPrice": 0.99,
     "highPrice": 65.0,
     "marketPrice": 0.77,
     "directLowPrice": null,
@@ -1795,7 +1821,7 @@
   },
   "OP04-OP04-111 normal": {
     "lowPrice": 1.99,
-    "midPrice": 2.14,
+    "midPrice": 2.49,
     "highPrice": 8.73,
     "marketPrice": 2.14,
     "directLowPrice": null,
@@ -1847,9 +1873,9 @@
   },
   "OP04-OP04-114 normal": {
     "lowPrice": 0.27,
-    "midPrice": 1.56,
+    "midPrice": 1.58,
     "highPrice": 15.0,
-    "marketPrice": 0.39,
+    "marketPrice": 0.41,
     "directLowPrice": null,
     "name": "Randolph",
     "rarity": "C",

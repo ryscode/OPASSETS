@@ -1,7 +1,7 @@
 {
   "OP03-OP03-004 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.5,
+    "midPrice": 0.52,
     "highPrice": 2.0,
     "marketPrice": 0.55,
     "directLowPrice": null,
@@ -27,7 +27,7 @@
   },
   "OP03-OP03-006 normal": {
     "lowPrice": 0.34,
-    "midPrice": 0.85,
+    "midPrice": 0.93,
     "highPrice": 45.0,
     "marketPrice": 0.34,
     "directLowPrice": null,
@@ -79,7 +79,7 @@
   },
   "OP03-OP03-009 normal": {
     "lowPrice": 0.6,
-    "midPrice": 0.93,
+    "midPrice": 0.86,
     "highPrice": 6.94,
     "marketPrice": 0.86,
     "directLowPrice": null,
@@ -130,7 +130,7 @@
     "groupId": 23232
   },
   "OP03-OP03-019 normal": {
-    "lowPrice": 1.23,
+    "lowPrice": 1.24,
     "midPrice": 2.11,
     "highPrice": 10.0,
     "marketPrice": 1.6,
@@ -209,7 +209,7 @@
   },
   "OP03-OP03-027 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.85,
+    "midPrice": 0.82,
     "highPrice": 40.0,
     "marketPrice": 0.65,
     "directLowPrice": null,
@@ -263,7 +263,7 @@
     "lowPrice": 8.99,
     "midPrice": 10.0,
     "highPrice": 250.0,
-    "marketPrice": 4.17,
+    "marketPrice": 4.6,
     "directLowPrice": null,
     "name": "Buggy (032)",
     "rarity": "C",
@@ -443,7 +443,7 @@
   },
   "OP03-OP03-052 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.54,
+    "midPrice": 0.58,
     "highPrice": 44.0,
     "marketPrice": 0.5,
     "directLowPrice": null,
@@ -573,7 +573,7 @@
   },
   "OP03-OP03-064 normal": {
     "lowPrice": 0.89,
-    "midPrice": 1.89,
+    "midPrice": 1.99,
     "highPrice": 25.0,
     "marketPrice": 1.22,
     "directLowPrice": null,
@@ -599,7 +599,7 @@
   },
   "OP03-OP03-065 normal": {
     "lowPrice": 0.59,
-    "midPrice": 0.89,
+    "midPrice": 0.85,
     "highPrice": 60.0,
     "marketPrice": 0.72,
     "directLowPrice": null,
@@ -755,7 +755,7 @@
   },
   "OP03-OP03-083 normal": {
     "lowPrice": 0.75,
-    "midPrice": 0.95,
+    "midPrice": 0.98,
     "highPrice": 45.0,
     "marketPrice": 0.95,
     "directLowPrice": null,
@@ -833,7 +833,7 @@
   },
   "OP03-OP03-087 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.95,
+    "midPrice": 0.89,
     "highPrice": 10.0,
     "marketPrice": 0.44,
     "directLowPrice": null,
@@ -1092,8 +1092,8 @@
     "groupId": 23232
   },
   "OP03-OP03-120 normal": {
-    "lowPrice": 0.85,
-    "midPrice": 1.93,
+    "lowPrice": 0.83,
+    "midPrice": 2.37,
     "highPrice": 13.15,
     "marketPrice": 1.37,
     "directLowPrice": null,
@@ -1144,7 +1144,7 @@
     "groupId": 23232
   },
   "OP03-OP03-100 normal": {
-    "lowPrice": 2.49,
+    "lowPrice": 3.0,
     "midPrice": 10.3,
     "highPrice": 56.37,
     "marketPrice": 2.73,
@@ -1197,8 +1197,8 @@
   },
   "OP03-OP03-005 normal": {
     "lowPrice": 1.37,
-    "midPrice": 1.48,
-    "highPrice": 3.0,
+    "midPrice": 1.49,
+    "highPrice": 3.99,
     "marketPrice": 1.43,
     "directLowPrice": null,
     "name": "Thatch",
@@ -1379,8 +1379,8 @@
   },
   "OP03-OP03-029 normal": {
     "lowPrice": 2.76,
-    "midPrice": 2.76,
-    "highPrice": 4.05,
+    "midPrice": 2.77,
+    "highPrice": 4.06,
     "marketPrice": 2.27,
     "directLowPrice": null,
     "name": "Chew",
@@ -1431,7 +1431,7 @@
   },
   "OP03-OP03-034 normal": {
     "lowPrice": 1.4,
-    "midPrice": 1.58,
+    "midPrice": 1.68,
     "highPrice": 73.76,
     "marketPrice": 1.4,
     "directLowPrice": null,
@@ -1457,7 +1457,7 @@
   },
   "OP03-OP03-039 normal": {
     "lowPrice": 1.45,
-    "midPrice": 3.02,
+    "midPrice": 2.99,
     "highPrice": 21.38,
     "marketPrice": 1.7,
     "directLowPrice": null,
@@ -1535,7 +1535,7 @@
   },
   "OP03-OP03-049 normal": {
     "lowPrice": 0.59,
-    "midPrice": 1.89,
+    "midPrice": 1.29,
     "highPrice": 7.13,
     "marketPrice": 0.69,
     "directLowPrice": null,
@@ -1560,9 +1560,9 @@
     "groupId": 23232
   },
   "OP03-OP03-050 normal": {
-    "lowPrice": 17.39,
-    "midPrice": 17.39,
-    "highPrice": 17.39,
+    "lowPrice": 9.99,
+    "midPrice": 12.66,
+    "highPrice": 15.33,
     "marketPrice": 3.3,
     "directLowPrice": null,
     "name": "Boodle",
@@ -1587,7 +1587,7 @@
   },
   "OP03-OP03-056 normal": {
     "lowPrice": 7.0,
-    "midPrice": 9.66,
+    "midPrice": 9.9,
     "highPrice": 25.0,
     "marketPrice": 8.8,
     "directLowPrice": null,
@@ -1769,7 +1769,7 @@
   },
   "OP03-OP03-088 normal": {
     "lowPrice": 1.99,
-    "midPrice": 2.81,
+    "midPrice": 2.78,
     "highPrice": 19.23,
     "marketPrice": 2.44,
     "directLowPrice": null,
@@ -1794,8 +1794,8 @@
     "groupId": 23232
   },
   "OP03-OP03-093 normal": {
-    "lowPrice": 0.75,
-    "midPrice": 1.84,
+    "lowPrice": 1.13,
+    "midPrice": 2.43,
     "highPrice": 5.9,
     "marketPrice": 1.23,
     "directLowPrice": null,
@@ -1820,7 +1820,7 @@
     "groupId": 23232
   },
   "OP03-OP03-094 normal": {
-    "lowPrice": 6.0,
+    "lowPrice": 6.23,
     "midPrice": 7.92,
     "highPrice": 55.0,
     "marketPrice": 7.57,
@@ -1846,9 +1846,9 @@
     "groupId": 23232
   },
   "OP03-OP03-096 normal": {
-    "lowPrice": 10.9,
-    "midPrice": 13.88,
-    "highPrice": 14.49,
+    "lowPrice": 14.49,
+    "midPrice": 15.02,
+    "highPrice": 15.55,
     "marketPrice": 9.29,
     "directLowPrice": null,
     "name": "Tempest Kick Sky Slicer",
@@ -1950,8 +1950,8 @@
     "groupId": 23232
   },
   "OP03-OP03-117 normal": {
-    "lowPrice": 2.4,
-    "midPrice": 2.75,
+    "lowPrice": 1.03,
+    "midPrice": 2.49,
     "highPrice": 64.99,
     "marketPrice": 1.03,
     "directLowPrice": null,

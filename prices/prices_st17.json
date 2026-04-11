@@ -1,7 +1,7 @@
 {
   "OP01-OP01-060 normal": {
     "lowPrice": 0.5,
-    "midPrice": 1.78,
+    "midPrice": 1.8,
     "highPrice": 50.0,
     "marketPrice": 1.26,
     "directLowPrice": null,
@@ -53,7 +53,7 @@
   },
   "OP02-OP02-054 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.18,
+    "midPrice": 0.19,
     "highPrice": 1.29,
     "marketPrice": 0.05,
     "directLowPrice": null,
@@ -156,8 +156,8 @@
     "groupId": 23492
   },
   "ST17-ST17-002 normal": {
-    "lowPrice": 0.8,
-    "midPrice": 1.5,
+    "lowPrice": 0.89,
+    "midPrice": 1.44,
     "highPrice": 25.0,
     "marketPrice": 1.23,
     "directLowPrice": null,
@@ -185,7 +185,7 @@
     "lowPrice": 0.25,
     "midPrice": 0.35,
     "highPrice": 10.0,
-    "marketPrice": 0.28,
+    "marketPrice": 0.29,
     "directLowPrice": null,
     "name": "Buggy",
     "rarity": "C",
@@ -208,10 +208,10 @@
     "groupId": 23492
   },
   "ST17-ST17-004 normal": {
-    "lowPrice": 6.71,
-    "midPrice": 11.0,
+    "lowPrice": 5.0,
+    "midPrice": 10.99,
     "highPrice": 50.0,
-    "marketPrice": 8.73,
+    "marketPrice": 7.94,
     "directLowPrice": null,
     "name": "Boa Hancock",
     "rarity": "SR",
@@ -235,7 +235,7 @@
   },
   "ST17-ST17-005 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.31,
+    "midPrice": 0.3,
     "highPrice": 5.0,
     "marketPrice": 0.29,
     "directLowPrice": null,

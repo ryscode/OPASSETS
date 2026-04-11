@@ -1,7 +1,7 @@
 {
   "OP09-OP09-003 normal": {
     "lowPrice": 0.18,
-    "midPrice": 0.49,
+    "midPrice": 0.5,
     "highPrice": 2.0,
     "marketPrice": 0.3,
     "directLowPrice": null,
@@ -53,7 +53,7 @@
   },
   "OP09-OP09-007 normal": {
     "lowPrice": 0.22,
-    "midPrice": 0.43,
+    "midPrice": 0.44,
     "highPrice": 4.0,
     "marketPrice": 0.39,
     "directLowPrice": null,
@@ -79,7 +79,7 @@
   },
   "OP09-OP09-010 normal": {
     "lowPrice": 0.09,
-    "midPrice": 0.36,
+    "midPrice": 0.37,
     "highPrice": 1.5,
     "marketPrice": 0.18,
     "directLowPrice": null,
@@ -105,7 +105,7 @@
   },
   "OP09-OP09-012 normal": {
     "lowPrice": 0.02,
-    "midPrice": 0.32,
+    "midPrice": 0.35,
     "highPrice": 1.99,
     "marketPrice": 0.21,
     "directLowPrice": null,
@@ -185,7 +185,7 @@
     "lowPrice": 0.33,
     "midPrice": 1.6,
     "highPrice": 12.0,
-    "marketPrice": 1.25,
+    "marketPrice": 1.22,
     "directLowPrice": null,
     "name": "Red Force",
     "rarity": "C",
@@ -208,8 +208,8 @@
     "groupId": 23590
   },
   "OP09-OP09-024 normal": {
-    "lowPrice": 0.25,
-    "midPrice": 0.99,
+    "lowPrice": 0.68,
+    "midPrice": 1.0,
     "highPrice": 9.75,
     "marketPrice": 0.68,
     "directLowPrice": null,
@@ -313,7 +313,7 @@
   },
   "OP09-OP09-036 normal": {
     "lowPrice": 8.79,
-    "midPrice": 10.99,
+    "midPrice": 10.92,
     "highPrice": 49.99,
     "marketPrice": 10.89,
     "directLowPrice": null,
@@ -338,8 +338,8 @@
     "groupId": 23590
   },
   "OP09-OP09-038 normal": {
-    "lowPrice": 1.18,
-    "midPrice": 6.0,
+    "lowPrice": 1.28,
+    "midPrice": 4.99,
     "highPrice": 7.19,
     "marketPrice": 1.12,
     "directLowPrice": null,
@@ -365,7 +365,7 @@
   },
   "OP09-OP09-041 normal": {
     "lowPrice": 0.25,
-    "midPrice": 0.55,
+    "midPrice": 0.62,
     "highPrice": 2.98,
     "marketPrice": 0.51,
     "directLowPrice": null,
@@ -443,7 +443,7 @@
   },
   "OP09-OP09-052 normal": {
     "lowPrice": 0.15,
-    "midPrice": 0.42,
+    "midPrice": 0.45,
     "highPrice": 5.0,
     "marketPrice": 0.21,
     "directLowPrice": null,
@@ -469,7 +469,7 @@
   },
   "OP09-OP09-054 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.75,
+    "midPrice": 0.8,
     "highPrice": 2.68,
     "marketPrice": 0.68,
     "directLowPrice": null,
@@ -521,7 +521,7 @@
   },
   "OP09-OP09-058 normal": {
     "lowPrice": 0.37,
-    "midPrice": 0.62,
+    "midPrice": 0.63,
     "highPrice": 4.01,
     "marketPrice": 0.55,
     "directLowPrice": null,
@@ -547,9 +547,9 @@
   },
   "OP09-OP09-060 normal": {
     "lowPrice": 0.75,
-    "midPrice": 1.74,
+    "midPrice": 1.75,
     "highPrice": 4.0,
-    "marketPrice": 1.5,
+    "marketPrice": 1.49,
     "directLowPrice": null,
     "name": "Emptee Bluffs Island",
     "rarity": "C",
@@ -573,7 +573,7 @@
   },
   "OP09-OP09-063 normal": {
     "lowPrice": 0.63,
-    "midPrice": 0.94,
+    "midPrice": 0.93,
     "highPrice": 8.0,
     "marketPrice": 0.89,
     "directLowPrice": null,
@@ -625,9 +625,9 @@
   },
   "OP09-OP09-071 normal": {
     "lowPrice": 9.99,
-    "midPrice": 15.72,
+    "midPrice": 13.95,
     "highPrice": 999.99,
-    "marketPrice": 8.4,
+    "marketPrice": 8.49,
     "directLowPrice": null,
     "name": "Nico Robin (071)",
     "rarity": "C",
@@ -651,9 +651,9 @@
   },
   "OP09-OP09-073 normal": {
     "lowPrice": 1.5,
-    "midPrice": 2.05,
-    "highPrice": 5.0,
-    "marketPrice": 1.81,
+    "midPrice": 2.03,
+    "highPrice": 4.0,
+    "marketPrice": 1.86,
     "directLowPrice": null,
     "name": "Brook (073)",
     "rarity": "C",
@@ -807,7 +807,7 @@
   },
   "OP09-OP09-087 normal": {
     "lowPrice": 0.5,
-    "midPrice": 0.77,
+    "midPrice": 0.88,
     "highPrice": 4.98,
     "marketPrice": 0.61,
     "directLowPrice": null,
@@ -885,7 +885,7 @@
   },
   "OP09-OP09-094 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.4,
+    "midPrice": 0.41,
     "highPrice": 5.07,
     "marketPrice": 0.16,
     "directLowPrice": null,
@@ -913,7 +913,7 @@
     "lowPrice": 0.65,
     "midPrice": 2.92,
     "highPrice": 12.99,
-    "marketPrice": 2.68,
+    "marketPrice": 2.61,
     "directLowPrice": null,
     "name": "Black Vortex",
     "rarity": "C",
@@ -939,7 +939,7 @@
     "lowPrice": 1.2,
     "midPrice": 2.75,
     "highPrice": 30.0,
-    "marketPrice": 1.62,
+    "marketPrice": 1.65,
     "directLowPrice": null,
     "name": "Fullalead",
     "rarity": "C",
@@ -1015,7 +1015,7 @@
   },
   "OP09-OP09-110 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.46,
+    "midPrice": 0.44,
     "highPrice": 1.99,
     "marketPrice": 0.35,
     "directLowPrice": null,
@@ -1041,7 +1041,7 @@
   },
   "OP09-OP09-111 normal": {
     "lowPrice": 0.49,
-    "midPrice": 1.15,
+    "midPrice": 1.4,
     "highPrice": 20.0,
     "marketPrice": 0.48,
     "directLowPrice": null,
@@ -1119,7 +1119,7 @@
   },
   "OP09-OP09-114 normal": {
     "lowPrice": 0.1,
-    "midPrice": 0.45,
+    "midPrice": 0.44,
     "highPrice": 1.99,
     "marketPrice": 0.19,
     "directLowPrice": null,
@@ -1197,7 +1197,7 @@
   },
   "OP09-OP09-011 normal": {
     "lowPrice": 0.9,
-    "midPrice": 1.21,
+    "midPrice": 1.23,
     "highPrice": 5.79,
     "marketPrice": 1.15,
     "directLowPrice": null,
@@ -1223,7 +1223,7 @@
   },
   "OP09-OP09-014 normal": {
     "lowPrice": 1.94,
-    "midPrice": 3.6,
+    "midPrice": 3.75,
     "highPrice": 20.0,
     "marketPrice": 3.42,
     "directLowPrice": null,
@@ -1275,7 +1275,7 @@
   },
   "OP09-OP09-018 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.64,
+    "midPrice": 0.65,
     "highPrice": 6.77,
     "marketPrice": 0.53,
     "directLowPrice": null,
@@ -1302,7 +1302,7 @@
   "OP09-OP09-025 normal": {
     "lowPrice": 0.5,
     "midPrice": 0.78,
-    "highPrice": 2.04,
+    "highPrice": 2.0,
     "marketPrice": 0.73,
     "directLowPrice": null,
     "name": "Crocodile (025)",
@@ -1353,9 +1353,9 @@
   },
   "OP09-OP09-030 normal": {
     "lowPrice": 2.0,
-    "midPrice": 3.47,
+    "midPrice": 4.68,
     "highPrice": 4.99,
-    "marketPrice": 2.1,
+    "marketPrice": 2.15,
     "directLowPrice": null,
     "name": "Trafalgar Law",
     "rarity": "UC",
@@ -1405,9 +1405,9 @@
   },
   "OP09-OP09-035 normal": {
     "lowPrice": 4.98,
-    "midPrice": 6.67,
+    "midPrice": 6.72,
     "highPrice": 13.0,
-    "marketPrice": 6.48,
+    "marketPrice": 6.56,
     "directLowPrice": null,
     "name": "Portgas.D.Ace",
     "rarity": "UC",
@@ -1433,7 +1433,7 @@
     "lowPrice": 0.5,
     "midPrice": 0.97,
     "highPrice": 9.99,
-    "marketPrice": 0.63,
+    "marketPrice": 0.64,
     "directLowPrice": null,
     "name": "Thunder Lance Flip Caliber Phoenix Shot",
     "rarity": "UC",
@@ -1508,8 +1508,8 @@
     "groupId": 23590
   },
   "OP09-OP09-045 normal": {
-    "lowPrice": 3.6,
-    "midPrice": 5.0,
+    "lowPrice": 3.58,
+    "midPrice": 4.99,
     "highPrice": 8.7,
     "marketPrice": 5.0,
     "directLowPrice": null,
@@ -1561,9 +1561,9 @@
   },
   "OP09-OP09-059 normal": {
     "lowPrice": 0.4,
-    "midPrice": 0.55,
+    "midPrice": 0.56,
     "highPrice": 5.0,
-    "marketPrice": 0.46,
+    "marketPrice": 0.47,
     "directLowPrice": null,
     "name": "Murder at the Steam Bath",
     "rarity": "UC",
@@ -1613,8 +1613,8 @@
   },
   "OP09-OP09-066 normal": {
     "lowPrice": 0.35,
-    "midPrice": 0.5,
-    "highPrice": 1.7,
+    "midPrice": 0.51,
+    "highPrice": 1.89,
     "marketPrice": 0.46,
     "directLowPrice": null,
     "name": "Jean Bart",
@@ -1639,7 +1639,7 @@
   },
   "OP09-OP09-068 normal": {
     "lowPrice": 4.51,
-    "midPrice": 5.59,
+    "midPrice": 5.58,
     "highPrice": 6.78,
     "marketPrice": 5.57,
     "directLowPrice": null,
@@ -1665,7 +1665,7 @@
   },
   "OP09-OP09-070 normal": {
     "lowPrice": 12.26,
-    "midPrice": 15.2,
+    "midPrice": 14.67,
     "highPrice": 50.0,
     "marketPrice": 14.67,
     "directLowPrice": null,
@@ -1691,9 +1691,9 @@
   },
   "OP09-OP09-075 normal": {
     "lowPrice": 0.7,
-    "midPrice": 0.99,
-    "highPrice": 2.9,
-    "marketPrice": 0.75,
+    "midPrice": 1.0,
+    "highPrice": 8.0,
+    "marketPrice": 0.76,
     "directLowPrice": null,
     "name": "Eustass\"Captain\"Kid",
     "rarity": "UC",
@@ -1717,9 +1717,9 @@
   },
   "OP09-OP09-077 normal": {
     "lowPrice": 1.35,
-    "midPrice": 1.89,
+    "midPrice": 1.94,
     "highPrice": 7.95,
-    "marketPrice": 1.76,
+    "marketPrice": 1.8,
     "directLowPrice": null,
     "name": "Gum-Gum Lightning",
     "rarity": "UC",
@@ -1769,9 +1769,9 @@
   },
   "OP09-OP09-088 normal": {
     "lowPrice": 1.2,
-    "midPrice": 2.3,
+    "midPrice": 2.31,
     "highPrice": 10.99,
-    "marketPrice": 2.01,
+    "marketPrice": 1.95,
     "directLowPrice": null,
     "name": "Shiryu",
     "rarity": "UC",
@@ -1795,7 +1795,7 @@
   },
   "OP09-OP09-089 normal": {
     "lowPrice": 2.9,
-    "midPrice": 3.73,
+    "midPrice": 3.66,
     "highPrice": 17.99,
     "marketPrice": 3.29,
     "directLowPrice": null,
@@ -1820,8 +1820,8 @@
     "groupId": 23590
   },
   "OP09-OP09-098 normal": {
-    "lowPrice": 2.0,
-    "midPrice": 3.6,
+    "lowPrice": 2.11,
+    "midPrice": 5.6,
     "highPrice": 22.99,
     "marketPrice": 2.11,
     "directLowPrice": null,
@@ -1847,9 +1847,9 @@
   },
   "OP09-OP09-100 normal": {
     "lowPrice": 2.8,
-    "midPrice": 4.02,
+    "midPrice": 4.01,
     "highPrice": 20.0,
-    "marketPrice": 3.83,
+    "marketPrice": 3.7,
     "directLowPrice": null,
     "name": "Karasu",
     "rarity": "UC",
@@ -1873,7 +1873,7 @@
   },
   "OP09-OP09-108 normal": {
     "lowPrice": 2.99,
-    "midPrice": 4.77,
+    "midPrice": 4.69,
     "highPrice": 20.0,
     "marketPrice": 4.6,
     "directLowPrice": null,
@@ -1927,7 +1927,7 @@
     "lowPrice": 0.25,
     "midPrice": 0.5,
     "highPrice": 1.99,
-    "marketPrice": 0.32,
+    "marketPrice": 0.33,
     "directLowPrice": null,
     "name": "Ice Block Partisan",
     "rarity": "UC",

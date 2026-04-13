@@ -1,9 +1,9 @@
 {
   "ST22-ST22-001 normal": {
     "lowPrice": 1.0,
-    "midPrice": 2.81,
+    "midPrice": 2.73,
     "highPrice": 12.0,
-    "marketPrice": 2.59,
+    "marketPrice": 2.53,
     "directLowPrice": null,
     "name": "Ace & Newgate",
     "rarity": "L",
@@ -26,10 +26,10 @@
     "groupId": 24304
   },
   "ST22-ST22-001 parallel": {
-    "lowPrice": 10.79,
-    "midPrice": 15.35,
+    "lowPrice": 12.0,
+    "midPrice": 15.99,
     "highPrice": 150.0,
-    "marketPrice": 12.19,
+    "marketPrice": 12.03,
     "directLowPrice": null,
     "name": "Ace & Newgate (Parallel)",
     "rarity": "L",
@@ -53,9 +53,9 @@
   },
   "ST22-ST22-002 normal": {
     "lowPrice": 1.0,
-    "midPrice": 2.63,
+    "midPrice": 2.65,
     "highPrice": 10.0,
-    "marketPrice": 2.25,
+    "marketPrice": 2.16,
     "directLowPrice": null,
     "name": "Izo",
     "rarity": "SR",
@@ -79,9 +79,9 @@
   },
   "ST22-ST22-002 parallel": {
     "lowPrice": 7.99,
-    "midPrice": 11.43,
+    "midPrice": 11.62,
     "highPrice": 32.0,
-    "marketPrice": 9.87,
+    "marketPrice": 9.96,
     "directLowPrice": null,
     "name": "Izo (Parallel)",
     "rarity": "SR",
@@ -131,7 +131,7 @@
   },
   "ST22-ST22-003 parallel": {
     "lowPrice": 2.5,
-    "midPrice": 3.6,
+    "midPrice": 3.58,
     "highPrice": 35.0,
     "marketPrice": 3.09,
     "directLowPrice": null,
@@ -182,10 +182,10 @@
     "groupId": 24304
   },
   "ST22-ST22-004 parallel": {
-    "lowPrice": 0.25,
-    "midPrice": 0.47,
+    "lowPrice": 0.24,
+    "midPrice": 0.46,
     "highPrice": 3.31,
-    "marketPrice": 0.31,
+    "marketPrice": 0.34,
     "directLowPrice": null,
     "name": "Elmy (Parallel)",
     "rarity": "C",
@@ -209,9 +209,9 @@
   },
   "ST22-ST22-005 normal": {
     "lowPrice": 0.01,
-    "midPrice": 0.71,
+    "midPrice": 0.66,
     "highPrice": 10.0,
-    "marketPrice": 0.35,
+    "marketPrice": 0.36,
     "directLowPrice": null,
     "name": "Kouzuki Oden",
     "rarity": "SR",
@@ -234,10 +234,10 @@
     "groupId": 24304
   },
   "ST22-ST22-005 parallel": {
-    "lowPrice": 4.01,
-    "midPrice": 8.99,
+    "lowPrice": 4.1,
+    "midPrice": 8.35,
     "highPrice": 27.15,
-    "marketPrice": 4.1,
+    "marketPrice": 4.13,
     "directLowPrice": null,
     "name": "Kouzuki Oden (Parallel)",
     "rarity": "SR",
@@ -260,7 +260,7 @@
     "groupId": 24304
   },
   "ST22-ST22-006 normal": {
-    "lowPrice": 0.02,
+    "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 3.07,
     "marketPrice": 0.07,
@@ -287,9 +287,9 @@
   },
   "ST22-ST22-006 parallel": {
     "lowPrice": 1.17,
-    "midPrice": 1.89,
+    "midPrice": 1.96,
     "highPrice": 6.64,
-    "marketPrice": 1.57,
+    "marketPrice": 1.6,
     "directLowPrice": null,
     "name": "Jozu (Parallel)",
     "rarity": "C",
@@ -339,9 +339,9 @@
   },
   "ST22-ST22-007 parallel": {
     "lowPrice": 0.3,
-    "midPrice": 0.92,
+    "midPrice": 0.9,
     "highPrice": 24.99,
-    "marketPrice": 0.54,
+    "marketPrice": 0.55,
     "directLowPrice": null,
     "name": "Squard (Parallel)",
     "rarity": "C",
@@ -393,7 +393,7 @@
     "lowPrice": 0.2,
     "midPrice": 0.5,
     "highPrice": 24.99,
-    "marketPrice": 0.33,
+    "marketPrice": 0.36,
     "directLowPrice": null,
     "name": "Decalvan Brothers (Parallel)",
     "rarity": "C",
@@ -443,7 +443,7 @@
   },
   "ST22-ST22-009 parallel": {
     "lowPrice": 0.99,
-    "midPrice": 1.82,
+    "midPrice": 1.77,
     "highPrice": 10.0,
     "marketPrice": 1.19,
     "directLowPrice": null,
@@ -468,10 +468,10 @@
     "groupId": 24304
   },
   "ST22-ST22-010 normal": {
-    "lowPrice": 0.1,
+    "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 1.43,
-    "marketPrice": 0.18,
+    "marketPrice": 0.17,
     "directLowPrice": null,
     "name": "Portgas.D.Ace",
     "rarity": "C",
@@ -495,7 +495,7 @@
   },
   "ST22-ST22-010 parallel": {
     "lowPrice": 5.0,
-    "midPrice": 7.21,
+    "midPrice": 7.18,
     "highPrice": 10.0,
     "marketPrice": 5.92,
     "directLowPrice": null,
@@ -520,7 +520,7 @@
     "groupId": 24304
   },
   "ST22-ST22-011 normal": {
-    "lowPrice": 0.1,
+    "lowPrice": 0.05,
     "midPrice": 0.25,
     "highPrice": 1.41,
     "marketPrice": 0.16,
@@ -549,7 +549,7 @@
     "lowPrice": 1.8,
     "midPrice": 3.0,
     "highPrice": 10.0,
-    "marketPrice": 2.15,
+    "marketPrice": 2.14,
     "directLowPrice": null,
     "name": "Whitey Bay (Parallel)",
     "rarity": "C",
@@ -572,7 +572,7 @@
     "groupId": 24304
   },
   "ST22-ST22-012 normal": {
-    "lowPrice": 0.02,
+    "lowPrice": 0.01,
     "midPrice": 0.1,
     "highPrice": 1.31,
     "marketPrice": 0.07,
@@ -598,7 +598,7 @@
     "groupId": 24304
   },
   "ST22-ST22-012 parallel": {
-    "lowPrice": 1.48,
+    "lowPrice": 1.98,
     "midPrice": 3.0,
     "highPrice": 15.0,
     "marketPrice": 2.25,
@@ -651,7 +651,7 @@
   },
   "ST22-ST22-013 parallel": {
     "lowPrice": 0.2,
-    "midPrice": 0.6,
+    "midPrice": 0.59,
     "highPrice": 3.9,
     "marketPrice": 0.42,
     "directLowPrice": null,
@@ -731,7 +731,7 @@
     "lowPrice": 0.25,
     "midPrice": 0.5,
     "highPrice": 3.0,
-    "marketPrice": 0.51,
+    "marketPrice": 0.5,
     "directLowPrice": null,
     "name": "I Am Whitebeard!!",
     "rarity": "C",
@@ -754,7 +754,7 @@
     "groupId": 24304
   },
   "ST22-ST22-016 normal": {
-    "lowPrice": 0.07,
+    "lowPrice": 0.05,
     "midPrice": 0.2,
     "highPrice": 1.69,
     "marketPrice": 0.14,
@@ -780,7 +780,7 @@
     "groupId": 24304
   },
   "ST22-ST22-017 normal": {
-    "lowPrice": 0.04,
+    "lowPrice": 0.02,
     "midPrice": 0.18,
     "highPrice": 1.33,
     "marketPrice": 0.07,

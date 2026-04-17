@@ -1,9 +1,9 @@
 {
   "ST03-ST03-001 normal": {
     "lowPrice": 0.5,
-    "midPrice": 3.9,
+    "midPrice": 3.92,
     "highPrice": 19.99,
-    "marketPrice": 1.59,
+    "marketPrice": 1.5,
     "directLowPrice": null,
     "name": "Crocodile (001)",
     "rarity": "L",
@@ -185,7 +185,7 @@
     "lowPrice": 0.01,
     "midPrice": 0.18,
     "highPrice": 2.0,
-    "marketPrice": 0.13,
+    "marketPrice": 0.14,
     "directLowPrice": null,
     "name": "Trafalgar Law",
     "rarity": "C",
@@ -208,10 +208,10 @@
     "groupId": 3192
   },
   "ST03-ST03-009 normal": {
-    "lowPrice": 0.99,
-    "midPrice": 2.82,
+    "lowPrice": 1.0,
+    "midPrice": 2.78,
     "highPrice": 10.0,
-    "marketPrice": 2.14,
+    "marketPrice": 2.0,
     "directLowPrice": null,
     "name": "Donquixote Doflamingo",
     "rarity": "SR",
@@ -235,7 +235,7 @@
   },
   "ST03-ST03-010 normal": {
     "lowPrice": 0.05,
-    "midPrice": 0.22,
+    "midPrice": 0.21,
     "highPrice": 1.99,
     "marketPrice": 0.11,
     "directLowPrice": null,
@@ -287,7 +287,7 @@
   },
   "ST03-ST03-012 normal": {
     "lowPrice": 0.06,
-    "midPrice": 0.25,
+    "midPrice": 0.24,
     "highPrice": 3.13,
     "marketPrice": 0.13,
     "directLowPrice": null,
@@ -315,7 +315,7 @@
     "lowPrice": 0.06,
     "midPrice": 0.25,
     "highPrice": 5.0,
-    "marketPrice": 0.24,
+    "marketPrice": 0.25,
     "directLowPrice": null,
     "name": "Boa Hancock",
     "rarity": "C",
@@ -364,8 +364,8 @@
     "groupId": 3192
   },
   "ST03-ST03-015 normal": {
-    "lowPrice": 1.49,
-    "midPrice": 2.99,
+    "lowPrice": 1.45,
+    "midPrice": 2.9,
     "highPrice": 5.71,
     "marketPrice": 2.9,
     "directLowPrice": null,

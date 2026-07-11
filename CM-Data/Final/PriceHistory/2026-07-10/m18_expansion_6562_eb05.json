@@ -1,0 +1,57 @@
+{
+  "date": "2026-07-10",
+  "market": 18,
+  "expansionId": 6562,
+  "expansionName": "EB05",
+  "count": 3,
+  "priceGuides": [
+    {
+      "idProduct": 884760,
+      "idCategory": 1622,
+      "avg": null,
+      "low": null,
+      "trend": null,
+      "avg1": null,
+      "avg7": null,
+      "avg30": null,
+      "productName": "EB05 Booster",
+      "productCategoryName": "One Piece Booster"
+    },
+    {
+      "idProduct": 884761,
+      "idCategory": 1624,
+      "avg": 191.19,
+      "low": 197.99,
+      "trend": 189.46,
+      "avg1": null,
+      "avg7": null,
+      "avg30": null,
+      "avg-foil": null,
+      "low-foil": null,
+      "trend-foil": 0,
+      "avg1-foil": null,
+      "avg7-foil": null,
+      "avg30-foil": null,
+      "productName": "EB05 Booster Box",
+      "productCategoryName": "One Piece Booster Boxes"
+    },
+    {
+      "idProduct": 884762,
+      "idCategory": 1624,
+      "avg": 2349.99,
+      "low": 2400,
+      "trend": 2349.99,
+      "avg1": null,
+      "avg7": null,
+      "avg30": null,
+      "avg-foil": null,
+      "low-foil": null,
+      "trend-foil": 0,
+      "avg1-foil": null,
+      "avg7-foil": null,
+      "avg30-foil": null,
+      "productName": "EB05 Booster Box Case",
+      "productCategoryName": "One Piece Booster Boxes"
+    }
+  ]
+}
